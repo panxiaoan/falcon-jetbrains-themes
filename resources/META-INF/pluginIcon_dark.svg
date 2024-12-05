@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg t="1731999703854" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="7035" width="128" height="128">
+    <path d="M512 512m-512 0a512 512 0 1 0 1024 0 512 512 0 1 0-1024 0Z" fill="#FAFAFA" p-id="7036"></path>
+    <path d="M316.188444 398.222222l197.654756 236.964978L708.892444 398.222222H921.6L795.374933 573.019022l-192.762311 62.168178 54.158222 57.560178L513.831822 750.933333l-141.710222-58.185955 50.210133-57.571556-192.603022-62.1568L102.4 398.222222h213.788444z m246.010312 134.280534l-48.287289 64.113777-52.371911-64.113777h100.6592z" fill="url(#grad1)" p-id="7037"></path>
+    <defs>
+        <!-- 定义一个线性渐变 -->
+        <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" style="stop-color:#1a81fa;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#8854fc;stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+</svg>

@@ -1,0 +1,35 @@
+<idea-plugin>
+    <id>falcon-jetbrains-themes</id>
+    <version>1.0.0</version>
+    <name>Falcon Relax Eyes Theme</name>
+    <category>UI</category>
+
+    <vendor email="xiaoan.pan@qq.com" url="http://www.panxiaoan.com">Falcon</vendor>
+
+    <idea-version since-build="232"/>
+
+    <description><![CDATA[
+        If you work in a bright environment for long periods of time, a light-colored theme is recommended.
+        <br/><br/>
+        Falcon Relax Eyes theme might be a better choice for you.
+        <br/><br/>
+        Keep It Simple and Stupid.
+    ]]>
+    </description>
+
+    <change-notes><![CDATA[
+        <b>1.0.0(241204)</b>
+        <ul>
+            <li>
+                Initial release of the theme.
+            </li>
+        </ul>
+    ]]>
+    </change-notes>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="relax-light" path="/theme/relax-light.theme.json"/>
+    </extensions>
+</idea-plugin>

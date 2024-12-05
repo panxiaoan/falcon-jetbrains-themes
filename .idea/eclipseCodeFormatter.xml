@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="projectSpecificProfile">
+      <ProjectSpecificProfile>
+        <option name="formatter" value="ECLIPSE" />
+        <option name="importOrder" value="java;javax;jakarta;org;;com;io;\#" />
+        <option name="pathToConfigFileJava" value="$USER_HOME$/work/code/idea-open/p3c/p3c-formatter/eclipse-codestyle.xml" />
+        <option name="selectedJavaProfile" value="P3C-CodeStyle" />
+      </ProjectSpecificProfile>
+    </option>
+  </component>
+</project>
