@@ -4,19 +4,19 @@
   "author": "Xiaoan Pan",
   "editorScheme": "/theme/relax-light.xml",
   "colors": {
-    "borderColor": "#f1f4f5",
-    "separatorColor": "#f1f4f5",
-    "editorBackground": "#fafeff",
-    "menuBackground": "#fafeff",
-    "sidePanelBackground": "#fafeff",
-    "headerBackground": "#fafeff",
-    "inputBackground": "#f1f4f5",
-    "selectionBackground": "#e4ecef",
-    "selectionInactiveBackground": "#e4ecef",
-    "tabColor": "#ffffff",
-    "lineColor": "#009cad",
-    "iconBackground": "#009cad",
-    "tabHoverBackground": "#d5e2e8",
+    "borderColor": "#D0EBEA",
+    "separatorColor": "#D0EBEA",
+    "editorBackground": "#E0F2F1",
+    "menuBackground": "#E0F2F1",
+    "sidePanelBackground": "#E0F2F1",
+    "headerBackground": "#E0F2F1",
+    "inputBackground": "#D0EBEA",
+    "selectionBackground": "#f0ffff",
+    "selectionInactiveBackground": "#f0ffff",
+    "tabColor": "#f0ffff",
+    "lineColor": "#26A69A",
+    "iconBackground": "#26A69A",
+    "tabHoverBackground": "#80CBC4",
     "searchMatchBackground": "#f6d4c8",
     "accentColor": "#1a536e",
     "hoverBackground": "#b6ccd8",
@@ -30,7 +30,7 @@
   },
   "ui": {
     "*": {
-      "arc": "7",
+      "arc": "8",
       "background": "menuBackground",
       "selectionForeground": "primaryForeground",
       "selectionInactiveForeground": "primaryForeground",
@@ -50,6 +50,23 @@
       "hoverForeground": "primaryForeground",
       "hoverBackground": "tabHoverBackground",
       "separatorColor": "borderColor"
+    },
+    "MainToolbar": {
+      "Dropdown": {
+        "foreground": "primaryForeground",
+        "background": "menuBackground",
+        "hoverBackground": "tabHoverBackground",
+        "transparentHoverBackground": "#FFFFFF1A",
+        "pressedBackground": "menuBackground",
+        "maxWidth": 350
+      }
+    },
+    "RunWidget": {
+      "iconColor": "#A8ADBD"
+    },
+    "MemoryIndicator": {
+      "allocatedBackground": "selectionBackground",
+      "usedBackground": "#cdfaf6"
     },
     "Borders": {
       "color": "borderColor",
@@ -198,14 +215,6 @@
       "Header": {
         "activeBackground": "headerBackground",
         "inactiveBackground": "headerBackground"
-      }
-    },
-    "ScrollBar": {
-      "Mac": {
-        "hoverThumbColor": "selectionBackground",
-        "Transparent": {
-          "hoverThumbColor": "selectionBackground"
-        }
       }
     },
     "SearchEverywhere": {
