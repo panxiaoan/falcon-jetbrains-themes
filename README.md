@@ -8,13 +8,15 @@ Falcon Relax Eyes theme might be a better choice for you.
 <br/><br/>
 Keep It Simple and Stupid.
 
+![Screenshot](./assets/screenshot-1.jpg)
+
 ## Relax Light
 
-![Screenshot](./assets/screenshot-1.jpg)
+![Screenshot](./assets/screenshot-2.jpg)
 
 ## Relax Light Contrast
 
-![Screenshot](./assets/screenshot-2.jpg)
+![Screenshot](./assets/screenshot-3.jpg)
 
 ## License
 
