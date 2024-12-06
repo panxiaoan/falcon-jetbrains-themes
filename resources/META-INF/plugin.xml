@@ -6,7 +6,7 @@
 
     <vendor email="xiaoan.pan@qq.com" url="http://www.panxiaoan.com">Falcon</vendor>
 
-    <idea-version since-build="232"/>
+    <idea-version since-build="232" until-build="243.*"/>
 
     <description><![CDATA[
         If you work in a bright environment for long periods of time, a light-colored theme is recommended.
