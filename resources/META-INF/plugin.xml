@@ -31,5 +31,6 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="relax-light" path="/theme/relax-light.theme.json"/>
+        <themeProvider id="relax-light-contrast" path="/theme/relax-light-contrast.theme.json"/>
     </extensions>
 </idea-plugin>
