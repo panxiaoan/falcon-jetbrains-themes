@@ -8,6 +8,10 @@ Falcon Relax Eyes theme might be a better choice for you.
 <br/><br/>
 Keep It Simple and Stupid.
 
+## Source Code
+
+[Gitee](https://gitee.com/panxiaoan/falcon-jetbrains-themes)
+
 ## Relax Grey Light
 
 ![Screenshot](./assets/screenshot-4.jpg)
