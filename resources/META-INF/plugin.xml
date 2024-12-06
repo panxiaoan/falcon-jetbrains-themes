@@ -32,6 +32,7 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="relax-grey-light" path="/theme/relax-grey-light.theme.json"/>
         <themeProvider id="relax-light" path="/theme/relax-light.theme.json"/>
         <themeProvider id="relax-light-contrast" path="/theme/relax-light-contrast.theme.json"/>
     </extensions>
