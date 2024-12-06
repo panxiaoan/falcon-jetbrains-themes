@@ -12,6 +12,12 @@
         <option name="DOCUMENTATION_COLOR" value="fbfeff"/>
         <option name="LOOKUP_COLOR" value="fbfeff"/>
 
+        <option name="ScrollBar.background" value="fbfeff"/>
+        <option name="ScrollBar.Mac.thumbColor" value="f1f4f5"/>
+        <option name="ScrollBar.Mac.hoverThumbColor" value="d5e2e8"/>
+        <option name="ScrollBar.Mac.thumbBorderColor" value="f1f4f5"/>
+        <option name="ScrollBar.Mac.hoverThumbBorderColor" value="d5e2e8"/>
+
         <option name="ADDED_LINES_COLOR" value="7fc784"/>
         <option name="ANNOTATIONS_COLOR" value="5a5d6b"/>
         <option name="ANNOTATIONS_LAST_COMMIT_COLOR" value="0"/>

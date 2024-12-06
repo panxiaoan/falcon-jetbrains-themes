@@ -45,6 +45,17 @@
       "Yellow": "#F2FCF3",
       "Green": "#F0FFFF"
     },
+    "ScrollBar": {
+      "Mac": {
+        "thumbColor": "borderColor",
+        "hoverThumbColor": "selectionBackground",
+        "thumbBorderColor": "borderColor",
+        "hoverThumbBorderColor": "selectionBackground",
+        "Transparent": {
+          "hoverThumbColor": "borderColor"
+        }
+      }
+    },
     "MainWindow.Tab": {
       "selectedForeground": "#8f001a",
       "selectedBackground": "tabColor",

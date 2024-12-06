@@ -45,6 +45,17 @@
       "Yellow": "#F7F8FA",
       "Green": "#F2FCF3"
     },
+    "ScrollBar": {
+      "Mac": {
+        "thumbColor": "borderColor",
+        "hoverThumbColor": "hoverBackground",
+        "thumbBorderColor": "borderColor",
+        "hoverThumbBorderColor": "hoverBackground",
+        "Transparent": {
+          "hoverThumbColor": "hoverBackground"
+        }
+      }
+    },
     "MainWindow.Tab": {
       "selectedForeground": "#8f001a",
       "selectedBackground": "tabColor",
@@ -210,14 +221,6 @@
       "Header": {
         "activeBackground": "headerBackground",
         "inactiveBackground": "headerBackground"
-      }
-    },
-    "ScrollBar": {
-      "Mac": {
-        "hoverThumbColor": "selectionBackground",
-        "Transparent": {
-          "hoverThumbColor": "selectionBackground"
-        }
       }
     },
     "SearchEverywhere": {
