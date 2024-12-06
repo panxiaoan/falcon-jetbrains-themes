@@ -18,11 +18,13 @@
     </description>
 
     <change-notes><![CDATA[
+        <b>1.0.1(241206)</b>
+        <ul>
+            <li>Added the Relax Light Contrast theme</li>
+        </ul>
         <b>1.0.0(241204)</b>
         <ul>
-            <li>
-                Initial release of the theme.
-            </li>
+            <li>Initial release of the theme.</li>
         </ul>
     ]]>
     </change-notes>
