@@ -38,7 +38,7 @@
         <option name="NOTIFICATION_BACKGROUND" value="fff8e3"/>
         <option name="RIGHT_MARGIN_COLOR" value="f1f4f5"/>
         <option name="SELECTED_INDENT_GUIDE" value="aeb3c2"/>
-        <option name="SELECTION_BACKGROUND" value="a6d2ff" deuteranopia="5974AB" protanopia="5974AB"/>
+        <option name="SELECTION_BACKGROUND" value="c9dafb" deuteranopia="5974AB" protanopia="5974AB"/>
         <option name="SELECTION_FOREGROUND" value="" deuteranopia="ffffff" protanopia="ffffff"/>
         <option name="TEARLINE_COLOR" value="d4d4d4"/>
         <option name="VCS_ANNOTATIONS_COLOR_1" value="a1bef7"/>
