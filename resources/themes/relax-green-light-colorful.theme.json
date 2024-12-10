@@ -1,19 +1,19 @@
 {
-  "name": "Relax Light Contrast",
+  "name": "Relax Green Light Colorful",
   "dark": false,
   "author": "Xiaoan Pan",
-  "editorScheme": "/theme/relax-light.xml",
+  "editorScheme": "/themes/relax-green-light-colorful.xml",
   "colors": {
     "borderColor": "#c6e1e0",
     "separatorColor": "#c6e1e0",
     "editorBackground": "#E0F2F1",
-    "menuBackground": "#D0EBEA",
-    "sidePanelBackground": "#D0EBEA",
-    "headerBackground": "#D0EBEA",
-    "inputBackground": "#D0EBEA",
+    "menuBackground": "#E0F2F1",
+    "sidePanelBackground": "#E0F2F1",
+    "headerBackground": "#E0F2F1",
+    "inputBackground": "#c6e1e0",
     "selectionBackground": "#F0FFFF",
     "selectionInactiveBackground": "#F0FFFF",
-    "tabColor": "#E0F2F1",
+    "tabColor": "#F0FFFF",
     "lineColor": "#26A69A",
     "iconBackground": "#26A69A",
     "tabHoverBackground": "#80CBC4",
@@ -42,8 +42,8 @@
       "separatorColor": "separatorColor"
     },
     "FileColor": {
-      "Yellow": "borderColor",
-      "Green": "editorBackground"
+      "Yellow": "#F2FCF3",
+      "Green": "#F0FFFF"
     },
     "ScrollBar": {
       "Mac": {
@@ -100,6 +100,10 @@
         "focusColor": "lineColor",
         "focusedBorderColor": "lineColor"
       }
+    },
+    "Counter": {
+      "foreground": "primaryBackground",
+      "background": "#2fc864"
     },
     "ComboBox": {
       "modifiedItemForeground": "accentColor",
@@ -263,7 +267,7 @@
       "background": "editorBackground"
     },
     "ToggleButton": {
-      "onBackground": "lineColor",
+      "onBackground": "50fa7b",
       "onForeground": "hoverBackground",
       "offBackground": "selectionBackground",
       "offForeground": "hoverBackground",

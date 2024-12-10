@@ -1,4 +1,4 @@
-<scheme name="Relax Light" version="142" parent_scheme="Default">
+<scheme name="Relax Green Light" version="142" parent_scheme="Default">
     <metaInfo>
         <property name="created">2024-12-05</property>
         <property name="ide">idea</property>
@@ -28,15 +28,15 @@
         <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="7fc784"/>
         <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="767a8a"/>
         <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="88adf7"/>
-        <option name="INDENT_GUIDE" value="ebecf0"/>
+        <option name="INDENT_GUIDE" value="c6e1e0"/>
         <option name="INFORMATION_HINT" value="ffffff"/>
         <option name="LINE_NUMBERS_COLOR" value="aeb3c2"/>
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="767a8a"/>
         <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="62b3b3"/>
-        <option name="METHOD_SEPARATORS_COLOR" value="dfe1e5"/>
+        <option name="METHOD_SEPARATORS_COLOR" value="c6e1e0"/>
         <option name="MODIFIED_LINES_COLOR" value="88adf7" deuteranopia="9ca9bf" protanopia="9ca9bf"/>
         <option name="NOTIFICATION_BACKGROUND" value="fff8e3"/>
-        <option name="RIGHT_MARGIN_COLOR" value="ebecf0"/>
+        <option name="RIGHT_MARGIN_COLOR" value="c6e1e0"/>
         <option name="SELECTED_INDENT_GUIDE" value="aeb3c2"/>
         <option name="SELECTION_BACKGROUND" value="a6d2ff" deuteranopia="5974AB" protanopia="5974AB"/>
         <option name="SELECTION_FOREGROUND" value="" deuteranopia="ffffff" protanopia="ffffff"/>
@@ -458,9 +458,10 @@
         </option>
         <option name="WARNING_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="fcf4d4" deuteranopia="fff0a6" protanopia="fff0a6"/>
-                <option name="ERROR_STRIPE_COLOR" value="f2bf57" deuteranopia="ffd400" protanopia="ffd400"/>
+                <option name="BACKGROUND" value="f8961e" deuteranopia="fff0a6" protanopia="fff0a6"/>
+                <option name="ERROR_STRIPE_COLOR" value="ff79c6" deuteranopia="ffd400" protanopia="ffd400"/>
                 <option name="EFFECT_TYPE" value="1"/>
+                <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
         <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">

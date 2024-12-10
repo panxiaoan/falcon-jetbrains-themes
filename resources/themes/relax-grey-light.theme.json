@@ -2,7 +2,7 @@
   "name": "Relax Grey Light",
   "dark": false,
   "author": "Xiaoan Pan",
-  "editorScheme": "/theme/relax-grey-light.xml",
+  "editorScheme": "/themes/relax-grey-light.xml",
   "colors": {
     "borderColor": "#f1f4f5",
     "separatorColor": "#f1f4f5",
@@ -100,6 +100,10 @@
         "focusColor": "lineColor",
         "focusedBorderColor": "lineColor"
       }
+    },
+    "Counter": {
+      "foreground": "primaryBackground",
+      "background": "#2fc864"
     },
     "ComboBox": {
       "modifiedItemForeground": "accentColor",
