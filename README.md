@@ -16,7 +16,8 @@ Falcon Relax Eyes theme might be a better choice for you.
 
 ## Source Code
 
-[Gitee](https://gitee.com/panxiaoan/falcon-jetbrains-themes)
+1. [Gitee](https://gitee.com/panxiaoan/falcon-jetbrains-themes)
+2. [Github](https://github.com/panxiaoan/falcon-jetbrains-themes)
 
 ## Screenshot
 
