@@ -547,20 +547,20 @@
         <option name="DEFAULT_STATIC_FIELD">
             <value>
                 <option name="FOREGROUND" value="871094" deuteranopia="4B9F" protanopia="4B9F"/>
-                <option name="FONT_TYPE" value="0"/>
+                <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
         <option name="DEFAULT_STATIC_METHOD">
             <value>
                 <option name="FOREGROUND" value="871094" deuteranopia="121314" protanopia="121314"/>
-                <option name="FONT_TYPE" value="0"/>
+                <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
         <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD"/>
         <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES"/>
         <option name="STATIC_METHOD_ATTRIBUTES">
             <value>
-                <option name="FONT_TYPE" value="0"/>
+                <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
         <option name="DEFAULT_STRING">
@@ -592,10 +592,19 @@
                 <option name="EFFECT_TYPE" value="3"/>
             </value>
         </option>
-        <option name="DIFF_CONFLICT">
+
+        <!--<option name="DIFF_CONFLICT">
             <value>
                 <option name="BACKGROUND" value="4c273c"/>
                 <option name="ERROR_STRIPE_COLOR" value="933232"/>
+            </value>
+        </option>
+        <option name="DIFF_CONFLICT">
+            <value>
+                <option name="FOREGROUND"/>
+                <option name="BACKGROUND" value="ffd5cc" deuteranopia="ffec8c" protanopia="ffec8c"/>
+                <option name="EFFECT_COLOR"/>
+                <option name="ERROR_STRIPE_COLOR" value="ffc8bd" deuteranopia="fad932" protanopia="fad932"/>
             </value>
         </option>
         <option name="DIFF_INSERTED">
@@ -609,7 +618,8 @@
                 <option name="BACKGROUND" value="c2d8f2"/>
                 <option name="ERROR_STRIPE_COLOR" value="b6d2f2"/>
             </value>
-        </option>
+        </option>-->
+
         <option name="DOCKER_VARIABLE">
             <value>
                 <option name="FOREGROUND" value="643CB8"/>
@@ -941,7 +951,7 @@
         </option>
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="edebfc" deuteranopia="D9E6FF" protanopia="D9E6FF"/>
+                <option name="BACKGROUND" value="FFF6BD" deuteranopia="D9E6FF" protanopia="D9E6FF"/>
                 <option name="ERROR_STRIPE_COLOR" value="d0a1ff" deuteranopia="acb0bf" protanopia="acb0bf"/>
             </value>
         </option>
@@ -1831,7 +1841,7 @@
         </option>
         <option name="TEXT">
             <value>
-                <option name="FOREGROUND" value="3C8EAD"/>
+                <option name="FOREGROUND" value="174ad4"/>
                 <option name="BACKGROUND" value="282a36"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
