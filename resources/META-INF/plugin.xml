@@ -18,8 +18,9 @@
     </description>
 
     <change-notes><![CDATA[
-        <b>1.1.1(241211)</b>
+        <b>1.2.0(241211)</b>
         <ul>
+            <li>Added the green contrast colorful theme、grey colorful theme</li>
             <li>Optimize the foreground color of braces, brackets, parentheses, and type_parameter in colorful themes.</li>
         </ul>
 
@@ -43,9 +44,13 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="relax-grey-light" path="/themes/relax-grey-light.theme.json"/>
         <themeProvider id="relax-light" path="/themes/relax-green-light.theme.json"/>
-        <themeProvider id="relax-light-contrast" path="/themes/relax-green-light-contrast.theme.json"/>
         <themeProvider id="relax-green-light-colorful" path="/themes/relax-green-light-colorful.theme.json"/>
+
+        <themeProvider id="relax-light-contrast" path="/themes/relax-green-light-contrast.theme.json"/>
+        <themeProvider id="relax-light-contrast-colorful" path="/themes/relax-green-light-contrast-colorful.theme.json"/>
+
+        <themeProvider id="relax-grey-light" path="/themes/relax-grey-light.theme.json"/>
+        <themeProvider id="relax-grey-light-colorful" path="/themes/relax-grey-light-colorful.theme.json"/>
     </extensions>
 </idea-plugin>

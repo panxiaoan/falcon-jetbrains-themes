@@ -8,6 +8,8 @@ If you work in a bright environment for long periods of time, a light-colored th
 <br/><br/>
 Falcon Relax Eyes theme might be a better choice for you.
 
+<img src="./assets/marketplace.png" alt="download" style="border: 1px solid #CED0D6;">
+
 ## Thanks
 
 > 1. [Dracula Theme](https://plugins.jetbrains.com/plugin/12275-dracula-theme)
@@ -21,21 +23,29 @@ Falcon Relax Eyes theme might be a better choice for you.
 
 ## Screenshot
 
-### Relax Green Light Colorful
+1. Relax Green Light
 
-<img src="./assets/screenshot-5.jpg" alt="Relax Green Light Colorful" style="border: 1px solid #CED0D6;">
+    <img src="./assets/relax-green-light.jpg" alt="Relax Green Light" style="border: 1px solid #CED0D6;">
 
-### Relax Grey Light
+2. Relax Green Light Colorful
 
-<img src="./assets/screenshot-4.jpg" alt="Relax Grey Light" style="border: 1px solid #CED0D6;">
+    <img src="./assets/relax-green-light-colorful.jpg" alt="Relax Green Light Colorful" style="border: 1px solid #CED0D6;">
 
-### Relax Green Light
+3. Relax Green Light Contrast
 
-<img src="./assets/screenshot-2.jpg" alt="Relax Green Light" style="border: 1px solid #CED0D6;">
+    <img src="./assets/relax-green-light-contrast.jpg" alt="Relax Green Light Contrast" style="border: 1px solid #CED0D6;">
 
-### Relax Green Light Contrast
+4. Relax Green Light Contrast Colorful
 
-<img src="./assets/screenshot-3.jpg" alt="Relax Green Light Contrast" style="border: 1px solid #CED0D6;">
+    <img src="./assets/relax-green-light-contrast-colorful.jpg" alt="Relax Green Light Contrast" style="border: 1px solid #CED0D6;">
+
+5. Relax Grey Light
+
+    <img src="./assets/relax-grey-light.jpg" alt="Relax Grey Light" style="border: 1px solid #CED0D6;">
+
+6. Relax Grey Light Colorful
+
+    <img src="./assets/relax-grey-light-colorful.jpg" alt="Relax Grey Light" style="border: 1px solid #CED0D6;">
 
 ## License
 
