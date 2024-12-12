@@ -348,7 +348,7 @@
       "Actions.GreyInline.Dark": "#2fc864",
       "Actions.GreyInline": "#2fc864",
       "Actions.Red": "#CE5E5E",
-      "Actions.Yellow": "#f1fa8c",
+      "Actions.Yellow": "#ecc27d",
       "Objects.Blue": "#5da3f4",
       "Objects.Green": "#2fc864",
       "Objects.GreenAndroid": "#2fc864",
@@ -357,8 +357,8 @@
       "Objects.Purple": "#bd93f9",
       "Objects.Red": "#CE5E5E",
       "Objects.RedStatus": "#CE5E5E",
-      "Objects.Yellow": "#f1fa8c",
-      "Objects.YellowDark": "#f1fa8c",
+      "Objects.Yellow": "#ecc27d",
+      "Objects.YellowDark": "#ecc27d",
       "Objects.BlackText": "#112733"
     }
   }
