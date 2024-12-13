@@ -354,13 +354,13 @@
         </option>
         <option name="DEFAULT_PARAMETER">
             <value>
-                <option name="FOREGROUND" value="3C8EAD"/>
+                <option name="FOREGROUND" value="917800"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
         <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="#174ad4"/>
+                <option name="FOREGROUND" value="3C8EAD"/>
             </value>
         </option>
         <option name="DEFAULT_PREDEFINED_SYMBOL">
@@ -420,12 +420,12 @@
         <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD"/>
         <option name="String">
             <value>
-                <option name="FOREGROUND" value="#b1532b"/>
+                <option name="FOREGROUND" value="#174ad4"/>
             </value>
         </option>
         <option name="DEFAULT_STRING">
             <value>
-                <option name="FOREGROUND" value="#b1532b"/>
+                <option name="FOREGROUND" value="#174ad4"/>
             </value>
         </option>
         <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
@@ -465,8 +465,8 @@
         </option>
         <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="871094"/>
-                <option name="EFFECT_COLOR" value="871094"/>
+                <option name="FOREGROUND" value="709CF5"/>
+                <option name="EFFECT_COLOR" value="709CF5"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
@@ -531,9 +531,8 @@
         </option>
         <option name="TEXT">
             <value>
-                <option name="FOREGROUND" value="174ad4"/>
-                <option name="BACKGROUND" value="282a36"/>
-                <option name="EFFECT_TYPE" value="5"/>
+                <option name="FOREGROUND" value="27282E"/>
+                <option name="BACKGROUND" value="A8ADBD"/>
             </value>
         </option>
         <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
@@ -652,8 +651,8 @@
         </option>
         <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="8552c6" deuteranopia="3777E6" protanopia="3777E6"/>
-                <option name="EFFECT_COLOR" value="8552c6" deuteranopia="3777E6" protanopia="3777E6"/>
+                <option name="FOREGROUND" value="709CF5" deuteranopia="3777E6" protanopia="3777E6"/>
+                <option name="EFFECT_COLOR" value="709CF5" deuteranopia="3777E6" protanopia="3777E6"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
@@ -1231,21 +1230,22 @@
         <option name="MAKO.SUBSTITUTION">
             <value/>
         </option>
+
         <option name="MARKDOWN_AUTO_LINK">
             <value>
-                <option name="FOREGROUND" value="643CB8"/>
+                <option name="FOREGROUND" value="287bde"/>
                 <option name="EFFECT_COLOR" value="287bde"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
         <option name="MARKDOWN_HEADER_LEVEL_1">
             <value>
-                <option name="FOREGROUND" value="871094"/>
+                <option name="FOREGROUND" value="9B0742"/>
             </value>
         </option>
         <option name="MARKDOWN_LINK_DESTINATION">
             <value>
-                <option name="FOREGROUND" value="643CB8"/>
+                <option name="FOREGROUND" value="27282E"/>
             </value>
         </option>
         <option name="MARKDOWN_LINK_LABEL">
@@ -1255,16 +1255,18 @@
         </option>
         <option name="MARKDOWN_LINK_TEXT">
             <value>
-                <option name="FOREGROUND" value="9B0742"/>
+                <option name="FOREGROUND" value="174ad4"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
+
         <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
             <value>
                 <option name="EFFECT_COLOR" value="ef233c"/>
                 <option name="EFFECT_TYPE" value="3"/>
             </value>
         </option>
+
         <option name="OC.CLASS_REFERENCE">
             <value>
                 <option name="FOREGROUND" value="643CB8"/>
