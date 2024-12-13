@@ -1,6 +1,6 @@
 <idea-plugin require-restart="false">
     <id>falcon-jetbrains-themes</id>
-    <version>1.2.0</version>
+    <version>1.2.1</version>
     <name>Falcon Relax Eyes Theme</name>
     <category>UI</category>
 
@@ -18,6 +18,13 @@
     </description>
 
     <change-notes><![CDATA[
+        <b>1.2.1(241213)</b>
+        <ul>
+            <li>Optimized color Settings for DEFAULT_PARAMETER、TYPE_PARAMETER_NAME_ATTRIBUTES、
+                DEFAULT_STRING、HYPERLINK、TEXT</li>
+            <li>Increase 'Actions.Yellow' color visibility</li>
+        </ul>
+
         <b>1.2.0(241211)</b>
         <ul>
             <li>Added the green contrast colorful theme、grey colorful theme</li>
