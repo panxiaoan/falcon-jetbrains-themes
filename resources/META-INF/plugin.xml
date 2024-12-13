@@ -20,6 +20,7 @@
     <change-notes><![CDATA[
         <b>1.2.1(241213)</b>
         <ul>
+            <li>Increase 'Grey Theme' color visibility</li>
             <li>Optimized color Settings for DEFAULT_PARAMETER、TYPE_PARAMETER_NAME_ATTRIBUTES、
                 DEFAULT_STRING、HYPERLINK、TEXT</li>
             <li>Increase 'Actions.Yellow' color visibility</li>

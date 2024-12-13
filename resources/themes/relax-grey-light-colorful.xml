@@ -1,15 +1,15 @@
 <scheme name="Relax Grey Light Colorful" version="142" parent_scheme="Default">
     <colors>
-        <option name="BACKGROUND" value="fbfeff"/>
-        <option name="CONSOLE_BACKGROUND_KEY" value="fbfeff"/>
+        <option name="BACKGROUND" value="f0f4f4"/>
+        <option name="CONSOLE_BACKGROUND_KEY" value="f0f4f4"/>
         <option name="CARET_ROW_COLOR" value="F0FFFF"/>
-        <option name="DOCUMENTATION_COLOR" value="fbfeff"/>
-        <option name="LOOKUP_COLOR" value="fbfeff"/>
+        <option name="DOCUMENTATION_COLOR" value="f0f4f4"/>
+        <option name="LOOKUP_COLOR" value="f0f4f4"/>
 
-        <option name="ScrollBar.background" value="fbfeff"/>
-        <option name="ScrollBar.Mac.thumbColor" value="f1f4f5"/>
+        <option name="ScrollBar.background" value="f0f4f4"/>
+        <option name="ScrollBar.Mac.thumbColor" value="e6eaea"/>
         <option name="ScrollBar.Mac.hoverThumbColor" value="d5e2e8"/>
-        <option name="ScrollBar.Mac.thumbBorderColor" value="f1f4f5"/>
+        <option name="ScrollBar.Mac.thumbBorderColor" value="e6eaea"/>
         <option name="ScrollBar.Mac.hoverThumbBorderColor" value="d5e2e8"/>
 
         <option name="ADDED_LINES_COLOR" value="7fc784"/>
@@ -34,7 +34,7 @@
         <option name="SELECTED_INDENT_GUIDE" value="aeb3c2"/>
         <option name="SELECTION_BACKGROUND" value="c9dafb" deuteranopia="5974AB" protanopia="5974AB"/>
         <option name="SELECTION_FOREGROUND" value="" deuteranopia="ffffff" protanopia="ffffff"/>
-        <option name="STICKY_LINES_BACKGROUND" value="f1f4f5"/>
+        <option name="STICKY_LINES_BACKGROUND" value="e6eaea"/>
         <option name="TEARLINE_COLOR" value="d4d4d4"/>
         <option name="VCS_ANNOTATIONS_COLOR_1" value="a1bef7"/>
         <option name="VCS_ANNOTATIONS_COLOR_2" value="c9dafb"/>
