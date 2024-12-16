@@ -203,11 +203,6 @@
                 <option name="FOREGROUND" value="9DA0A8"/>
             </value>
         </option>
-        <option name="STICKY_LINES">
-            <value>
-                <option name="BORDER" value="643CB8"/>
-            </value>
-        </option>
         <!-- 大括号 {} -->
         <option name="DEFAULT_BRACES">
             <value>
@@ -288,7 +283,7 @@
         </option>
         <option name="DEFAULT_GLOBAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="9b2ba7"/>
+                <option name="FOREGROUND" value="871094"/>
                 <option name="FONT_TYPE" value="0"/>
             </value>
         </option>
@@ -360,7 +355,7 @@
         </option>
         <option name="DEFAULT_PARAMETER">
             <value>
-                <option name="FOREGROUND" value="917800"/>
+                <option name="FOREGROUND" value="894705"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>

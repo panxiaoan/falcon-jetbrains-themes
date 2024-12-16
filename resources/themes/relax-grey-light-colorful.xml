@@ -1,15 +1,15 @@
 <scheme name="Relax Grey Light Colorful" version="142" parent_scheme="Default">
     <colors>
-        <option name="BACKGROUND" value="f0f4f4"/>
-        <option name="CONSOLE_BACKGROUND_KEY" value="f0f4f4"/>
-        <option name="CARET_ROW_COLOR" value="F0FFFF"/>
-        <option name="DOCUMENTATION_COLOR" value="f0f4f4"/>
-        <option name="LOOKUP_COLOR" value="f0f4f4"/>
+        <option name="BACKGROUND" value="#f0f4f4"/>
+        <option name="CONSOLE_BACKGROUND_KEY" value="#f0f4f4"/>
+        <option name="CARET_ROW_COLOR" value="#fafeff"/>
+        <option name="DOCUMENTATION_COLOR" value="#f0f4f4"/>
+        <option name="LOOKUP_COLOR" value="#f0f4f4"/>
 
-        <option name="ScrollBar.background" value="f0f4f4"/>
-        <option name="ScrollBar.Mac.thumbColor" value="e6eaea"/>
-        <option name="ScrollBar.Mac.hoverThumbColor" value="d5e2e8"/>
-        <option name="ScrollBar.Mac.thumbBorderColor" value="e6eaea"/>
+        <option name="ScrollBar.background" value="#f0f4f4"/>
+        <option name="ScrollBar.Mac.thumbColor" value="#e6eaea"/>
+        <option name="ScrollBar.Mac.hoverThumbColor" value="#d5e2e8"/>
+        <option name="ScrollBar.Mac.thumbBorderColor" value="#e6eaea"/>
         <option name="ScrollBar.Mac.hoverThumbBorderColor" value="d5e2e8"/>
 
         <option name="ADDED_LINES_COLOR" value="7fc784"/>
@@ -18,35 +18,35 @@
         <option name="DELETED_LINES_COLOR" value="767a8a"/>
         <option name="DIFF_SEPARATORS_BACKGROUND" value="e4e6eb"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="7d5020"/>
-        <option name="GUTTER_BACKGROUND" value="ffffff"/>
+        <option name="GUTTER_BACKGROUND" value="#ffffff"/>
         <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="7fc784"/>
         <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="767a8a"/>
         <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="88adf7"/>
         <option name="INDENT_GUIDE" value="e6eaea"/>
-        <option name="INFORMATION_HINT" value="ffffff"/>
+        <option name="INFORMATION_HINT" value="#ffffff"/>
         <option name="LINE_NUMBERS_COLOR" value="aeb3c2"/>
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="767a8a"/>
         <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="62b3b3"/>
-        <option name="METHOD_SEPARATORS_COLOR" value="e6eaea"/>
+        <option name="METHOD_SEPARATORS_COLOR" value="#e6eaea"/>
         <option name="MODIFIED_LINES_COLOR" value="C2D6FC" deuteranopia="9ca9bf" protanopia="9ca9bf"/>
         <option name="NOTIFICATION_BACKGROUND" value="fff8e3"/>
-        <option name="RIGHT_MARGIN_COLOR" value="e6eaea"/>
+        <option name="RIGHT_MARGIN_COLOR" value="#e6eaea"/>
         <option name="SELECTED_INDENT_GUIDE" value="aeb3c2"/>
         <option name="SELECTION_BACKGROUND" value="c9dafb" deuteranopia="5974AB" protanopia="5974AB"/>
-        <option name="SELECTION_FOREGROUND" value="" deuteranopia="ffffff" protanopia="ffffff"/>
+        <option name="SELECTION_FOREGROUND" value="" deuteranopia="#ffffff" protanopia="#ffffff"/>
         <option name="STICKY_LINES_BACKGROUND" value="e6eaea"/>
         <option name="TEARLINE_COLOR" value="d4d4d4"/>
         <option name="VCS_ANNOTATIONS_COLOR_1" value="a1bef7"/>
-        <option name="VCS_ANNOTATIONS_COLOR_2" value="c9dafb"/>
+        <option name="VCS_ANNOTATIONS_COLOR_2" value="#c9dafb"/>
         <option name="VCS_ANNOTATIONS_COLOR_3" value="dee8fc"/>
         <option name="VCS_ANNOTATIONS_COLOR_4" value="edf2fa"/>
         <option name="VCS_ANNOTATIONS_COLOR_5" value="f7f8fa"/>
         <option name="VISUAL_INDENT_GUIDE" value="dae6fd"/>
         <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="f7e2cb" deuteranopia="c5cad4" protanopia="c5cad4"/>
         <option name="ERROR_HINT" value="FFE8E8"/>
-        <option name="PROMOTION_PANE" value="e7effd"/>
+        <option name="PROMOTION_PANE" value="#e7effd"/>
         <option name="QUESTION_HINT" value="f5f8fe"/>
-        <option name="RECENT_LOCATIONS_SELECTION" value="E7EFFD"/>
+        <option name="RECENT_LOCATIONS_SELECTION" value="#E7EFFD"/>
         <option name="FOLDED_TEXT_BORDER_COLOR" value="ADD9C7" deuteranopia="b3b3b3" protanopia="b3b3b3"/>
 
         <option name="FILESTATUS_ADDED" value="067D17"/>
@@ -283,7 +283,7 @@
         </option>
         <option name="DEFAULT_GLOBAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="9b2ba7"/>
+                <option name="FOREGROUND" value="871094"/>
                 <option name="FONT_TYPE" value="0"/>
             </value>
         </option>
@@ -355,7 +355,7 @@
         </option>
         <option name="DEFAULT_PARAMETER">
             <value>
-                <option name="FOREGROUND" value="917800"/>
+                <option name="FOREGROUND" value="894705"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
@@ -1231,7 +1231,6 @@
         <option name="MAKO.SUBSTITUTION">
             <value/>
         </option>
-
         <option name="MARKDOWN_AUTO_LINK">
             <value>
                 <option name="FOREGROUND" value="287bde"/>
@@ -1260,14 +1259,12 @@
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
-
         <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
             <value>
                 <option name="EFFECT_COLOR" value="ef233c"/>
                 <option name="EFFECT_TYPE" value="3"/>
             </value>
         </option>
-
         <option name="OC.CLASS_REFERENCE">
             <value>
                 <option name="FOREGROUND" value="643CB8"/>
