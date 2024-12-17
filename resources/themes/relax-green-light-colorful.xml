@@ -532,11 +532,18 @@
         </option>
         <option name="TEXT">
             <value>
-                <option name="FOREGROUND" value="27282E"/>
-                <option name="BACKGROUND" value="A8ADBD"/>
+                <option name="FOREGROUND" value="#27282E"/>
+                <option name="BACKGROUND" value="#A8ADBD"/>
             </value>
         </option>
         <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="0"/>
+                <option name="BACKGROUND" value="fcd47e"/>
+                <option name="ERROR_STRIPE_COLOR" value="c47233" deuteranopia="998f00" protanopia="998f00"/>
+            </value>
+        </option>
+        <option name="SEARCH_RESULT_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="0"/>
                 <option name="BACKGROUND" value="fcd47e"/>
@@ -560,8 +567,9 @@
         </option>
         <option name="TODO_DEFAULT_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="e998ff"/>
-                <option name="ERROR_STRIPE_COLOR" value="e998ff"/>
+                <option name="FOREGROUND" value="a35cf0"/>
+                <option name="ERROR_STRIPE_COLOR" value="a35cf0"/>
+                <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
         <option name="TYPO">
@@ -600,33 +608,6 @@
                 <option name="FOREGROUND" value="ff5555"/>
             </value>
         </option>
-
-        <!--<option name="DIFF_CONFLICT">
-            <value>
-                <option name="BACKGROUND" value="4c273c"/>
-                <option name="ERROR_STRIPE_COLOR" value="933232"/>
-            </value>
-        </option>
-        <option name="DIFF_CONFLICT">
-            <value>
-                <option name="FOREGROUND"/>
-                <option name="BACKGROUND" value="ffd5cc" deuteranopia="ffec8c" protanopia="ffec8c"/>
-                <option name="EFFECT_COLOR"/>
-                <option name="ERROR_STRIPE_COLOR" value="ffc8bd" deuteranopia="fad932" protanopia="fad932"/>
-            </value>
-        </option>
-        <option name="DIFF_INSERTED">
-            <value>
-                <option name="BACKGROUND" value="344535"/>
-                <option name="ERROR_STRIPE_COLOR" value="447152"/>
-            </value>
-        </option>
-        <option name="DIFF_MODIFIED">
-            <value>
-                <option name="BACKGROUND" value="c2d8f2"/>
-                <option name="ERROR_STRIPE_COLOR" value="b6d2f2"/>
-            </value>
-        </option>-->
 
         <option name="DOCKER_VARIABLE">
             <value>
@@ -1731,11 +1712,6 @@
             </value>
         </option>
         <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD"/>
-        <option name="SEARCH_RESULT_ATTRIBUTES">
-            <value>
-                <option name="BACKGROUND" value="53576d"/>
-            </value>
-        </option>
         <option name="SPY-JS.EXCEPTION">
             <value>
                 <option name="EFFECT_TYPE" value="2"/>
