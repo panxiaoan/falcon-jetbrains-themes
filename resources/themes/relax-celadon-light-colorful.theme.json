@@ -71,7 +71,7 @@
     },
     "MemoryIndicator": {
       "allocatedBackground": "borderColor",
-      "usedBackground": "#80CBC4"
+      "usedBackground": "#c3dbe5bf"
     },
     "Borders": {
       "color": "borderColor",
