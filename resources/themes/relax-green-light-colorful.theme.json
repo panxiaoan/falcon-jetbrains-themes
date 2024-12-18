@@ -70,8 +70,8 @@
       "iconColor": "primaryForeground"
     },
     "MemoryIndicator": {
-      "allocatedBackground": "selectionBackground",
-      "usedBackground": "#cdfaf6"
+      "allocatedBackground": "borderColor",
+      "usedBackground": "#80CBC4"
     },
     "Borders": {
       "color": "borderColor",

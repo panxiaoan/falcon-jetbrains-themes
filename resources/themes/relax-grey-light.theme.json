@@ -70,8 +70,8 @@
       "iconColor": "#818594"
     },
     "MemoryIndicator": {
-      "allocatedBackground": "selectionBackground",
-      "usedBackground": "#cdfaf6"
+      "allocatedBackground": "#DFE1E5",
+      "usedBackground": "#c9dafb"
     },
     "Borders": {
       "color": "borderColor",
