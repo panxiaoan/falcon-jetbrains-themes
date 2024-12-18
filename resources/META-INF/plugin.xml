@@ -1,6 +1,6 @@
 <idea-plugin require-restart="false">
     <id>falcon-jetbrains-themes</id>
-    <version>1.2.2</version>
+    <version>1.3.0</version>
     <name>Falcon Relax Eyes Theme</name>
     <category>UI</category>
 
@@ -18,8 +18,9 @@
     </description>
 
     <change-notes><![CDATA[
-        <b>1.2.2(241218)</b>
+        <b>1.3.0(241218)</b>
         <ul>
+            <li>added a new theme: celadon light colorful</li>
             <li>optimized 'WARNING_ATTRIBUTES' color setting</li>
             <li>optimized 'MemoryIndicator' color setting</li>
             <li>Optimized colorful Settings for TEXT_SEARCH_RESULT_ATTRIBUTES、TODO_DEFAULT_ATTRIBUTES</li>
@@ -67,5 +68,7 @@
 
         <themeProvider id="relax-grey-light" path="/themes/relax-grey-light.theme.json"/>
         <themeProvider id="relax-grey-light-colorful" path="/themes/relax-grey-light-colorful.theme.json"/>
+
+        <themeProvider id="relax-celadon-light-colorful" path="/themes/relax-celadon-light-colorful.theme.json"/>
     </extensions>
 </idea-plugin>

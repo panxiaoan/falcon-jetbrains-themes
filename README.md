@@ -37,7 +37,7 @@ Falcon Relax Eyes theme might be a better choice for you.
 
 4. Relax Green Light Contrast Colorful
 
-    <img src="./assets/relax-green-light-contrast-colorful.jpg" alt="Relax Green Light Contrast" style="border: 1px solid #CED0D6;">
+    <img src="./assets/relax-green-light-contrast-colorful.jpg" alt="Relax Green Light Contrast Colorful" style="border: 1px solid #CED0D6;">
 
 5. Relax Grey Light
 
@@ -45,7 +45,11 @@ Falcon Relax Eyes theme might be a better choice for you.
 
 6. Relax Grey Light Colorful
 
-    <img src="./assets/relax-grey-light-colorful.jpg" alt="Relax Grey Light" style="border: 1px solid #CED0D6;">
+    <img src="./assets/relax-grey-light-colorful.jpg" alt="Relax Grey Light Colorful" style="border: 1px solid #CED0D6;">
+
+7. Relax Celadon Light Colorful
+
+    <img src="./assets/relax-celadon-light-colorful.jpg" alt="Relax Celadon Light Colorful" style="border: 1px solid #CED0D6;">
 
 ## License
 
