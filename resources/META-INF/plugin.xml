@@ -9,11 +9,19 @@
     <idea-version since-build="232" until-build="243.*"/>
 
     <description><![CDATA[
-        If you work in a bright environment for long periods of time, a light-colored theme is recommended.
+        If you work in a bright environment for long periods of time, a light-colored theme is recommended. <br/>
+        Falcon Relax Eyes theme might be a better choice for you.<br/>
+
         <br/><br/>
-        Falcon Relax Eyes theme might be a better choice for you.
+        在明亮的工作环境中，长时间使用 IDEA，建议使用浅色主题，减少视觉疲劳。<br/>
+        Falcon Relax Eyes Theme 可能是个更好的选择。<br/>
+
         <br/><br/>
-        Keep It Simple and Stupid.
+        <a href="https://github.com/panxiaoan/falcon-jetbrains-themes/issues">Report an issue</a>
+
+        <br/><br/>
+        <a href="https://ux.stackexchange.com/questions/53264/dark-or-white-color-theme-is-better-for-the-eyes">Dark or white color theme is better for the eyes?</a>
+        <br/><br/>
     ]]>
     </description>
 
