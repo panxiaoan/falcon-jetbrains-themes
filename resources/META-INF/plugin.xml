@@ -18,6 +18,13 @@
     </description>
 
     <change-notes><![CDATA[
+        <b>1.2.2(241218)</b>
+        <ul>
+            <li>optimized 'WARNING_ATTRIBUTES' color setting</li>
+            <li>optimized 'MemoryIndicator' color setting</li>
+            <li>Optimized colorful Settings for TEXT_SEARCH_RESULT_ATTRIBUTES、TODO_DEFAULT_ATTRIBUTES</li>
+        </ul>
+
         <b>1.2.1(241213)</b>
         <ul>
             <li>Increase 'Grey Theme' color visibility</li>
