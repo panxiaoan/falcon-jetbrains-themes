@@ -1,6 +1,6 @@
 <idea-plugin require-restart="false">
     <id>falcon-jetbrains-themes</id>
-    <version>1.3.0</version>
+    <version>1.3.1</version>
     <name>Falcon Relax Eyes Theme</name>
     <category>UI</category>
 
@@ -9,6 +9,9 @@
     <idea-version since-build="232" until-build="243.*"/>
 
     <description><![CDATA[
+        <a href="https://ux.stackexchange.com/questions/53264/dark-or-white-color-theme-is-better-for-the-eyes">Dark or white color theme is better for the eyes?</a>
+        <br/><br/>
+
         If you work in a bright environment for long periods of time, a light-colored theme is recommended. <br/>
         Falcon Relax Eyes theme might be a better choice for you.<br/>
 
@@ -17,15 +20,28 @@
         Falcon Relax Eyes Theme 可能是个更好的选择。<br/>
 
         <br/>
-        <a href="https://github.com/panxiaoan/falcon-jetbrains-themes/issues">Report an issue</a>
+        <b>Falcon Relax Eyes includes 7 themes:</b>
+        <ul>
+            <li>Relax Celadon Light Colorful</li>
+            <li>Relax Green Light</li>
+            <li>Relax Green Light Colorful</li>
+            <li>Relax Green Light Contrast</li>
+            <li>Relax Green Light Contrast Colorful</li>
+            <li>Relax Grey Light</li>
+            <li>Relax Grey Light Colorful</li>
+        </ul>
 
         <br/>
-        <a href="https://ux.stackexchange.com/questions/53264/dark-or-white-color-theme-is-better-for-the-eyes">Dark or white color theme is better for the eyes?</a>
-        <br/><br/>
+        <a href="https://github.com/panxiaoan/falcon-jetbrains-themes/issues">Report an issue</a>
     ]]>
     </description>
 
     <change-notes><![CDATA[
+        <b>1.3.1(241218)</b>
+        <ul>
+            <li>所有 colorful 主题中关键字修改为更贴近主题的绿色</li>
+        </ul>
+
         <b>1.3.0(241218)</b>
         <ul>
             <li>added a new theme: celadon light colorful</li>
