@@ -8,7 +8,7 @@ If you work in a bright environment for long periods of time, a light-colored th
 <br/><br/>
 Falcon Relax Eyes theme might be a better choice for you.
 
-<img src="./assets/marketplace.png" alt="download" style="border: 1px solid #CED0D6;">
+<img src="./assets/marketplace.jpg" alt="download" style="border: 1px solid #CED0D6;">
 
 ## Thanks
 
@@ -23,31 +23,19 @@ Falcon Relax Eyes theme might be a better choice for you.
 
 ## Screenshot
 
-1. Relax Green Light
-
-    <img src="./assets/relax-green-light.jpg" alt="Relax Green Light" style="border: 1px solid #CED0D6;">
-
-2. Relax Green Light Colorful
+1. Relax Green Light Colorful
 
     <img src="./assets/relax-green-light-colorful.jpg" alt="Relax Green Light Colorful" style="border: 1px solid #CED0D6;">
 
-3. Relax Green Light Contrast
-
-    <img src="./assets/relax-green-light-contrast.jpg" alt="Relax Green Light Contrast" style="border: 1px solid #CED0D6;">
-
-4. Relax Green Light Contrast Colorful
+2. Relax Green Light Contrast Colorful
 
     <img src="./assets/relax-green-light-contrast-colorful.jpg" alt="Relax Green Light Contrast Colorful" style="border: 1px solid #CED0D6;">
 
-5. Relax Grey Light
-
-    <img src="./assets/relax-grey-light.jpg" alt="Relax Grey Light" style="border: 1px solid #CED0D6;">
-
-6. Relax Grey Light Colorful
+3. Relax Grey Light Colorful
 
     <img src="./assets/relax-grey-light-colorful.jpg" alt="Relax Grey Light Colorful" style="border: 1px solid #CED0D6;">
 
-7. Relax Celadon Light Colorful
+4. Relax Celadon Light Colorful
 
     <img src="./assets/relax-celadon-light-colorful.jpg" alt="Relax Celadon Light Colorful" style="border: 1px solid #CED0D6;">
 
