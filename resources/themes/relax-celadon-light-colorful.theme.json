@@ -70,7 +70,7 @@
       "iconColor": "primaryForeground"
     },
     "MemoryIndicator": {
-      "allocatedBackground": "borderColor",
+      "allocatedBackground": "#D3D5DB",
       "usedBackground": "#c3dbe5bf"
     },
     "Borders": {
