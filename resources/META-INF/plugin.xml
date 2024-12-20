@@ -1,7 +1,7 @@
 <idea-plugin require-restart="false">
     <id>falcon-jetbrains-themes</id>
     <version>1.4.0</version>
-    <name>Falcon Relax Eyes Theme</name>
+    <name>Falcon Relax Eyes Light Theme</name>
     <category>UI</category>
 
     <vendor email="xiaoan.pan@qq.com" url="http://www.panxiaoan.com">Falcon</vendor>
