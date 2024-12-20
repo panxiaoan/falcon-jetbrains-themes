@@ -878,7 +878,7 @@
         <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES"/>
         <option name="Groovy parameter">
             <value>
-                <option name="FOREGROUND" value="ffb86c"/>
+                <option name="FOREGROUND" value="139c91"/>
             </value>
         </option>
         <option name="Groovy reassigned parameter">
