@@ -2,7 +2,7 @@
 
 > A protect your eyesight theme for [JetBrains IDE](https://www.jetbrains.com/)
 
-<img src="./assets/about.jpg" alt="Relax Green Light Colorful" style="border: 1px solid #CED0D6;">
+<img src="./assets/home.png" alt="Relax Green Light Colorful" style="border: 1px solid #CED0D6;">
 
 If you work in a bright environment for long periods of time, a light-colored theme is recommended.
 <br/>
@@ -11,6 +11,7 @@ Falcon Relax Eyes theme might be a better choice for you.<br/>
 在明亮的工作环境中，长时间使用 IDE，建议使用浅色主题，减少视觉疲劳。<br/>
 
 > <a href="https://ux.stackexchange.com/questions/53264/dark-or-white-color-theme-is-better-for-the-eyes">Dark or white color theme is better for the eyes?</a>
+<img src="./assets/about.jpg" alt="Relax Green Light Colorful" style="border: 1px solid #CED0D6;">
 
 **Basic features in Falcon Relax Eyes Themes:**
 
