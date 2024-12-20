@@ -5,10 +5,34 @@
 <img src="./assets/about.jpg" alt="Relax Green Light Colorful" style="border: 1px solid #CED0D6;">
 
 If you work in a bright environment for long periods of time, a light-colored theme is recommended.
-<br/><br/>
-Falcon Relax Eyes theme might be a better choice for you.
+<br/>
+Falcon Relax Eyes theme might be a better choice for you.<br/>
+
+在明亮的工作环境中，长时间使用 IDE，建议使用浅色主题，减少视觉疲劳。<br/>
+
+> <a href="https://ux.stackexchange.com/questions/53264/dark-or-white-color-theme-is-better-for-the-eyes">Dark or white color theme is better for the eyes?</a>
+
+**Basic features in Falcon Relax Eyes Themes:**
+
+- Work with both **New UI** and **Classic UI**
+- Well-balanced colors, easy on eyes
+- Better syntax highlight
+- Unified and clean themes style
+- Lightweight and low impact on IDE performance
+
+**Falcon Relax Eyes includes 7 themes**
+
+- Relax Celadon Light Colorful
+- Relax Green Light
+- Relax Green Light Colorful
+- Relax Green Light Contrast
+- Relax Green Light Contrast Colorful
+- Relax Grey Light
+- Relax Grey Light Colorful
 
 <img src="./assets/marketplace.jpg" alt="download" style="border: 1px solid #CED0D6;">
+
+<a href="https://github.com/panxiaoan/falcon-jetbrains-themes/issues">Report an issue</a>
 
 ## Thanks
 

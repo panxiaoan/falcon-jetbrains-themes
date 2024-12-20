@@ -1,6 +1,6 @@
 <idea-plugin require-restart="false">
     <id>falcon-jetbrains-themes</id>
-    <version>1.3.1</version>
+    <version>1.4.0</version>
     <name>Falcon Relax Eyes Theme</name>
     <category>UI</category>
 
@@ -20,6 +20,16 @@
         Falcon Relax Eyes Theme 可能是个更好的选择。<br/>
 
         <br/>
+        <b>Basic features in Falcon Relax Eyes Themes:</b>
+        <ul>
+            <li>Work with both **New UI** and **Classic UI**</li>
+            <li>Well-balanced colors, easy on eyes</li>
+            <li>Better syntax highlight</li>
+            <li>Unified and clean themes style</li>
+            <li>Lightweight and low impact on IDE performance</li>
+        </ul>
+
+        <br/>
         <b>Falcon Relax Eyes includes 7 themes:</b>
         <ul>
             <li>Relax Celadon Light Colorful</li>
@@ -37,7 +47,7 @@
     </description>
 
     <change-notes><![CDATA[
-        <b>1.3.1(241218)</b>
+        <b>1.4.0(241223)</b>
         <ul>
             <li>the keyword in all colorful themes is changed to a green color closer to the theme</li>
         </ul>
