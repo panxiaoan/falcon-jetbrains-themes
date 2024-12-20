@@ -9,8 +9,8 @@
     <idea-version since-build="232" until-build="243.*"/>
 
     <description><![CDATA[
-        <a href="https://ux.stackexchange.com/questions/53264/dark-or-white-color-theme-is-better-for-the-eyes">Dark or white color theme is better for the eyes?</a>
-        <br/><br/>
+
+        <b>A protect your eyesight themes</b>
 
         If you work in a bright environment for long periods of time, a light-colored theme is recommended. <br/>
         Falcon Relax Eyes theme might be a better choice for you.<br/>
@@ -43,6 +43,10 @@
 
         <br/>
         <a href="https://github.com/panxiaoan/falcon-jetbrains-themes/issues">Report an issue</a>
+
+        <br/>
+        <a href="https://ux.stackexchange.com/questions/53264/dark-or-white-color-theme-is-better-for-the-eyes">Dark or white color theme is better for the eyes?</a>
+        <br/>
     ]]>
     </description>
 
