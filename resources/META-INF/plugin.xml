@@ -52,7 +52,7 @@
     </description>
 
     <change-notes><![CDATA[
-        <b>1.4.0(241220)</b>
+        <b>1.4.0(241222)</b>
         <ul>
             <li>feat: the keyword in all colorful themes is changed to a green color closer to the theme</li>
             <li>fix: modifying the 'WRITE_SEARCH_RESULT_ATTRIBUTES' color in the colorful theme</li>
