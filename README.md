@@ -31,9 +31,13 @@ Falcon Relax Eyes theme might be a better choice for you.<br/>
 - Relax Grey Light
 - Relax Grey Light Colorful
 
-<img src="./assets/marketplace.jpg" alt="download" style="border: 1px solid #CED0D6;">
-
 <a href="https://github.com/panxiaoan/falcon-jetbrains-themes/issues">Report an issue</a>
+
+## Install
+
+[Jetbrains Marketplace](https://plugins.jetbrains.com/plugin/26026-falcon-relax-eyes-light-theme)
+
+<img src="./assets/marketplace.jpg" alt="marketplace" style="border: 1px solid #CED0D6;">
 
 ## Thanks
 
