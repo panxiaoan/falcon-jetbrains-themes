@@ -52,6 +52,13 @@
     </description>
 
     <change-notes><![CDATA[
+        <b>1.4.1(241224) 🎄🎄🎄</b>
+        <ul>
+            <li>feat: added 'EXECUTIONPOINT_ATTRIBUTES' color scheme setting</li>
+            <li>fix: modifying the 'COMMENT' color scheme in the colorful theme</li>
+            <li>fix: the 'INFO_ATTRIBUTES' color scheme in the colorful theme</li>
+        </ul>
+
         <b>1.4.0(241222)</b>
         <ul>
             <li>feat: the keyword in all colorful themes is changed to a green color closer to the theme</li>
