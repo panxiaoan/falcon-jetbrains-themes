@@ -68,6 +68,13 @@
         <option name="FILESTATUS_modifiedOutside" value="0033B3"/>
     </colors>
     <attributes>
+        <option name="EXECUTIONPOINT_ATTRIBUTES">
+            <value>
+                <option name="BACKGROUND" value="#D2E7DB"/>
+                <option name="FONT_TYPE" value="1"/>
+            </value>
+        </option>
+
         <option name="DEFAULT_OPERATION_SIGN">
             <value>
                 <option name="FOREGROUND" value="c94695"/>
