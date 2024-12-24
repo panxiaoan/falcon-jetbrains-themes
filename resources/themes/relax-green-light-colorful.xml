@@ -70,8 +70,7 @@
     <attributes>
         <option name="EXECUTIONPOINT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="#D2E7DB"/>
-                <option name="FONT_TYPE" value="1"/>
+                <option name="BACKGROUND" value="#DEDFFC"/>
             </value>
         </option>
 
