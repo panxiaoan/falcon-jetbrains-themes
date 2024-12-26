@@ -103,7 +103,7 @@
     },
     "Counter": {
       "foreground": "primaryBackground",
-      "background": "#2fc864"
+      "background": "#d6e8e7"
     },
     "ComboBox": {
       "modifiedItemForeground": "accentColor",
