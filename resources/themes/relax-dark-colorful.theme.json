@@ -16,7 +16,8 @@
     "separatorColor": "#19273D",
     "tabColor": "#111D33",
     "lineColor": "#50FA7B",
-    "iconBackground": "#50FA7B",
+    "iconBackground": "#0B843E",
+    "iconHoverBackground": "#034C38",
     "tabHoverBackground": "#19273D",
     "headerBackground": "#233348",
     "menuBackground": "#233348"
@@ -49,10 +50,10 @@
       "ContrastBorderColor": "borderColor"
     },
     "ActionButton": {
-      "hoverBackground": "hoverBackground",
-      "hoverBorderColor": "hoverBackground",
-      "pressedBackground": "hoverBackground",
-      "pressedBorderColor": "hoverBackground"
+      "hoverBackground": "iconHoverBackground",
+      "hoverBorderColor": "iconHoverBackground",
+      "pressedBackground": "iconHoverBackground",
+      "pressedBorderColor": "iconHoverBackground"
     },
     "Bookmark": {
       "iconBackground": "accentColor",
@@ -132,7 +133,7 @@
       "underlinedTabBackground": "#060D22",
       "inactiveUnderlineColor": "lineColor",
       "underlineColor": "lineColor",
-      "underlineHeight": 3
+      "underlineHeight": 2
     },
     "FileColor": {
       "Blue": "#344f54",
@@ -229,7 +230,7 @@
         "hoverThumbColor": "#034C38",
         "hoverThumbBorderColor": "#034C38",
         "Transparent": {
-          "hoverThumbColor": "#034C38"
+          "hoverThumbColor": "#344359"
         }
       }
     },
@@ -238,7 +239,7 @@
         "background": "secondaryBackground"
       },
       "Tab": {
-        "selectedBackground": "#313341",
+        "selectedBackground": "lineColor",
         "selectedForeground": "primaryForeground"
       }
     },
@@ -253,10 +254,10 @@
       "background": "secondaryBackground"
     },
     "TabbedPane": {
-      "tabSelectionHeight": 1,
+      "tabSelectionHeight": 2,
       "focusColor": "hoverBackground",
       "hoverColor": "hoverBackground",
-      "underlineColor": "secondaryAccentColor",
+      "underlineColor": "lineColor",
       "contentAreaColor": "hoverBackground"
     },
     "Table": {
@@ -280,7 +281,7 @@
     "ToolWindow": {
       "Button": {
         "selectedBackground": "iconBackground",
-        "hoverBackground": "hoverBackground"
+        "hoverBackground": "iconHoverBackground"
       },
       "Header": {
         "background": "headerBackground",
@@ -288,7 +289,7 @@
       },
       "HeaderTab": {
         "underlineColor": "lineColor",
-        "underlineHeight": 3,
+        "underlineHeight": 2,
         "underlinedTabBackground": "tabColor",
         "underlinedTabInactiveBackground": "tabColor"
       }

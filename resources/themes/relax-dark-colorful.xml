@@ -1,6 +1,7 @@
 <scheme name="Relax Dark Colorful" version="142" parent_scheme="Darcula">
     <colors>
         <option name="BACKGROUND" value="233348"/>
+        <option name="STICKY_LINES_BACKGROUND" value="#344359"/>
 
         <option name="ADDED_LINES_COLOR" value="48b764"/>
         <option name="ANNOTATIONS_COLOR" value="f8f8f2"/>
@@ -9,7 +10,7 @@
         <option name="CONSOLE_BACKGROUND_KEY" value="282a36"/>
         <option name="DELETED_LINES_COLOR" value="cd4644"/>
         <option name="DOCUMENTATION_COLOR" value="3a3d4c"/>
-        <option name="DOC_COMMENT_LINK" value="ff79c6"/>
+        <option name="DOC_COMMENT_LINK" value="#FF6B6B"/>
         <option name="FILESTATUS_ADDED" value="50fa7b"/>
         <option name="FILESTATUS_COPIED" value="50fa7b"/>
         <option name="FILESTATUS_DELETED" value="6272a4"/>
@@ -26,7 +27,7 @@
         <option name="FILESTATUS_MODIFIED" value="8be9fd"/>
         <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="8be9fd"/>
         <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="8be9fd"/>
-        <option name="FILESTATUS_RENAMED" value="ff79c6"/>
+        <option name="FILESTATUS_RENAMED" value="#FF6B6B"/>
         <option name="FILESTATUS_UNKNOWN" value="ff5555"/>
         <option name="FILESTATUS_addedOutside" value="50fa7b"/>
         <option name="FILESTATUS_changelistConflict" value="ff5555"/>
@@ -35,14 +36,14 @@
         <option name="INDENT_GUIDE" value="3e404b"/>
         <option name="INFORMATION_HINT" value="3a3d4c"/>
         <option name="LINE_NUMBERS_COLOR" value="a3a5ba"/>
-        <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ff79c6"/>
+        <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="#FF6B6B"/>
         <option name="LOOKUP_COLOR" value="3a3d4c"/>
         <option name="MODIFIED_LINES_COLOR" value="74b4c1"/>
         <option name="RIGHT_MARGIN_COLOR" value="19273D"/>
         <option name="METHOD_SEPARATORS_COLOR" value="19273D"/>
         <option name="SELECTED_INDENT_GUIDE" value="a8b0e2"/>
         <option name="SELECTED_TEARLINE_COLOR" value="a8b0e2"/>
-        <option name="SELECTION_BACKGROUND" value="666b87"/>
+        <option name="SELECTION_BACKGROUND" value="#666b87"/>
         <option name="SEPARATOR_ABOVE_COLOR" value="6b7090"/>
         <option name="SEPARATOR_BELOW_COLOR" value="6b7090"/>
 
@@ -116,7 +117,7 @@
         </option>
         <option name="BREADCRUMBS_HOVERED">
             <value>
-                <option name="FOREGROUND" value="ff79c6"/>
+                <option name="FOREGROUND" value="#FF6B6B"/>
                 <option name="BACKGROUND" value="282a36"/>
             </value>
         </option>
@@ -197,7 +198,7 @@
         </option>
         <option name="CONSOLE_MAGENTA_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="ff79c6"/>
+                <option name="FOREGROUND" value="#FF6B6B"/>
             </value>
         </option>
         <option name="CONSOLE_NORMAL_OUTPUT">
@@ -294,7 +295,7 @@
         </option>
         <option name="CSS.TAG_NAME">
             <value>
-                <option name="FOREGROUND" value="ff79c6"/>
+                <option name="FOREGROUND" value="#FF6B6B"/>
             </value>
         </option>
         <option name="CSS.URL">
@@ -318,7 +319,7 @@
         </option>
         <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="ff79c6"/>
+                <option name="FOREGROUND" value="#FF6B6B"/>
             </value>
         </option>
         <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
@@ -391,7 +392,7 @@
         </option>
         <option name="DEFAULT_DOC_COMMENT_TAG">
             <value>
-                <option name="FOREGROUND" value="ff79c6"/>
+                <option name="FOREGROUND" value="#FF6B6B"/>
             </value>
         </option>
         <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
@@ -402,7 +403,7 @@
         </option>
         <option name="DEFAULT_DOC_MARKUP">
             <value>
-                <option name="FOREGROUND" value="ff79c6"/>
+                <option name="FOREGROUND" value="#FF6B6B"/>
             </value>
         </option>
         <option name="DEFAULT_ENTITY">
@@ -462,7 +463,7 @@
         </option>
         <option name="DEFAULT_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="ff79c6"/>
+                <option name="FOREGROUND" value="#FF6B6B"/>
             </value>
         </option>
         <option name="DEFAULT_LABEL">
@@ -666,8 +667,8 @@
         </option>
         <option name="GO_COMMENT_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="ff79c6"/>
-                <option name="EFFECT_COLOR" value="ff79c6"/>
+                <option name="FOREGROUND" value="#FF6B6B"/>
+                <option name="EFFECT_COLOR" value="#FF6B6B"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
@@ -714,7 +715,7 @@
         </option>
         <option name="GO_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="ff79c6"/>
+                <option name="FOREGROUND" value="#FF6B6B"/>
             </value>
         </option>
         <option name="GO_LABEL">
@@ -893,13 +894,13 @@
         </option>
         <option name="HTML_TAG">
             <value>
-                <option name="FOREGROUND" value="ff79c6"/>
+                <option name="FOREGROUND" value="#FF6B6B"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
         <option name="HTML_TAG_NAME">
             <value>
-                <option name="FOREGROUND" value="ff79c6"/>
+                <option name="FOREGROUND" value="#FF6B6B"/>
             </value>
         </option>
         <option name="HTTP_REQUEST_MESSAGE_BODY">
@@ -968,7 +969,7 @@
         </option>
         <option name="JAVA_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="ff79c6"/>
+                <option name="FOREGROUND" value="#FF6B6B"/>
             </value>
         </option>
         <option name="JS.EXPORTED.VARIABLE">
@@ -996,7 +997,7 @@
         </option>
         <option name="JS.KEYWORD">
             <value>
-                <option name="FOREGROUND" value="ff79c6"/>
+                <option name="FOREGROUND" value="#FF6B6B"/>
             </value>
         </option>
         <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE"/>
@@ -1007,7 +1008,7 @@
         </option>
         <option name="JSON.KEYWORD">
             <value>
-                <option name="FOREGROUND" value="ff79c6"/>
+                <option name="FOREGROUND" value="#FF6B6B"/>
             </value>
         </option>
         <option name="JSON.NUMBER">
@@ -1053,7 +1054,7 @@
         </option>
         <option name="JUPYTER_CELL_MARKER">
             <value>
-                <option name="FOREGROUND" value="ff79c6"/>
+                <option name="FOREGROUND" value="#FF6B6B"/>
             </value>
         </option>
         <option name="JUPYTER_INLINE_VALUES">
@@ -1203,7 +1204,7 @@
         </option>
         <option name="MARKDOWN_LINK_TEXT">
             <value>
-                <option name="FOREGROUND" value="ff79c6"/>
+                <option name="FOREGROUND" value="#FF6B6B"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
@@ -1221,7 +1222,7 @@
         </option>
         <option name="MATCHED_TAG_NAME">
             <value>
-                <option name="FOREGROUND" value="ff79c6"/>
+                <option name="FOREGROUND" value="#FF6B6B"/>
             </value>
         </option>
         <option name="Map key">
@@ -1393,7 +1394,7 @@
         </option>
         <option name="PY.DOC_COMMENT_TAG">
             <value>
-                <option name="FOREGROUND" value="ff79c6"/>
+                <option name="FOREGROUND" value="#FF6B6B"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
@@ -1417,7 +1418,7 @@
         </option>
         <option name="PY.KEYWORD">
             <value>
-                <option name="FOREGROUND" value="ff79c6"/>
+                <option name="FOREGROUND" value="#FF6B6B"/>
             </value>
         </option>
         <option name="PY.KEYWORD_ARGUMENT">
@@ -1496,7 +1497,7 @@
         </option>
         <option name="RAINBOW_COLOR1">
             <value>
-                <option name="FOREGROUND" value="ff79c6"/>
+                <option name="FOREGROUND" value="#FF6B6B"/>
             </value>
         </option>
         <option name="RAINBOW_COLOR2">
@@ -1516,22 +1517,22 @@
         </option>
         <option name="REGEXP.BRACES">
             <value>
-                <option name="FOREGROUND" value="ff79c6"/>
+                <option name="FOREGROUND" value="#FF6B6B"/>
             </value>
         </option>
         <option name="REGEXP.BRACKETS">
             <value>
-                <option name="FOREGROUND" value="ff79c6"/>
+                <option name="FOREGROUND" value="#FF6B6B"/>
             </value>
         </option>
         <option name="REGEXP.CHAR_CLASS">
             <value>
-                <option name="FOREGROUND" value="ff79c6"/>
+                <option name="FOREGROUND" value="#FF6B6B"/>
             </value>
         </option>
         <option name="REGEXP.COMMA">
             <value>
-                <option name="FOREGROUND" value="ff79c6"/>
+                <option name="FOREGROUND" value="#FF6B6B"/>
             </value>
         </option>
         <option name="REGEXP.ESC_CHARACTER">
@@ -1558,12 +1559,12 @@
         </option>
         <option name="REGEXP.QUOTE_CHARACTER">
             <value>
-                <option name="FOREGROUND" value="ff79c6"/>
+                <option name="FOREGROUND" value="#FF6B6B"/>
             </value>
         </option>
         <option name="REGEXP.REDUNDANT_ESCAPE">
             <value>
-                <option name="FOREGROUND" value="ff79c6"/>
+                <option name="FOREGROUND" value="#FF6B6B"/>
             </value>
         </option>
         <option name="RHTML_COMMENT_ID" baseAttributes="HTML_COMMENT"/>
@@ -1599,7 +1600,7 @@
         </option>
         <option name="RUBY_ESCAPE_SEQUENCE">
             <value>
-                <option name="FOREGROUND" value="ff79c6"/>
+                <option name="FOREGROUND" value="#FF6B6B"/>
             </value>
         </option>
         <option name="RUBY_GVAR">
@@ -1637,7 +1638,7 @@
         </option>
         <option name="RUBY_INVALID_ESCAPE_SEQUENCE">
             <value>
-                <option name="FOREGROUND" value="ff79c6"/>
+                <option name="FOREGROUND" value="#FF6B6B"/>
                 <option name="EFFECT_COLOR" value="ff5555"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
@@ -1679,7 +1680,7 @@
         </option>
         <option name="RUBY_SPECIFIC_CALL">
             <value>
-                <option name="FOREGROUND" value="ff79c6"/>
+                <option name="FOREGROUND" value="#FF6B6B"/>
             </value>
         </option>
         <option name="RUBY_SYMBOL">
@@ -1863,7 +1864,7 @@
         </option>
         <option name="VELOCITY_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="ff79c6"/>
+                <option name="FOREGROUND" value="#FF6B6B"/>
             </value>
         </option>
         <option name="VELOCITY_REFERENCE">
@@ -1923,12 +1924,12 @@
         </option>
         <option name="XML_TAG">
             <value>
-                <option name="FOREGROUND" value="ff79c6"/>
+                <option name="FOREGROUND" value="#FF6B6B"/>
             </value>
         </option>
         <option name="XML_TAG_NAME">
             <value>
-                <option name="FOREGROUND" value="ff79c6"/>
+                <option name="FOREGROUND" value="#FF6B6B"/>
             </value>
         </option>
         <option name="XPATH.FUNCTION" baseAttributes="DEFAULT_FUNCTION_CALL"/>
