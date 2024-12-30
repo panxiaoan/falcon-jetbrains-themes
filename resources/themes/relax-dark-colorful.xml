@@ -603,8 +603,8 @@
         </option>
         <option name="FOLDED_TEXT_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="#4d5c74"/>
-                <option name="BACKGROUND" value="#344359"/>
+                <option name="FOREGROUND" value="#969696"/>
+                <option name="BACKGROUND" value="#4d5c74"/>
             </value>
         </option>
         <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -950,13 +950,13 @@
         <option name="INLINE_PARAMETER_HINT">
             <value>
                 <option name="FOREGROUND" value="969696"/>
-                <option name="BACKGROUND" value="3b3b3b"/>
+                <option name="BACKGROUND" value="4d5c74"/>
             </value>
         </option>
         <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
             <value>
                 <option name="FOREGROUND" value="f8f8f2"/>
-                <option name="BACKGROUND" value="4d4d4d"/>
+                <option name="BACKGROUND" value="4d5c74"/>
             </value>
         </option>
         <option name="INTERFACE_NAME_ATTRIBUTES">
