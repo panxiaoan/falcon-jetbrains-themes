@@ -9,7 +9,7 @@
         <option name="CARET_COLOR" value="cccccc"/>
         <option name="CARET_ROW_COLOR" value="44475a"/>
         <option name="DELETED_LINES_COLOR" value="cd4644"/>
-        <option name="DOCUMENTATION_COLOR" value="233348"/>
+        <option name="DOCUMENTATION_COLOR" value="3a3d4c"/>
         <option name="DOC_COMMENT_LINK" value="#1D9A62"/>
         <option name="FILESTATUS_ADDED" value="c77dbb"/>
         <option name="FILESTATUS_COPIED" value="c77dbb"/>
@@ -50,8 +50,8 @@
         <option name="ScrollBar.background" value="233348"/>
         <option name="ScrollBar.Mac.thumbColor" value="344359"/>
         <option name="ScrollBar.Mac.thumbBorderColor" value="344359"/>
-        <option name="ScrollBar.Mac.hoverThumbColor" value="4d5c74"/>
-        <option name="ScrollBar.Mac.hoverThumbBorderColor" value="4d5c74"/>
+        <option name="ScrollBar.Mac.hoverThumbColor" value="034C38"/>
+        <option name="ScrollBar.Mac.hoverThumbBorderColor" value="034C38"/>
 
         <option name="TEARLINE_COLOR" value="6b7090"/>
         <option name="VCS_ANNOTATIONS_COLOR_1" value="8d64b0"/>
@@ -603,8 +603,8 @@
         </option>
         <option name="FOLDED_TEXT_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="#4d5c74"/>
-                <option name="BACKGROUND" value="#344359"/>
+                <option name="FOREGROUND" value="787e9f"/>
+                <option name="BACKGROUND" value="242632"/>
             </value>
         </option>
         <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
