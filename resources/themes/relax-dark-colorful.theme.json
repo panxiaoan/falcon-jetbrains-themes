@@ -4,18 +4,18 @@
   "author": "Xiaoan Pan",
   "editorScheme": "/themes/relax-dark-colorful.xml",
   "colors": {
-    "accentColor": "#1D9A62",
-    "secondaryAccentColor": "#1D9A62",
+    "accentColor": "#FF79C6",
+    "secondaryAccentColor": "#344359",
     "primaryForeground": "#f8f8f2",
     "primaryBackground": "#233348",
     "secondaryBackground": "#19273D",
     "hoverBackground": "#19273D",
-    "selectionBackground": "#0B843E",
-    "selectionInactiveBackground": "#034C38",
+    "selectionBackground": "#344359",
+    "selectionInactiveBackground": "#344359",
     "borderColor": "#344359",
     "separatorColor": "#344359",
-    "lineColor": "#0B843E",
-    "iconBackground": "#1D9A62",
+    "lineColor": "#4d5c74",
+    "iconBackground": "#28B366",
     "iconHoverBackground": "#0B843E",
     "tabColor": "#344359",
     "tabHoverBackground": "#4d5c74",
@@ -128,7 +128,7 @@
       "borderColor": "selectionBackground"
     },
     "Editor": {
-      "background": "secondaryBackground",
+      "background": "primaryBackground",
       "shortcutForeground": "accentColor"
     },
     "EditorPane.splitBorder": "#4d5c74",
@@ -177,7 +177,7 @@
     "NotificationsToolwindow": {
       "newNotification": {
         "hoverBackground": "secondaryBackground",
-        "background": "secondaryBackground"
+        "background": "primaryBackground"
       },
       "Notification": {
         "hoverBackground": "secondaryBackground"
@@ -188,7 +188,7 @@
     },
     "Plugins": {
       "SearchField": {
-        "background": "secondaryBackground"
+        "background": "primaryBackground"
       },
       "SectionHeader": {
         "foreground": "primaryForeground"
@@ -196,11 +196,11 @@
       "hoverBackground": "hoverBackground",
       "lightSelectionBackground": "secondaryBackground",
       "Button": {
-        "installBorderColor": "secondaryAccentColor",
-        "installForeground": "secondaryAccentColor",
-        "installBackground": "secondaryAccentColor",
-        "installFillForeground": "primaryBackground",
-        "installFillBackground": "secondaryAccentColor",
+        "installBorderColor": "iconHoverBackground",
+        "installForeground": "secondaryBackground",
+        "installBackground": "iconHoverBackground",
+        "installFillForeground": "secondaryBackground",
+        "installFillBackground": "iconHoverBackground",
         "installFocusedBackground": "primaryBackground",
         "updateBorderColor": "#5da3f4",
         "updateForeground": "primaryForeground",
@@ -224,16 +224,16 @@
     },
     "Popup": {
       "Header": {
-        "activeBackground": "secondaryBackground",
-        "inactiveBackground": "secondaryBackground"
+        "activeBackground": "primaryBackground",
+        "inactiveBackground": "primaryBackground"
       }
     },
     "ScrollBar": {
       "Mac": {
         "thumbColor": "#344359",
         "thumbBorderColor": "#344359",
-        "hoverThumbColor": "#034C38",
-        "hoverThumbBorderColor": "#034C38",
+        "hoverThumbColor": "#4d5c74",
+        "hoverThumbBorderColor": "#4d5c74",
         "Transparent": {
           "hoverThumbColor": "#344359"
         }
@@ -244,7 +244,7 @@
         "background": "secondaryBackground"
       },
       "Tab": {
-        "selectedBackground": "lineColor",
+        "selectedBackground": "#28B366",
         "selectedForeground": "primaryForeground"
       }
     },
@@ -262,19 +262,19 @@
       "tabSelectionHeight": 2,
       "focusColor": "hoverBackground",
       "hoverColor": "hoverBackground",
-      "underlineColor": "lineColor",
+      "underlineColor": "#28B366",
       "contentAreaColor": "hoverBackground"
     },
     "Table": {
       "gridColor": "#5d617a",
       "hoverBackground": "selectionBackground",
-      "lightSelectionBackground": "secondaryBackground"
+      "lightSelectionBackground": "primaryBackground"
     },
     "TableHeader": {
       "bottomSeparatorColor": "separatorColor"
     },
     "TextField": {
-      "background": "secondaryBackground"
+      "background": "primaryBackground"
     },
     "ToggleButton": {
       "onBackground": "#1D9A62",
@@ -293,7 +293,7 @@
         "inactiveBackground": "headerBackground"
       },
       "HeaderTab": {
-        "underlineColor": "lineColor",
+        "underlineColor": "iconHoverBackground",
         "underlineHeight": 2,
         "underlinedTabBackground": "tabColor",
         "underlinedTabInactiveBackground": "tabColor"
@@ -312,7 +312,7 @@
     "VersionControl": {
       "FileHistory": {
         "Commit": {
-          "selectedBranchBackground": "secondaryBackground"
+          "selectedBranchBackground": "primaryBackground"
         }
       },
       "GitLog": {
@@ -325,7 +325,7 @@
       "Log": {
         "Commit": {
           "hoveredBackground": "selectionBackground",
-          "currentBranchBackground": "secondaryBackground"
+          "currentBranchBackground": "primaryBackground"
         }
       },
       "RefLabel": {
@@ -342,7 +342,7 @@
         "selectionBackground": "secondaryBackground",
         "selectionInactiveBackground": "secondaryBackground",
         "actions": {
-          "background": "secondaryBackground"
+          "background": "primaryBackground"
         }
       },
       "Details": {
@@ -371,14 +371,14 @@
       "Objects.YellowDark": "#f1fa8c",
       "Objects.BlackText": "#282a35",
       "Checkbox.Foreground.Selected.Dark": "#f8f8f2",
-      "Checkbox.Border.Default.Dark": "#bd93f9",
-      "Checkbox.Border.Selected.Dark": "#bd93f9",
+      "Checkbox.Border.Default.Dark": "#344359",
+      "Checkbox.Border.Selected.Dark": "#344359",
       "Checkbox.Border.Disabled.Dark": "#6272a4",
       "Checkbox.Background.Default.Dark": "#6272a4",
       "Checkbox.Background.Disabled.Dark": "#233348",
-      "Checkbox.Focus.Wide.Dark": "#bd93f9",
-      "Checkbox.Focus.Thin.Selected.Dark": "#bd93f9",
-      "Checkbox.Focus.Thin.Default.Dark": "#bd93f9"
+      "Checkbox.Focus.Wide.Dark": "#344359",
+      "Checkbox.Focus.Thin.Selected.Dark": "#344359",
+      "Checkbox.Focus.Thin.Default.Dark": "#344359"
     }
   }
 }
