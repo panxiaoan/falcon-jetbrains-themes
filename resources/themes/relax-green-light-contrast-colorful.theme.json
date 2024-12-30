@@ -16,7 +16,7 @@
     "tabColor": "#E0F2F1",
     "lineColor": "#26A69A",
     "iconBackground": "#26A69A",
-    "tabHoverBackground": "#80CBC4",
+    "tabHoverBackground": "#b6ccd8",
     "searchMatchBackground": "#f6d4c8",
     "accentColor": "#1a536e",
     "hoverBackground": "#b6ccd8",
@@ -249,7 +249,7 @@
       "background": "sidePanelBackground"
     },
     "TabbedPane": {
-      "tabSelectionHeight": 1,
+      "tabSelectionHeight": 2,
       "focusColor": "hoverBackground",
       "hoverColor": "hoverBackground",
       "underlineColor": "lineColor",

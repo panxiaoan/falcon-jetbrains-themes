@@ -16,10 +16,10 @@
     "tabColor": "#c7dae1",
     "lineColor": "#26A69A",
     "iconBackground": "#26A69A",
-    "tabHoverBackground": "#80CBC4",
+    "tabHoverBackground": "#  b2babd",
     "searchMatchBackground": "#f6d4c8",
     "accentColor": "#1a536e",
-    "hoverBackground": "#b6ccd8",
+    "hoverBackground": "#dae2e5",
     "primaryForeground": "#1a536e",
     "error": "#ce5e5e",
     "errorFocused": "#cb4848",
@@ -146,7 +146,7 @@
       "underlinedTabBackground": "tabColor",
       "inactiveUnderlineColor": "lineColor",
       "underlineColor": "lineColor",
-      "underlineHeight": 3
+      "underlineHeight": 2
     },
     "Label": {
       "errorForeground": "error"
@@ -249,7 +249,7 @@
       "background": "sidePanelBackground"
     },
     "TabbedPane": {
-      "tabSelectionHeight": 1,
+      "tabSelectionHeight": 2,
       "focusColor": "hoverBackground",
       "hoverColor": "hoverBackground",
       "underlineColor": "lineColor",
@@ -284,7 +284,7 @@
       },
       "HeaderTab": {
         "underlineColor": "lineColor",
-        "underlineHeight": 3,
+        "underlineHeight": 2,
         "underlinedTabBackground": "tabColor",
         "underlinedTabInactiveBackground": "tabColor"
       }

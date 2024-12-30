@@ -247,7 +247,7 @@
       "background": "sidePanelBackground"
     },
     "TabbedPane": {
-      "tabSelectionHeight": 1,
+      "tabSelectionHeight": 2,
       "focusColor": "hoverBackground",
       "hoverColor": "hoverBackground",
       "underlineColor": "lineColor",
