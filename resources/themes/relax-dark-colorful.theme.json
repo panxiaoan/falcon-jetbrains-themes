@@ -4,21 +4,21 @@
   "author": "Xiaoan Pan",
   "editorScheme": "/themes/relax-dark-colorful.xml",
   "colors": {
-    "accentColor": "#ff79c6",
-    "secondaryAccentColor": "#19273D",
+    "accentColor": "#1D9A62",
+    "secondaryAccentColor": "#1D9A62",
     "primaryForeground": "#f8f8f2",
     "primaryBackground": "#233348",
     "secondaryBackground": "#19273D",
     "hoverBackground": "#19273D",
-    "selectionBackground": "#6272a4",
-    "selectionInactiveBackground": "#4e5a82",
-    "borderColor": "#19273D",
-    "separatorColor": "#19273D",
-    "tabColor": "#111D33",
-    "lineColor": "#50FA7B",
-    "iconBackground": "#0B843E",
-    "iconHoverBackground": "#034C38",
-    "tabHoverBackground": "#19273D",
+    "selectionBackground": "#0B843E",
+    "selectionInactiveBackground": "#034C38",
+    "borderColor": "#344359",
+    "separatorColor": "#344359",
+    "lineColor": "#0B843E",
+    "iconBackground": "#1D9A62",
+    "iconHoverBackground": "#0B843E",
+    "tabColor": "#344359",
+    "tabHoverBackground": "#4d5c74",
     "headerBackground": "#233348",
     "menuBackground": "#233348"
   },
@@ -36,7 +36,7 @@
       "separatorColor": "separatorColor"
     },
     "MainWindow.Tab": {
-      "selectedForeground": "#50FA7B",
+      "selectedForeground": "#1D9A62",
       "selectedBackground": "tabColor",
       "selectedInactiveBackground": "tabColor",
       "foreground": "primaryForeground",
@@ -45,9 +45,13 @@
       "hoverBackground": "tabHoverBackground",
       "separatorColor": "borderColor"
     },
+    "MemoryIndicator": {
+      "allocatedBackground": "#4d5c74",
+      "usedBackground": "#597391"
+    },
     "Borders": {
       "color": "borderColor",
-      "ContrastBorderColor": "borderColor"
+      "ContrastBorderColor": "separatorColor"
     },
     "ActionButton": {
       "hoverBackground": "iconHoverBackground",
@@ -73,10 +77,10 @@
       "foreground": "primaryForeground",
       "startBorderColor": "selectionBackground",
       "endBorderColor": "selectionBackground",
-      "startBackground": "#4f566d",
-      "endBackground": "#4f566d",
+      "startBackground": "#344359",
+      "endBackground": "#344359",
       "focusedBorderColor": "secondaryAccentColor",
-      "disabledBorderColor": "#4f566d",
+      "disabledBorderColor": "#344359",
       "default": {
         "foreground": "primaryForeground",
         "startBackground": "selectionBackground",
@@ -127,10 +131,11 @@
       "background": "secondaryBackground",
       "shortcutForeground": "accentColor"
     },
-    "EditorPane.splitBorder": "borderColor",
+    "EditorPane.splitBorder": "#4d5c74",
     "EditorTabs": {
       "background": "primaryBackground",
-      "underlinedTabBackground": "#060D22",
+      "hoverBackground": "tabHoverBackground",
+      "underlinedTabBackground": "tabColor",
       "inactiveUnderlineColor": "lineColor",
       "underlineColor": "lineColor",
       "underlineHeight": 2
@@ -166,7 +171,7 @@
         "errorBackground": "primaryBackground",
         "informativeForeground": "primaryForeground",
         "informativeBackground": "primaryBackground",
-        "informativeBorderColor": "#50fa7b"
+        "informativeBorderColor": "#1D9A62"
       }
     },
     "NotificationsToolwindow": {
@@ -193,7 +198,7 @@
       "Button": {
         "installBorderColor": "secondaryAccentColor",
         "installForeground": "secondaryAccentColor",
-        "installBackground": "primaryBackground",
+        "installBackground": "secondaryAccentColor",
         "installFillForeground": "primaryBackground",
         "installFillBackground": "secondaryAccentColor",
         "installFocusedBackground": "primaryBackground",
@@ -214,8 +219,8 @@
       "progressColor": "accentColor",
       "indeterminateStartColor": "#93b8f9",
       "indeterminateEndColor": "secondaryAccentColor",
-      "passedColor": "#50fa7b",
-      "passedEndColor": "#50fa7b"
+      "passedColor": "#1D9A62",
+      "passedEndColor": "#1D9A62"
     },
     "Popup": {
       "Header": {
@@ -251,7 +256,7 @@
       "separatorColor": "separatorColor"
     },
     "SidePanel": {
-      "background": "secondaryBackground"
+      "background": "primaryBackground"
     },
     "TabbedPane": {
       "tabSelectionHeight": 2,
@@ -272,7 +277,7 @@
       "background": "secondaryBackground"
     },
     "ToggleButton": {
-      "onBackground": "#50fa7b",
+      "onBackground": "#1D9A62",
       "onForeground": "hoverBackground",
       "offBackground": "selectionBackground",
       "offForeground": "hoverBackground",
@@ -312,7 +317,7 @@
       },
       "GitLog": {
         "headIconColor": "#f1fa8c",
-        "localBranchIconColor": "#50fa7b",
+        "localBranchIconColor": "#1D9A62",
         "remoteBranchIconColor": "secondaryAccentColor",
         "tagIconColor": "accentColor",
         "otherIconColor": "#8be9fd"
@@ -329,7 +334,7 @@
     },
     "WelcomeScreen": {
       "SidePanel": {
-        "background": "secondaryBackground"
+        "background": "primaryBackground"
       },
       "separatorColor": "separatorColor",
       "Projects": {
