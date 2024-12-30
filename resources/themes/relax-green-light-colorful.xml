@@ -438,7 +438,7 @@
         </option>
         <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
             <value>
-                <option name="BACKGROUND" value="242632"/>
+                <option name="BACKGROUND" value="383A42"/>
             </value>
         </option>
         <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -1077,7 +1077,7 @@
         </option>
         <option name="JSP_DIRECTIVE_BACKGROUND">
             <value>
-                <option name="BACKGROUND" value="242632"/>
+                <option name="BACKGROUND" value="383A42"/>
             </value>
         </option>
         <option name="JSP_DIRECTIVE_NAME">
@@ -1088,7 +1088,7 @@
         <option name="JSP_SCRIPTING_BACKGROUND">
             <value>
                 <option name="FOREGROUND" value="643CB8"/>
-                <option name="BACKGROUND" value="242632"/>
+                <option name="BACKGROUND" value="383A42"/>
             </value>
         </option>
         <option name="JUPYTER_CELL_MARKER">
@@ -1688,7 +1688,7 @@
         <option name="RUBY_PARAMETER_ID" baseAttributes="DEFAULT_PARAMETER"/>
         <option name="RUBY_REGEXP">
             <value>
-                <option name="BACKGROUND" value="242632"/>
+                <option name="BACKGROUND" value="383A42"/>
             </value>
         </option>
         <option name="RUBY_SPECIFIC_CALL">
@@ -1820,7 +1820,7 @@
         <option name="VELOCITY_SCRIPTING_BACKGROUND">
             <value>
                 <option name="FOREGROUND" value="643CB8"/>
-                <option name="BACKGROUND" value="242632"/>
+                <option name="BACKGROUND" value="383A42"/>
             </value>
         </option>
 
