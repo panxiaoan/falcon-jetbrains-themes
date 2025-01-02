@@ -21,7 +21,7 @@
         Falcon Relax Eyes Theme 可能是个更好的选择。<br/>
 
         <br/>
-        <b>Basic features in Falcon Relax Eyes Themes:</b>
+        <b>Basic features in Falcon Relax Eyes Themes :</b>
         <ul>
             <li>Work with both **New UI** and **Classic UI**</li>
             <li>Well-balanced colors, easy on eyes</li>
@@ -31,7 +31,7 @@
         </ul>
 
         <br/>
-        <b>Falcon Relax Eyes includes 7 themes:</b>
+        <b>Falcon Relax Eyes Light themes (for bright environments):</b>
         <ul>
             <li>Relax Celadon Light Colorful</li>
             <li>Relax Green Light</li>
@@ -40,6 +40,12 @@
             <li>Relax Green Light Contrast Colorful</li>
             <li>Relax Grey Light</li>
             <li>Relax Grey Light Colorful</li>
+        </ul>
+
+        <br/>
+        <b>Falcon Relax Eyes Dark themes (for low-light environments):</b>
+        <ul>
+            <li>Relax Dark Colorful</li>
         </ul>
 
         <br/>
@@ -52,6 +58,11 @@
     </description>
 
     <change-notes><![CDATA[
+        <b>1.5.0(250110)</b>
+        <ul>
+            <li>feat: added new Dark theme for low-light environments</li>
+        </ul>
+
         <b>1.4.2(241231) Happy New Year 🎉🎉🎉</b>
         <ul>
             <li>feat: all colorful theme keywords are color optimized to reduce interference</li>

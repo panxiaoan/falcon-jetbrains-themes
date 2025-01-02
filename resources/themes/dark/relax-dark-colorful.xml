@@ -7,7 +7,7 @@
         <option name="ADDED_LINES_COLOR" value="48b764"/>
         <option name="ANNOTATIONS_COLOR" value="f8f8f2"/>
         <option name="CARET_COLOR" value="cccccc"/>
-        <option name="CARET_ROW_COLOR" value="#344359"/>
+        <option name="CARET_ROW_COLOR" value="#44475a"/>
         <option name="DELETED_LINES_COLOR" value="cd4644"/>
         <option name="DOCUMENTATION_COLOR" value="233348"/>
         <option name="DOC_COMMENT_LINK" value="#1D9A62"/>
@@ -43,7 +43,7 @@
         <option name="METHOD_SEPARATORS_COLOR" value="#344359"/>
         <option name="SELECTED_INDENT_GUIDE" value="a8b0e2"/>
         <option name="SELECTED_TEARLINE_COLOR" value="a8b0e2"/>
-        <option name="SELECTION_BACKGROUND" value="#19273D"/>
+        <option name="SELECTION_BACKGROUND" value="#005452"/>
         <option name="SEPARATOR_ABOVE_COLOR" value="6b7090"/>
         <option name="SEPARATOR_BELOW_COLOR" value="6b7090"/>
 
