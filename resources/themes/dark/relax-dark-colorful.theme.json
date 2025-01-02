@@ -15,6 +15,7 @@
     "borderColor": "#344359",
     "separatorColor": "#344359",
     "lineColor": "#4d5c74",
+    "underlineColor": "#28B366",
     "iconBackground": "#28B366",
     "iconHoverBackground": "#0B843E",
     "tabColor": "#344359",
@@ -36,10 +37,10 @@
       "separatorColor": "separatorColor"
     },
     "MainWindow.Tab": {
-      "selectedForeground": "#1D9A62",
+      "selectedForeground": "underlineColor",
       "selectedBackground": "tabColor",
       "selectedInactiveBackground": "tabColor",
-      "foreground": "primaryForeground",
+      "foreground": "#BBBBBB",
       "background": "menuBackground",
       "hoverForeground": "primaryForeground",
       "hoverBackground": "tabHoverBackground",
@@ -93,7 +94,7 @@
     },
     "Counter": {
       "foreground": "primaryBackground",
-      "background": "#2fc864"
+      "background": "underlineColor"
     },
     "CheckBoxMenuItem": {
       "acceleratorSelectionForeground": "accentColor"
@@ -171,7 +172,7 @@
         "errorBackground": "primaryBackground",
         "informativeForeground": "primaryForeground",
         "informativeBackground": "primaryBackground",
-        "informativeBorderColor": "#1D9A62"
+        "informativeBorderColor": "underlineColor"
       }
     },
     "NotificationsToolwindow": {
@@ -219,8 +220,8 @@
       "progressColor": "accentColor",
       "indeterminateStartColor": "#93b8f9",
       "indeterminateEndColor": "secondaryAccentColor",
-      "passedColor": "#1D9A62",
-      "passedEndColor": "#1D9A62"
+      "passedColor": "underlineColor",
+      "passedEndColor": "underlineColor"
     },
     "Popup": {
       "Header": {
@@ -244,7 +245,7 @@
         "background": "secondaryBackground"
       },
       "Tab": {
-        "selectedBackground": "#28B366",
+        "selectedBackground": "underlineColor",
         "selectedForeground": "primaryForeground"
       }
     },
@@ -262,7 +263,7 @@
       "tabSelectionHeight": 2,
       "focusColor": "hoverBackground",
       "hoverColor": "hoverBackground",
-      "underlineColor": "#28B366",
+      "underlineColor": "underlineColor",
       "contentAreaColor": "hoverBackground"
     },
     "Table": {
@@ -277,7 +278,7 @@
       "background": "primaryBackground"
     },
     "ToggleButton": {
-      "onBackground": "#1D9A62",
+      "onBackground": "underlineColor",
       "onForeground": "hoverBackground",
       "offBackground": "selectionBackground",
       "offForeground": "hoverBackground",
@@ -317,7 +318,7 @@
       },
       "GitLog": {
         "headIconColor": "#f1fa8c",
-        "localBranchIconColor": "#1D9A62",
+        "localBranchIconColor": "underlineColor",
         "remoteBranchIconColor": "secondaryAccentColor",
         "tagIconColor": "accentColor",
         "otherIconColor": "#8be9fd"
