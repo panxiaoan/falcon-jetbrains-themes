@@ -16,10 +16,10 @@
     "tabColor": "#c7dae1",
     "lineColor": "#26A69A",
     "iconBackground": "#26A69A",
-    "tabHoverBackground": "#E4F3F6",
+    "tabHoverBackground": "#c7dae1",
     "searchMatchBackground": "#f6d4c8",
     "accentColor": "#1a536e",
-    "hoverBackground": "#b6ccd8",
+    "hoverBackground": "#c7dae1",
     "primaryForeground": "#1a536e",
     "error": "#ce5e5e",
     "errorFocused": "#cb4848",
@@ -286,7 +286,8 @@
         "underlineColor": "lineColor",
         "underlineHeight": 2,
         "underlinedTabBackground": "tabColor",
-        "underlinedTabInactiveBackground": "tabColor"
+        "underlinedTabInactiveBackground": "tabColor",
+        "hoverBackground": "hoverBackground"
       }
     },
     "Tree": {

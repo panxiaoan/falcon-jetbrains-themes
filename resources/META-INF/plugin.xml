@@ -45,6 +45,7 @@
         <br/>
         <b>Falcon Relax Eyes Dark themes (for low-light environments):</b>
         <ul>
+            <li>Relax Dark Green Colorful</li>
             <li>Relax Dark Colorful</li>
         </ul>
 
@@ -60,7 +61,8 @@
     <change-notes><![CDATA[
         <b>1.5.0(250110)</b>
         <ul>
-            <li>feat: added new Dark theme for low-light environments</li>
+            <li>feat: added new 'Dark Green' theme for low-light environments</li>
+            <li>feat: added new 'Dark' theme for low-light environments</li>
         </ul>
 
         <b>1.4.2(241231) Happy New Year 🎉🎉🎉</b>
@@ -127,6 +129,7 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
+        <!-- Light Theme -->
         <themeProvider id="relax-light" path="/themes/relax-green-light.theme.json"/>
         <themeProvider id="relax-green-light-colorful" path="/themes/relax-green-light-colorful.theme.json"/>
 
@@ -138,6 +141,8 @@
 
         <themeProvider id="relax-celadon-light-colorful" path="/themes/relax-celadon-light-colorful.theme.json"/>
 
+        <!-- Dark Theme -->
+        <themeProvider id="relax-dark-green-colorful" path="/themes/dark/relax-dark-green-colorful.theme.json"/>
         <themeProvider id="relax-dark-colorful" path="/themes/dark/relax-dark-colorful.theme.json"/>
     </extensions>
 </idea-plugin>

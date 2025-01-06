@@ -13,7 +13,7 @@
     "inputBackground": "#e6eaea",
     "selectionBackground": "#d5e2e8",
     "selectionInactiveBackground": "#d5e2e8",
-    "tabColor": "#fafeff",
+    "tabColor": "#d5e2e8",
     "lineColor": "#009cad",
     "iconBackground": "#009cad",
     "tabHoverBackground": "#d5e2e8",
@@ -144,7 +144,7 @@
       "underlinedTabBackground": "tabColor",
       "inactiveUnderlineColor": "lineColor",
       "underlineColor": "lineColor",
-      "underlineHeight": 3
+      "underlineHeight": 2
     },
     "Label": {
       "errorForeground": "error"
@@ -247,7 +247,7 @@
       "background": "sidePanelBackground"
     },
     "TabbedPane": {
-      "tabSelectionHeight": 1,
+      "tabSelectionHeight": 2,
       "focusColor": "hoverBackground",
       "hoverColor": "hoverBackground",
       "underlineColor": "lineColor",
@@ -282,9 +282,10 @@
       },
       "HeaderTab": {
         "underlineColor": "lineColor",
-        "underlineHeight": 3,
+        "underlineHeight": 2,
         "underlinedTabBackground": "tabColor",
-        "underlinedTabInactiveBackground": "tabColor"
+        "underlinedTabInactiveBackground": "tabColor",
+        "hoverBackground": "tabHoverBackground"
       }
     },
     "Tree": {

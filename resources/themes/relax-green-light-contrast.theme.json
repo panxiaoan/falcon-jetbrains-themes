@@ -13,13 +13,13 @@
     "inputBackground": "#D0EBEA",
     "selectionBackground": "#F0FFFF",
     "selectionInactiveBackground": "#F0FFFF",
-    "tabColor": "#E0F2F1",
+    "tabColor": "#F0FFFF",
     "lineColor": "#26A69A",
     "iconBackground": "#26A69A",
-    "tabHoverBackground": "#80CBC4",
+    "tabHoverBackground": "#F0FFFF",
     "searchMatchBackground": "#f6d4c8",
     "accentColor": "#1a536e",
-    "hoverBackground": "#b6ccd8",
+    "hoverBackground": "#F0FFFF",
     "primaryForeground": "#1a536e",
     "error": "#ce5e5e",
     "errorFocused": "#cb4848",
@@ -43,7 +43,7 @@
     },
     "FileColor": {
       "Yellow": "borderColor",
-      "Green": "editorBackground"
+      "Green": "d6e8e7"
     },
     "ScrollBar": {
       "Mac": {
@@ -146,7 +146,7 @@
       "underlinedTabBackground": "tabColor",
       "inactiveUnderlineColor": "lineColor",
       "underlineColor": "lineColor",
-      "underlineHeight": 3
+      "underlineHeight": 2
     },
     "Label": {
       "errorForeground": "error"
@@ -249,7 +249,7 @@
       "background": "sidePanelBackground"
     },
     "TabbedPane": {
-      "tabSelectionHeight": 1,
+      "tabSelectionHeight": 2,
       "focusColor": "hoverBackground",
       "hoverColor": "hoverBackground",
       "underlineColor": "lineColor",
@@ -284,9 +284,10 @@
       },
       "HeaderTab": {
         "underlineColor": "lineColor",
-        "underlineHeight": 3,
+        "underlineHeight": 2,
         "underlinedTabBackground": "tabColor",
-        "underlinedTabInactiveBackground": "tabColor"
+        "underlinedTabInactiveBackground": "tabColor",
+        "hoverBackground": "tabHoverBackground"
       }
     },
     "Tree": {

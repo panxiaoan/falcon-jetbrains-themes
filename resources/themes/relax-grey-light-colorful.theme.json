@@ -13,10 +13,10 @@
     "inputBackground": "#e6eaea",
     "selectionBackground": "#d5e2e8",
     "selectionInactiveBackground": "#d5e2e8",
-    "tabColor": "#fafeff",
+    "tabColor": "#d5e2e8",
     "lineColor": "#009cad",
     "iconBackground": "#009cad",
-    "tabHoverBackground": "#e6eaea",
+    "tabHoverBackground": "#d5e2e8",
     "searchMatchBackground": "#f6d4c8",
     "accentColor": "#1a536e",
     "hoverBackground": "#d5e2e8",
@@ -144,7 +144,7 @@
       "underlinedTabBackground": "tabColor",
       "inactiveUnderlineColor": "lineColor",
       "underlineColor": "lineColor",
-      "underlineHeight": 3
+      "underlineHeight": 2
     },
     "Label": {
       "errorForeground": "error"
@@ -282,9 +282,10 @@
       },
       "HeaderTab": {
         "underlineColor": "lineColor",
-        "underlineHeight": 3,
+        "underlineHeight": 2,
         "underlinedTabBackground": "tabColor",
-        "underlinedTabInactiveBackground": "tabColor"
+        "underlinedTabInactiveBackground": "tabColor",
+        "hoverBackground": "tabHoverBackground"
       }
     },
     "Tree": {
