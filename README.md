@@ -21,7 +21,7 @@ Falcon Relax Eyes theme might be a better choice for you.<br/>
 - Unified and clean themes style
 - Lightweight and low impact on IDE performance
 
-**Falcon Relax Eyes includes 7 themes**
+**Falcon Relax Eyes Light themes (for bright environments):**
 
 - Relax Celadon Light Colorful
 - Relax Green Light
@@ -30,6 +30,11 @@ Falcon Relax Eyes theme might be a better choice for you.<br/>
 - Relax Green Light Contrast Colorful
 - Relax Grey Light
 - Relax Grey Light Colorful
+
+**Falcon Relax Eyes Dark themes (for low-light environments):**
+
+- Relax Dark Green Colorful
+- Relax Dark Colorful
 
 <a href="https://github.com/panxiaoan/falcon-jetbrains-themes/issues">Report an issue</a>
 
@@ -67,6 +72,14 @@ Falcon Relax Eyes theme might be a better choice for you.<br/>
 4. Relax Celadon Light Colorful
 
     <img src="./assets/relax-celadon-light-colorful.jpg" alt="Relax Celadon Light Colorful" style="border: 1px solid #CED0D6;">
+
+5. Relax Dark Green Colorful
+
+    <img src="./assets/relax-dark-green-colorful.jpg" alt="Relax Celadon Light Colorful" style="border: 1px solid #CED0D6;">
+
+6. Relax Dark Colorful
+
+    <img src="./assets/relax-dark-colorful.jpg" alt="Relax Celadon Light Colorful" style="border: 1px solid #CED0D6;">
 
 ## License
 
