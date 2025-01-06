@@ -59,6 +59,12 @@
     </description>
 
     <change-notes><![CDATA[
+        <b>1.5.1(250117)</b>
+        <ul>
+            <li>improve: remove the italics of default_parameter</li>
+            <li>improve: optimize xml、json、yaml color setting</li>
+        </ul>
+
         <b>1.5.0(250106)</b>
         <ul>
             <li>feat: added new 'Dark Green' theme for low-light environments</li>
