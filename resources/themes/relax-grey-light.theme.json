@@ -48,11 +48,11 @@
     "ScrollBar": {
       "Mac": {
         "thumbColor": "borderColor",
-        "hoverThumbColor": "hoverBackground",
+        "hoverThumbColor": "d5e2e8",
         "thumbBorderColor": "borderColor",
-        "hoverThumbBorderColor": "hoverBackground",
+        "hoverThumbBorderColor": "d5e2e8",
         "Transparent": {
-          "hoverThumbColor": "hoverBackground"
+          "hoverThumbColor": "d5e2e8"
         }
       }
     },
