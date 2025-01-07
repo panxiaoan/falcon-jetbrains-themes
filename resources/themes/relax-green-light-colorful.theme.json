@@ -13,9 +13,9 @@
     "inputBackground": "#c6e1e0",
     "selectionBackground": "#F0FFFF",
     "selectionInactiveBackground": "#F0FFFF",
-    "tabColor": "#F0FFFF",
-    "lineColor": "#26A69A",
-    "iconBackground": "#26A69A",
+    "tabColor": "#d6e8e7",
+    "lineColor": "#70A6AE",
+    "iconBackground": "#70A6AE",
     "tabHoverBackground": "#F0FFFF",
     "searchMatchBackground": "#f6d4c8",
     "accentColor": "#1a536e",
@@ -71,7 +71,7 @@
     },
     "MemoryIndicator": {
       "allocatedBackground": "borderColor",
-      "usedBackground": "#80CBC4"
+      "usedBackground": "70A6AE"
     },
     "Borders": {
       "color": "borderColor",
