@@ -11,15 +11,15 @@
     "sidePanelBackground": "#f0f4f4",
     "headerBackground": "#f0f4f4",
     "inputBackground": "#e6eaea",
-    "selectionBackground": "#d5e2e8",
-    "selectionInactiveBackground": "#d5e2e8",
-    "tabColor": "#d5e2e8",
-    "lineColor": "#009cad",
-    "iconBackground": "#009cad",
-    "tabHoverBackground": "#d5e2e8",
+    "selectionBackground": "#DFE1E5",
+    "selectionInactiveBackground": "#DFE1E5",
+    "tabColor": "#DFE1E5",
+    "lineColor": "#739FA8",
+    "iconBackground": "#739FA8",
+    "tabHoverBackground": "#DFE1E5",
     "searchMatchBackground": "#f6d4c8",
     "accentColor": "#1a536e",
-    "hoverBackground": "#d5e2e8",
+    "hoverBackground": "#DFE1E5",
     "primaryForeground": "#1a536e",
     "error": "#ce5e5e",
     "errorFocused": "#cb4848",
@@ -71,7 +71,7 @@
     },
     "MemoryIndicator": {
       "allocatedBackground": "#DFE1E5",
-      "usedBackground": "#c9dafb"
+      "usedBackground": "#A8C6C9"
     },
     "Borders": {
       "color": "borderColor",
@@ -89,7 +89,7 @@
       "endBorderColor": "borderColor",
       "startBackground": "inputBackground",
       "endBackground": "inputBackground",
-      "focusedBorderColor": "lineColor",
+      "focusedBorderColor": "borderColor",
       "disabledBorderColor": "borderColor",
       "default": {
         "foreground": "primaryForeground",
@@ -97,8 +97,8 @@
         "endBackground": "inputBackground",
         "startBorderColor": "borderColor",
         "endBorderColor": "borderColor",
-        "focusColor": "lineColor",
-        "focusedBorderColor": "lineColor"
+        "focusColor": "borderColor",
+        "focusedBorderColor": "borderColor"
       }
     },
     "Counter": {
@@ -111,7 +111,7 @@
         "background": "inputBackground",
         "nonEditableBackground": "inputBackground",
         "disabledIconColor": "selectionInactiveBackground",
-        "iconColor": "lineColor"
+        "iconColor": "borderColor"
       },
       "selectionBackground": "selectionBackground",
       "nonEditableBackground": "inputBackground"
@@ -122,7 +122,7 @@
       "matchForeground": "accentColor"
     },
     "Component": {
-      "focusColor": "lineColor",
+      "focusColor": "borderColor",
       "borderColor": "borderColor",
       "focusedBorderColor": "selectionBackground",
       "disabledBorderColor": "selectionInactiveBackground",

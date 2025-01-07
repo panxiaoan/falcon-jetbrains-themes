@@ -13,8 +13,8 @@
     "inputBackground": "#dae2e5",
     "selectionBackground": "#c7dae1",
     "selectionInactiveBackground": "#c7dae1",
-    "tabColor": "#c7dae1",
-    "lineColor": "#26A69A",
+    "tabColor": "#dae2e5",
+    "lineColor": "#6D8EA4",
     "iconBackground": "#26A69A",
     "tabHoverBackground": "#c7dae1",
     "searchMatchBackground": "#f6d4c8",
@@ -89,7 +89,7 @@
       "endBorderColor": "borderColor",
       "startBackground": "inputBackground",
       "endBackground": "inputBackground",
-      "focusedBorderColor": "lineColor",
+      "focusedBorderColor": "borderColor",
       "disabledBorderColor": "borderColor",
       "default": {
         "foreground": "primaryForeground",
@@ -97,8 +97,8 @@
         "endBackground": "inputBackground",
         "startBorderColor": "borderColor",
         "endBorderColor": "borderColor",
-        "focusColor": "lineColor",
-        "focusedBorderColor": "lineColor"
+        "focusColor": "borderColor",
+        "focusedBorderColor": "borderColor"
       }
     },
     "Counter": {
@@ -111,7 +111,7 @@
         "background": "inputBackground",
         "nonEditableBackground": "inputBackground",
         "disabledIconColor": "selectionInactiveBackground",
-        "iconColor": "lineColor"
+        "iconColor": "borderColor"
       },
       "selectionBackground": "selectionBackground",
       "nonEditableBackground": "inputBackground"
@@ -123,7 +123,7 @@
       "matchForeground": "accentColor"
     },
     "Component": {
-      "focusColor": "lineColor",
+      "focusColor": "borderColor",
       "borderColor": "borderColor",
       "focusedBorderColor": "selectionBackground",
       "disabledBorderColor": "selectionInactiveBackground",
