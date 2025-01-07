@@ -13,13 +13,13 @@
     "inputBackground": "#dae2e5",
     "selectionBackground": "#c7dae1",
     "selectionInactiveBackground": "#c7dae1",
-    "tabColor": "#dae2e5",
-    "lineColor": "#6D8EA4",
+    "tabColor": "#D8E8EC",
+    "lineColor": "#70A6AE",
     "iconBackground": "#26A69A",
-    "tabHoverBackground": "#c7dae1",
+    "tabHoverBackground": "#A3CED0",
     "searchMatchBackground": "#f6d4c8",
     "accentColor": "#1a536e",
-    "hoverBackground": "#c7dae1",
+    "hoverBackground": "#A3CED0",
     "primaryForeground": "#1a536e",
     "error": "#ce5e5e",
     "errorFocused": "#cb4848",
@@ -47,12 +47,12 @@
     },
     "ScrollBar": {
       "Mac": {
-        "thumbColor": "#DFE1E5",
+        "thumbColor": "#dae2e5",
         "hoverThumbColor": "#c3dbe5bf",
-        "thumbBorderColor": "#DFE1E5",
+        "thumbBorderColor": "#dae2e5",
         "hoverThumbBorderColor": "#c3dbe5bf",
         "Transparent": {
-          "hoverThumbColor": "#DFE1E5"
+          "hoverThumbColor": "#dae2e5"
         }
       }
     },
