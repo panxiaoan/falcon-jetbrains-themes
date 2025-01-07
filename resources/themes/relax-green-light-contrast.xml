@@ -14,9 +14,9 @@
 
         <option name="ScrollBar.background" value="E0F2F1"/>
         <option name="ScrollBar.Mac.thumbColor" value="c6e1e0"/>
-        <option name="ScrollBar.Mac.hoverThumbColor" value="F0FFFF"/>
+        <option name="ScrollBar.Mac.hoverThumbColor" value="E9F7F5"/>
         <option name="ScrollBar.Mac.thumbBorderColor" value="E0F2F1"/>
-        <option name="ScrollBar.Mac.hoverThumbBorderColor" value="F0FFFF"/>
+        <option name="ScrollBar.Mac.hoverThumbBorderColor" value="E9F7F5"/>
 
         <option name="ADDED_LINES_COLOR" value="7fc784"/>
         <option name="ANNOTATIONS_COLOR" value="5a5d6b"/>
