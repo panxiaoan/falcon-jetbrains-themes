@@ -136,7 +136,7 @@
     "EditorTabs": {
       "background": "primaryBackground",
       "hoverBackground": "tabHoverBackground",
-      "underlinedTabBackground": "tabColor",
+      "underlinedTabBackground": "primaryBackground",
       "inactiveUnderlineColor": "lineColor",
       "underlineColor": "lineColor",
       "underlineHeight": 2
