@@ -296,8 +296,8 @@
       "HeaderTab": {
         "underlineColor": "iconHoverBackground",
         "underlineHeight": 2,
-        "underlinedTabBackground": "tabColor",
-        "underlinedTabInactiveBackground": "tabColor",
+        "underlinedTabBackground": "headerBackground",
+        "underlinedTabInactiveBackground": "headerBackground",
         "hoverBackground": "tabHoverBackground"
       }
     },
