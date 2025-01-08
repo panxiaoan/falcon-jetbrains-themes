@@ -13,7 +13,7 @@
     "inputBackground": "#dae2e5",
     "selectionBackground": "#c7dae1",
     "selectionInactiveBackground": "#c7dae1",
-    "tabColor": "#D8E8EC",
+    "tabColor": "#cedee2",
     "lineColor": "#70A6AE",
     "iconBackground": "#26A69A",
     "tabHoverBackground": "#A3CED0",
@@ -71,7 +71,7 @@
     },
     "MemoryIndicator": {
       "allocatedBackground": "#D3D5DB",
-      "usedBackground": "#c3dbe5bf"
+      "usedBackground": "#A3CED0"
     },
     "Borders": {
       "color": "borderColor",
