@@ -67,19 +67,39 @@
         <!-- 小括号 () -->
         <option name="DEFAULT_PARENTHS">
             <value>
-                <option name="FOREGROUND" value="#BCBEC4"/>
+                <option name="FOREGROUND" value="#b2cde2"/>
             </value>
         </option>
         <!-- 大括号 {} -->
         <option name="DEFAULT_BRACES">
             <value>
-                <option name="FOREGROUND" value="#BCBEC4"/>
+                <option name="FOREGROUND" value="#b2cde2"/>
             </value>
         </option>
         <!-- 中括号 [] -->
         <option name="DEFAULT_BRACKETS">
             <value>
-                <option name="FOREGROUND" value="#BCBEC4"/>
+                <option name="FOREGROUND" value="#b2cde2"/>
+            </value>
+        </option>
+        <option name="DEFAULT_OPERATION_SIGN">
+            <value>
+                <option name="FOREGROUND" value="#b2cde2"/>
+            </value>
+        </option>
+        <option name="DEFAULT_DOT">
+            <value>
+                <option name="FOREGROUND" value="#b2cde2"/>
+            </value>
+        </option>
+        <option name="DEFAULT_SEMICOLON">
+            <value>
+                <option name="FOREGROUND" value="#b2cde2"/>
+            </value>
+        </option>
+        <option name="DEFAULT_COMMA">
+            <value>
+                <option name="FOREGROUND" value="#b2cde2"/>
             </value>
         </option>
 
@@ -1397,7 +1417,7 @@
         </option>
         <option name="PY.BRACES">
             <value>
-                <option name="FOREGROUND" value="#BCBEC4"/>
+                <option name="FOREGROUND" value="#b2cde2"/>
             </value>
         </option>
         <option name="PY.BRACKETS">
@@ -1484,7 +1504,7 @@
         </option>
         <option name="PY.PARENTHS">
             <value>
-                <option name="FOREGROUND" value="BCBEC4"/>
+                <option name="FOREGROUND" value="b2cde2"/>
             </value>
         </option>
         <option name="PY.PREDEFINED_DEFINITION">
@@ -1792,7 +1812,7 @@
         </option>
         <option name="TEXT">
             <value>
-                <option name="FOREGROUND" value="bcbec4"/>
+                <option name="FOREGROUND" value="b2cde2"/>
                 <option name="BACKGROUND" value="1e1f22"/>
             </value>
         </option>
