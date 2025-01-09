@@ -14,7 +14,7 @@
     "selectionInactiveBackground": "#344359",
     "borderColor": "#344359",
     "separatorColor": "#344359",
-    "lineColor": "#4d5c74",
+    "lineColor": "#5f6e86",
     "underlineColor": "#28B366",
     "iconBackground": "#28B366",
     "iconHoverBackground": "#0B843E",
@@ -145,7 +145,7 @@
       "Blue": "#344f54",
       "Green": "#344535",
       "Orange": "#533f30",
-      "Yellow": "#4f4b41",
+      "Yellow": "#3A3A00",
       "Rose": "#4c273c",
       "Violet": "#382b4a"
     },
@@ -309,7 +309,7 @@
     },
     "ValidationTooltip": {
       "errorBackground": "#4c273c",
-      "warningBackground": "#4f4b41"
+      "warningBackground": "#3A3A00"
     },
     "VersionControl": {
       "FileHistory": {

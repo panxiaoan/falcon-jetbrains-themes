@@ -19,8 +19,8 @@
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff5555"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff5555"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff5555"/>
-        <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="cf8e6d"/>
-        <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="f1fa8c"/>
+        <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c58564"/>
+        <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="A9B346"/>
         <option name="FILESTATUS_IDEA_SVN_REPLACED" value="9876AA"/>
         <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080"/>
         <option name="FILESTATUS_MERGED" value="9876AA"/>
@@ -105,7 +105,7 @@
         </option>
         <option name="Anotation attribute name">
             <value>
-                <option name="FOREGROUND" value="cf8e6d"/>
+                <option name="FOREGROUND" value="c58564"/>
             </value>
         </option>
         <option name="BAD_CHARACTER">
@@ -263,7 +263,7 @@
         </option>
         <option name="CONSOLE_YELLOW_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="f1fa8c"/>
+                <option name="FOREGROUND" value="A9B346"/>
             </value>
         </option>
         <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
@@ -319,7 +319,7 @@
         </option>
         <option name="CSS.URL">
             <value>
-                <option name="FOREGROUND" value="cf8e6d"/>
+                <option name="FOREGROUND" value="c58564"/>
             </value>
         </option>
         <option name="CTRL_CLICKABLE">
@@ -360,7 +360,7 @@
         <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING"/>
         <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="cf8e6d"/>
+                <option name="FOREGROUND" value="c58564"/>
             </value>
         </option>
         <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES"/>
@@ -447,8 +447,8 @@
         </option>
         <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
             <value>
-                <option name="FOREGROUND" value="f1fa8c"/>
-                <option name="EFFECT_COLOR" value="f1fa8c"/>
+                <option name="FOREGROUND" value="A9B346"/>
+                <option name="EFFECT_COLOR" value="A9B346"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
@@ -459,7 +459,7 @@
         </option>
         <option name="DEFAULT_INSTANCE_FIELD">
             <value>
-                <option name="FOREGROUND" value="cf8e6d"/>
+                <option name="FOREGROUND" value="c58564"/>
             </value>
         </option>
         <option name="DEFAULT_INSTANCE_METHOD">
@@ -532,18 +532,6 @@
 
         <option name="DEFAULT_SEMICOLON">
             <value/>
-        </option>
-        <option name="DEFAULT_STATIC_FIELD">
-            <value>
-                <option name="FOREGROUND" value="9876AA"/>
-                <option name="FONT_TYPE" value="2"/>
-            </value>
-        </option>
-        <option name="DEFAULT_STATIC_METHOD">
-            <value>
-                <option name="FOREGROUND" value="9876AA"/>
-                <option name="FONT_TYPE" value="2"/>
-            </value>
         </option>
         <option name="DEFAULT_STRING">
             <value>
@@ -647,7 +635,7 @@
         </option>
         <option name="GO_BUILTIN_FUNCTION">
             <value>
-                <option name="FOREGROUND" value="cf8e6d"/>
+                <option name="FOREGROUND" value="c58564"/>
             </value>
         </option>
         <option name="GO_BUILTIN_FUNCTION_CALL">
@@ -824,12 +812,12 @@
         </option>
         <option name="GO_STRUCT_EXPORTED_MEMBER">
             <value>
-                <option name="FOREGROUND" value="cf8e6d"/>
+                <option name="FOREGROUND" value="c58564"/>
             </value>
         </option>
         <option name="GO_STRUCT_LOCAL_MEMBER">
             <value>
-                <option name="FOREGROUND" value="cf8e6d"/>
+                <option name="FOREGROUND" value="c58564"/>
             </value>
         </option>
         <option name="GO_TYPE_REFERENCE">
@@ -844,7 +832,7 @@
         </option>
         <option name="GO_VALID_STRING_ESCAPE">
             <value>
-                <option name="FOREGROUND" value="cf8e6d"/>
+                <option name="FOREGROUND" value="c58564"/>
             </value>
         </option>
         <option name="GRID_ERROR_VALUE">
@@ -862,7 +850,7 @@
         <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES"/>
         <option name="Groovy parameter">
             <value>
-                <option name="FOREGROUND" value="cf8e6d"/>
+                <option name="FOREGROUND" value="c58564"/>
             </value>
         </option>
         <option name="Groovy reassigned parameter">
@@ -915,7 +903,7 @@
         </option>
         <option name="HTTP_REQUEST_MESSAGE_BODY">
             <value>
-                <option name="FOREGROUND" value="cf8e6d"/>
+                <option name="FOREGROUND" value="c58564"/>
             </value>
         </option>
         <option name="HYPERLINK_ATTRIBUTES">
@@ -1000,7 +988,7 @@
         </option>
         <option name="JS.INVALID_STRING_ESCAPE">
             <value>
-                <option name="FOREGROUND" value="cf8e6d"/>
+                <option name="FOREGROUND" value="c58564"/>
                 <option name="EFFECT_COLOR" value="ff5555"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
@@ -1151,7 +1139,7 @@
         </option>
         <option name="LOGCAT_WARNING_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="cf8e6d"/>
+                <option name="FOREGROUND" value="c58564"/>
             </value>
         </option>
         <option name="LOG_DEBUG_OUTPUT">
@@ -1176,7 +1164,7 @@
         </option>
         <option name="LOG_WARNING_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="cf8e6d"/>
+                <option name="FOREGROUND" value="c58564"/>
             </value>
         </option>
         <option name="Label">
@@ -1296,7 +1284,7 @@
         </option>
         <option name="OC.PROPERTY">
             <value>
-                <option name="FOREGROUND" value="cf8e6d"/>
+                <option name="FOREGROUND" value="c58564"/>
             </value>
         </option>
         <option name="OC.PROTOCOL_REFERENCE">
@@ -1306,7 +1294,7 @@
         </option>
         <option name="OC.STRUCT_FIELD">
             <value>
-                <option name="FOREGROUND" value="cf8e6d"/>
+                <option name="FOREGROUND" value="c58564"/>
             </value>
         </option>
         <option name="OC.STRUCT_LIKE">
@@ -1326,7 +1314,7 @@
         </option>
         <option name="PHP_EXEC_COMMAND_ID">
             <value>
-                <option name="FOREGROUND" value="f1fa8c"/>
+                <option name="FOREGROUND" value="A9B346"/>
             </value>
         </option>
         <option name="PHP_HEREDOC_CONTENT">
@@ -1413,12 +1401,12 @@
         </option>
         <option name="PY.FSTRING_FRAGMENT_BRACES">
             <value>
-                <option name="FOREGROUND" value="cf8e6d"/>
+                <option name="FOREGROUND" value="c58564"/>
             </value>
         </option>
         <option name="PY.FSTRING_FRAGMENT_COLON">
             <value>
-                <option name="FOREGROUND" value="cf8e6d"/>
+                <option name="FOREGROUND" value="c58564"/>
             </value>
         </option>
         <option name="PY.FUNCTION_CALL">
@@ -1512,7 +1500,7 @@
         </option>
         <option name="RAINBOW_COLOR2">
             <value>
-                <option name="FOREGROUND" value="cf8e6d"/>
+                <option name="FOREGROUND" value="c58564"/>
             </value>
         </option>
         <option name="RAINBOW_COLOR3">
@@ -1591,7 +1579,7 @@
         </option>
         <option name="RUBY_HEREDOC_CONTENT">
             <value>
-                <option name="FOREGROUND" value="f1fa8c"/>
+                <option name="FOREGROUND" value="A9B346"/>
                 <option name="BACKGROUND" value="282a36"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
@@ -1621,7 +1609,7 @@
         </option>
         <option name="RUBY_IVAR">
             <value>
-                <option name="FOREGROUND" value="cf8e6d"/>
+                <option name="FOREGROUND" value="c58564"/>
             </value>
         </option>
         <option name="RUBY_LINE_CONTINUATION">
@@ -1697,13 +1685,6 @@
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
-        <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
-            <value>
-                <option name="FOREGROUND" value="9876AA"/>
-                <option name="FONT_TYPE" value="2"/>
-            </value>
-        </option>
-        <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD"/>
         <option name="SWIFT_ATTRIBUTE_NAME">
             <value>
                 <option name="FOREGROUND" value="9876AA"/>
@@ -1746,7 +1727,7 @@
         </option>
         <option name="ScalaDoc @param value">
             <value>
-                <option name="FOREGROUND" value="cf8e6d"/>
+                <option name="FOREGROUND" value="c58564"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
@@ -1755,17 +1736,38 @@
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
+
+        <option name="DEFAULT_STATIC_FIELD">
+            <value>
+                <option name="FOREGROUND" value="85A658"/>
+                <option name="FONT_TYPE" value="2"/>
+            </value>
+        </option>
+        <option name="DEFAULT_STATIC_METHOD">
+            <value>
+                <option name="FOREGROUND" value="85A658"/>
+                <option name="FONT_TYPE" value="2"/>
+            </value>
+        </option>
         <option name="Static method access">
             <value>
-                <option name="FOREGROUND" value="9876AA"/>
+                <option name="FOREGROUND" value="85A658"/>
             </value>
         </option>
         <option name="Static property reference ID">
             <value>
-                <option name="FOREGROUND" value="9876AA"/>
+                <option name="FOREGROUND" value="85A658"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
+        <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="85A658"/>
+                <option name="FONT_TYPE" value="2"/>
+            </value>
+        </option>
+        <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD"/>
+
         <option name="String">
             <value>
                 <option name="FOREGROUND" value="6aab73"/>
@@ -1917,7 +1919,7 @@
         <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE"/>
         <option name="YAML_ANCHOR">
             <value>
-                <option name="FOREGROUND" value="cf8e6d"/>
+                <option name="FOREGROUND" value="c58564"/>
             </value>
         </option>
         <option name="YAML_SCALAR_KEY">
@@ -1948,7 +1950,7 @@
         <option name="com.plan9.REGISTER" baseAttributes="DEFAULT_PARAMETER"/>
         <option name="org.toml.DATE">
             <value>
-                <option name="FOREGROUND" value="cf8e6d"/>
+                <option name="FOREGROUND" value="c58564"/>
             </value>
         </option>
         <option name="org.toml.KEY">
