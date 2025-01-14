@@ -1,6 +1,6 @@
 <idea-plugin require-restart="false">
     <id>falcon-jetbrains-themes</id>
-    <version>1.5.1</version>
+    <version>1.6.0</version>
     <name>Falcon Relax Eyes Light Theme</name>
     <category>UI</category>
 
@@ -139,16 +139,18 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <!-- Light Theme -->
-        <themeProvider id="relax-light" path="/themes/relax-green-light.theme.json"/>
+        <themeProvider id="relax-green-light" path="/themes/relax-green-light.theme.json"/>
         <themeProvider id="relax-green-light-colorful" path="/themes/relax-green-light-colorful.theme.json"/>
 
-        <themeProvider id="relax-light-contrast" path="/themes/relax-green-light-contrast.theme.json"/>
-        <themeProvider id="relax-light-contrast-colorful" path="/themes/relax-green-light-contrast-colorful.theme.json"/>
+        <themeProvider id="relax-green-light-contrast" path="/themes/relax-green-light-contrast.theme.json"/>
+        <themeProvider id="relax-green-light-contrast-colorful" path="/themes/relax-green-light-contrast-colorful.theme.json"/>
 
         <themeProvider id="relax-grey-light" path="/themes/relax-grey-light.theme.json"/>
         <themeProvider id="relax-grey-light-colorful" path="/themes/relax-grey-light-colorful.theme.json"/>
 
         <themeProvider id="relax-celadon-light-colorful" path="/themes/relax-celadon-light-colorful.theme.json"/>
+
+        <themeProvider id="relax-pink-light-colorful" path="/themes/relax-pink-light-colorful.theme.json"/>
 
         <!-- Dark Theme -->
         <themeProvider id="relax-dark-green-colorful" path="/themes/dark/relax-dark-green-colorful.theme.json"/>
