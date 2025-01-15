@@ -6,16 +6,16 @@
   "colors": {
     "borderColor": "#f3ebec",
     "separatorColor": "#f3ebec",
-    "editorBackground": "#FEFAFA",
+    "editorBackground": "#FDF5F6",
     "menuBackground": "#FDF5F6",
     "sidePanelBackground": "#FDF5F6",
     "headerBackground": "#FDF5F6",
     "inputBackground": "#FDF5F6",
     "selectionBackground": "#ffbdd2",
-    "selectionInactiveBackground": "#eedde1",
+    "selectionInactiveBackground": "#f5d7e5",
     "tabColor": "#ffffff",
-    "lineColor": "#b66b8d",
-    "iconBackground": "#b66b8d",
+    "lineColor": "#ff79c6",
+    "iconBackground": "#ff79c6",
     "tabHoverBackground": "#f5d7e5",
     "searchMatchBackground": "#ff79c6",
     "accentColor": "#964A6E",
@@ -57,7 +57,7 @@
       }
     },
     "MainWindow.Tab": {
-      "selectedForeground": "ffbdd2",
+      "selectedForeground": "ff79c6",
       "selectedBackground": "tabColor",
       "selectedInactiveBackground": "tabColor",
       "foreground": "primaryForeground",
@@ -287,14 +287,16 @@
         "underlineHeight": 2,
         "underlinedTabBackground": "headerBackground",
         "underlinedTabInactiveBackground": "headerBackground",
-        "hoverBackground": "hoverBackground"
+        "hoverBackground": "hoverBackground",
+        "inactiveUnderlineColor": "selectionBackground"
       }
     },
     "Tree": {
       "modifiedItemForeground": "accentColor",
       "selectionBackground": "selectionBackground",
-      "selectionInactiveBackground": "selectionInactiveBackground",
-      "hash": "hoverBackground"
+      "selectionInactiveBackground": "hoverBackground",
+      "hash": "hoverBackground",
+      "hoverBackground": "hoverBackground"
     },
     "ValidationTooltip": {
       "errorBackground": "error",

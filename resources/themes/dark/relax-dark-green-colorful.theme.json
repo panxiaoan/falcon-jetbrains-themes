@@ -10,8 +10,8 @@
     "primaryBackground": "#002F38",
     "secondaryBackground": "#19273D",
     "hoverBackground": "#305862",
-    "selectionBackground": "#153f48",
-    "selectionInactiveBackground": "#153f48",
+    "selectionBackground": "#305862",
+    "selectionInactiveBackground": "#305862",
     "borderColor": "#153648",
     "separatorColor": "#153648",
     "lineColor": "#426a74",
@@ -305,7 +305,8 @@
       "modifiedItemForeground": "accentColor",
       "selectionBackground": "selectionBackground",
       "selectionInactiveBackground": "selectionInactiveBackground",
-      "hash": "tabHoverBackground"
+      "hash": "tabHoverBackground",
+      "hoverBackground": "hoverBackground"
     },
     "ValidationTooltip": {
       "errorBackground": "#4c273c",
@@ -326,7 +327,7 @@
       },
       "Log": {
         "Commit": {
-          "hoveredBackground": "selectionBackground",
+          "hoveredBackground": "hoverBackground",
           "currentBranchBackground": "primaryBackground"
         }
       },

@@ -305,7 +305,8 @@
       "modifiedItemForeground": "accentColor",
       "selectionBackground": "selectionBackground",
       "selectionInactiveBackground": "selectionInactiveBackground",
-      "hash": "hoverBackground"
+      "hash": "hoverBackground",
+      "hoverBackground": "hoverBackground"
     },
     "ValidationTooltip": {
       "errorBackground": "#4c273c",
@@ -326,7 +327,7 @@
       },
       "Log": {
         "Commit": {
-          "hoveredBackground": "selectionBackground",
+          "hoveredBackground": "hoverBackground",
           "currentBranchBackground": "primaryBackground"
         }
       },
