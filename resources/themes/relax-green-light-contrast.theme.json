@@ -11,8 +11,8 @@
     "sidePanelBackground": "#D0EBEA",
     "headerBackground": "#D0EBEA",
     "inputBackground": "#D0EBEA",
-    "selectionBackground": "#E9F7F5",
-    "selectionInactiveBackground": "#E9F7F5",
+    "selectionBackground": "#A3CED0",
+    "selectionInactiveBackground": "#A3CED0",
     "tabColor": "#E4F3F6",
     "lineColor": "#70A6AE",
     "iconBackground": "#70A6AE",
@@ -287,7 +287,8 @@
         "underlineHeight": 2,
         "underlinedTabBackground": "headerBackground",
         "underlinedTabInactiveBackground": "headerBackground",
-        "hoverBackground": "tabHoverBackground"
+        "hoverBackground": "tabHoverBackground",
+        "inactiveUnderlineColor": "hoverBackground"
       }
     },
     "Tree": {
@@ -361,7 +362,16 @@
       "Objects.RedStatus": "#CE5E5E",
       "Objects.Yellow": "#ecc27d",
       "Objects.YellowDark": "#ecc27d",
-      "Objects.BlackText": "#112733"
+      "Objects.BlackText": "#112733",
+      "Checkbox.Border.Default": "#70A6AE",
+      "Checkbox.Border.Selected": "#70A6AE",
+      "Checkbox.Border.Disabled": "#dae2e5",
+      "Checkbox.Background.Disabled": "#dae2e5",
+      "Checkbox.Background.Default": "#70A6AE",
+      "Checkbox.Background.Selected": "#70A6AE",
+      "Checkbox.Focus.Wide": "#70A6AE",
+      "Checkbox.Focus.Thin.Selected": "#70A6AE",
+      "Checkbox.Focus.Thin.Default": "#70A6AE"
     }
   }
 }

@@ -16,10 +16,10 @@
     "tabColor": "#DFE1E5",
     "lineColor": "#739FA8",
     "iconBackground": "#739FA8",
-    "tabHoverBackground": "#A3CED0",
+    "tabHoverBackground": "#DFE1E5",
     "searchMatchBackground": "#f6d4c8",
     "accentColor": "#1a536e",
-    "hoverBackground": "#A3CED0",
+    "hoverBackground": "#DFE1E5",
     "primaryForeground": "#1a536e",
     "error": "#ce5e5e",
     "errorFocused": "#cb4848",
@@ -285,7 +285,8 @@
         "underlineHeight": 2,
         "underlinedTabBackground": "headerBackground",
         "underlinedTabInactiveBackground": "headerBackground",
-        "hoverBackground": "tabHoverBackground"
+        "hoverBackground": "tabHoverBackground",
+        "inactiveUnderlineColor": "hoverBackground"
       }
     },
     "Tree": {
@@ -359,7 +360,17 @@
       "Objects.RedStatus": "#CE5E5E",
       "Objects.Yellow": "#ecc27d",
       "Objects.YellowDark": "#ecc27d",
-      "Objects.BlackText": "#112733"
+      "Objects.BlackText": "#112733",
+      "Checkbox.Foreground.Selected": "#1a536e",
+      "Checkbox.Border.Default": "#A3CED0",
+      "Checkbox.Border.Selected": "#A3CED0",
+      "Checkbox.Border.Disabled": "#e6eaea",
+      "Checkbox.Background.Disabled": "#e6eaea",
+      "Checkbox.Background.Default": "#A3CED0",
+      "Checkbox.Background.Selected": "#A3CED0",
+      "Checkbox.Focus.Wide": "#A3CED0",
+      "Checkbox.Focus.Thin.Selected": "#A3CED0",
+      "Checkbox.Focus.Thin.Default": "#A3CED0"
     }
   }
 }

@@ -9,9 +9,9 @@
 
         <option name="ScrollBar.background" value="#FDF5F6"/>
         <option name="ScrollBar.Mac.thumbColor" value="#FCEEF0"/>
-        <option name="ScrollBar.Mac.hoverThumbColor" value="#F8DDE0"/>
+        <option name="ScrollBar.Mac.hoverThumbColor" value="#f5d7e5"/>
         <option name="ScrollBar.Mac.thumbBorderColor" value="#FCEEF0"/>
-        <option name="ScrollBar.Mac.hoverThumbBorderColor" value="#F8DDE0"/>
+        <option name="ScrollBar.Mac.hoverThumbBorderColor" value="#f5d7e5"/>
 
         <option name="ADDED_LINES_COLOR" value="7fc784"/>
         <option name="ANNOTATIONS_COLOR" value="5a5d6b"/>
@@ -80,7 +80,7 @@
 
         <option name="DEFAULT_OPERATION_SIGN">
             <value>
-                <option name="FOREGROUND" value="#383A42"/>
+                <option name="FOREGROUND" value="383A42"/>
             </value>
         </option>
         <option name="DEFAULT_DOT">
@@ -435,12 +435,12 @@
 
         <option name="String">
             <value>
-                <option name="FOREGROUND" value="#618c71"/>
+                <option name="FOREGROUND" value="#46785E"/>
             </value>
         </option>
         <option name="DEFAULT_STRING">
             <value>
-                <option name="FOREGROUND" value="#618c71"/>
+                <option name="FOREGROUND" value="#46785E"/>
             </value>
         </option>
         <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
@@ -1068,12 +1068,12 @@
         </option>
         <option name="JSON.PROPERTY_KEY">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="643CB8"/>
             </value>
         </option>
         <option name="JSON.STRING">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="#46785E"/>
             </value>
         </option>
         <option name="JSON.VALID_ESCAPE">
@@ -1083,7 +1083,7 @@
         </option>
         <option name="JSP_ATTRIBUTE_NAME">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="#46785E"/>
             </value>
         </option>
         <option name="JSP_DIRECTIVE_BACKGROUND">
@@ -1895,19 +1895,19 @@
         </option>
         <option name="YAML_SCALAR_VALUE">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="#46785E"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
         <option name="YAML_TEXT">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="#46785E"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
         <option name="YAML STRING">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="#46785E"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
