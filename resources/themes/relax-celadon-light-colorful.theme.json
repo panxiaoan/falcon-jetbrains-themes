@@ -138,7 +138,7 @@
     "Editor": {
       "background": "editorBackground",
       "shortcutForeground": "accentColor",
-      "SearchField.background": "selectionBackground"
+      "SearchField.background": "borderColor"
     },
     "EditorPane.splitBorder": "borderColor",
     "EditorTabs": {
@@ -215,7 +215,7 @@
     },
     "ProgressBar": {
       "trackColor": "inputBackground",
-      "indeterminateStartColor": "inputBackground",
+      "indeterminateStartColor": "lineColor",
       "indeterminateEndColor": "inputBackground",
       "progressColor": "lineColor",
       "passedColor": "lineColor",

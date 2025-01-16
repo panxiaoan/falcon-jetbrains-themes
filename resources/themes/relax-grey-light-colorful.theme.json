@@ -137,7 +137,7 @@
     "Editor": {
       "background": "editorBackground",
       "shortcutForeground": "accentColor",
-      "SearchField.background": "selectionBackground"
+      "SearchField.background": "FAFEFF"
     },
     "EditorTabs": {
       "background": "menuBackground",
@@ -213,7 +213,7 @@
     },
     "ProgressBar": {
       "trackColor": "inputBackground",
-      "indeterminateStartColor": "inputBackground",
+      "indeterminateStartColor": "lineColor",
       "indeterminateEndColor": "inputBackground",
       "progressColor": "lineColor",
       "passedColor": "lineColor",
