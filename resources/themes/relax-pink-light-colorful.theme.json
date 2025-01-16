@@ -11,15 +11,15 @@
     "sidePanelBackground": "#FDF5F6",
     "headerBackground": "#FDF5F6",
     "inputBackground": "#FDF5F6",
-    "selectionBackground": "#f5d7e5",
-    "selectionInactiveBackground": "#f5d7e5",
+    "selectionBackground": "#FFE6E7",
+    "selectionInactiveBackground": "#FFE6E7",
     "tabColor": "#f3ebec",
     "lineColor": "#ff79c6",
     "iconBackground": "#ff79c6",
-    "tabHoverBackground": "#f5d7e5",
+    "tabHoverBackground": "#FFE6E7",
     "searchMatchBackground": "#ff79c6",
     "accentColor": "#964A6E",
-    "hoverBackground": "#FFD6E0",
+    "hoverBackground": "#FFE6E7",
     "primaryForeground": "#3d0013",
     "error": "#CE5E5E",
     "errorFocused": "#cb4848",
@@ -137,7 +137,8 @@
     },
     "Editor": {
       "background": "editorBackground",
-      "shortcutForeground": "accentColor"
+      "shortcutForeground": "accentColor",
+      "SearchField.background": "selectionBackground"
     },
     "EditorPane.splitBorder": "borderColor",
     "EditorTabs": {
@@ -363,16 +364,11 @@
       "Objects.Yellow": "#FFAC4F",
       "Objects.YellowDark": "#FFAC4F",
       "Objects.BlackText": "#112733",
-      "Checkbox.Foreground.Selected": "#ff79c6",
+      "Checkbox.Foreground.Selected": "#CE5E5E",
       "Checkbox.Border.Default": "#FFC2C2",
       "Checkbox.Border.Selected": "#FFC2C2",
-      "Checkbox.Border.Disabled": "#f3ebec",
-      "Checkbox.Background.Disabled": "#f3ebec",
       "Checkbox.Background.Default": "#FFC2C2",
-      "Checkbox.Background.Selected": "#FFC2C2",
-      "Checkbox.Focus.Wide": "#FFC2C2",
-      "Checkbox.Focus.Thin.Selected": "#FFC2C2",
-      "Checkbox.Focus.Thin.Default": "#FFC2C2"
+      "Checkbox.Background.Selected": "#FFC2C2"
     }
   }
 }

@@ -136,7 +136,8 @@
     },
     "Editor": {
       "background": "editorBackground",
-      "shortcutForeground": "accentColor"
+      "shortcutForeground": "accentColor",
+      "SearchField.background": "selectionBackground"
     },
     "EditorTabs": {
       "background": "menuBackground",
@@ -364,13 +365,8 @@
       "Checkbox.Foreground.Selected": "#1a536e",
       "Checkbox.Border.Default": "#A3CED0",
       "Checkbox.Border.Selected": "#A3CED0",
-      "Checkbox.Border.Disabled": "#e6eaea",
-      "Checkbox.Background.Disabled": "#e6eaea",
       "Checkbox.Background.Default": "#A3CED0",
-      "Checkbox.Background.Selected": "#A3CED0",
-      "Checkbox.Focus.Wide": "#A3CED0",
-      "Checkbox.Focus.Thin.Selected": "#A3CED0",
-      "Checkbox.Focus.Thin.Default": "#A3CED0"
+      "Checkbox.Background.Selected": "#A3CED0"
     }
   }
 }

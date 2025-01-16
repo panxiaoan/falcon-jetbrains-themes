@@ -137,7 +137,8 @@
     },
     "Editor": {
       "background": "editorBackground",
-      "shortcutForeground": "accentColor"
+      "shortcutForeground": "accentColor",
+      "SearchField.background": "selectionBackground"
     },
     "EditorPane.splitBorder": "borderColor",
     "EditorTabs": {
@@ -363,15 +364,11 @@
       "Objects.Yellow": "#ecc27d",
       "Objects.YellowDark": "#ecc27d",
       "Objects.BlackText": "#112733",
+      "Checkbox.Foreground.Selected": "#1a536e",
       "Checkbox.Border.Default": "#70A6AE",
       "Checkbox.Border.Selected": "#70A6AE",
-      "Checkbox.Border.Disabled": "#dae2e5",
-      "Checkbox.Background.Disabled": "#dae2e5",
       "Checkbox.Background.Default": "#70A6AE",
-      "Checkbox.Background.Selected": "#70A6AE",
-      "Checkbox.Focus.Wide": "#70A6AE",
-      "Checkbox.Focus.Thin.Selected": "#70A6AE",
-      "Checkbox.Focus.Thin.Default": "#70A6AE"
+      "Checkbox.Background.Selected": "#70A6AE"
     }
   }
 }

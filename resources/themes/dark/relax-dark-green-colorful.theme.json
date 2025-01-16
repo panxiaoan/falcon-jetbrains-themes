@@ -130,7 +130,8 @@
     },
     "Editor": {
       "background": "primaryBackground",
-      "shortcutForeground": "accentColor"
+      "shortcutForeground": "accentColor",
+      "SearchField.background": "borderColor"
     },
     "EditorPane.splitBorder": "#305862",
     "EditorTabs": {
@@ -373,15 +374,15 @@
       "Objects.Yellow": "#f1fa8c",
       "Objects.YellowDark": "#f1fa8c",
       "Objects.BlackText": "#282a35",
-      "Checkbox.Foreground.Selected.Dark": "#f8f8f2",
-      "Checkbox.Border.Default.Dark": "#153f48",
-      "Checkbox.Border.Selected.Dark": "#153f48",
+      "Checkbox.Foreground.Selected.Dark": "#00A6A6",
+      "Checkbox.Background.Default.Dark": "#305862",
+      "Checkbox.Border.Default.Dark": "#305862",
+      "Checkbox.Border.Selected.Dark": "#305862",
       "Checkbox.Border.Disabled.Dark": "#6399A0",
-      "Checkbox.Background.Default.Dark": "#00A6A6",
       "Checkbox.Background.Disabled.Dark": "#002F38",
-      "Checkbox.Focus.Wide.Dark": "#153f48",
-      "Checkbox.Focus.Thin.Selected.Dark": "#153f48",
-      "Checkbox.Focus.Thin.Default.Dark": "#153f48"
+      "Checkbox.Focus.Wide.Dark": "#305862",
+      "Checkbox.Focus.Thin.Selected.Dark": "#305862",
+      "Checkbox.Focus.Thin.Default.Dark": "#305862"
     }
   }
 }
