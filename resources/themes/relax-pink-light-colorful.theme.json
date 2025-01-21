@@ -11,15 +11,15 @@
     "sidePanelBackground": "#FDF5F6",
     "headerBackground": "#FDF5F6",
     "inputBackground": "#FDF5F6",
-    "selectionBackground": "#FFE6E7",
-    "selectionInactiveBackground": "#FFE6E7",
-    "tabColor": "#f3ebec",
-    "lineColor": "#ff79c6",
+    "selectionBackground": "#FFD6E0",
+    "selectionInactiveBackground": "#FFD6E0",
+    "tabColor": "#FFF2F0",
+    "lineColor": "#FF9ACA",
     "iconBackground": "#ff79c6",
-    "tabHoverBackground": "#FFE6E7",
+    "tabHoverBackground": "#FFD6E0",
     "searchMatchBackground": "#ff79c6",
     "accentColor": "#964A6E",
-    "hoverBackground": "#FFE6E7",
+    "hoverBackground": "#FFD6E0",
     "primaryForeground": "#3d0013",
     "error": "#CE5E5E",
     "errorFocused": "#cb4848",
@@ -57,7 +57,7 @@
       }
     },
     "MainWindow.Tab": {
-      "selectedForeground": "ff79c6",
+      "selectedForeground": "#DB58B0",
       "selectedBackground": "tabColor",
       "selectedInactiveBackground": "tabColor",
       "foreground": "primaryForeground",
@@ -71,7 +71,7 @@
     },
     "MemoryIndicator": {
       "allocatedBackground": "#FFD6E0",
-      "usedBackground": "#ff79c6"
+      "usedBackground": "#FFAECC"
     },
     "Borders": {
       "color": "borderColor",

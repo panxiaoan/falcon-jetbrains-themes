@@ -6,7 +6,7 @@
 
     <vendor email="xiaoan.pan@qq.com" url="http://www.panxiaoan.com">Falcon</vendor>
 
-    <idea-version since-build="232" until-build="243.*"/>
+    <idea-version since-build="232"/>
 
     <description><![CDATA[
 
@@ -40,11 +40,13 @@
             <li>Relax Green Light Contrast Colorful</li>
             <li>Relax Grey Light</li>
             <li>Relax Grey Light Colorful</li>
+            <li>Relax Pink Light Colorful</li>
         </ul>
 
         <br/>
         <b>Falcon Relax Eyes Dark themes (for low-light environments):</b>
         <ul>
+            <li>Relax Dark Violet Colorful</li>
             <li>Relax Dark Green Colorful</li>
             <li>Relax Dark Colorful</li>
         </ul>
@@ -59,6 +61,12 @@
     </description>
 
     <change-notes><![CDATA[
+        <b>1.6.0(250120)</b>
+        <ul>
+            <li>feat: added new 'Pink Light' theme</li>
+            <li>feat: added new 'Dark Violet' theme</li>
+        </ul>
+
         <b>1.5.1(250114)</b>
         <ul>
             <li>improve: remove the italics of default_parameter</li>
@@ -155,5 +163,6 @@
         <!-- Dark Theme -->
         <themeProvider id="relax-dark-green-colorful" path="/themes/dark/relax-dark-green-colorful.theme.json"/>
         <themeProvider id="relax-dark-colorful" path="/themes/dark/relax-dark-colorful.theme.json"/>
+        <themeProvider id="relax-dark-violet-colorful" path="/themes/dark/relax-dark-violet-colorful.theme.json"/>
     </extensions>
 </idea-plugin>
