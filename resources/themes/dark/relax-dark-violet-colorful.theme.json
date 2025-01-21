@@ -130,7 +130,7 @@
     "Editor": {
       "background": "primaryBackground",
       "shortcutForeground": "accentColor",
-      "SearchField.background": "borderColor"
+      "SearchField.background": "22212C"
     },
     "EditorPane.splitBorder": "#544e6b",
     "EditorTabs": {

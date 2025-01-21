@@ -55,7 +55,7 @@ Falcon Relax Eyes theme might be a better choice for you.<br/>
 1. [Gitee](https://gitee.com/panxiaoan/falcon-jetbrains-themes)
 2. [Github](https://github.com/panxiaoan/falcon-jetbrains-themes)
 
-## Screenshot
+## Light Theme Screenshot
 
 1. Relax Green Light Colorful
 
@@ -76,6 +76,8 @@ Falcon Relax Eyes theme might be a better choice for you.<br/>
 5. Relax Pink Light Colorful
 
     <img src="./assets/relax-pink-light-colorful.jpg" alt="Relax Pink Light Colorful" style="border: 1px solid #CED0D6;">
+
+## Dark Theme Screenshot
 
 6. Relax Dark Green Colorful
 

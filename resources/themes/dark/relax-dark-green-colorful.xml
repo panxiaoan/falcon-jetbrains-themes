@@ -418,18 +418,18 @@
 
         <option name="DEFAULT_LINE_COMMENT">
             <value>
-                <option name="FOREGROUND" value="#448991"/>
+                <option name="FOREGROUND" value="#8092AB"/>
             </value>
         </option>
         <option name="DEFAULT_BLOCK_COMMENT">
             <value>
-                <option name="FOREGROUND" value="#448991"/>
+                <option name="FOREGROUND" value="#8092AB"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
         <option name="DEFAULT_DOC_COMMENT">
             <value>
-                <option name="FOREGROUND" value="#448991"/>
+                <option name="FOREGROUND" value="#8092AB"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -440,7 +440,7 @@
         </option>
         <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
             <value>
-                <option name="FOREGROUND" value="#448991"/>
+                <option name="FOREGROUND" value="#8092AB"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -683,7 +683,7 @@
         </option>
         <option name="GO_BLOCK_COMMENT">
             <value>
-                <option name="FOREGROUND" value="448991"/>
+                <option name="FOREGROUND" value="8092AB"/>
             </value>
         </option>
         <option name="GO_BUILTIN_CONSTANT">
@@ -1445,7 +1445,7 @@
         </option>
         <option name="PY.DOC_COMMENT">
             <value>
-                <option name="FOREGROUND" value="448991"/>
+                <option name="FOREGROUND" value="8092AB"/>
             </value>
         </option>
         <option name="PY.DOC_COMMENT_TAG">
@@ -1484,7 +1484,7 @@
         </option>
         <option name="PY.LINE_COMMENT">
             <value>
-                <option name="FOREGROUND" value="448991"/>
+                <option name="FOREGROUND" value="8092AB"/>
             </value>
         </option>
         <option name="PY.METHOD_CALL">
@@ -1602,7 +1602,7 @@
         </option>
         <option name="RUBY_COMMENT">
             <value>
-                <option name="FOREGROUND" value="448991"/>
+                <option name="FOREGROUND" value="8092AB"/>
             </value>
         </option>
         <option name="RUBY_CONSTANT">
