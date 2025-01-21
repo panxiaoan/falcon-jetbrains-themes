@@ -79,13 +79,17 @@ Falcon Relax Eyes theme might be a better choice for you.<br/>
 
 ## Dark Theme Screenshot
 
-6. Relax Dark Green Colorful
+1. Relax Dark Blue Colorful
 
-    <img src="./assets/relax-dark-green-colorful.jpg" alt="Relax Celadon Light Colorful" style="border: 1px solid #CED0D6;">
+    <img src="./assets/relax-dark-blue-colorful.jpg" alt="Relax Dark Blue Colorful" style="border: 1px solid #CED0D6;">
 
-7. Relax Dark Colorful
+2. Relax Dark Green Colorful
 
-    <img src="./assets/relax-dark-colorful.jpg" alt="Relax Celadon Light Colorful" style="border: 1px solid #CED0D6;">
+    <img src="./assets/relax-dark-green-colorful.jpg" alt="Relax Dark Green Colorful" style="border: 1px solid #CED0D6;">
+
+3. Relax Dark Violet Colorful
+
+    <img src="./assets/relax-dark-violet-colorful.jpg" alt="Relax Dark Violet Colorful" style="border: 1px solid #CED0D6;">
 
 ## License
 
