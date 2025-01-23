@@ -1,15 +1,28 @@
-<scheme name="Relax Dark Green Colorful" version="142" parent_scheme="Darcula">
+<scheme name="Relax Dark Violet Colorful" version="142" parent_scheme="Darcula">
+    <option name="LINE_SPACING" value="1.1"/>
+    <font>
+        <option name="EDITOR_FONT_NAME" value="JetBrains Mono"/>
+        <option name="EDITOR_FONT_SIZE" value="13"/>
+    </font>
+    <option name="EDITOR_LIGATURES" value="true"/>
+
+    <console-font>
+        <option name="EDITOR_FONT_NAME" value="JetBrains Mono"/>
+        <option name="EDITOR_FONT_SIZE" value="13"/>
+    </console-font>
+    <option name="CONSOLE_LIGATURES" value="true"/>
+    
     <colors>
-        <option name="BACKGROUND" value="#002F38"/>
-        <option name="CONSOLE_BACKGROUND_KEY" value="#002F38"/>
-        <option name="STICKY_LINES_BACKGROUND" value="#153f48"/>
+        <option name="BACKGROUND" value="#2B2640"/>
+        <option name="CONSOLE_BACKGROUND_KEY" value="#2B2640"/>
+        <option name="STICKY_LINES_BACKGROUND" value="#3b3551"/>
 
         <option name="ADDED_LINES_COLOR" value="48b764"/>
         <option name="ANNOTATIONS_COLOR" value="f8f8f2"/>
         <option name="CARET_COLOR" value="#cccccc"/>
-        <option name="CARET_ROW_COLOR" value="#153f48"/>
+        <option name="CARET_ROW_COLOR" value="#3b3551"/>
         <option name="DELETED_LINES_COLOR" value="cd4644"/>
-        <option name="DOCUMENTATION_COLOR" value="002F38"/>
+        <option name="DOCUMENTATION_COLOR" value="2B2640"/>
         <option name="DOC_COMMENT_LINK" value="#1D9A62"/>
         <option name="FILESTATUS_ADDED" value="9876AA"/>
         <option name="FILESTATUS_COPIED" value="9876AA"/>
@@ -33,25 +46,25 @@
         <option name="FILESTATUS_changelistConflict" value="ff5555"/>
         <option name="FILESTATUS_modifiedOutside" value="65BCD9"/>
         <option name="GUTTER_BACKGROUND" value="3f4152"/>
-        <option name="INDENT_GUIDE" value="#153648"/>
+        <option name="INDENT_GUIDE" value="#3b3551"/>
         <option name="INFORMATION_HINT" value="3a3d4c"/>
         <option name="LINE_NUMBERS_COLOR" value="a3a5ba"/>
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="#1D9A62"/>
         <option name="LOOKUP_COLOR" value="3a3d4c"/>
         <option name="MODIFIED_LINES_COLOR" value="74b4c1"/>
-        <option name="RIGHT_MARGIN_COLOR" value="#153648"/>
-        <option name="METHOD_SEPARATORS_COLOR" value="#153648"/>
+        <option name="RIGHT_MARGIN_COLOR" value="#3b3551"/>
+        <option name="METHOD_SEPARATORS_COLOR" value="#3b3551"/>
         <option name="SELECTED_INDENT_GUIDE" value="a8b0e2"/>
         <option name="SELECTED_TEARLINE_COLOR" value="a8b0e2"/>
-        <option name="SELECTION_BACKGROUND" value="305862"/>
+        <option name="SELECTION_BACKGROUND" value="544e6b"/>
         <option name="SEPARATOR_ABOVE_COLOR" value="6b7090"/>
         <option name="SEPARATOR_BELOW_COLOR" value="6b7090"/>
 
-        <option name="ScrollBar.background" value="002F38"/>
-        <option name="ScrollBar.Mac.thumbColor" value="153f48"/>
-        <option name="ScrollBar.Mac.thumbBorderColor" value="153f48"/>
-        <option name="ScrollBar.Mac.hoverThumbColor" value="305862"/>
-        <option name="ScrollBar.Mac.hoverThumbBorderColor" value="305862"/>
+        <option name="ScrollBar.background" value="2B2640"/>
+        <option name="ScrollBar.Mac.thumbColor" value="3b3551"/>
+        <option name="ScrollBar.Mac.thumbBorderColor" value="3b3551"/>
+        <option name="ScrollBar.Mac.hoverThumbColor" value="544e6b"/>
+        <option name="ScrollBar.Mac.hoverThumbBorderColor" value="544e6b"/>
 
         <option name="TEARLINE_COLOR" value="6b7090"/>
         <option name="VCS_ANNOTATIONS_COLOR_1" value="8d64b0"/>
@@ -599,7 +612,7 @@
         </option>
         <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
             <value>
-                <option name="BACKGROUND" value="002F38"/>
+                <option name="BACKGROUND" value="2B2640"/>
             </value>
         </option>
         <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -657,7 +670,7 @@
         <option name="FOLDED_TEXT_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="#969696"/>
-                <option name="BACKGROUND" value="#305862"/>
+                <option name="BACKGROUND" value="#3B3551"/>
             </value>
         </option>
         <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -973,7 +986,7 @@
         </option>
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="#005163"/>
+                <option name="BACKGROUND" value="#544e6b"/>
                 <option name="ERROR_STRIPE_COLOR" value="9876AA"/>
             </value>
         </option>
@@ -998,19 +1011,19 @@
         </option>
         <option name="INJECTED_LANGUAGE_FRAGMENT">
             <value>
-                <option name="BACKGROUND" value="153f48"/>
+                <option name="BACKGROUND" value="3b3551"/>
             </value>
         </option>
         <option name="INLINE_PARAMETER_HINT">
             <value>
                 <option name="FOREGROUND" value="969696"/>
-                <option name="BACKGROUND" value="153f48"/>
+                <option name="BACKGROUND" value="3b3551"/>
             </value>
         </option>
         <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
             <value>
                 <option name="FOREGROUND" value="f8f8f2"/>
-                <option name="BACKGROUND" value="153f48"/>
+                <option name="BACKGROUND" value="3b3551"/>
             </value>
         </option>
         <option name="INTERFACE_NAME_ATTRIBUTES">
@@ -1273,7 +1286,7 @@
         <option name="MATCHED_BRACE_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="f8f8f2"/>
-                <option name="BACKGROUND" value="#00898a"/>
+                <option name="BACKGROUND" value="#6D5A8D"/>
             </value>
         </option>
         <option name="MATCHED_TAG_NAME">
@@ -1730,7 +1743,7 @@
         <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD"/>
         <option name="SEARCH_RESULT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="#005163"/>
+                <option name="BACKGROUND" value="#544e6b"/>
             </value>
         </option>
         <option name="SPY-JS.EXCEPTION">
@@ -1819,15 +1832,15 @@
         <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="b2cde2"/>
-                <option name="BACKGROUND" value="007f5f"/>
-                <option name="EFFECT_COLOR" value="007f5f"/>
+                <option name="BACKGROUND" value="#6A618C"/>
+                <option name="EFFECT_COLOR" value="#6A618C"/>
                 <option name="ERROR_STRIPE_COLOR" value="55a630"/>
             </value>
         </option>
         <option name="TODO_DEFAULT_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="e998ff"/>
-                <option name="ERROR_STRIPE_COLOR" value="e998ff"/>
+                <option name="FOREGROUND" value="9876AA"/>
+                <option name="ERROR_STRIPE_COLOR" value="9876AA"/>
             </value>
         </option>
         <option name="TS.GLOBAL_VARIABLE">
@@ -1899,7 +1912,7 @@
         </option>
         <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="#005163"/>
+                <option name="BACKGROUND" value="#544e6b"/>
                 <option name="ERROR_STRIPE_COLOR" value="abc4ff"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>

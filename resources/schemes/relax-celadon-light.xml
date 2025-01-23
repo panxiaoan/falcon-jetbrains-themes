@@ -1,22 +1,38 @@
-<scheme name="Relax Green Light" version="142" parent_scheme="Default">
+<scheme name="Relax Celadon Light" version="142" parent_scheme="Default">
     <metaInfo>
         <property name="created">2024-12-05</property>
         <property name="ide">idea</property>
         <property name="ideVersion">2023.2.3.0.0</property>
         <property name="modified">2024-12-05</property>
+        <property name="originalScheme">Relax Celadon Light</property>
     </metaInfo>
-    <colors>
-        <option name="BACKGROUND" value="E0F2F1"/>
-        <option name="CONSOLE_BACKGROUND_KEY" value="E0F2F1"/>
-        <option name="CARET_ROW_COLOR" value="F0FFFF"/>
-        <option name="DOCUMENTATION_COLOR" value="E0F2F1"/>
-        <option name="LOOKUP_COLOR" value="E0F2F1"/>
 
-        <option name="ScrollBar.background" value="E0F2F1"/>
-        <option name="ScrollBar.Mac.thumbColor" value="c6e1e0"/>
-        <option name="ScrollBar.Mac.hoverThumbColor" value="F6FDFB"/>
-        <option name="ScrollBar.Mac.thumbBorderColor" value="E0F2F1"/>
-        <option name="ScrollBar.Mac.hoverThumbBorderColor" value="F6FDFB"/>
+    <option name="LINE_SPACING" value="1.1"/>
+    <font>
+        <option name="EDITOR_FONT_NAME" value="JetBrains Mono"/>
+        <option name="EDITOR_FONT_SIZE" value="13"/>
+    </font>
+    <option name="EDITOR_LIGATURES" value="true"/>
+
+    <console-font>
+        <option name="EDITOR_FONT_NAME" value="JetBrains Mono"/>
+        <option name="EDITOR_FONT_SIZE" value="13"/>
+    </console-font>
+    <option name="CONSOLE_LIGATURES" value="true"/>
+
+    <colors>
+        <option name="BACKGROUND" value="e4ecef"/>
+        <option name="CONSOLE_BACKGROUND_KEY" value="e4ecef"/>
+        <option name="CARET_COLOR" value="467196"/>
+        <option name="CARET_ROW_COLOR" value="#F7F8FA"/>
+        <option name="DOCUMENTATION_COLOR" value="e4ecef"/>
+        <option name="LOOKUP_COLOR" value="e4ecef"/>
+
+        <option name="ScrollBar.background" value="e4ecef"/>
+        <option name="ScrollBar.Mac.thumbColor" value="dae2e5"/>
+        <option name="ScrollBar.Mac.hoverThumbColor" value="c3dbe5bf"/>
+        <option name="ScrollBar.Mac.thumbBorderColor" value="dae2e5"/>
+        <option name="ScrollBar.Mac.hoverThumbBorderColor" value="c3dbe5bf"/>
 
         <option name="ADDED_LINES_COLOR" value="7fc784"/>
         <option name="ANNOTATIONS_COLOR" value="5a5d6b"/>
@@ -24,22 +40,22 @@
         <option name="DELETED_LINES_COLOR" value="767a8a"/>
         <option name="DIFF_SEPARATORS_BACKGROUND" value="e4e6eb"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="7d5020"/>
-        <option name="GUTTER_BACKGROUND" value="ffffff"/>
+        <option name="GUTTER_BACKGROUND" value="fafeff"/>
         <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="7fc784"/>
         <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="767a8a"/>
         <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="88adf7"/>
-        <option name="INDENT_GUIDE" value="c6e1e0"/>
-        <option name="INFORMATION_HINT" value="ffffff"/>
+        <option name="INDENT_GUIDE" value="dae2e5"/>
+        <option name="INFORMATION_HINT" value="fafeff"/>
         <option name="LINE_NUMBERS_COLOR" value="aeb3c2"/>
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="767a8a"/>
         <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="62b3b3"/>
-        <option name="METHOD_SEPARATORS_COLOR" value="c6e1e0"/>
-        <option name="MODIFIED_LINES_COLOR" value="88adf7" deuteranopia="9ca9bf" protanopia="9ca9bf"/>
+        <option name="METHOD_SEPARATORS_COLOR" value="dae2e5"/>
+        <option name="MODIFIED_LINES_COLOR" value="C2D6FC" deuteranopia="9ca9bf" protanopia="9ca9bf"/>
         <option name="NOTIFICATION_BACKGROUND" value="fff8e3"/>
-        <option name="RIGHT_MARGIN_COLOR" value="c6e1e0"/>
+        <option name="RIGHT_MARGIN_COLOR" value="dae2e5"/>
         <option name="SELECTED_INDENT_GUIDE" value="aeb3c2"/>
         <option name="SELECTION_BACKGROUND" value="#AFDBB8" deuteranopia="5974AB" protanopia="5974AB"/>
-        <option name="SELECTION_FOREGROUND" value="" deuteranopia="ffffff" protanopia="ffffff"/>
+        <option name="SELECTION_FOREGROUND" value="" deuteranopia="fafeff" protanopia="fafeff"/>
         <option name="STICKY_LINES_BACKGROUND" value="d6e8e7"/>
         <option name="TEARLINE_COLOR" value="d4d4d4"/>
         <option name="VCS_ANNOTATIONS_COLOR_1" value="a1bef7"/>
@@ -63,18 +79,24 @@
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="DE1B2E"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="DE1B2E"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="DE1B2E"/>
-        <option name="FILESTATUS_MERGED" value="643CB8"/>
-        <option name="FILESTATUS_MODIFIED" value="0033B3"/>
-        <option name="FILESTATUS_RENAMED" value="0033B3"/>
-        <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="0033B3"/>
-        <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="0033B3"/>
+        <option name="FILESTATUS_MERGED" value="9B0742"/>
+        <option name="FILESTATUS_MODIFIED" value="3574F0"/>
+        <option name="FILESTATUS_RENAMED" value="3574F0"/>
+        <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="3574F0"/>
+        <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="3574F0"/>
         <option name="FILESTATUS_UNKNOWN" value="B23247"/>
         <option name="FILESTATUS_addedOutside" value="067D17"/>
         <option name="FILESTATUS_changelistConflict" value="DE1B2E"/>
-        <option name="FILESTATUS_modifiedOutside" value="0033B3"/>
+        <option name="FILESTATUS_modifiedOutside" value="3574F0"/>
 
     </colors>
     <attributes>
+        <option name="EXECUTIONPOINT_ATTRIBUTES">
+            <value>
+                <option name="BACKGROUND" value="#DEDFFC"/>
+            </value>
+        </option>
+
         <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA"/>
         <option name="BREADCRUMBS_CURRENT">
             <value>

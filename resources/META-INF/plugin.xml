@@ -1,6 +1,6 @@
 <idea-plugin require-restart="false">
     <id>falcon-jetbrains-themes</id>
-    <version>1.6.0</version>
+    <version>1.7.0</version>
     <name>Falcon Relax Eyes Light Theme</name>
     <category>UI</category>
 
@@ -33,22 +33,40 @@
         <br/>
         <b>Falcon Relax Eyes Light themes (for bright environments):</b>
         <ul>
-            <li>Relax Celadon Light Colorful</li>
+            <li>Relax Celadon Light</li>
             <li>Relax Green Light</li>
-            <li>Relax Green Light Colorful</li>
             <li>Relax Green Light Contrast</li>
-            <li>Relax Green Light Contrast Colorful</li>
             <li>Relax Grey Light</li>
-            <li>Relax Grey Light Colorful</li>
-            <li>Relax Pink Light Colorful</li>
+            <li>Relax Pink Light</li>
         </ul>
 
         <br/>
         <b>Falcon Relax Eyes Dark themes (for low-light environments):</b>
         <ul>
-            <li>Relax Dark Blue Colorful</li>
-            <li>Relax Dark Green Colorful</li>
-            <li>Relax Dark Violet Colorful</li>
+            <li>Relax Dark</li>
+            <li>Relax Dark Darcula</li>
+            <li>Relax Dark Blue</li>
+            <li>Relax Dark Green</li>
+            <li>Relax Dark Violet</li>
+        </ul>
+
+        <br/>
+        <b>For light themes, IDEA's default editor color scheme is also available:</b>
+        <ul>
+            <li>Relax Celadon Light - idea default editor color scheme</li>
+            <li>Relax Celadon Light Colorful - theme default</li>
+
+            <li>Relax Green Light - idea default editor color scheme</li>
+            <li>Relax Green Light Colorful - theme default</li>
+
+            <li>Relax Green Light Contrast - idea default editor color scheme</li>
+            <li>Relax Green Light Contrast Colorful - theme default</li>
+
+            <li>Relax Grey Light - idea default editor color scheme</li>
+            <li>Relax Grey Light Colorful - theme default</li>
+
+            <li>Relax Pink Light - idea default editor color scheme</li>
+            <li>Relax Pink Light Colorful - theme default</li>
         </ul>
 
         <br/>
@@ -144,24 +162,28 @@
     </change-notes>
 
     <depends>com.intellij.modules.platform</depends>
+    <depends>com.intellij.modules.lang</depends>
 
     <extensions defaultExtensionNs="com.intellij">
         <!-- Light Theme -->
-        <themeProvider id="relax-green-light" path="/themes/relax-green-light.theme.json"/>
-        <themeProvider id="relax-green-light-colorful" path="/themes/relax-green-light-colorful.theme.json"/>
-
-        <themeProvider id="relax-green-light-contrast" path="/themes/relax-green-light-contrast.theme.json"/>
-        <themeProvider id="relax-green-light-contrast-colorful" path="/themes/relax-green-light-contrast-colorful.theme.json"/>
-
-        <themeProvider id="relax-grey-light" path="/themes/relax-grey-light.theme.json"/>
-        <themeProvider id="relax-grey-light-colorful" path="/themes/relax-grey-light-colorful.theme.json"/>
-
-        <themeProvider id="relax-celadon-light-colorful" path="/themes/relax-celadon-light-colorful.theme.json"/>
-        <themeProvider id="relax-pink-light-colorful" path="/themes/relax-pink-light-colorful.theme.json"/>
+        <themeProvider id="falcon-relax-celadon-light" path="/themes/light-celadon/relax-celadon-light.theme.json"/>
+        <themeProvider id="falcon-relax-green-light" path="/themes/light-green/relax-green-light.theme.json"/>
+        <themeProvider id="falcon-relax-green-light-contrast" path="/themes/light-green/relax-green-light-contrast.theme.json"/>
+        <themeProvider id="falcon-relax-grey-light" path="/themes/light-grey/relax-grey-light.theme.json"/>
+        <themeProvider id="falcon-relax-pink-light" path="/themes/light-pink/relax-pink-light.theme.json"/>
 
         <!-- Dark Theme -->
-        <themeProvider id="relax-dark-blue-colorful" path="/themes/dark/relax-dark-blue-colorful.theme.json"/>
-        <themeProvider id="relax-dark-green-colorful" path="/themes/dark/relax-dark-green-colorful.theme.json"/>
-        <themeProvider id="relax-dark-violet-colorful" path="/themes/dark/relax-dark-violet-colorful.theme.json"/>
+        <themeProvider id="falcon-relax-dark" path="/themes/dark/relax-dark.theme.json"/>
+        <themeProvider id="falcon-relax-dark-darcula" path="/themes/dark-darcula/relax-dark-darcula.theme.json"/>
+        <themeProvider id="falcon-relax-dark-blue" path="/themes/dark-blue/relax-dark-blue.theme.json"/>
+        <themeProvider id="falcon-relax-dark-green" path="/themes/dark-green/relax-dark-green.theme.json"/>
+        <themeProvider id="falcon-relax-dark-violet" path="/themes/dark-violet/relax-dark-violet.theme.json"/>
+
+        <!-- Color Scheme: using IDEA default color scheme -->
+        <bundledColorScheme id="falcon-relax-celadon-light-scheme" path="/schemes/relax-celadon-light"/>
+        <bundledColorScheme id="falcon-relax-green-light-scheme" path="/schemes/relax-green-light"/>
+        <bundledColorScheme id="falcon-relax-green-light-contrast-scheme" path="/schemes/relax-green-light-contrast"/>
+        <bundledColorScheme id="falcon-relax-grey-light-colorful-scheme" path="/schemes/relax-grey-light-colorful"/>
+        <bundledColorScheme id="falcon-relax-pink-light-scheme" path="/schemes/relax-pink-light"/>
     </extensions>
 </idea-plugin>

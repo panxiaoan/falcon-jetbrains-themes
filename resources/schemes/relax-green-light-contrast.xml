@@ -1,27 +1,41 @@
-<scheme name="Relax Grey Light" version="142" parent_scheme="Default">
+<scheme name="Relax Green Light Contrast" version="142" parent_scheme="Default">
     <metaInfo>
         <property name="created">2024-12-05</property>
         <property name="ide">idea</property>
         <property name="ideVersion">2023.2.3.0.0</property>
         <property name="modified">2024-12-05</property>
+        <property name="originalScheme">Relax Green Light Contrast</property>
     </metaInfo>
-    <colors>
-        <option name="BACKGROUND" value="f0f4f4"/>
-        <option name="CONSOLE_BACKGROUND_KEY" value="f0f4f4"/>
-        <option name="CARET_ROW_COLOR" value="#fafeff"/>
-        <option name="DOCUMENTATION_COLOR" value="f0f4f4"/>
-        <option name="LOOKUP_COLOR" value="f0f4f4"/>
 
-        <option name="ScrollBar.background" value="f0f4f4"/>
-        <option name="ScrollBar.Mac.thumbColor" value="e6eaea"/>
-        <option name="ScrollBar.Mac.hoverThumbColor" value="d5e2e8"/>
-        <option name="ScrollBar.Mac.thumbBorderColor" value="e6eaea"/>
-        <option name="ScrollBar.Mac.hoverThumbBorderColor" value="d5e2e8"/>
+    <option name="LINE_SPACING" value="1.1"/>
+    <font>
+        <option name="EDITOR_FONT_NAME" value="JetBrains Mono"/>
+        <option name="EDITOR_FONT_SIZE" value="13"/>
+    </font>
+    <option name="EDITOR_LIGATURES" value="true"/>
+
+    <console-font>
+        <option name="EDITOR_FONT_NAME" value="JetBrains Mono"/>
+        <option name="EDITOR_FONT_SIZE" value="13"/>
+    </console-font>
+    <option name="CONSOLE_LIGATURES" value="true"/>
+
+    <colors>
+        <option name="BACKGROUND" value="E0F2F1"/>
+        <option name="CONSOLE_BACKGROUND_KEY" value="E0F2F1"/>
+        <option name="CARET_ROW_COLOR" value="F0FFFF"/>
+        <option name="DOCUMENTATION_COLOR" value="E0F2F1"/>
+        <option name="LOOKUP_COLOR" value="E0F2F1"/>
+
+        <option name="ScrollBar.background" value="E0F2F1"/>
+        <option name="ScrollBar.Mac.thumbColor" value="c6e1e0"/>
+        <option name="ScrollBar.Mac.hoverThumbColor" value="E9F7F5"/>
+        <option name="ScrollBar.Mac.thumbBorderColor" value="E0F2F1"/>
+        <option name="ScrollBar.Mac.hoverThumbBorderColor" value="E9F7F5"/>
 
         <option name="ADDED_LINES_COLOR" value="7fc784"/>
         <option name="ANNOTATIONS_COLOR" value="5a5d6b"/>
         <option name="ANNOTATIONS_LAST_COMMIT_COLOR" value="0"/>
-        <option name="CARET_ROW_COLOR" value="FFFFE2"/>
         <option name="DELETED_LINES_COLOR" value="767a8a"/>
         <option name="DIFF_SEPARATORS_BACKGROUND" value="e4e6eb"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="7d5020"/>
@@ -29,18 +43,19 @@
         <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="7fc784"/>
         <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="767a8a"/>
         <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="88adf7"/>
-        <option name="INDENT_GUIDE" value="e6eaea"/>
+        <option name="INDENT_GUIDE" value="c6e1e0"/>
         <option name="INFORMATION_HINT" value="ffffff"/>
         <option name="LINE_NUMBERS_COLOR" value="aeb3c2"/>
+        <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="767a8a"/>
         <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="62b3b3"/>
-        <option name="METHOD_SEPARATORS_COLOR" value="e6eaea"/>
+        <option name="METHOD_SEPARATORS_COLOR" value="c6e1e0"/>
         <option name="MODIFIED_LINES_COLOR" value="88adf7" deuteranopia="9ca9bf" protanopia="9ca9bf"/>
         <option name="NOTIFICATION_BACKGROUND" value="fff8e3"/>
-        <option name="RIGHT_MARGIN_COLOR" value="e6eaea"/>
+        <option name="RIGHT_MARGIN_COLOR" value="c6e1e0"/>
         <option name="SELECTED_INDENT_GUIDE" value="aeb3c2"/>
         <option name="SELECTION_BACKGROUND" value="#AFDBB8" deuteranopia="5974AB" protanopia="5974AB"/>
         <option name="SELECTION_FOREGROUND" value="" deuteranopia="ffffff" protanopia="ffffff"/>
-        <option name="STICKY_LINES_BACKGROUND" value="e6eaea"/>
+        <option name="STICKY_LINES_BACKGROUND" value="d6e8e7"/>
         <option name="TEARLINE_COLOR" value="d4d4d4"/>
         <option name="VCS_ANNOTATIONS_COLOR_1" value="a1bef7"/>
         <option name="VCS_ANNOTATIONS_COLOR_2" value="c9dafb"/>
@@ -75,6 +90,12 @@
 
     </colors>
     <attributes>
+        <option name="EXECUTIONPOINT_ATTRIBUTES">
+            <value>
+                <option name="BACKGROUND" value="#DEDFFC"/>
+            </value>
+        </option>
+
         <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA"/>
         <option name="BREADCRUMBS_CURRENT">
             <value>

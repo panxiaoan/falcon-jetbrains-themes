@@ -1,8 +1,8 @@
 {
-  "name": "Relax Dark Blue Colorful",
+  "name": "Relax Dark Blue",
   "dark": true,
   "author": "Xiaoan Pan",
-  "editorScheme": "/themes/dark/relax-dark-blue-colorful.xml",
+  "editorScheme": "/themes/dark-blue/relax-dark-blue-colorful.xml",
   "colors": {
     "accentColor": "#9876AA",
     "secondaryAccentColor": "#344359",

@@ -1,8 +1,8 @@
 {
-  "name": "Relax Dark Green Colorful",
+  "name": "Relax Dark Green",
   "dark": true,
   "author": "Xiaoan Pan",
-  "editorScheme": "/themes/dark/relax-dark-green-colorful.xml",
+  "editorScheme": "/themes/dark-green/relax-dark-green-colorful.xml",
   "colors": {
     "accentColor": "#9876AA",
     "secondaryAccentColor": "#153f48",
