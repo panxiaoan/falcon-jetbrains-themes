@@ -57,7 +57,7 @@
       }
     },
     "MainWindow.Tab": {
-      "selectedForeground": "0B843E",
+      "selectedForeground": "#0B843E",
       "selectedBackground": "tabColor",
       "selectedInactiveBackground": "tabColor",
       "foreground": "primaryForeground",
@@ -71,7 +71,7 @@
     },
     "MemoryIndicator": {
       "allocatedBackground": "borderColor",
-      "usedBackground": "70A6AE"
+      "usedBackground": "#70A6AE"
     },
     "Borders": {
       "color": "borderColor",
@@ -138,7 +138,7 @@
     "Editor": {
       "background": "editorBackground",
       "shortcutForeground": "accentColor",
-      "SearchField.background": "F0FFFF"
+      "SearchField.background": "#F0FFFF"
     },
     "EditorPane.splitBorder": "borderColor",
     "EditorTabs": {
@@ -268,7 +268,7 @@
       "background": "editorBackground"
     },
     "ToggleButton": {
-      "onBackground": "50fa7b",
+      "onBackground": "#50fa7b",
       "onForeground": "hoverBackground",
       "offBackground": "selectionBackground",
       "offForeground": "hoverBackground",

@@ -43,7 +43,7 @@
     },
     "FileColor": {
       "Yellow": "borderColor",
-      "Green": "d6e8e7"
+      "Green": "#d6e8e7"
     },
     "ScrollBar": {
       "Mac": {
@@ -57,7 +57,7 @@
       }
     },
     "MainWindow.Tab": {
-      "selectedForeground": "0B843E",
+      "selectedForeground": "#0B843E",
       "selectedBackground": "tabColor",
       "selectedInactiveBackground": "tabColor",
       "foreground": "primaryForeground",
@@ -138,7 +138,7 @@
     "Editor": {
       "background": "editorBackground",
       "shortcutForeground": "accentColor",
-      "SearchField.background": "F0FFFF"
+      "SearchField.background": "#F0FFFF"
     },
     "EditorPane.splitBorder": "borderColor",
     "EditorTabs": {

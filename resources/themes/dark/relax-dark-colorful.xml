@@ -11,7 +11,7 @@
         <option name="EDITOR_FONT_SIZE" value="13"/>
     </console-font>
     <option name="CONSOLE_LIGATURES" value="true"/>
-    
+
     <colors>
         <option name="BACKGROUND" value="#282A36"/>
         <option name="CONSOLE_BACKGROUND_KEY" value="#282A36"/>

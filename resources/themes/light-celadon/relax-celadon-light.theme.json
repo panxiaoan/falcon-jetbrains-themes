@@ -57,7 +57,7 @@
       }
     },
     "MainWindow.Tab": {
-      "selectedForeground": "0B843E",
+      "selectedForeground": "#0B843E",
       "selectedBackground": "tabColor",
       "selectedInactiveBackground": "tabColor",
       "foreground": "primaryForeground",
@@ -268,7 +268,7 @@
       "background": "editorBackground"
     },
     "ToggleButton": {
-      "onBackground": "50fa7b",
+      "onBackground": "#50fa7b",
       "onForeground": "hoverBackground",
       "offBackground": "selectionBackground",
       "offForeground": "hoverBackground",

@@ -48,16 +48,16 @@
     "ScrollBar": {
       "Mac": {
         "thumbColor": "borderColor",
-        "hoverThumbColor": "d5e2e8",
+        "hoverThumbColor": "#d5e2e8",
         "thumbBorderColor": "borderColor",
-        "hoverThumbBorderColor": "d5e2e8",
+        "hoverThumbBorderColor": "#d5e2e8",
         "Transparent": {
-          "hoverThumbColor": "d5e2e8"
+          "hoverThumbColor": "#d5e2e8"
         }
       }
     },
     "MainWindow.Tab": {
-      "selectedForeground": "0B843E",
+      "selectedForeground": "#0B843E",
       "selectedBackground": "tabColor",
       "selectedInactiveBackground": "tabColor",
       "foreground": "primaryForeground",
@@ -137,7 +137,7 @@
     "Editor": {
       "background": "editorBackground",
       "shortcutForeground": "accentColor",
-      "SearchField.background": "FAFEFF"
+      "SearchField.background": "#FAFEFF"
     },
     "EditorTabs": {
       "background": "menuBackground",

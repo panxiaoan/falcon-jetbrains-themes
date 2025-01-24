@@ -268,7 +268,7 @@
       "background": "editorBackground"
     },
     "ToggleButton": {
-      "onBackground": "ffbdd2",
+      "onBackground": "#ffbdd2",
       "onForeground": "hoverBackground",
       "offBackground": "selectionBackground",
       "offForeground": "hoverBackground",
