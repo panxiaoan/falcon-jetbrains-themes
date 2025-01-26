@@ -70,8 +70,9 @@
     </description>
 
     <change-notes><![CDATA[
-        <b>1.7.0(250127)</b>
+        <b>1.7.0(250126) Happy Chinese New Year. 🐍🐍🐍🎉🎉🎉</b>
         <ul>
+            <li>⚠️️⚠️️⚠️️Sorry, Because the theme name has been changed, we need to switch the theme again after the update.</li>
             <li>feat: added new 'Dark' theme</li>
             <li>feat: added new 'Dark Darcula' theme</li>
             <li>improve: Simplify theme naming, remove the editor default color scheme of the theme,
