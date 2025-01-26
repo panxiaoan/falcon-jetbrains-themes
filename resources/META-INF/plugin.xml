@@ -79,6 +79,15 @@
     </description>
 
     <change-notes><![CDATA[
+        <b>1.7.0(250127)</b>
+        <ul>
+            <li>feat: added new 'Dark' theme</li>
+            <li>feat: added new 'Dark Darcula' theme</li>
+            <li>improve: Simplify theme naming, remove the editor default color scheme of the theme,
+                want to use the editor default color scheme, you can switch through the editor color scheme
+            </li>
+        </ul>
+
         <b>1.6.0(250121)</b>
         <ul>
             <li>feat: added new 'Pink Light' theme</li>
@@ -183,7 +192,7 @@
         <bundledColorScheme id="falcon-relax-celadon-light-scheme" path="/schemes/relax-celadon-light"/>
         <bundledColorScheme id="falcon-relax-green-light-scheme" path="/schemes/relax-green-light"/>
         <bundledColorScheme id="falcon-relax-green-light-contrast-scheme" path="/schemes/relax-green-light-contrast"/>
-        <bundledColorScheme id="falcon-relax-grey-light-colorful-scheme" path="/schemes/relax-grey-light-colorful"/>
+        <bundledColorScheme id="falcon-relax-grey-light-scheme" path="/schemes/relax-grey-light"/>
         <bundledColorScheme id="falcon-relax-pink-light-scheme" path="/schemes/relax-pink-light"/>
     </extensions>
 </idea-plugin>
