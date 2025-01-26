@@ -364,11 +364,11 @@
       "Objects.Yellow": "#ecc27d",
       "Objects.YellowDark": "#ecc27d",
       "Objects.BlackText": "#112733",
-      "Checkbox.Foreground.Selected": "#26A69A",
-      "Checkbox.Border.Default": "#A3CED0",
-      "Checkbox.Border.Selected": "#A3CED0",
-      "Checkbox.Background.Default": "#A3CED0",
-      "Checkbox.Background.Selected": "#A3CED0"
+      "Checkbox.Foreground.Selected": "#e4ecef",
+      "Checkbox.Border.Default": "#57687c",
+      "Checkbox.Border.Selected": "#57687c",
+      "Checkbox.Background.Default": "#57687c",
+      "Checkbox.Background.Selected": "#57687c"
     }
   }
 }
