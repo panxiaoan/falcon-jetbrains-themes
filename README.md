@@ -23,18 +23,25 @@ Falcon Relax Eyes theme might be a better choice for you.<br/>
 
 **Falcon Relax Eyes Light themes (for bright environments):**
 
-- Relax Celadon Light Colorful
+- Relax Celadon Light
 - Relax Green Light
-- Relax Green Light Colorful
 - Relax Green Light Contrast
-- Relax Green Light Contrast Colorful
 - Relax Grey Light
-- Relax Grey Light Colorful
 
 **Falcon Relax Eyes Dark themes (for low-light environments):**
 
-- Relax Dark Green Colorful
-- Relax Dark Colorful
+- Relax Dark
+- Relax Dark Darcula
+- Relax Dark Blue
+- Relax Dark Green
+- Relax Dark Violet
+
+<b>For light themes, IDEA's default editor color scheme is also available:</b>
+- Relax Celadon Light(IDEA default scheme)
+- Relax Green Light(IDEA default scheme)
+- Relax Green Light Contrast(IDEA default scheme)
+- Relax Grey Light(IDEA default scheme)
+- Relax Pink Light(IDEA default scheme)
 
 <a href="https://github.com/panxiaoan/falcon-jetbrains-themes/issues">Report an issue</a>
 

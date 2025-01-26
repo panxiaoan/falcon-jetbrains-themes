@@ -1,4 +1,4 @@
-<scheme name="Relax Grey Light" version="142" parent_scheme="Default">
+<scheme name="Relax Grey Light(IDEA default scheme)" version="142" parent_scheme="Default">
     <metaInfo>
         <property name="created">2024-12-05</property>
         <property name="ide">idea</property>
@@ -6,7 +6,7 @@
         <property name="modified">2024-12-05</property>
         <property name="originalScheme">Relax Grey Light</property>
     </metaInfo>
-    
+
     <option name="LINE_SPACING" value="1.1"/>
     <font>
         <option name="EDITOR_FONT_NAME" value="JetBrains Mono"/>

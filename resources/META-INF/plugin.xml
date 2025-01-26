@@ -53,20 +53,11 @@
         <br/>
         <b>For light themes, IDEA's default editor color scheme is also available:</b>
         <ul>
-            <li>Relax Celadon Light - idea default editor color scheme</li>
-            <li>Relax Celadon Light Colorful - theme default</li>
-
-            <li>Relax Green Light - idea default editor color scheme</li>
-            <li>Relax Green Light Colorful - theme default</li>
-
-            <li>Relax Green Light Contrast - idea default editor color scheme</li>
-            <li>Relax Green Light Contrast Colorful - theme default</li>
-
-            <li>Relax Grey Light - idea default editor color scheme</li>
-            <li>Relax Grey Light Colorful - theme default</li>
-
-            <li>Relax Pink Light - idea default editor color scheme</li>
-            <li>Relax Pink Light Colorful - theme default</li>
+            <li>Relax Celadon Light(IDEA default scheme)</li>
+            <li>Relax Green Light(IDEA default scheme)</li>
+            <li>Relax Green Light Contrast(IDEA default scheme)</li>
+            <li>Relax Grey Light(IDEA default scheme)</li>
+            <li>Relax Pink Light(IDEA default scheme)</li>
         </ul>
 
         <br/>
