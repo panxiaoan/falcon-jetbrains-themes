@@ -1,6 +1,6 @@
 <idea-plugin require-restart="false">
     <id>falcon-jetbrains-themes</id>
-    <version>1.7.0</version>
+    <version>1.8.0</version>
     <name>Falcon Relax Eyes Light Theme</name>
     <category>UI</category>
 
@@ -172,6 +172,7 @@
         <themeProvider id="falcon-relax-green-light-contrast" path="/themes/light-green/relax-green-light-contrast.theme.json"/>
         <themeProvider id="falcon-relax-grey-light" path="/themes/light-grey/relax-grey-light.theme.json"/>
         <themeProvider id="falcon-relax-pink-light" path="/themes/light-pink/relax-pink-light.theme.json"/>
+        <themeProvider id="falcon-relax-yellow-light" path="/themes/light-yellow/relax-yellow-light.theme.json"/>
 
         <!-- Dark Theme -->
         <themeProvider id="falcon-relax-dark" path="/themes/dark/relax-dark.theme.json"/>
@@ -186,5 +187,6 @@
         <bundledColorScheme id="falcon-relax-green-light-contrast-scheme" path="/schemes/relax-green-light-contrast"/>
         <bundledColorScheme id="falcon-relax-grey-light-scheme" path="/schemes/relax-grey-light"/>
         <bundledColorScheme id="falcon-relax-pink-light-scheme" path="/schemes/relax-pink-light"/>
+        <bundledColorScheme id="falcon-relax-yellow-light-scheme" path="/schemes/relax-yellow-light"/>
     </extensions>
 </idea-plugin>
