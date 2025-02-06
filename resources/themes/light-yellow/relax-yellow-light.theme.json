@@ -17,10 +17,10 @@
     "lineColor": "#ddb900",
     "iconBackground": "#ddb900",
     "tabHoverBackground": "#ccc8b6",
-    "searchMatchBackground": "#ddb900",
-    "accentColor": "#964A6E",
+    "searchMatchBackground": "#FFFF00",
+    "accentColor": "#BE9B00",
     "hoverBackground": "#ccc8b6",
-    "primaryForeground": "#3d0013",
+    "primaryForeground": "#333333",
     "error": "#CE5E5E",
     "errorFocused": "#cb4848",
     "warning": "#FFAC4F",
@@ -57,7 +57,7 @@
       }
     },
     "MainWindow.Tab": {
-      "selectedForeground": "#917800",
+      "selectedForeground": "#BE9B00",
       "selectedBackground": "tabColor",
       "selectedInactiveBackground": "tabColor",
       "foreground": "primaryForeground",
@@ -365,10 +365,10 @@
       "Objects.YellowDark": "#FFAC4F",
       "Objects.BlackText": "#112733",
       "Checkbox.Foreground.Selected": "#FFFBE8",
-      "Checkbox.Border.Default": "#B7A974",
-      "Checkbox.Border.Selected": "#B7A974",
-      "Checkbox.Background.Default": "#B7A974",
-      "Checkbox.Background.Selected": "#B7A974"
+      "Checkbox.Border.Default": "#9F7F00",
+      "Checkbox.Border.Selected": "#9F7F00",
+      "Checkbox.Background.Default": "#9F7F00",
+      "Checkbox.Background.Selected": "#9F7F00"
     }
   }
 }

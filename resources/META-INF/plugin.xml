@@ -38,6 +38,7 @@
             <li>Relax Green Light Contrast</li>
             <li>Relax Grey Light</li>
             <li>Relax Pink Light</li>
+            <li>Relax Yellow Light</li>
         </ul>
 
         <br/>
@@ -58,6 +59,7 @@
             <li>Relax Green Light Contrast(IDEA default scheme)</li>
             <li>Relax Grey Light(IDEA default scheme)</li>
             <li>Relax Pink Light(IDEA default scheme)</li>
+            <li>Relax Yellow Light(IDEA default scheme)</li>
         </ul>
 
         <br/>
@@ -70,6 +72,11 @@
     </description>
 
     <change-notes><![CDATA[
+        <b>1.8.0(250208) 🎉🎉🎉 Start work well 开工大吉</b>
+        <ul>
+            <li>feat: added new 'Yellow Light' theme</li>
+        </ul>
+
         <b>1.7.0(250126) Happy Chinese New Year. 🐍🐍🐍🎉🎉🎉</b>
         <ul>
             <li>⚠️️⚠️️⚠️️Sorry, Because the theme name has been changed, we need to switch the theme again after the update.</li>
