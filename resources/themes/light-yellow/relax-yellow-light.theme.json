@@ -365,10 +365,10 @@
       "Objects.YellowDark": "#FFAC4F",
       "Objects.BlackText": "#112733",
       "Checkbox.Foreground.Selected": "#FFFBE8",
-      "Checkbox.Border.Default": "#9F7F00",
-      "Checkbox.Border.Selected": "#9F7F00",
-      "Checkbox.Background.Default": "#9F7F00",
-      "Checkbox.Background.Selected": "#9F7F00"
+      "Checkbox.Border.Default": "#BE9B00",
+      "Checkbox.Border.Selected": "#BE9B00",
+      "Checkbox.Background.Default": "#BE9B00",
+      "Checkbox.Background.Selected": "#BE9B00"
     }
   }
 }
