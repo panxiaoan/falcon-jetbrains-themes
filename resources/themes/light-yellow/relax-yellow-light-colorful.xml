@@ -64,8 +64,8 @@
         <option name="RECENT_LOCATIONS_SELECTION" value="#E7EFFD"/>
         <option name="FOLDED_TEXT_BORDER_COLOR" value="ADD9C7" deuteranopia="b3b3b3" protanopia="b3b3b3"/>
 
-        <option name="FILESTATUS_ADDED" value="B7447B"/>
-        <option name="FILESTATUS_COPIED" value="B7447B"/>
+        <option name="FILESTATUS_ADDED" value="067D17"/>
+        <option name="FILESTATUS_COPIED" value="067D17"/>
         <option name="FILESTATUS_DELETED" value="6C707E"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6C707E"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="8C4F00"/>
@@ -78,7 +78,7 @@
         <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="3574F0"/>
         <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="3574F0"/>
         <option name="FILESTATUS_UNKNOWN" value="B23247"/>
-        <option name="FILESTATUS_addedOutside" value="B7447B"/>
+        <option name="FILESTATUS_addedOutside" value="067D17"/>
         <option name="FILESTATUS_changelistConflict" value="DE1B2E"/>
         <option name="FILESTATUS_modifiedOutside" value="3574F0"/>
     </colors>
@@ -167,7 +167,7 @@
         </option>
         <option name="BREADCRUMBS_HOVERED">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="BREADCRUMBS_INACTIVE">
@@ -196,7 +196,7 @@
         </option>
         <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
@@ -353,7 +353,7 @@
         </option>
         <option name="DEFAULT_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="DEFAULT_LABEL">
@@ -541,7 +541,7 @@
         </option>
         <option name="JAVA_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="Standart Java Collection">
@@ -730,8 +730,8 @@
         </option>
         <option name="GO_COMMENT_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
-                <option name="EFFECT_COLOR" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
+                <option name="EFFECT_COLOR" value="067D17"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
@@ -778,7 +778,7 @@
         </option>
         <option name="GO_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="GO_LABEL">
@@ -954,13 +954,13 @@
         </option>
         <option name="HTML_TAG">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
         <option name="HTML_TAG_NAME">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="HTTP_REQUEST_MESSAGE_BODY">
@@ -1033,7 +1033,7 @@
         </option>
         <option name="CSS.TAG_NAME">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="CSS.URL">
@@ -1066,7 +1066,7 @@
         </option>
         <option name="JS.KEYWORD">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE"/>
@@ -1097,7 +1097,7 @@
         </option>
         <option name="JSON.VALID_ESCAPE">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="JSP_ATTRIBUTE_NAME">
@@ -1123,7 +1123,7 @@
         </option>
         <option name="JUPYTER_CELL_MARKER">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="JUPYTER_INLINE_VALUES">
@@ -1426,7 +1426,7 @@
         </option>
         <option name="PY.BRACKETS">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="PY.BUILTIN_NAME">
@@ -1454,7 +1454,7 @@
         </option>
         <option name="PY.DOC_COMMENT_TAG">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
@@ -1478,7 +1478,7 @@
         </option>
         <option name="PY.KEYWORD">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="PY.KEYWORD_ARGUMENT">
@@ -1557,7 +1557,7 @@
         </option>
         <option name="RAINBOW_COLOR1">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="RAINBOW_COLOR2">
@@ -1577,22 +1577,22 @@
         </option>
         <option name="REGEXP.BRACES">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="REGEXP.BRACKETS">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="REGEXP.CHAR_CLASS">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="REGEXP.COMMA">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="REGEXP.ESC_CHARACTER">
@@ -1619,12 +1619,12 @@
         </option>
         <option name="REGEXP.QUOTE_CHARACTER">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="REGEXP.REDUNDANT_ESCAPE">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="RHTML_COMMENT_ID" baseAttributes="HTML_COMMENT"/>
@@ -1660,7 +1660,7 @@
         </option>
         <option name="RUBY_ESCAPE_SEQUENCE">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="RUBY_GVAR">
@@ -1698,7 +1698,7 @@
         </option>
         <option name="RUBY_INVALID_ESCAPE_SEQUENCE">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
                 <option name="EFFECT_COLOR" value="ff5555"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
@@ -1740,7 +1740,7 @@
         </option>
         <option name="RUBY_SPECIFIC_CALL">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="RUBY_SYMBOL">
@@ -1856,7 +1856,7 @@
         </option>
         <option name="VELOCITY_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="VELOCITY_REFERENCE">
@@ -1888,12 +1888,12 @@
         </option>
         <option name="XML_TAG">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="XML_TAG_NAME">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="XPATH.FUNCTION" baseAttributes="DEFAULT_FUNCTION_CALL"/>

@@ -84,6 +84,10 @@ Falcon Relax Eyes theme might be a better choice for you.<br/>
 
     <img src="./assets/relax-pink-light.jpg" alt="Relax Pink Light" style="border: 1px solid #CED0D6;">
 
+6. Relax Yellow Light
+
+    <img src="./assets/relax-yellow-light.jpg" alt="Relax Yellow Light" style="border: 1px solid #CED0D6;">
+
 ## Falcon Relax Dark Theme Screenshot
 
 1. Relax Dark
