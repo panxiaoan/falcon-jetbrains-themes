@@ -27,6 +27,8 @@ Falcon Relax Eyes theme might be a better choice for you.<br/>
 - Relax Green Light
 - Relax Green Light Contrast
 - Relax Grey Light
+- Relax Pink Light
+- Relax Yellow Light
 
 **Falcon Relax Eyes Dark themes (for low-light environments):**
 
@@ -42,6 +44,7 @@ Falcon Relax Eyes theme might be a better choice for you.<br/>
 - Relax Green Light Contrast(IDEA default scheme)
 - Relax Grey Light(IDEA default scheme)
 - Relax Pink Light(IDEA default scheme)
+- Relax Yellow Light(IDEA default scheme)
 
 <a href="https://github.com/panxiaoan/falcon-jetbrains-themes/issues">Report an issue</a>
 
