@@ -1,26 +1,26 @@
 {
-  "name": "Relax Yellow Light",
+  "name": "Relax Light Pink",
   "dark": false,
   "author": "Xiaoan Pan",
-  "editorScheme": "/themes/light-yellow/relax-yellow-light-colorful.xml",
+  "editorScheme": "/themes/light-pink/relax-light-pink-colorful.xml",
   "colors": {
-    "borderColor": "#f5f1de",
-    "separatorColor": "#f5f1de",
-    "editorBackground": "#FFFBE8",
-    "menuBackground": "#FFFBE8",
-    "sidePanelBackground": "#FFFBE8",
-    "headerBackground": "#FFFBE8",
-    "inputBackground": "#FFFBE8",
-    "selectionBackground": "#ccc8b6",
-    "selectionInactiveBackground": "#ccc8b6",
-    "tabColor": "#f5f1de",
-    "lineColor": "#ddb900",
-    "iconBackground": "#ddb900",
-    "tabHoverBackground": "#ccc8b6",
-    "searchMatchBackground": "#FFFF00",
-    "accentColor": "#BE9B00",
-    "hoverBackground": "#ccc8b6",
-    "primaryForeground": "#333333",
+    "borderColor": "#f3ebec",
+    "separatorColor": "#f3ebec",
+    "editorBackground": "#FDF5F6",
+    "menuBackground": "#FDF5F6",
+    "sidePanelBackground": "#FDF5F6",
+    "headerBackground": "#FDF5F6",
+    "inputBackground": "#FDF5F6",
+    "selectionBackground": "#FFD6E0",
+    "selectionInactiveBackground": "#FFD6E0",
+    "tabColor": "#FFF2F0",
+    "lineColor": "#FF9ACA",
+    "iconBackground": "#ff79c6",
+    "tabHoverBackground": "#FFD6E0",
+    "searchMatchBackground": "#ff79c6",
+    "accentColor": "#964A6E",
+    "hoverBackground": "#FFD6E0",
+    "primaryForeground": "#3d0013",
     "error": "#CE5E5E",
     "errorFocused": "#cb4848",
     "warning": "#FFAC4F",
@@ -42,22 +42,22 @@
       "separatorColor": "separatorColor"
     },
     "FileColor": {
-      "Yellow": "#f5f1de",
-      "Green": "#E7FBDE"
+      "Yellow": "#f3ebec",
+      "Green": "#FFE6E7"
     },
     "ScrollBar": {
       "Mac": {
-        "thumbColor": "#f5f1de",
-        "hoverThumbColor": "#ccc8b6",
-        "thumbBorderColor": "#f5f1de",
-        "hoverThumbBorderColor": "#ccc8b6",
+        "thumbColor": "#FCEEF0",
+        "hoverThumbColor": "#f5d7e5",
+        "thumbBorderColor": "#FCEEF0",
+        "hoverThumbBorderColor": "#f5d7e5",
         "Transparent": {
-          "hoverThumbColor": "#f5f1de"
+          "hoverThumbColor": "#FCEEF0"
         }
       }
     },
     "MainWindow.Tab": {
-      "selectedForeground": "#BE9B00",
+      "selectedForeground": "#DB58B0",
       "selectedBackground": "tabColor",
       "selectedInactiveBackground": "tabColor",
       "foreground": "primaryForeground",
@@ -67,11 +67,11 @@
       "separatorColor": "borderColor"
     },
     "RunWidget": {
-      "iconColor": "#917800"
+      "iconColor": "primaryForeground"
     },
     "MemoryIndicator": {
-      "allocatedBackground": "#D2C9A2",
-      "usedBackground": "#F4E892"
+      "allocatedBackground": "#FFD6E0",
+      "usedBackground": "#FFAECC"
     },
     "Borders": {
       "color": "borderColor",
@@ -103,7 +103,7 @@
     },
     "Counter": {
       "foreground": "primaryBackground",
-      "background": "#0B843E"
+      "background": "#ff79c6"
     },
     "ComboBox": {
       "modifiedItemForeground": "accentColor",
@@ -214,9 +214,9 @@
       }
     },
     "ProgressBar": {
-      "trackColor": "editorBackground",
+      "trackColor": "selectionBackground",
       "indeterminateStartColor": "lineColor",
-      "indeterminateEndColor": "editorBackground",
+      "indeterminateEndColor": "selectionBackground",
       "progressColor": "lineColor",
       "passedColor": "lineColor",
       "passedEndColor": "lineColor",
@@ -268,7 +268,7 @@
       "background": "editorBackground"
     },
     "ToggleButton": {
-      "onBackground": "#ccc8b6",
+      "onBackground": "#ffbdd2",
       "onForeground": "hoverBackground",
       "offBackground": "selectionBackground",
       "offForeground": "hoverBackground",
@@ -364,11 +364,11 @@
       "Objects.Yellow": "#FFAC4F",
       "Objects.YellowDark": "#FFAC4F",
       "Objects.BlackText": "#112733",
-      "Checkbox.Foreground.Selected": "#FFFBE8",
-      "Checkbox.Border.Default": "#ddb900",
-      "Checkbox.Border.Selected": "#ddb900",
-      "Checkbox.Background.Default": "#ddb900",
-      "Checkbox.Background.Selected": "#ddb900"
+      "Checkbox.Foreground.Selected": "#CE5E5E",
+      "Checkbox.Border.Default": "#FFC2C2",
+      "Checkbox.Border.Selected": "#FFC2C2",
+      "Checkbox.Background.Default": "#FFC2C2",
+      "Checkbox.Background.Selected": "#FFC2C2"
     }
   }
 }

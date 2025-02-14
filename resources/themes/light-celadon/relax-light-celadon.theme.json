@@ -1,8 +1,8 @@
 {
-  "name": "Relax Celadon Light",
+  "name": "Relax Light Celadon",
   "dark": false,
   "author": "Xiaoan Pan",
-  "editorScheme": "/themes/light-celadon/relax-celadon-light-colorful.xml",
+  "editorScheme": "/themes/light-celadon/relax-light-celadon-colorful.xml",
   "colors": {
     "borderColor": "#dae2e5",
     "separatorColor": "#dae2e5",

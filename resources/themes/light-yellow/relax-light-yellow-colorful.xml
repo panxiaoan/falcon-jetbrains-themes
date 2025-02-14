@@ -1,4 +1,4 @@
-<scheme name="Relax Pink Light Colorful" version="142" parent_scheme="Default">
+<scheme name="Relax Light Yellow Colorful" version="142" parent_scheme="Default">
     <option name="LINE_SPACING" value="1.1"/>
     <font>
         <option name="EDITOR_FONT_NAME" value="JetBrains Mono"/>
@@ -11,20 +11,20 @@
         <option name="EDITOR_FONT_SIZE" value="13"/>
     </console-font>
     <option name="CONSOLE_LIGATURES" value="true"/>
-    
-    <colors>
-        <option name="BACKGROUND" value="#FDF5F6"/>
-        <option name="CONSOLE_BACKGROUND_KEY" value="#FDF5F6"/>
-        <option name="CARET_COLOR" value="c55ea5"/>
-        <option name="CARET_ROW_COLOR" value="#FFE6E7"/>
-        <option name="DOCUMENTATION_COLOR" value="#FDF5F6"/>
-        <option name="LOOKUP_COLOR" value="#FDF5F6"/>
 
-        <option name="ScrollBar.background" value="#FDF5F6"/>
-        <option name="ScrollBar.Mac.thumbColor" value="#FCEEF0"/>
-        <option name="ScrollBar.Mac.hoverThumbColor" value="#f5d7e5"/>
-        <option name="ScrollBar.Mac.thumbBorderColor" value="#FCEEF0"/>
-        <option name="ScrollBar.Mac.hoverThumbBorderColor" value="#f5d7e5"/>
+    <colors>
+        <option name="BACKGROUND" value="#FFFBE8"/>
+        <option name="CONSOLE_BACKGROUND_KEY" value="#FFFBE8"/>
+        <option name="CARET_COLOR" value="#B7A974"/>
+        <option name="CARET_ROW_COLOR" value="#FFF6CF"/>
+        <option name="DOCUMENTATION_COLOR" value="#FFFBE8"/>
+        <option name="LOOKUP_COLOR" value="#FFFBE8"/>
+
+        <option name="ScrollBar.background" value="#FFFBE8"/>
+        <option name="ScrollBar.Mac.thumbColor" value="#f5f1de"/>
+        <option name="ScrollBar.Mac.hoverThumbColor" value="#ccc8b6"/>
+        <option name="ScrollBar.Mac.thumbBorderColor" value="#f5f1de"/>
+        <option name="ScrollBar.Mac.hoverThumbBorderColor" value="#ccc8b6"/>
 
         <option name="ADDED_LINES_COLOR" value="7fc784"/>
         <option name="ANNOTATIONS_COLOR" value="5a5d6b"/>
@@ -36,21 +36,21 @@
         <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="7fc784"/>
         <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="767a8a"/>
         <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="88adf7"/>
-        <option name="INDENT_GUIDE" value="#f1edef"/>
+        <option name="INDENT_GUIDE" value="#f5f1de"/>
         <option name="INFORMATION_HINT" value="fafeff"/>
         <option name="LINE_NUMBERS_COLOR" value="aeb3c2"/>
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="767a8a"/>
         <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="62b3b3"/>
-        <option name="METHOD_SEPARATORS_COLOR" value="#f1edef"/>
+        <option name="METHOD_SEPARATORS_COLOR" value="#f5f1de"/>
         <option name="MODIFIED_LINES_COLOR" value="C2D6FC" deuteranopia="9ca9bf" protanopia="9ca9bf"/>
         <option name="NOTIFICATION_BACKGROUND" value="fff8e3"/>
-        <option name="RIGHT_MARGIN_COLOR" value="#f1edef"/>
-        <option name="SELECTED_INDENT_GUIDE" value="#f1edef"/>
-        <option name="SELECTION_BACKGROUND" value="#e7cfdf" deuteranopia="5974AB" protanopia="5974AB"/>
+        <option name="RIGHT_MARGIN_COLOR" value="#f5f1de"/>
+        <option name="SELECTED_INDENT_GUIDE" value="#f5f1de"/>
+        <option name="SELECTION_BACKGROUND" value="#FFF499" deuteranopia="5974AB" protanopia="5974AB"/>
         <option name="SELECTION_FOREGROUND" value="" deuteranopia="fafeff" protanopia="fafeff"/>
-        <option name="SELECTED_TEARLINE_COLOR" value="f3cfe0"/>
-        <option name="STICKY_LINES_BACKGROUND" value="#FCEEF0"/>
-        <option name="TEARLINE_COLOR" value="#f1edef"/>
+        <option name="SELECTED_TEARLINE_COLOR" value="#DBD1A9"/>
+        <option name="STICKY_LINES_BACKGROUND" value="#f5f1de"/>
+        <option name="TEARLINE_COLOR" value="#f5f1de"/>
         <option name="VCS_ANNOTATIONS_COLOR_1" value="a1bef7"/>
         <option name="VCS_ANNOTATIONS_COLOR_2" value="c9dafb"/>
         <option name="VCS_ANNOTATIONS_COLOR_3" value="dee8fc"/>
@@ -64,8 +64,8 @@
         <option name="RECENT_LOCATIONS_SELECTION" value="#E7EFFD"/>
         <option name="FOLDED_TEXT_BORDER_COLOR" value="ADD9C7" deuteranopia="b3b3b3" protanopia="b3b3b3"/>
 
-        <option name="FILESTATUS_ADDED" value="B7447B"/>
-        <option name="FILESTATUS_COPIED" value="B7447B"/>
+        <option name="FILESTATUS_ADDED" value="067D17"/>
+        <option name="FILESTATUS_COPIED" value="067D17"/>
         <option name="FILESTATUS_DELETED" value="6C707E"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6C707E"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="8C4F00"/>
@@ -78,7 +78,7 @@
         <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="3574F0"/>
         <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="3574F0"/>
         <option name="FILESTATUS_UNKNOWN" value="B23247"/>
-        <option name="FILESTATUS_addedOutside" value="B7447B"/>
+        <option name="FILESTATUS_addedOutside" value="067D17"/>
         <option name="FILESTATUS_changelistConflict" value="DE1B2E"/>
         <option name="FILESTATUS_modifiedOutside" value="3574F0"/>
     </colors>
@@ -87,12 +87,12 @@
 
         <option name="EXECUTIONPOINT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="#FFC2C6"/>
+                <option name="BACKGROUND" value="#EAD03A"/>
             </value>
         </option>
         <option name="BREAKPOINT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="#f5dcdd"/>
+                <option name="BACKGROUND" value="#FDE6DE"/>
                 <option name="ERROR_STRIPE_COLOR" value="ffffff"/>
             </value>
         </option>
@@ -167,7 +167,7 @@
         </option>
         <option name="BREADCRUMBS_HOVERED">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="BREADCRUMBS_INACTIVE">
@@ -196,7 +196,7 @@
         </option>
         <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
@@ -231,19 +231,19 @@
         <!-- 大括号 {} -->
         <option name="DEFAULT_BRACES">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="#B7A974"/>
             </value>
         </option>
         <!-- 小括号 () -->
         <option name="DEFAULT_PARENTHS">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="#B7A974"/>
             </value>
         </option>
         <!-- 中括号 [] -->
         <option name="DEFAULT_BRACKETS">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="#B7A974"/>
             </value>
         </option>
         <option name="DEFAULT_CLASS_NAME">
@@ -353,7 +353,7 @@
         </option>
         <option name="DEFAULT_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="DEFAULT_LABEL">
@@ -363,7 +363,7 @@
         </option>
         <option name="DEFAULT_LINE_COMMENT">
             <value>
-                <option name="FOREGROUND" value="9DA0A8"/>
+                <option name="FOREGROUND" value="#9DA0A8"/>
             </value>
         </option>
         <option name="DEFAULT_LOCAL_VARIABLE">
@@ -373,7 +373,7 @@
         </option>
         <option name="DEFAULT_METADATA">
             <value>
-                <option name="FOREGROUND" value="9e880d" deuteranopia="3381FF" protanopia="3381FF"/>
+                <option name="FOREGROUND" value="#9e880d" deuteranopia="3381FF" protanopia="3381FF"/>
             </value>
         </option>
         <option name="DEFAULT_NUMBER">
@@ -489,7 +489,7 @@
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="720e34"/>
-                <option name="BACKGROUND" value="f8e3eb"/>
+                <option name="BACKGROUND" value="DBD1A9"/>
                 <option name="ERROR_STRIPE_COLOR" value="d0a1ff" deuteranopia="acb0bf" protanopia="acb0bf"/>
             </value>
         </option>
@@ -514,19 +514,19 @@
         </option>
         <option name="INJECTED_LANGUAGE_FRAGMENT">
             <value>
-                <option name="BACKGROUND" value="#f8e3eb"/>
+                <option name="BACKGROUND" value="#DBD1A9"/>
             </value>
         </option>
         <option name="INLINE_PARAMETER_HINT">
             <value>
                 <option name="FOREGROUND" value="545454"/>
-                <option name="BACKGROUND" value="#f8e3eb"/>
+                <option name="BACKGROUND" value="#DBD1A9"/>
             </value>
         </option>
         <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
             <value>
                 <option name="FOREGROUND" value="545454"/>
-                <option name="BACKGROUND" value="#f8e3eb"/>
+                <option name="BACKGROUND" value="#DBD1A9"/>
             </value>
         </option>
         <option name="INTERFACE_NAME_ATTRIBUTES">
@@ -541,7 +541,7 @@
         </option>
         <option name="JAVA_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="Standart Java Collection">
@@ -573,27 +573,27 @@
         <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="f55a1f"/>
-                <option name="BACKGROUND" value="f8e3eb"/>
-                <option name="EFFECT_COLOR" value="c54414"/>
-                <option name="ERROR_STRIPE_COLOR" value="c54414"/>
+                <option name="BACKGROUND" value="DBD1A9"/>
+                <option name="EFFECT_COLOR" value="ddb900"/>
+                <option name="ERROR_STRIPE_COLOR" value="ddb900"/>
             </value>
         </option>
         <option name="SEARCH_RESULT_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="f55a1f"/>
-                <option name="BACKGROUND" value="f8e3eb"/>
-                <option name="EFFECT_COLOR" value="c54414"/>
-                <option name="ERROR_STRIPE_COLOR" value="c54414"/>
+                <option name="BACKGROUND" value="DBD1A9"/>
+                <option name="EFFECT_COLOR" value="ddb900"/>
+                <option name="ERROR_STRIPE_COLOR" value="ddb900"/>
             </value>
         </option>
         <option name="MATCHED_BRACE_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="ffa381"/>
+                <option name="BACKGROUND" value="FEF7A7"/>
             </value>
         </option>
         <option name="MATCHED_TAG_NAME">
             <value>
-                <option name="BACKGROUND" value="ffa381"/>
+                <option name="BACKGROUND" value="FEF7A7"/>
             </value>
         </option>
         <option name="UNMATCHED_BRACE_ATTRIBUTES">
@@ -664,7 +664,7 @@
         <option name="FOLDED_TEXT_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="414d41" deuteranopia="4d4d4d" protanopia="4d4d4d"/>
-                <option name="BACKGROUND" value="f8e3eb" deuteranopia="ebebeb" protanopia="ebebeb"/>
+                <option name="BACKGROUND" value="#f5f1de" deuteranopia="ebebeb" protanopia="ebebeb"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
@@ -730,8 +730,8 @@
         </option>
         <option name="GO_COMMENT_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
-                <option name="EFFECT_COLOR" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
+                <option name="EFFECT_COLOR" value="067D17"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
@@ -778,7 +778,7 @@
         </option>
         <option name="GO_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="GO_LABEL">
@@ -954,13 +954,13 @@
         </option>
         <option name="HTML_TAG">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
         <option name="HTML_TAG_NAME">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="HTTP_REQUEST_MESSAGE_BODY">
@@ -1033,7 +1033,7 @@
         </option>
         <option name="CSS.TAG_NAME">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="CSS.URL">
@@ -1066,7 +1066,7 @@
         </option>
         <option name="JS.KEYWORD">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE"/>
@@ -1097,7 +1097,7 @@
         </option>
         <option name="JSON.VALID_ESCAPE">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="JSP_ATTRIBUTE_NAME">
@@ -1123,7 +1123,7 @@
         </option>
         <option name="JUPYTER_CELL_MARKER">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="JUPYTER_INLINE_VALUES">
@@ -1426,7 +1426,7 @@
         </option>
         <option name="PY.BRACKETS">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="PY.BUILTIN_NAME">
@@ -1454,7 +1454,7 @@
         </option>
         <option name="PY.DOC_COMMENT_TAG">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
@@ -1478,7 +1478,7 @@
         </option>
         <option name="PY.KEYWORD">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="PY.KEYWORD_ARGUMENT">
@@ -1557,7 +1557,7 @@
         </option>
         <option name="RAINBOW_COLOR1">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="RAINBOW_COLOR2">
@@ -1577,22 +1577,22 @@
         </option>
         <option name="REGEXP.BRACES">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="REGEXP.BRACKETS">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="REGEXP.CHAR_CLASS">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="REGEXP.COMMA">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="REGEXP.ESC_CHARACTER">
@@ -1619,12 +1619,12 @@
         </option>
         <option name="REGEXP.QUOTE_CHARACTER">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="REGEXP.REDUNDANT_ESCAPE">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="RHTML_COMMENT_ID" baseAttributes="HTML_COMMENT"/>
@@ -1660,7 +1660,7 @@
         </option>
         <option name="RUBY_ESCAPE_SEQUENCE">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="RUBY_GVAR">
@@ -1698,7 +1698,7 @@
         </option>
         <option name="RUBY_INVALID_ESCAPE_SEQUENCE">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
                 <option name="EFFECT_COLOR" value="ff5555"/>
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
@@ -1740,7 +1740,7 @@
         </option>
         <option name="RUBY_SPECIFIC_CALL">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="RUBY_SYMBOL">
@@ -1856,7 +1856,7 @@
         </option>
         <option name="VELOCITY_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="VELOCITY_REFERENCE">
@@ -1888,12 +1888,12 @@
         </option>
         <option name="XML_TAG">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="XML_TAG_NAME">
             <value>
-                <option name="FOREGROUND" value="B7447B"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="XPATH.FUNCTION" baseAttributes="DEFAULT_FUNCTION_CALL"/>

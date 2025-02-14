@@ -1,8 +1,8 @@
 {
-  "name": "Relax Green Light Contrast",
+  "name": "Relax Light Green Contrast",
   "dark": false,
   "author": "Xiaoan Pan",
-  "editorScheme": "/themes/light-green/relax-green-light-contrast-colorful.xml",
+  "editorScheme": "/themes/light-green/relax-light-green-contrast-colorful.xml",
   "colors": {
     "borderColor": "#c6e1e0",
     "separatorColor": "#c6e1e0",

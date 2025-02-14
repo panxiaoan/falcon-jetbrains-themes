@@ -1,8 +1,8 @@
 {
-  "name": "Relax Green Light",
+  "name": "Relax Light Green",
   "dark": false,
   "author": "Xiaoan Pan",
-  "editorScheme": "/themes/light-green/relax-green-light-colorful.xml",
+  "editorScheme": "/themes/light-green/relax-light-green-colorful.xml",
   "colors": {
     "borderColor": "#d6e8e7",
     "separatorColor": "#d6e8e7",

@@ -23,12 +23,12 @@ Falcon Relax Eyes theme might be a better choice for you.<br/>
 
 **Falcon Relax Eyes Light themes (for bright environments):**
 
-- Relax Celadon Light
-- Relax Green Light
-- Relax Green Light Contrast
-- Relax Grey Light
-- Relax Pink Light
-- Relax Yellow Light
+- Relax Light Celadon
+- Relax Light Green
+- Relax Light Green Contrast
+- Relax Light Grey
+- Relax Light Pink
+- Relax Light Yellow
 
 **Falcon Relax Eyes Dark themes (for low-light environments):**
 
@@ -37,14 +37,15 @@ Falcon Relax Eyes theme might be a better choice for you.<br/>
 - Relax Dark Blue
 - Relax Dark Green
 - Relax Dark Violet
+- Relax Dark Coffee
 
 <b>For light themes, IDEA's default editor color scheme is also available:</b>
-- Relax Celadon Light(IDEA default scheme)
-- Relax Green Light(IDEA default scheme)
-- Relax Green Light Contrast(IDEA default scheme)
-- Relax Grey Light(IDEA default scheme)
-- Relax Pink Light(IDEA default scheme)
-- Relax Yellow Light(IDEA default scheme)
+- Relax Light Celadon(IDEA default)
+- Relax Light Green(IDEA default)
+- Relax Light Green Contrast(IDEA default)
+- Relax Light Grey(IDEA default)
+- Relax Light Pink(IDEA default)
+- Relax Light Yellow(IDEA default)
 
 <a href="https://github.com/panxiaoan/falcon-jetbrains-themes/issues">Report an issue</a>
 
@@ -67,29 +68,29 @@ Falcon Relax Eyes theme might be a better choice for you.<br/>
 
 ## Falcon Relax Light Theme Screenshot
 
-1. Relax Green Light
+1. Relax Light Green
 
-    <img src="./assets/relax-green-light.jpg" alt="Relax Green Light" style="border: 1px solid #CED0D6;">
+    <img src="./assets/relax-light-green.jpg" alt="Relax Light Green" style="border: 1px solid #CED0D6;">
 
-2. Relax Green Light Contrast
+2. Relax Light Green Contrast
 
-    <img src="./assets/relax-green-light-contrast.jpg" alt="Relax Green Light Contrast" style="border: 1px solid #CED0D6;">
+    <img src="./assets/relax-light-green-contrast.jpg" alt="Relax Light Green Contrast" style="border: 1px solid #CED0D6;">
 
-3. Relax Grey Light
+3. Relax Light Grey
 
-    <img src="./assets/relax-grey-light.jpg" alt="Relax Grey Light" style="border: 1px solid #CED0D6;">
+    <img src="./assets/relax-light-grey.jpg" alt="Relax Light Grey" style="border: 1px solid #CED0D6;">
 
-4. Relax Celadon Light
+4. Relax Light Celadon
 
-    <img src="./assets/relax-celadon-light.jpg" alt="Relax Celadon Light" style="border: 1px solid #CED0D6;">
+    <img src="./assets/relax-light-celadon.jpg" alt="Relax Light Celadon" style="border: 1px solid #CED0D6;">
 
-5. Relax Pink Light
+5. Relax Light Pink
 
-    <img src="./assets/relax-pink-light.jpg" alt="Relax Pink Light" style="border: 1px solid #CED0D6;">
+    <img src="./assets/relax-light-pink.jpg" alt="Relax Light Pink" style="border: 1px solid #CED0D6;">
 
-6. Relax Yellow Light
+6. Relax Light Yellow
 
-    <img src="./assets/relax-yellow-light.jpg" alt="Relax Yellow Light" style="border: 1px solid #CED0D6;">
+    <img src="./assets/relax-light-yellow.jpg" alt="Relax Light Yellow" style="border: 1px solid #CED0D6;">
 
 ## Falcon Relax Dark Theme Screenshot
 
@@ -112,6 +113,10 @@ Falcon Relax Eyes theme might be a better choice for you.<br/>
 5. Relax Dark Violet
 
     <img src="./assets/relax-dark-violet.jpg" alt="Relax Dark Violet" style="border: 1px solid #CED0D6;">
+
+6. Relax Dark Coffee
+
+    <img src="./assets/relax-dark-coffee.jpg" alt="Relax Dark Coffee" style="border: 1px solid #CED0D6;">
 
 ## License
 

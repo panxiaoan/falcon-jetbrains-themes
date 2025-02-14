@@ -1,10 +1,10 @@
-<scheme name="Relax Green Light(IDEA default scheme)" version="142" parent_scheme="Default">
+<scheme name="Relax Light Pink(IDEA default)" version="142" parent_scheme="Default">
     <metaInfo>
         <property name="created">2024-12-05</property>
         <property name="ide">idea</property>
         <property name="ideVersion">2023.2.3.0.0</property>
         <property name="modified">2024-12-05</property>
-        <property name="originalScheme">Relax Green Light</property>
+        <property name="originalScheme">Relax Pink Light</property>
     </metaInfo>
 
     <option name="LINE_SPACING" value="1.1"/>
@@ -21,17 +21,18 @@
     <option name="CONSOLE_LIGATURES" value="true"/>
 
     <colors>
-        <option name="BACKGROUND" value="E0F2F1"/>
-        <option name="CONSOLE_BACKGROUND_KEY" value="E0F2F1"/>
-        <option name="CARET_ROW_COLOR" value="F0FFFF"/>
-        <option name="DOCUMENTATION_COLOR" value="E0F2F1"/>
-        <option name="LOOKUP_COLOR" value="E0F2F1"/>
+        <option name="BACKGROUND" value="#FDF5F6"/>
+        <option name="CONSOLE_BACKGROUND_KEY" value="#FDF5F6"/>
+        <option name="CARET_COLOR" value="c55ea5"/>
+        <option name="CARET_ROW_COLOR" value="#FFE6E7"/>
+        <option name="DOCUMENTATION_COLOR" value="#FDF5F6"/>
+        <option name="LOOKUP_COLOR" value="#FDF5F6"/>
 
-        <option name="ScrollBar.background" value="E0F2F1"/>
-        <option name="ScrollBar.Mac.thumbColor" value="c6e1e0"/>
-        <option name="ScrollBar.Mac.hoverThumbColor" value="F6FDFB"/>
-        <option name="ScrollBar.Mac.thumbBorderColor" value="E0F2F1"/>
-        <option name="ScrollBar.Mac.hoverThumbBorderColor" value="F6FDFB"/>
+        <option name="ScrollBar.background" value="#FDF5F6"/>
+        <option name="ScrollBar.Mac.thumbColor" value="#FCEEF0"/>
+        <option name="ScrollBar.Mac.hoverThumbColor" value="#f5d7e5"/>
+        <option name="ScrollBar.Mac.thumbBorderColor" value="#FCEEF0"/>
+        <option name="ScrollBar.Mac.hoverThumbBorderColor" value="#f5d7e5"/>
 
         <option name="ADDED_LINES_COLOR" value="7fc784"/>
         <option name="ANNOTATIONS_COLOR" value="5a5d6b"/>
@@ -39,24 +40,25 @@
         <option name="DELETED_LINES_COLOR" value="767a8a"/>
         <option name="DIFF_SEPARATORS_BACKGROUND" value="e4e6eb"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="7d5020"/>
-        <option name="GUTTER_BACKGROUND" value="ffffff"/>
+        <option name="GUTTER_BACKGROUND" value="#fafeff"/>
         <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="7fc784"/>
         <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="767a8a"/>
         <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="88adf7"/>
-        <option name="INDENT_GUIDE" value="c6e1e0"/>
-        <option name="INFORMATION_HINT" value="ffffff"/>
+        <option name="INDENT_GUIDE" value="#f1edef"/>
+        <option name="INFORMATION_HINT" value="fafeff"/>
         <option name="LINE_NUMBERS_COLOR" value="aeb3c2"/>
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="767a8a"/>
         <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="62b3b3"/>
-        <option name="METHOD_SEPARATORS_COLOR" value="c6e1e0"/>
-        <option name="MODIFIED_LINES_COLOR" value="88adf7" deuteranopia="9ca9bf" protanopia="9ca9bf"/>
+        <option name="METHOD_SEPARATORS_COLOR" value="#f1edef"/>
+        <option name="MODIFIED_LINES_COLOR" value="C2D6FC" deuteranopia="9ca9bf" protanopia="9ca9bf"/>
         <option name="NOTIFICATION_BACKGROUND" value="fff8e3"/>
-        <option name="RIGHT_MARGIN_COLOR" value="c6e1e0"/>
-        <option name="SELECTED_INDENT_GUIDE" value="aeb3c2"/>
-        <option name="SELECTION_BACKGROUND" value="#AFDBB8" deuteranopia="5974AB" protanopia="5974AB"/>
-        <option name="SELECTION_FOREGROUND" value="" deuteranopia="ffffff" protanopia="ffffff"/>
-        <option name="STICKY_LINES_BACKGROUND" value="d6e8e7"/>
-        <option name="TEARLINE_COLOR" value="d4d4d4"/>
+        <option name="RIGHT_MARGIN_COLOR" value="#f1edef"/>
+        <option name="SELECTED_INDENT_GUIDE" value="#f1edef"/>
+        <option name="SELECTION_BACKGROUND" value="#e7cfdf" deuteranopia="5974AB" protanopia="5974AB"/>
+        <option name="SELECTION_FOREGROUND" value="" deuteranopia="fafeff" protanopia="fafeff"/>
+        <option name="SELECTED_TEARLINE_COLOR" value="f3cfe0"/>
+        <option name="STICKY_LINES_BACKGROUND" value="#FCEEF0"/>
+        <option name="TEARLINE_COLOR" value="#f1edef"/>
         <option name="VCS_ANNOTATIONS_COLOR_1" value="a1bef7"/>
         <option name="VCS_ANNOTATIONS_COLOR_2" value="c9dafb"/>
         <option name="VCS_ANNOTATIONS_COLOR_3" value="dee8fc"/>
@@ -65,34 +67,40 @@
         <option name="VISUAL_INDENT_GUIDE" value="dae6fd"/>
         <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="f7e2cb" deuteranopia="c5cad4" protanopia="c5cad4"/>
         <option name="ERROR_HINT" value="FFE8E8"/>
-        <option name="PROMOTION_PANE" value="e7effd"/>
+        <option name="PROMOTION_PANE" value="#e7effd"/>
         <option name="QUESTION_HINT" value="f5f8fe"/>
-        <option name="RECENT_LOCATIONS_SELECTION" value="E7EFFD"/>
+        <option name="RECENT_LOCATIONS_SELECTION" value="#E7EFFD"/>
         <option name="FOLDED_TEXT_BORDER_COLOR" value="ADD9C7" deuteranopia="b3b3b3" protanopia="b3b3b3"/>
 
-        <option name="FILESTATUS_ADDED" value="067D17"/>
-        <option name="FILESTATUS_COPIED" value="067D17"/>
+        <option name="FILESTATUS_ADDED" value="B7447B"/>
+        <option name="FILESTATUS_COPIED" value="B7447B"/>
         <option name="FILESTATUS_DELETED" value="6C707E"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6C707E"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="8C4F00"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="DE1B2E"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="DE1B2E"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="DE1B2E"/>
-        <option name="FILESTATUS_MERGED" value="643CB8"/>
-        <option name="FILESTATUS_MODIFIED" value="0033B3"/>
-        <option name="FILESTATUS_RENAMED" value="0033B3"/>
-        <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="0033B3"/>
-        <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="0033B3"/>
+        <option name="FILESTATUS_MERGED" value="9B0742"/>
+        <option name="FILESTATUS_MODIFIED" value="3574F0"/>
+        <option name="FILESTATUS_RENAMED" value="3574F0"/>
+        <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="3574F0"/>
+        <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="3574F0"/>
         <option name="FILESTATUS_UNKNOWN" value="B23247"/>
-        <option name="FILESTATUS_addedOutside" value="067D17"/>
+        <option name="FILESTATUS_addedOutside" value="B7447B"/>
         <option name="FILESTATUS_changelistConflict" value="DE1B2E"/>
-        <option name="FILESTATUS_modifiedOutside" value="0033B3"/>
+        <option name="FILESTATUS_modifiedOutside" value="3574F0"/>
 
     </colors>
     <attributes>
         <option name="EXECUTIONPOINT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="#DEDFFC"/>
+                <option name="BACKGROUND" value="#FFC2C6"/>
+            </value>
+        </option>
+        <option name="BREAKPOINT_ATTRIBUTES">
+            <value>
+                <option name="BACKGROUND" value="#f5dcdd"/>
+                <option name="ERROR_STRIPE_COLOR" value="ffffff"/>
             </value>
         </option>
 
@@ -478,7 +486,7 @@
                 <option name="FOREGROUND" value="7e8a"/>
             </value>
         </option>
-        <option name="WARNING_ATTRIBUTES">`
+        <option name="WARNING_ATTRIBUTES">
             <value>
                 <option name="EFFECT_COLOR" value="f8961e"/>
                 <option name="ERROR_STRIPE_COLOR" value="f8961e"/>
