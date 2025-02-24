@@ -102,13 +102,13 @@
     "ComboBox": {
       "modifiedItemForeground": "accentColor",
       "ArrowButton": {
-        "background": "secondaryBackground",
-        "nonEditableBackground": "secondaryBackground",
+        "background": "primaryBackground",
+        "nonEditableBackground": "primaryBackground",
         "disabledIconColor": "#576285",
         "iconColor": "secondaryAccentColor"
       },
       "selectionBackground": "secondaryAccentColor",
-      "nonEditableBackground": "secondaryBackground"
+      "nonEditableBackground": "primaryBackground"
     },
     "CompletionPopup": {
       "selectionBackground": "selectionInactiveBackground",

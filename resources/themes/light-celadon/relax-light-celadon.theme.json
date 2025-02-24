@@ -108,13 +108,13 @@
     "ComboBox": {
       "modifiedItemForeground": "accentColor",
       "ArrowButton": {
-        "background": "inputBackground",
-        "nonEditableBackground": "inputBackground",
+        "background": "menuBackground",
+        "nonEditableBackground": "menuBackground",
         "disabledIconColor": "selectionInactiveBackground",
         "iconColor": "borderColor"
       },
       "selectionBackground": "selectionBackground",
-      "nonEditableBackground": "inputBackground"
+      "nonEditableBackground": "menuBackground"
     },
     "CompletionPopup": {
       "background": "menuBackground",
@@ -365,10 +365,15 @@
       "Objects.YellowDark": "#ecc27d",
       "Objects.BlackText": "#112733",
       "Checkbox.Foreground.Selected": "#e4ecef",
-      "Checkbox.Border.Default": "#6cb6b6",
-      "Checkbox.Border.Selected": "#6cb6b6",
-      "Checkbox.Background.Default": "#6cb6b6",
-      "Checkbox.Background.Selected": "#6cb6b6"
+      "Checkbox.Border.Default": "#c7dae1",
+      "Checkbox.Border.Selected": "#91B1C1",
+      "Checkbox.Border.Disabled": "#c7dae1",
+      "Checkbox.Background.Default": "#c7dae1",
+      "Checkbox.Background.Selected": "#91B1C1",
+      "Checkbox.Background.Disabled": "#c7dae1",
+      "Checkbox.Focus.Wide": "#91B1C1",
+      "Checkbox.Focus.Thin.Default": "#c7dae1",
+      "Checkbox.Focus.Thin.Selected": "#91B1C1"
     }
   }
 }
