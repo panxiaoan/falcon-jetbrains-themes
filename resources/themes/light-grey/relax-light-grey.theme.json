@@ -363,14 +363,14 @@
       "Objects.YellowDark": "#ecc27d",
       "Objects.BlackText": "#112733",
       "Checkbox.Foreground.Selected": "#F0F4F4",
-      "Checkbox.Border.Default": "#DFE1E5",
+      "Checkbox.Border.Default": "#d5d7db",
       "Checkbox.Border.Selected": "#91B1C1",
-      "Checkbox.Border.Disabled": "#DFE1E5",
-      "Checkbox.Background.Default": "#DFE1E5",
+      "Checkbox.Border.Disabled": "#d5d7db",
+      "Checkbox.Background.Default": "#d5d7db",
       "Checkbox.Background.Selected": "#91B1C1",
-      "Checkbox.Background.Disabled": "#DFE1E5",
+      "Checkbox.Background.Disabled": "#d5d7db",
       "Checkbox.Focus.Wide": "#91B1C1",
-      "Checkbox.Focus.Thin.Default": "#DFE1E5",
+      "Checkbox.Focus.Thin.Default": "#d5d7db",
       "Checkbox.Focus.Thin.Selected": "#91B1C1"
     }
   }
