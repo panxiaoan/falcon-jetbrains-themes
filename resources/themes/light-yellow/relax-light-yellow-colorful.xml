@@ -81,6 +81,8 @@
         <option name="FILESTATUS_addedOutside" value="067D17"/>
         <option name="FILESTATUS_changelistConflict" value="DE1B2E"/>
         <option name="FILESTATUS_modifiedOutside" value="3574F0"/>
+        <option name="FILESTATUS_SWITCHED" value="#045F6C"/>
+        <option name="FILESTATUS_OBSOLETE" value="#595900"/>
     </colors>
 
     <attributes>
@@ -462,11 +464,8 @@
                 <option name="FOREGROUND" value="#46785E"/>
             </value>
         </option>
-        <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
-            <value>
-                <option name="BACKGROUND" value="383A42"/>
-            </value>
-        </option>
+        <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="DEFAULT_STRING"/>
+        <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD"/>
         <option name="DEFAULT_VALID_STRING_ESCAPE">
             <value>
                 <option name="FOREGROUND" value="643CB8"/>
@@ -1259,22 +1258,22 @@
         </option>
         <option name="MARKDOWN_HEADER_LEVEL_1">
             <value>
-                <option name="FOREGROUND" value="007297"/>
+                <option name="FOREGROUND" value="643CB8"/>
             </value>
         </option>
         <option name="MARKDOWN_HEADER_LEVEL_2">
             <value>
-                <option name="FOREGROUND" value="007297"/>
+                <option name="FOREGROUND" value="643CB8"/>
             </value>
         </option>
         <option name="MARKDOWN_HEADER_LEVEL_3">
             <value>
-                <option name="FOREGROUND" value="007297"/>
+                <option name="FOREGROUND" value="643CB8"/>
             </value>
         </option>
         <option name="MARKDOWN_HEADER_LEVEL_4">
             <value>
-                <option name="FOREGROUND" value="007297"/>
+                <option name="FOREGROUND" value="643CB8"/>
             </value>
         </option>
         <option name="MARKDOWN_LINK_DESTINATION">
