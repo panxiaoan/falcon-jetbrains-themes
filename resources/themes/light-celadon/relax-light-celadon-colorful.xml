@@ -458,7 +458,6 @@
             </value>
         </option>
         <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="DEFAULT_STRING"/>
-        <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD"/>
         <option name="DEFAULT_VALID_STRING_ESCAPE">
             <value>
                 <option name="FOREGROUND" value="643CB8"/>
@@ -1095,7 +1094,7 @@
         </option>
         <option name="JSP_DIRECTIVE_BACKGROUND">
             <value>
-                <option name="BACKGROUND" value="383A42"/>
+                <option name="BACKGROUND" value="#E4ECEF"/>
             </value>
         </option>
         <option name="JSP_DIRECTIVE_NAME">
@@ -1106,7 +1105,7 @@
         <option name="JSP_SCRIPTING_BACKGROUND">
             <value>
                 <option name="FOREGROUND" value="643CB8"/>
-                <option name="BACKGROUND" value="383A42"/>
+                <option name="BACKGROUND" value="#E4ECEF"/>
             </value>
         </option>
         <option name="JUPYTER_CELL_MARKER">
