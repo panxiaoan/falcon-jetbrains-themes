@@ -108,7 +108,8 @@
     <change-notes><![CDATA[
         <b>2.0.2(250411)</b>
         <ul>
-            <li>fix: https://github.com/panxiaoan/falcon-jetbrains-themes/issues/1</li>
+            <li>fix: jsp issue → https://github.com/panxiaoan/falcon-jetbrains-themes/issues/1</li>
+            <li>fix: python issue → https://github.com/panxiaoan/falcon-jetbrains-themes/issues/3</li>
         </ul>
 
         <b>2.0.1(250331)</b>
