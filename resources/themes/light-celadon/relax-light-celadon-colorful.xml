@@ -94,7 +94,7 @@
 
         <option name="DEFAULT_OPERATION_SIGN">
             <value>
-                <option name="FOREGROUND" value="#383A42"/>
+                <option name="FOREGROUND" value="383A42"/>
             </value>
         </option>
         <option name="DEFAULT_DOT">
@@ -1401,21 +1401,20 @@
                 <option name="FOREGROUND" value="007297"/>
             </value>
         </option>
+
+        <!-- Python -->
         <option name="PY.ANNOTATION">
             <value>
                 <option name="FOREGROUND" value="007297"/>
             </value>
         </option>
-        <option name="PY.BRACES">
-            <value>
-                <option name="FOREGROUND" value="737fff"/>
-            </value>
-        </option>
-        <option name="PY.BRACKETS">
-            <value>
-                <option name="FOREGROUND" value="067D17"/>
-            </value>
-        </option>
+        <option name="PY.BRACES" baseAttributes="DEFAULT_BRACES"/>
+        <option name="PY.BRACKETS" baseAttributes="DEFAULT_BRACKETS"/>
+        <option name="PY.PARENTHS" baseAttributes="DEFAULT_PARENTHS"/>
+        <option name="PY.OPERATION_SIGN" baseAttributes="DEFAULT_OPERATION_SIGN"/>
+        <option name="PY.DOT" baseAttributes="DEFAULT_DOT"/>
+        <option name="PY.SEMICOLON" baseAttributes="DEFAULT_SEMICOLON"/>
+        <option name="PY.COMMA" baseAttributes="DEFAULT_COMMA"/>
         <option name="PY.BUILTIN_NAME">
             <value>
                 <option name="FOREGROUND" value="#8D4532"/>
@@ -1425,9 +1424,6 @@
             <value>
                 <option name="FOREGROUND" value="007297"/>
             </value>
-        </option>
-        <option name="PY.COMMA">
-            <value/>
         </option>
         <option name="PY.DECORATOR">
             <value>
@@ -1444,9 +1440,6 @@
                 <option name="FOREGROUND" value="067D17"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
-        </option>
-        <option name="PY.DOT">
-            <value/>
         </option>
         <option name="PY.FSTRING_FRAGMENT_BRACES">
             <value>
@@ -1488,16 +1481,6 @@
                 <option name="FOREGROUND" value="#8D4532"/>
             </value>
         </option>
-        <option name="PY.OPERATION_SIGN">
-            <value>
-                <option name="FOREGROUND" value="f998cc"/>
-            </value>
-        </option>
-        <option name="PY.PARENTHS">
-            <value>
-                <option name="FOREGROUND" value="fff906"/>
-            </value>
-        </option>
         <option name="PY.PREDEFINED_DEFINITION">
             <value>
                 <option name="FOREGROUND" value="007297"/>
@@ -1524,6 +1507,7 @@
                 <option name="FOREGROUND" value="9C411A"/>
             </value>
         </option>
+
         <option name="QL_ATTRIBUTE">
             <value/>
         </option>
