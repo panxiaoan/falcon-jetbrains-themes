@@ -138,7 +138,12 @@
     "Editor": {
       "background": "editorBackground",
       "shortcutForeground": "accentColor",
-      "SearchField.background": "borderColor"
+      "SearchField.background": "borderColor",
+      "ToolTip": {
+        "foreground": "primaryForeground",
+        "errorBackground": "menuBackground",
+        "errorBorder": "error"
+      }
     },
     "EditorPane.splitBorder": "borderColor",
     "EditorTabs": {

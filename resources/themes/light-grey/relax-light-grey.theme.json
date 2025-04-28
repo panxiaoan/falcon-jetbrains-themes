@@ -137,7 +137,12 @@
     "Editor": {
       "background": "editorBackground",
       "shortcutForeground": "accentColor",
-      "SearchField.background": "#FAFEFF"
+      "SearchField.background": "#FAFEFF",
+      "ToolTip": {
+        "foreground": "primaryForeground",
+        "errorBackground": "menuBackground",
+        "errorBorder": "error"
+      }
     },
     "EditorTabs": {
       "background": "menuBackground",
