@@ -12,6 +12,9 @@
         <b>A protect your eyesight themes</b></br>
 
         </br>
+        <b>Minimum supported IDEA version: 2023.2</b></br>
+
+        </br>
         If you work in a bright environment for long periods of time, a light-colored theme is recommended. <br/>
         Falcon Relax Eyes theme might be a better choice for you.<br/>
 
@@ -71,7 +74,7 @@
         <a href="https://github.com/panxiaoan/falcon-jetbrains-themes/issues">Report an issue</a>
 
         <br/><br/>
-        <a href="https://ux.stackexchange.com/questions/53264/dark-or-white-color-theme-is-better-for-the-eyes">Dark or white color theme is better for the eyes?</a>
+        An interesting discussion：<a href="https://ux.stackexchange.com/questions/53264/dark-or-white-color-theme-is-better-for-the-eyes">Dark or white color theme is better for the eyes?</a>
         <br/><br/><br/>
     ]]>
     </description>
@@ -105,6 +108,11 @@
     </extensions>
 
     <change-notes><![CDATA[
+        <b>2.0.4(250530) → 👦🏻👧🏻 Happy Children's Day!</b>
+        <ul>
+            <li>fix: fixed the border color of all theme buttons after they gain focus</li>
+        </ul>
+
         <b>2.0.3(250428)</b>
         <ul>
             <li>fix: fixed the issue where the background color of the ctrl+shift+p tooltip in the light theme made the content invisible</li>
