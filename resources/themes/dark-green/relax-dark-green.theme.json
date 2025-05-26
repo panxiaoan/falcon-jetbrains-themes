@@ -80,7 +80,7 @@
       "endBorderColor": "selectionBackground",
       "startBackground": "#153f48",
       "endBackground": "#153f48",
-      "focusedBorderColor": "secondaryAccentColor",
+      "focusedBorderColor": "iconBackground",
       "disabledBorderColor": "#153f48",
       "default": {
         "foreground": "primaryForeground",
@@ -88,8 +88,8 @@
         "endBackground": "selectionBackground",
         "startBorderColor": "secondaryAccentColor",
         "endBorderColor": "secondaryAccentColor",
-        "focusColor": "secondaryAccentColor",
-        "focusedBorderColor": "secondaryAccentColor"
+        "focusColor": "iconBackground",
+        "focusedBorderColor": "iconBackground"
       }
     },
     "Counter": {

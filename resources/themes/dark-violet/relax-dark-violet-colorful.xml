@@ -11,7 +11,7 @@
         <option name="EDITOR_FONT_SIZE" value="13"/>
     </console-font>
     <option name="CONSOLE_LIGATURES" value="true"/>
-    
+
     <colors>
         <option name="BACKGROUND" value="#2B2640"/>
         <option name="CONSOLE_BACKGROUND_KEY" value="#2B2640"/>
@@ -465,7 +465,7 @@
 
         <option name="DEFAULT_ENTITY">
             <value>
-                <option name="FOREGROUND" value="9876AA"/>
+                <option name="FOREGROUND" value="c58564"/>
             </value>
         </option>
         <option name="DEFAULT_FUNCTION_CALL">
@@ -480,7 +480,7 @@
         </option>
         <option name="DEFAULT_GLOBAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="9876AA"/>
+                <option name="FOREGROUND" value="c58564"/>
                 <option name="FONT_TYPE" value="0"/>
             </value>
         </option>

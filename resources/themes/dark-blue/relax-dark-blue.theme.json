@@ -80,7 +80,7 @@
       "endBorderColor": "selectionBackground",
       "startBackground": "#344359",
       "endBackground": "#344359",
-      "focusedBorderColor": "secondaryAccentColor",
+      "focusedBorderColor": "iconBackground",
       "disabledBorderColor": "#344359",
       "default": {
         "foreground": "primaryForeground",
@@ -88,7 +88,7 @@
         "endBackground": "selectionBackground",
         "startBorderColor": "secondaryAccentColor",
         "endBorderColor": "secondaryAccentColor",
-        "focusColor": "secondaryAccentColor",
+        "focusColor": "iconBackground",
         "focusedBorderColor": "secondaryAccentColor"
       }
     },

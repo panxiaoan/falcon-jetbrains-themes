@@ -89,7 +89,7 @@
       "endBorderColor": "borderColor",
       "startBackground": "inputBackground",
       "endBackground": "inputBackground",
-      "focusedBorderColor": "lineColor",
+      "focusedBorderColor": "iconBackground",
       "disabledBorderColor": "borderColor",
       "default": {
         "foreground": "primaryForeground",
@@ -97,8 +97,8 @@
         "endBackground": "inputBackground",
         "startBorderColor": "borderColor",
         "endBorderColor": "borderColor",
-        "focusColor": "lineColor",
-        "focusedBorderColor": "lineColor"
+        "focusColor": "iconBackground",
+        "focusedBorderColor": "iconBackground"
       }
     },
     "Counter": {

@@ -1,6 +1,7 @@
-# Falcon Relax Eyes Themes for [JetBrains IDE](https://www.jetbrains.com/)
+# Falcon Relax Eyes Themes for [JetBrains IDE](https://plugins.jetbrains.com/plugin/26026-falcon-relax-eyes-light-theme)
 
-> A protect your eyesight theme for [JetBrains IDE](https://www.jetbrains.com/)
+> A protect your eyesight theme
+> for [JetBrains IDE](https://plugins.jetbrains.com/plugin/26026-falcon-relax-eyes-light-theme)
 
 <img src="./assets/home.png" alt="Relax Green Light" style="border: 1px solid #CED0D6;">
 
@@ -50,6 +51,10 @@ Falcon Relax Eyes theme might be a better choice for you.<br/>
 <a href="https://github.com/panxiaoan/falcon-jetbrains-themes/issues">Report an issue</a>
 
 ## Install
+
+```plain text
+Minimum supported IDEA version: 2023.2
+```
 
 [Jetbrains Marketplace](https://plugins.jetbrains.com/plugin/26026-falcon-relax-eyes-light-theme)
 
