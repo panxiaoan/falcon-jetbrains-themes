@@ -20,7 +20,7 @@ You might want to try The Falcon Relax Eyes themes.<br/>
 - Gentle, eye-friendly colors to reduce strain
 - Improved syntax highlighting for clarity
 - Consistent and clean theme style
-- Lightweight design with minimal impact on - performance
+- Lightweight design with minimal impact on IDE - performance
 
 **Falcon Relax Eyes Light themes (for bright environments):**
 

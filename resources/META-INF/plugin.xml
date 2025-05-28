@@ -9,27 +9,28 @@
     <idea-version since-build="232"/>
 
     <description><![CDATA[
-        <b>A protect your eyesight themes</b></br>
+        <b>A gentle, eye-friendly theme to protect your eyesight.</b></br>
+
+        <b>一个温和的，对眼睛友好，保护视力的 Jetbrains IDE 主题.</b></br>
 
         </br>
         <b>Minimum supported IDEA version: 2023.2</b></br>
 
         </br>
-        If you work in a bright environment for long periods of time, a light-colored theme is recommended. <br/>
-        Falcon Relax Eyes theme might be a better choice for you.<br/>
+        If you're working in a bright environment for extended periods, a light-colored theme is usually better. <br/>
+        You might want to try The Falcon Relax Eyes themes.<br/>
 
         <br/>
         在明亮的工作环境中，长时间使用 IDEA，建议使用浅色主题，减少视觉疲劳。<br/>
-        Falcon Relax Eyes Theme 可能是个更好的选择。<br/>
+        Falcon Relax Eyes Themes 可能是个更好的选择。<br/>
 
         <br/>
-        <b>Basic features in Falcon Relax Eyes Themes :</b>
+        <b>Features:</b>
         <ul>
-            <li>Work with both **New UI** and **Classic UI**</li>
-            <li>Well-balanced colors, easy on eyes</li>
-            <li>Better syntax highlight</li>
-            <li>Unified and clean themes style</li>
-            <li>Lightweight and low impact on IDE performance</li>
+            <li>Gentle, eye-friendly colors to reduce strain</li>
+            <li>Improved syntax highlighting for clarity</li>
+            <li>Consistent and clean theme style</li>
+            <li>Lightweight design with minimal impact on IDE - performance</li>
         </ul>
 
         <br/>
