@@ -1,26 +1,26 @@
 # Falcon Relax Eyes Themes for [JetBrains IDE](https://plugins.jetbrains.com/plugin/26026-falcon-relax-eyes-light-theme)
 
-> A protect your eyesight theme
-> for [JetBrains IDE](https://plugins.jetbrains.com/plugin/26026-falcon-relax-eyes-light-theme)
+> A gentle, eye-friendly theme to protect your eyesight for
+> [JetBrains IDE](https://plugins.jetbrains.com/plugin/26026-falcon-relax-eyes-light-theme) <br/>
+> 一个温和的，对眼睛友好，保护视力的 JetBrains IDE 主题
 
 <img src="./assets/home.png" alt="Relax Green Light" style="border: 1px solid #CED0D6;">
 
-If you work in a bright environment for long periods of time, a light-colored theme is recommended.
+If you're working in a bright environment for extended periods, a light-colored theme is usually better.
 <br/>
-Falcon Relax Eyes theme might be a better choice for you.<br/>
+You might want to try The Falcon Relax Eyes themes.<br/>
 
 在明亮的工作环境中，长时间使用 IDE，建议使用浅色主题，减少视觉疲劳。<br/>
 
 > <a href="https://ux.stackexchange.com/questions/53264/dark-or-white-color-theme-is-better-for-the-eyes">Dark or white color theme is better for the eyes?</a>
 <img src="./assets/about.jpg" alt="Relax Green Light" style="border: 1px solid #CED0D6;">
 
-**Basic features in Falcon Relax Eyes Themes:**
+**Features:**
 
-- Work with both **New UI** and **Classic UI**
-- Well-balanced colors, easy on eyes
-- Better syntax highlight
-- Unified and clean themes style
-- Lightweight and low impact on IDE performance
+- Gentle, eye-friendly colors to reduce strain
+- Improved syntax highlighting for clarity
+- Consistent and clean theme style
+- Lightweight design with minimal impact on - performance
 
 **Falcon Relax Eyes Light themes (for bright environments):**
 

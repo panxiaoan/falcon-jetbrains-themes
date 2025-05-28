@@ -108,8 +108,9 @@
     </extensions>
 
     <change-notes><![CDATA[
-        <b>2.0.4(250530) → 👦🏻👧🏻 Happy Children's Day!</b>
+        <b>2.0.4(250528) → 👦🏻👧🏻 Happy Children's Day! 🐲 Healthy Dragon Boat Festival!</b>
         <ul>
+            <li>广而告之：同款 VS Code 主题现已推出，欢迎体验：https://marketplace.visualstudio.com/items?itemName=panxiaoan.themes-falcon-vscode</li>
             <li>fix: fixed the border color of all theme buttons after they gain focus</li>
         </ul>
 
