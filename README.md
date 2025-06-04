@@ -127,4 +127,8 @@ Minimum supported IDEA version: 2023.2
 
 [MIT License](./LICENSE)
 
-> Keep It Simple and Stupid.
+## VS Code Theme
+
+另外，使用 VS Code 的用户，也可以体验同款主题
+
+请前往 VS Code Marketplace [下载](https://marketplace.visualstudio.com/publishers/panxiaoan)
