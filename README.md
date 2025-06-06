@@ -1,4 +1,4 @@
-# Falcon Relax Eyes Themes for [JetBrains IDE](https://plugins.jetbrains.com/plugin/26026-falcon-relax-eyes-light-theme)
+# Falcon Relaxing-Eyes Themes for [JetBrains IDE](https://plugins.jetbrains.com/plugin/26026-falcon-relax-eyes-light-theme)
 
 > A gentle, eye-friendly theme to protect your eyesight for
 > [JetBrains IDE](https://plugins.jetbrains.com/plugin/26026-falcon-relax-eyes-light-theme) <br/>
@@ -8,7 +8,7 @@
 
 If you're working in a bright environment for extended periods, a light-colored theme is usually better.
 <br/>
-You might want to try The Falcon Relax Eyes themes.<br/>
+You might want to try The Falcon Relaxing-Eyes themes.<br/>
 
 在明亮的工作环境中，长时间使用 IDE，建议使用浅色主题，减少视觉疲劳。<br/>
 
@@ -22,7 +22,7 @@ You might want to try The Falcon Relax Eyes themes.<br/>
 - Consistent and clean theme style
 - Lightweight design with minimal impact on IDE - performance
 
-**Falcon Relax Eyes Light themes (for bright environments):**
+**Falcon Relaxing-Eyes Light themes (for bright environments):**
 
 - Relax Light Celadon
 - Relax Light Green
@@ -31,7 +31,7 @@ You might want to try The Falcon Relax Eyes themes.<br/>
 - Relax Light Pink
 - Relax Light Yellow
 
-**Falcon Relax Eyes Dark themes (for low-light environments):**
+**Falcon Relaxing-Eyes Dark themes (for low-light environments):**
 
 - Relax Dark
 - Relax Dark Darcula
