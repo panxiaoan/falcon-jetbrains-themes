@@ -1,2 +1,5 @@
-out
 *.jar
+/.gradle/
+/.idea/
+/build/
+/out/
