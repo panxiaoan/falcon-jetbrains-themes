@@ -1,0 +1,58 @@
+plugins {
+    id("java")
+    // gradle-intellij-plugin - 0.7.3 支持 JDK 1.8，更新的版本必须 JDK 11+, read more: https://github.com/JetBrains/gradle-intellij-plugin/
+    id("org.jetbrains.intellij") version "1.17.4"
+}
+
+group "com.falcon.jetbrains.themes.plugin"
+version "3.0.0"
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_17
+    targetCompatibility = JavaVersion.VERSION_17
+}
+
+intellij {
+    // 最老支持的 IDEA 版本
+    version = "2023.2.8"
+    type = "IC"
+    updateSinceUntilBuild = false
+    downloadSources = true
+    plugins = ["java"]
+}
+
+repositories {
+    mavenLocal()
+    maven { url "https://maven.aliyun.com/nexus/content/groups/public" }
+    maven { url "https://maven.aliyun.com/nexus/content/repositories/jcenter" }
+    maven { url "https://maven.aliyun.com/repository/gradle-plugin" }
+    maven { url "https://maven.aliyun.com/repository/spring-plugin" }
+    maven { url "https://plugins.gradle.org/m2/" }
+    maven { url "https://oss.sonatype.org/content/repositories/releases/" }
+    mavenCentral()
+    gradlePluginPortal()
+}
+
+dependencies {
+}
+
+tasks {
+    compileJava {
+        options.encoding = "UTF-8"
+    }
+}
+
+patchPluginXml {
+    // https://plugins.jetbrains.com/docs/intellij/build-number-ranges.html#earlier-versions
+    sinceBuild.set("232") // 表示插件最低支持的 IDEA 版本
+    pluginDescription = file(pluginDescriptionFile).text
+    changeNotes = file(changeNotesFile).text
+}
+
+buildSearchableOptions {
+    enabled = false
+}
+
+test {
+    useJUnitPlatform()
+}
