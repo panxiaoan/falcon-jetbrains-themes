@@ -1,4 +1,10 @@
-# Falcon Relaxing-Eyes Themes for [JetBrains IDE](https://plugins.jetbrains.com/plugin/26026-falcon-relax-eyes-light-theme)
+<p align="center">
+   <img src="./logo.png" alt="Logo" width="128"/>
+</p>
+
+<h2 align="center">
+Falcon Relaxing-Eyes Themes - Jetbrains IDE
+</h2>
 
 > A gentle, eye-friendly theme to protect your eyesight for
 > [JetBrains IDE](https://plugins.jetbrains.com/plugin/26026-falcon-relax-eyes-light-theme) <br/>
@@ -47,8 +53,6 @@ You might want to try The Falcon Relaxing-Eyes themes.<br/>
 - Relax Light Grey(IDEA default)
 - Relax Light Pink(IDEA default)
 - Relax Light Yellow(IDEA default)
-
-<a href="https://github.com/panxiaoan/falcon-jetbrains-themes/issues">Report an issue</a>
 
 ## Install
 
@@ -122,6 +126,10 @@ Minimum supported IDEA version: 2023.2
 6. Relax Dark Coffee
 
     <img src="./assets/relax-dark-coffee.jpg" alt="Relax Dark Coffee" style="border: 1px solid #CED0D6;">
+
+## Issues
+
+<a href="https://github.com/panxiaoan/falcon-jetbrains-themes/issues">Report an issue</a>
 
 ## License
 

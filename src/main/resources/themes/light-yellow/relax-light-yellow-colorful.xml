@@ -375,7 +375,7 @@
         </option>
         <option name="DEFAULT_METADATA">
             <value>
-                <option name="FOREGROUND" value="#9e880d" deuteranopia="3381FF" protanopia="3381FF"/>
+                <option name="FOREGROUND" value="#9e880d" deuteranopia="9e880d" protanopia="9e880d"/>
             </value>
         </option>
         <option name="DEFAULT_NUMBER">
@@ -486,8 +486,7 @@
         </option>
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="720e34"/>
-                <option name="BACKGROUND" value="DBD1A9"/>
+                <option name="BACKGROUND" value="DBD1A9" deuteranopia="DBD1A9" protanopia="DBD1A9"/>
                 <option name="ERROR_STRIPE_COLOR" value="d0a1ff" deuteranopia="acb0bf" protanopia="acb0bf"/>
             </value>
         </option>
@@ -586,12 +585,12 @@
         </option>
         <option name="MATCHED_BRACE_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="f5d7e5"/>
+                <option name="BACKGROUND" value="DBD1A9"/>
             </value>
         </option>
         <option name="MATCHED_TAG_NAME">
             <value>
-                <option name="BACKGROUND" value="f5d7e5"/>
+                <option name="BACKGROUND" value="DBD1A9"/>
             </value>
         </option>
         <option name="UNMATCHED_BRACE_ATTRIBUTES">

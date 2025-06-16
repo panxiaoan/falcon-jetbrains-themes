@@ -486,8 +486,7 @@
         </option>
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="720e34"/>
-                <option name="BACKGROUND" value="f8e3eb"/>
+                <option name="BACKGROUND" value="#F4D4D2" deuteranopia="#F4D4D2" protanopia="#F4D4D2"/>
                 <option name="ERROR_STRIPE_COLOR" value="d0a1ff" deuteranopia="acb0bf" protanopia="acb0bf"/>
             </value>
         </option>
@@ -586,12 +585,12 @@
         </option>
         <option name="MATCHED_BRACE_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="ffa381"/>
+                <option name="BACKGROUND" value="#F7C9B6"/>
             </value>
         </option>
         <option name="MATCHED_TAG_NAME">
             <value>
-                <option name="BACKGROUND" value="ffa381"/>
+                <option name="BACKGROUND" value="#F7C9B6"/>
             </value>
         </option>
         <option name="UNMATCHED_BRACE_ATTRIBUTES">
@@ -629,7 +628,7 @@
         </option>
         <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="f2b09d" deuteranopia="f2b09d" protanopia="f2b09d"/>
+                <option name="BACKGROUND" value="#F7C9B6" deuteranopia="#F7C9B6" protanopia="#F7C9B6"/>
                 <option name="ERROR_STRIPE_COLOR" value="fff0a6" deuteranopia="807A59" protanopia="807A59"/>
             </value>
         </option>
