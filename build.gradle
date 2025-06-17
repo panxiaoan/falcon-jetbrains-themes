@@ -39,6 +39,7 @@ tasks {
     publishPlugin {
         // export ORG_GRADLE_PROJECT_intellijPlatformPublishingToken='YOUR_TOKEN'
         token = providers.gradleProperty("intellijPlatformPublishingToken")
+        hidden = true
     }
 
     compileJava {
