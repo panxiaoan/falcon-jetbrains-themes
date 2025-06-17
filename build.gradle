@@ -4,18 +4,20 @@ plugins {
     id("org.jetbrains.intellij") version "1.17.4"
 }
 
-group = "com.falcon.jetbrains.themes.plugin"
-version = "3.0.0"
+group = pluginGroup
+version = pluginVersion
+
+def javaVersion = JavaVersion.VERSION_17
 
 java {
-    sourceCompatibility = JavaVersion.VERSION_17
-    targetCompatibility = JavaVersion.VERSION_17
+    sourceCompatibility = javaVersion
+    targetCompatibility = javaVersion
 }
 
 intellij {
     // 最老支持的 IDEA 版本
-    version = "2023.2.8"
-    type = "IC"
+    version = platformVersion
+    type = platformType
     updateSinceUntilBuild = false
     downloadSources = true
     plugins = ["java"]
@@ -40,15 +42,15 @@ tasks {
     }
 
     compileJava {
-        sourceCompatibility = JavaVersion.VERSION_17
-        targetCompatibility = JavaVersion.VERSION_17
+        sourceCompatibility = javaVersion
+        targetCompatibility = javaVersion
         options.encoding = "UTF-8"
     }
 }
 
 patchPluginXml {
     // https://plugins.jetbrains.com/docs/intellij/build-number-ranges.html#earlier-versions
-    sinceBuild.set("232") // 表示插件最低支持的 IDEA 版本
+    sinceBuild.set(pluginSinceBuild) // 表示插件最低支持的 IDEA 版本
     pluginDescription = file(pluginDescriptionFile).text
     changeNotes = file(changeNotesFile).text
 }

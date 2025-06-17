@@ -1,4 +1,4 @@
-<idea-plugin require-restart="false">
+<idea-plugin>
     <id>falcon-jetbrains-themes</id>
     <version>3.0.0</version>
     <name>Falcon Relax Eyes Light Theme</name>
@@ -8,13 +8,12 @@
     <!-- 最低支持 IDEA 版本：2023.2 https://plugins.jetbrains.com/docs/intellij/build-number-ranges.html#earlier-versions -->
     <idea-version since-build="232"/>
 
-    <depends>com.intellij.modules.lang</depends>
     <depends>com.intellij.modules.platform</depends>
 
-    <applicationListeners>
+    <!--<applicationListeners>
         <listener class="com.falcon.jetbrains.themes.FalconThemesChangeListener"
                   topic="com.intellij.ide.ui.LafManagerListener"/>
-    </applicationListeners>
+    </applicationListeners>-->
 
     <extensions defaultExtensionNs="com.intellij">
         <!-- Light Theme -->
