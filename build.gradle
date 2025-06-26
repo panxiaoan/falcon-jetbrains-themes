@@ -20,7 +20,7 @@ intellij {
     type = platformType
     updateSinceUntilBuild = false
     downloadSources = true
-    plugins = ["java"]
+    plugins = ["java", "markdown"]
 }
 
 repositories {
