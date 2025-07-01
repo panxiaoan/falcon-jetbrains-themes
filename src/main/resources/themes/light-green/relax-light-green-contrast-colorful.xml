@@ -615,10 +615,10 @@
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
-        <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+        <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="f2b09d" deuteranopia="f2b09d" protanopia="f2b09d"/>
-                <option name="ERROR_STRIPE_COLOR" value="fff0a6" deuteranopia="807A59" protanopia="807A59"/>
+                <option name="BACKGROUND" value="#93d9d9" deuteranopia="#93d9d9" protanopia="#93d9d9"/>
+                <option name="ERROR_STRIPE_COLOR" value="d0a1ff" deuteranopia="acb0bf" protanopia="acb0bf"/>
             </value>
         </option>
         <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
