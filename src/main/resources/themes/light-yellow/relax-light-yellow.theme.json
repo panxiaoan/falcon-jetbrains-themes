@@ -46,13 +46,26 @@
       "Green": "#E7FBDE"
     },
     "ScrollBar": {
+      "thumbColor": "#f5f1de",
+      "hoverThumbColor": "#ccc8b6",
+      "thumbBorderColor": "#f5f1de",
+      "hoverThumbBorderColor": "#ccc8b6",
+      "Transparent": {
+        "thumbColor": "#f5f1de",
+        "hoverThumbColor": "#ccc8b6",
+        "thumbBorderColor": "#f5f1de",
+        "hoverThumbBorderColor": "#ccc8b6"
+      },
       "Mac": {
         "thumbColor": "#f5f1de",
         "hoverThumbColor": "#ccc8b6",
         "thumbBorderColor": "#f5f1de",
         "hoverThumbBorderColor": "#ccc8b6",
         "Transparent": {
-          "hoverThumbColor": "#f5f1de"
+          "thumbColor": "#f5f1de",
+          "hoverThumbColor": "#ccc8b6",
+          "thumbBorderColor": "#f5f1de",
+          "hoverThumbBorderColor": "#ccc8b6"
         }
       }
     },

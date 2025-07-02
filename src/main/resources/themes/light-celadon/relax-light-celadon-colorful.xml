@@ -21,10 +21,25 @@
         <option name="LOOKUP_COLOR" value="e4ecef"/>
 
         <option name="ScrollBar.background" value="e4ecef"/>
+        <option name="ScrollBar.thumbColor" value="dae2e5"/>
+        <option name="ScrollBar.hoverThumbColor" value="c3dbe5bf"/>
+        <option name="ScrollBar.thumbBorderColor" value="dae2e5"/>
+        <option name="ScrollBar.hoverThumbBorderColor" value="c3dbe5bf"/>
+
+        <option name="ScrollBar.Transparent.thumbColor" value="dae2e5"/>
+        <option name="ScrollBar.Transparent.hoverThumbColor" value="c3dbe5bf"/>
+        <option name="ScrollBar.Transparent.thumbBorderColor" value="dae2e5"/>
+        <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="c3dbe5bf"/>
+
         <option name="ScrollBar.Mac.thumbColor" value="dae2e5"/>
         <option name="ScrollBar.Mac.hoverThumbColor" value="c3dbe5bf"/>
         <option name="ScrollBar.Mac.thumbBorderColor" value="dae2e5"/>
         <option name="ScrollBar.Mac.hoverThumbBorderColor" value="c3dbe5bf"/>
+        
+        <option name="ScrollBar.Mac.Transparent.thumbColor" value="dae2e5"/>
+        <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="c3dbe5bf"/>
+        <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="dae2e5"/>
+        <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="c3dbe5bf"/>
 
         <option name="ADDED_LINES_COLOR" value="7fc784"/>
         <option name="ANNOTATIONS_COLOR" value="5a5d6b"/>

@@ -46,13 +46,26 @@
       "Green": "#d6e8e7"
     },
     "ScrollBar": {
+      "thumbColor": "borderColor",
+      "hoverThumbColor": "selectionBackground",
+      "thumbBorderColor": "borderColor",
+      "hoverThumbBorderColor": "selectionBackground",
+      "Transparent": {
+        "thumbColor": "borderColor",
+        "hoverThumbColor": "selectionBackground",
+        "thumbBorderColor": "borderColor",
+        "hoverThumbBorderColor": "selectionBackground"
+      },
       "Mac": {
         "thumbColor": "borderColor",
         "hoverThumbColor": "selectionBackground",
         "thumbBorderColor": "borderColor",
         "hoverThumbBorderColor": "selectionBackground",
         "Transparent": {
-          "hoverThumbColor": "borderColor"
+          "thumbColor": "borderColor",
+          "hoverThumbColor": "selectionBackground",
+          "thumbBorderColor": "borderColor",
+          "hoverThumbBorderColor": "selectionBackground"
         }
       }
     },

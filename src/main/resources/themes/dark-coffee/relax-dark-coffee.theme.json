@@ -231,13 +231,26 @@
       }
     },
     "ScrollBar": {
+      "thumbColor": "#3c3031",
+      "thumbBorderColor": "#3c3031",
+      "hoverThumbColor": "#554849",
+      "hoverThumbBorderColor": "#554849",
+      "Transparent": {
+        "thumbColor": "#3c3031",
+        "thumbBorderColor": "#3c3031",
+        "hoverThumbColor": "#554849",
+        "hoverThumbBorderColor": "#554849"
+      },
       "Mac": {
         "thumbColor": "#3c3031",
         "thumbBorderColor": "#3c3031",
         "hoverThumbColor": "#554849",
         "hoverThumbBorderColor": "#554849",
         "Transparent": {
-          "hoverThumbColor": "#3c3031"
+          "thumbColor": "#3c3031",
+          "thumbBorderColor": "#3c3031",
+          "hoverThumbColor": "#554849",
+          "hoverThumbBorderColor": "#554849"
         }
       }
     },

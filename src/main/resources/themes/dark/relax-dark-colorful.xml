@@ -61,10 +61,26 @@
         <option name="SEPARATOR_BELOW_COLOR" value="6b7090"/>
 
         <option name="ScrollBar.background" value="282A36"/>
+
+        <option name="ScrollBar.thumbColor" value="383a46"/>
+        <option name="ScrollBar.thumbBorderColor" value="383a46"/>
+        <option name="ScrollBar.hoverThumbColor" value="515260"/>
+        <option name="ScrollBar.hoverThumbBorderColor" value="515260"/>
+
+        <option name="ScrollBar.Transparent.thumbColor" value="383a46"/>
+        <option name="ScrollBar.Transparent.thumbBorderColor" value="383a46"/>
+        <option name="ScrollBar.Transparent.hoverThumbColor" value="515260"/>
+        <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="515260"/>
+
         <option name="ScrollBar.Mac.thumbColor" value="383a46"/>
         <option name="ScrollBar.Mac.thumbBorderColor" value="383a46"/>
         <option name="ScrollBar.Mac.hoverThumbColor" value="515260"/>
         <option name="ScrollBar.Mac.hoverThumbBorderColor" value="515260"/>
+
+        <option name="ScrollBar.Mac.Transparent.thumbColor" value="383a46"/>
+        <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="383a46"/>
+        <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="515260"/>
+        <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="515260"/>
 
         <option name="TEARLINE_COLOR" value="6b7090"/>
         <option name="VCS_ANNOTATIONS_COLOR_1" value="8d64b0"/>
