@@ -1967,12 +1967,12 @@
         </option>
         <option name="XML_TAG">
             <value>
-                <option name="FOREGROUND" value="#6E4552"/>
+                <option name="FOREGROUND" value="#8D4532"/>
             </value>
         </option>
         <option name="XML_TAG_NAME">
             <value>
-                <option name="FOREGROUND" value="#6E4552"/>
+                <option name="FOREGROUND" value="#8D4532"/>
             </value>
         </option>
         <option name="XPATH.FUNCTION" baseAttributes="DEFAULT_FUNCTION_CALL"/>
