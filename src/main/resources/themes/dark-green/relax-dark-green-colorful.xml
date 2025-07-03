@@ -506,8 +506,6 @@
         <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
             <value>
                 <option name="FOREGROUND" value="A9B346"/>
-                <option name="EFFECT_COLOR" value="A9B346"/>
-                <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
         <option name="DEFAULT_IDENTIFIER">
@@ -576,15 +574,13 @@
         <!-- 变量被重新赋值 -->
         <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
             <value>
-                <option name="EFFECT_COLOR" value="b2cde2"/>
-                <option name="EFFECT_TYPE" value="1"/>
+                <option name="FONT_TYPE" value="3"/>
             </value>
         </option>
         <!-- 参数被重新赋值 -->
         <option name="DEFAULT_REASSIGNED_PARAMETER">
             <value>
-                <option name="EFFECT_COLOR" value="00b9af"/>
-                <option name="EFFECT_TYPE" value="1"/>
+                <option name="FONT_TYPE" value="3"/>
             </value>
         </option>
 
@@ -612,7 +608,6 @@
         <option name="Static property reference ID">
             <value>
                 <option name="FOREGROUND" value="#85A658"/>
-                <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
         <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
@@ -701,9 +696,7 @@
         </option>
         <option name="GENERIC_SERVER_ERROR_OR_WARNING">
             <value>
-                <option name="EFFECT_COLOR" value="f8961e"/>
                 <option name="ERROR_STRIPE_COLOR" value="f8961e"/>
-                <option name="EFFECT_TYPE" value="1"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -756,8 +749,6 @@
         <option name="GO_COMMENT_KEYWORD">
             <value>
                 <option name="FOREGROUND" value="#1D9A62"/>
-                <option name="EFFECT_COLOR" value="#1D9A62"/>
-                <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
         <option name="GO_COMMENT_REFERENCE">
@@ -883,8 +874,6 @@
         <option name="GO_REASSIGNMENT_IN_SHORT_VAR_DECLARATION">
             <value>
                 <option name="FOREGROUND" value="9876AA"/>
-                <option name="EFFECT_COLOR" value="9876AA"/>
-                <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
         <option name="GO_SEMICOLON">
@@ -946,8 +935,6 @@
         <option name="Groovy reassigned parameter">
             <value>
                 <option name="FOREGROUND" value="9876AA"/>
-                <option name="EFFECT_COLOR" value="9876AA"/>
-                <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
         <option name="HAML_CLASS">
@@ -1011,7 +998,7 @@
         </option>
         <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
             <value>
-                <option name="EFFECT_TYPE" value="1"/>
+                <option name="FOREGROUND" value="9876AA"/>
             </value>
         </option>
         <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
@@ -1428,7 +1415,6 @@
         <option name="PROPERTIES.KEY">
             <value>
                 <option name="FOREGROUND" value="65BCD9"/>
-                <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
         <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE"/>
@@ -1483,7 +1469,6 @@
         <option name="PY.DOC_COMMENT_TAG">
             <value>
                 <option name="FOREGROUND" value="#1D9A62"/>
-                <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
         <option name="PY.DOT">
@@ -1677,7 +1662,6 @@
         <option name="RUBY_HEREDOC_ID">
             <value>
                 <option name="FOREGROUND" value="9876AA"/>
-                <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
         <option name="RUBY_IDENTIFIER">
@@ -1818,7 +1802,6 @@
         <option name="ScalaDoc @param value">
             <value>
                 <option name="FOREGROUND" value="c58564"/>
-                <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
         <option name="Standart Java Collection">
@@ -1933,7 +1916,6 @@
             <value>
                 <option name="BACKGROUND" value="#005163"/>
                 <option name="ERROR_STRIPE_COLOR" value="abc4ff"/>
-                <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
         <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">

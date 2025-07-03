@@ -299,8 +299,6 @@
         <option name="DEFAULT_DOC_COMMENT_TAG">
             <value>
                 <option name="FOREGROUND" value="14646E"/>
-                <option name="EFFECT_COLOR" value="999999"/>
-                <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
         <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
@@ -339,8 +337,6 @@
         <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
             <value>
                 <option name="FOREGROUND" value="9C411A"/>
-                <option name="EFFECT_COLOR" value="9C411A"/>
-                <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
         <option name="DEFAULT_IDENTIFIER">
@@ -405,7 +401,6 @@
         <option name="DEFAULT_PARAMETER">
             <value>
                 <option name="FOREGROUND" value="174ad4"/>
-                <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
         <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
@@ -423,15 +418,13 @@
         <!-- 变量被重新赋值 -->
         <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
             <value>
-                <option name="EFFECT_COLOR" value="383A42"/>
-                <option name="EFFECT_TYPE" value="1"/>
+                <option name="FONT_TYPE" value="3"/>
             </value>
         </option>
         <!-- 参数被重新赋值 -->
         <option name="DEFAULT_REASSIGNED_PARAMETER">
             <value>
-                <option name="EFFECT_COLOR" value="174ad4"/>
-                <option name="EFFECT_TYPE" value="1"/>
+                <option name="FONT_TYPE" value="3"/>
             </value>
         </option>
 
@@ -461,13 +454,11 @@
         <option name="Static property reference ID">
             <value>
                 <option name="FOREGROUND" value="#871790"/>
-                <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
         <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="#871790"/>
-                <option name="EFFECT_TYPE" value="1"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -511,7 +502,7 @@
         </option>
         <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
             <value>
-                <option name="EFFECT_TYPE" value="1"/>
+                <option name="FOREGROUND" value="3574F0"/>
             </value>
         </option>
         <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
@@ -681,7 +672,6 @@
             <value>
                 <option name="FOREGROUND" value="414d41" deuteranopia="4d4d4d" protanopia="4d4d4d"/>
                 <option name="BACKGROUND" value="#f5f1de" deuteranopia="ebebeb" protanopia="ebebeb"/>
-                <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
         <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -693,9 +683,7 @@
         </option>
         <option name="GENERIC_SERVER_ERROR_OR_WARNING">
             <value>
-                <option name="EFFECT_COLOR" value="d6b140"/>
                 <option name="ERROR_STRIPE_COLOR" value="d6b140"/>
-                <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
         <option name="GO_BAD_TOKEN">
@@ -743,8 +731,6 @@
         <option name="GO_COMMENT_KEYWORD">
             <value>
                 <option name="FOREGROUND" value="067D17"/>
-                <option name="EFFECT_COLOR" value="067D17"/>
-                <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
         <option name="GO_COMMENT_REFERENCE">
@@ -870,8 +856,6 @@
         <option name="GO_REASSIGNMENT_IN_SHORT_VAR_DECLARATION">
             <value>
                 <option name="FOREGROUND" value="#8D4532"/>
-                <option name="EFFECT_COLOR" value="#8D4532"/>
-                <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
         <option name="GO_SHADOWING_VARIABLE">
@@ -930,8 +914,6 @@
         <option name="Groovy reassigned parameter">
             <value>
                 <option name="FOREGROUND" value="#8D4532"/>
-                <option name="EFFECT_COLOR" value="#8D4532"/>
-                <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
         <option name="HAML_CLASS">
@@ -1412,7 +1394,6 @@
         <option name="PROPERTIES.KEY">
             <value>
                 <option name="FOREGROUND" value="007297"/>
-                <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
         <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE"/>
@@ -1463,7 +1444,6 @@
         <option name="PY.DOC_COMMENT_TAG">
             <value>
                 <option name="FOREGROUND" value="067D17"/>
-                <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
         <option name="PY.FSTRING_FRAGMENT_BRACES">
@@ -1678,7 +1658,6 @@
         <option name="RUBY_HEREDOC_ID">
             <value>
                 <option name="FOREGROUND" value="#8D4532"/>
-                <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
         <option name="RUBY_IDENTIFIER">
@@ -1814,7 +1793,6 @@
         <option name="ScalaDoc @param value">
             <value>
                 <option name="FOREGROUND" value="ffb86c"/>
-                <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
 
