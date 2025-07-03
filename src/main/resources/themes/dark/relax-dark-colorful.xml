@@ -82,6 +82,9 @@
         <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="515260"/>
         <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="515260"/>
 
+        <option name="Scrollbar.Tabs.ThumbColor" value="383a46"/>
+        <option name="Scrollbar.Tabs.TransparentThumbColor" value="383a46"/>
+
         <option name="TEARLINE_COLOR" value="6b7090"/>
         <option name="VCS_ANNOTATIONS_COLOR_1" value="8d64b0"/>
         <option name="VCS_ANNOTATIONS_COLOR_2" value="c6538d"/>

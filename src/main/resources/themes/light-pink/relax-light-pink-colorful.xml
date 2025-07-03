@@ -42,6 +42,9 @@
         <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="#FCEEF0"/>
         <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="#f5d7e5"/>
 
+        <option name="Scrollbar.Tabs.ThumbColor" value="#FCEEF0"/>
+        <option name="Scrollbar.Tabs.TransparentThumbColor" value="#FCEEF0"/>
+
         <option name="ADDED_LINES_COLOR" value="7fc784"/>
         <option name="ANNOTATIONS_COLOR" value="5a5d6b"/>
         <option name="ANNOTATIONS_LAST_COMMIT_COLOR" value="0"/>

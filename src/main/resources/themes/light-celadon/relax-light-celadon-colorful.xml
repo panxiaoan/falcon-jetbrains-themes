@@ -35,11 +35,14 @@
         <option name="ScrollBar.Mac.hoverThumbColor" value="c3dbe5bf"/>
         <option name="ScrollBar.Mac.thumbBorderColor" value="dae2e5"/>
         <option name="ScrollBar.Mac.hoverThumbBorderColor" value="c3dbe5bf"/>
-        
+
         <option name="ScrollBar.Mac.Transparent.thumbColor" value="dae2e5"/>
         <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="c3dbe5bf"/>
         <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="dae2e5"/>
         <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="c3dbe5bf"/>
+
+        <option name="Scrollbar.Tabs.ThumbColor" value="dae2e5"/>
+        <option name="Scrollbar.Tabs.TransparentThumbColor" value="dae2e5"/>
 
         <option name="ADDED_LINES_COLOR" value="7fc784"/>
         <option name="ANNOTATIONS_COLOR" value="5a5d6b"/>
@@ -201,7 +204,7 @@
             <value>
                 <option name="FOREGROUND" value="643CB8"/>
                 <option name="EFFECT_COLOR" value="ff5555"/>
-                <option name="EFFECT_TYPE" value="2"/>
+                <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
         <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
