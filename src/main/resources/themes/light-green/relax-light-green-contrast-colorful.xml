@@ -90,14 +90,14 @@
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="DE1B2E"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="DE1B2E"/>
         <option name="FILESTATUS_MERGED" value="9B0742"/>
-        <option name="FILESTATUS_MODIFIED" value="0033B3"/>
-        <option name="FILESTATUS_RENAMED" value="0033B3"/>
-        <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="0033B3"/>
-        <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="0033B3"/>
+        <option name="FILESTATUS_MODIFIED" value="174ad4"/>
+        <option name="FILESTATUS_RENAMED" value="174ad4"/>
+        <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="174ad4"/>
+        <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="174ad4"/>
         <option name="FILESTATUS_UNKNOWN" value="B23247"/>
         <option name="FILESTATUS_addedOutside" value="067D17"/>
         <option name="FILESTATUS_changelistConflict" value="DE1B2E"/>
-        <option name="FILESTATUS_modifiedOutside" value="0033B3"/>
+        <option name="FILESTATUS_modifiedOutside" value="174ad4"/>
         <option name="FILESTATUS_SWITCHED" value="#045F6C"/>
         <option name="FILESTATUS_OBSOLETE" value="#595900"/>
     </colors>
@@ -333,7 +333,7 @@
         </option>
         <option name="DEFAULT_IDENTIFIER">
             <value>
-                <option name="FOREGROUND" value="3574F0"/>
+                <option name="FOREGROUND" value="174ad4"/>
             </value>
         </option>
         <option name="DEFAULT_INSTANCE_FIELD">
@@ -492,11 +492,7 @@
                 <option name="ERROR_STRIPE_COLOR" value="d0a1ff" deuteranopia="acb0bf" protanopia="acb0bf"/>
             </value>
         </option>
-        <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
-            <value>
-                <option name="FOREGROUND" value="3574F0"/>
-            </value>
-        </option>
+        <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER"/>
         <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="3574F0"/>
@@ -747,7 +743,7 @@
         </option>
         <option name="GO_FUNCTION_PARAMETER">
             <value>
-                <option name="FOREGROUND" value="3574F0"/>
+                <option name="FOREGROUND" value="174ad4"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -790,7 +786,7 @@
         </option>
         <option name="GO_METHOD_RECEIVER">
             <value>
-                <option name="FOREGROUND" value="3574F0"/>
+                <option name="FOREGROUND" value="174ad4"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -819,7 +815,7 @@
         </option>
         <option name="GO_PACKAGE_EXPORTED_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="3574F0"/>
+                <option name="FOREGROUND" value="174ad4"/>
             </value>
         </option>
         <option name="GO_PACKAGE_EXPORTED_VARIABLE_CALL">
@@ -897,7 +893,7 @@
         <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES"/>
         <option name="Groovy parameter">
             <value>
-                <option name="FOREGROUND" value="3574F0"/>
+                <option name="FOREGROUND" value="174ad4"/>
             </value>
         </option>
         <option name="Groovy reassigned parameter">
