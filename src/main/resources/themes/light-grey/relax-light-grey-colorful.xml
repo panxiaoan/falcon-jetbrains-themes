@@ -195,9 +195,10 @@
         </option>
         <option name="CTRL_CLICKABLE">
             <value>
-                <option name="FOREGROUND" value="007297"/>
-                <option name="EFFECT_COLOR" value="007297"/>
+                <option name="FOREGROUND" value="067D17"/>
+                <option name="EFFECT_COLOR" value="067D17"/>
                 <option name="EFFECT_TYPE" value="1"/>
+                <option name="FONT_TYPE" value="1"/>
             </value>
         </option>
         <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
