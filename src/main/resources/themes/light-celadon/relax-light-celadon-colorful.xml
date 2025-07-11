@@ -3,7 +3,7 @@
         <option name="EDITOR_FONT_NAME" value="JetBrains Mono"/>
         <option name="EDITOR_FONT_SIZE" value="13"/>
     </font>
-    <option name="LINE_SPACING" value="1.2"/>
+    <option name="LINE_HEIGHT" value="1.2"/>
     <option name="EDITOR_LIGATURES" value="true"/>
     <console-font>
         <option name="EDITOR_FONT_NAME" value="JetBrains Mono"/>
@@ -24,7 +24,6 @@
         <option name="ScrollBar.hoverThumbColor" value="c3dbe5bf"/>
         <option name="ScrollBar.thumbBorderColor" value="dae2e5"/>
         <option name="ScrollBar.hoverThumbBorderColor" value="c3dbe5bf"/>
-
         <option name="ScrollBar.Transparent.thumbColor" value="dae2e5"/>
         <option name="ScrollBar.Transparent.hoverThumbColor" value="c3dbe5bf"/>
         <option name="ScrollBar.Transparent.thumbBorderColor" value="dae2e5"/>
@@ -34,7 +33,6 @@
         <option name="ScrollBar.Mac.hoverThumbColor" value="c3dbe5bf"/>
         <option name="ScrollBar.Mac.thumbBorderColor" value="dae2e5"/>
         <option name="ScrollBar.Mac.hoverThumbBorderColor" value="c3dbe5bf"/>
-
         <option name="ScrollBar.Mac.Transparent.thumbColor" value="dae2e5"/>
         <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="c3dbe5bf"/>
         <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="dae2e5"/>
@@ -43,23 +41,17 @@
         <option name="Scrollbar.Tabs.ThumbColor" value="dae2e5"/>
         <option name="Scrollbar.Tabs.TransparentThumbColor" value="dae2e5"/>
 
-        <option name="ADDED_LINES_COLOR" value="7fc784"/>
         <option name="ANNOTATIONS_COLOR" value="5a5d6b"/>
         <option name="ANNOTATIONS_LAST_COMMIT_COLOR" value="0"/>
-        <option name="DELETED_LINES_COLOR" value="767a8a"/>
         <option name="DIFF_SEPARATORS_BACKGROUND" value="e4e6eb"/>
-        <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="7d5020"/>
         <option name="GUTTER_BACKGROUND" value="fafeff"/>
-        <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="7fc784"/>
-        <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="767a8a"/>
-        <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="88adf7"/>
-        <option name="INDENT_GUIDE" value="dae2e5"/>
         <option name="INFORMATION_HINT" value="fafeff"/>
         <option name="LINE_NUMBERS_COLOR" value="aeb3c2"/>
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="767a8a"/>
+        <option name="INDENT_GUIDE" value="dae2e5"/>
         <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="62b3b3"/>
+        <option name="VISUAL_INDENT_GUIDE" value="dae6fd"/>
         <option name="METHOD_SEPARATORS_COLOR" value="dae2e5"/>
-        <option name="MODIFIED_LINES_COLOR" value="C2D6FC" deuteranopia="9ca9bf" protanopia="9ca9bf"/>
         <option name="NOTIFICATION_BACKGROUND" value="fff8e3"/>
         <option name="RIGHT_MARGIN_COLOR" value="dae2e5"/>
         <option name="SELECTED_INDENT_GUIDE" value="aeb3c2"/>
@@ -72,14 +64,22 @@
         <option name="VCS_ANNOTATIONS_COLOR_3" value="dee8fc"/>
         <option name="VCS_ANNOTATIONS_COLOR_4" value="edf2fa"/>
         <option name="VCS_ANNOTATIONS_COLOR_5" value="f7f8fa"/>
-        <option name="VISUAL_INDENT_GUIDE" value="dae6fd"/>
-        <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="f7e2cb" deuteranopia="c5cad4" protanopia="c5cad4"/>
         <option name="ERROR_HINT" value="FFE8E8"/>
         <option name="PROMOTION_PANE" value="e7effd"/>
         <option name="QUESTION_HINT" value="f5f8fe"/>
         <option name="RECENT_LOCATIONS_SELECTION" value="E7EFFD"/>
         <option name="FOLDED_TEXT_BORDER_COLOR" value="ADD9C7" deuteranopia="b3b3b3" protanopia="b3b3b3"/>
 
+        <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="7fc784"/>
+        <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="767a8a"/>
+        <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="88adf7"/>
+
+        <option name="ADDED_LINES_COLOR" value="7fc784"/>
+        <option name="MODIFIED_LINES_COLOR" value="C2D6FC" deuteranopia="9ca9bf" protanopia="9ca9bf"/>
+        <option name="DELETED_LINES_COLOR" value="767a8a"/>
+        <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="f7e2cb" deuteranopia="c5cad4" protanopia="c5cad4"/>
+
+        <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="7d5020"/>
         <option name="FILESTATUS_ADDED" value="067D17"/>
         <option name="FILESTATUS_COPIED" value="067D17"/>
         <option name="FILESTATUS_DELETED" value="6C707E"/>
