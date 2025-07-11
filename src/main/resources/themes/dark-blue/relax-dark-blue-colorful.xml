@@ -1,11 +1,10 @@
 <scheme name="Relax Dark Blue Colorful" version="142" parent_scheme="Darcula">
-    <option name="LINE_SPACING" value="1.1"/>
     <font>
         <option name="EDITOR_FONT_NAME" value="JetBrains Mono"/>
         <option name="EDITOR_FONT_SIZE" value="13"/>
     </font>
+    <option name="LINE_SPACING" value="1.2"/>
     <option name="EDITOR_LIGATURES" value="true"/>
-
     <console-font>
         <option name="EDITOR_FONT_NAME" value="JetBrains Mono"/>
         <option name="EDITOR_FONT_SIZE" value="13"/>
