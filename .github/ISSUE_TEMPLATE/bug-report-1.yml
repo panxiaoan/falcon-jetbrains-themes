@@ -38,6 +38,7 @@ body:
     validations:
       required: true
   - type: dropdown
+    id: which-theme
     attributes:
       label: "使用哪一个主题(Which theme?)"
       description: "Please select the theme you are currently using! If multiple themes have the same problem, please select multiple!"
