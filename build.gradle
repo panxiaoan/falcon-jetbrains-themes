@@ -47,6 +47,11 @@ tasks {
         targetCompatibility = javaVersion
         options.encoding = "UTF-8"
     }
+
+    runIde {
+        // 启用JVM 热加载功能，仅支持JBR
+        // jvmArgs = listOf("-XX:+AllowEnhancedClassRedefinition")
+    }
 }
 
 patchPluginXml {

@@ -582,12 +582,12 @@
         </option>
         <option name="MATCHED_BRACE_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="93d9d9"/>
+                <option name="BACKGROUND" value="a0ddd5"/>
             </value>
         </option>
         <option name="MATCHED_TAG_NAME">
             <value>
-                <option name="BACKGROUND" value="93d9d9"/>
+                <option name="BACKGROUND" value="a0ddd5"/>
             </value>
         </option>
         <option name="UNMATCHED_BRACE_ATTRIBUTES">
@@ -624,7 +624,7 @@
         </option>
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="#93d9d9" deuteranopia="#93d9d9" protanopia="#93d9d9"/>
+                <option name="BACKGROUND" value="#a0ddd5" deuteranopia="#a0ddd5" protanopia="#a0ddd5"/>
                 <option name="ERROR_STRIPE_COLOR" value="d0a1ff" deuteranopia="acb0bf" protanopia="acb0bf"/>
             </value>
         </option>
