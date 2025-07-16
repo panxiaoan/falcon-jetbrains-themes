@@ -75,6 +75,10 @@ Minimum supported IDEA version: 2023.2
 1. [Gitee](https://gitee.com/panxiaoan/falcon-jetbrains-themes)
 2. [Github](https://github.com/panxiaoan/falcon-jetbrains-themes)
 
+## Suggestion
+
+Recommended font: [JetBrains Mono](https://www.jetbrains.com/zh-cn/lp/mono/)
+
 ## Falcon Relax Light Theme Screenshot
 
 1. Relax Light Green
