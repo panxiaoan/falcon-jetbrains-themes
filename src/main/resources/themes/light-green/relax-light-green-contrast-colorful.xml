@@ -53,7 +53,7 @@
         <option name="SELECTED_INDENT_GUIDE" value="aeb3c2"/>
         <option name="SELECTION_BACKGROUND" value="#AFDBB8" deuteranopia="5974AB" protanopia="5974AB"/>
         <option name="SELECTION_FOREGROUND" value="" deuteranopia="ffffff" protanopia="ffffff"/>
-        <option name="STICKY_LINES_BACKGROUND" value="d6e8e7"/>
+        <option name="STICKY_LINES_BACKGROUND" value="C9E9E5"/>
         <option name="TEARLINE_COLOR" value="d4d4d4"/>
         <option name="VCS_ANNOTATIONS_COLOR_1" value="a1bef7"/>
         <option name="VCS_ANNOTATIONS_COLOR_2" value="c9dafb"/>
@@ -476,7 +476,7 @@
         </option>
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="FFF6BD" deuteranopia="D9E6FF" protanopia="D9E6FF"/>
+                <option name="BACKGROUND" value="#BAE3DE" deuteranopia="#BAE3DE" protanopia="#BAE3DE"/>
                 <option name="ERROR_STRIPE_COLOR" value="d0a1ff" deuteranopia="acb0bf" protanopia="acb0bf"/>
             </value>
         </option>
@@ -609,10 +609,10 @@
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
-        <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+        <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="#b3e0db" deuteranopia="#b3e0db" protanopia="#b3e0db"/>
-                <option name="ERROR_STRIPE_COLOR" value="d0a1ff" deuteranopia="acb0bf" protanopia="acb0bf"/>
+                <option name="BACKGROUND" value="f2b09d" deuteranopia="f2b09d" protanopia="f2b09d"/>
+                <option name="ERROR_STRIPE_COLOR" value="fff0a6" deuteranopia="807A59" protanopia="807A59"/>
             </value>
         </option>
         <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">

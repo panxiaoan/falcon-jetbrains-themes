@@ -77,7 +77,11 @@ Minimum supported IDEA version: 2023.2
 
 ## Suggestion
 
-Recommended font: [JetBrains Mono](https://www.jetbrains.com/zh-cn/lp/mono/)
+Recommended font:
+
+- [JetBrains Mono](https://www.jetbrains.com/zh-cn/lp/mono/)
+- Font size: 13
+- Line spacing: 1.2
 
 ## Falcon Relax Light Theme Screenshot
 
