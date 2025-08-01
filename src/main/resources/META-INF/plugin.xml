@@ -18,6 +18,7 @@
     <extensions defaultExtensionNs="com.intellij">
         <!-- Light Theme -->
         <themeProvider id="falcon-relax-light-celadon" path="/themes/light-celadon/relax-light-celadon.theme.json"/>
+        <themeProvider id="falcon-relax-light-sage-green" path="/themes/light-sage-green/relax-light-sage-green.theme.json"/>
         <themeProvider id="falcon-relax-light-green" path="/themes/light-green/relax-light-green.theme.json"/>
         <themeProvider id="falcon-relax-light-green-contrast" path="/themes/light-green/relax-light-green-contrast.theme.json"/>
         <themeProvider id="falcon-relax-light-grey" path="/themes/light-grey/relax-light-grey.theme.json"/>
