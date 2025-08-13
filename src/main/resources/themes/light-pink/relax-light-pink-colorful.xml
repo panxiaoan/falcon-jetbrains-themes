@@ -2,7 +2,7 @@
     <colors>
         <option name="BACKGROUND" value="#FDF5F6"/>
         <option name="CONSOLE_BACKGROUND_KEY" value="#FDF5F6"/>
-        <option name="CARET_COLOR" value="E55765"/>
+        <option name="CARET_COLOR" value="#067D17"/>
         <option name="CARET_ROW_COLOR" value="#FFE6E7"/>
         <option name="DOCUMENTATION_COLOR" value="#FDF5F6"/>
         <option name="LOOKUP_COLOR" value="#FDF5F6"/>
@@ -107,22 +107,22 @@
 
         <option name="DEFAULT_OPERATION_SIGN">
             <value>
-                <option name="FOREGROUND" value="383A42"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="DEFAULT_DOT">
             <value>
-                <option name="FOREGROUND" value="383A42"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="DEFAULT_SEMICOLON">
             <value>
-                <option name="FOREGROUND" value="383A42"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
         <option name="DEFAULT_COMMA">
             <value>
-                <option name="FOREGROUND" value="383A42"/>
+                <option name="FOREGROUND" value="067D17"/>
             </value>
         </option>
 
