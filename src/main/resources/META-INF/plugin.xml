@@ -24,6 +24,7 @@
         <themeProvider id="falcon-relax-light-grey" path="/themes/light-grey/relax-light-grey.theme.json"/>
         <themeProvider id="falcon-relax-light-pink" path="/themes/light-pink/relax-light-pink.theme.json"/>
         <themeProvider id="falcon-relax-light-yellow" path="/themes/light-yellow/relax-light-yellow.theme.json"/>
+        <themeProvider id="falcon-relax-light-buff" path="/themes/light-buff/relax-light-buff.theme.json"/>
 
         <!-- Dark Theme -->
         <themeProvider id="falcon-relax-dark" path="/themes/dark/relax-dark.theme.json"/>

@@ -36,6 +36,7 @@
       "selectionInactiveForeground": "primaryForeground",
       "selectionBackground": "selectionBackground",
       "selectionInactiveBackground": "selectionInactiveBackground",
+      "hoverBackground": "hoverBackground",
       "inactiveBackground": "menuBackground",
       "disabledBackground": "menuBackground",
       "borderColor": "borderColor",

@@ -922,13 +922,13 @@
         </option>
         <option name="HTML_TAG">
             <value>
-                <option name="FOREGROUND" value="067D17"/>
+                <option name="FOREGROUND" value="007297"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
         <option name="HTML_TAG_NAME">
             <value>
-                <option name="FOREGROUND" value="067D17"/>
+                <option name="FOREGROUND" value="007297"/>
             </value>
         </option>
         <option name="HTTP_REQUEST_MESSAGE_BODY">
@@ -1834,12 +1834,12 @@
         </option>
         <option name="XML_TAG">
             <value>
-                <option name="FOREGROUND" value="067D17"/>
+                <option name="FOREGROUND" value="007297"/>
             </value>
         </option>
         <option name="XML_TAG_NAME">
             <value>
-                <option name="FOREGROUND" value="067D17"/>
+                <option name="FOREGROUND" value="007297"/>
             </value>
         </option>
         <option name="XPATH.FUNCTION" baseAttributes="DEFAULT_FUNCTION_CALL"/>
