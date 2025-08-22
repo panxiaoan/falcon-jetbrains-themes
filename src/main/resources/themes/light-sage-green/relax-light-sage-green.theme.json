@@ -81,6 +81,8 @@
       "separatorColor": "borderColor"
     },
     "RunWidget": {
+      "hoverBackground": "#00000022",
+      "pressedBackground": "#00000028",
       "iconColor": "primaryForeground"
     },
     "MemoryIndicator": {
