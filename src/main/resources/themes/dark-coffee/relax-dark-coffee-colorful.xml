@@ -445,6 +445,7 @@
         <option name="DEFAULT_LINE_COMMENT">
             <value>
                 <option name="FOREGROUND" value="#917679"/>
+                <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
         <option name="DEFAULT_BLOCK_COMMENT">
@@ -462,6 +463,7 @@
         <option name="DEFAULT_DOC_COMMENT_TAG">
             <value>
                 <option name="FOREGROUND" value="#15845D"/>
+                <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
         <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
@@ -669,11 +671,6 @@
                 <option name="EFFECT_TYPE" value="2"/>
             </value>
         </option>
-        <option name="GO_BLOCK_COMMENT">
-            <value>
-                <option name="FOREGROUND" value="#917679"/>
-            </value>
-        </option>
         <option name="GO_BUILTIN_CONSTANT">
             <value>
                 <option name="FOREGROUND" value="9876AA"/>
@@ -712,11 +709,19 @@
         <option name="GO_COMMENT_KEYWORD">
             <value>
                 <option name="FOREGROUND" value="#15845D"/>
+                <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
         <option name="GO_COMMENT_REFERENCE">
             <value>
                 <option name="FOREGROUND" value="9876AA"/>
+                <option name="FONT_TYPE" value="2"/>
+            </value>
+        </option>
+        <option name="GO_BLOCK_COMMENT">
+            <value>
+                <option name="FOREGROUND" value="#917679"/>
+                <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
         <option name="GO_DOT">
@@ -1423,11 +1428,19 @@
         <option name="PY.DOC_COMMENT">
             <value>
                 <option name="FOREGROUND" value="#917679"/>
+                <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
         <option name="PY.DOC_COMMENT_TAG">
             <value>
                 <option name="FOREGROUND" value="#15845D"/>
+                <option name="FONT_TYPE" value="2"/>
+            </value>
+        </option>
+        <option name="PY.LINE_COMMENT">
+            <value>
+                <option name="FOREGROUND" value="#917679"/>
+                <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
         <option name="PY.DOT">
@@ -1456,11 +1469,6 @@
         <option name="PY.KEYWORD_ARGUMENT">
             <value>
                 <option name="FOREGROUND" value="6272a4"/>
-            </value>
-        </option>
-        <option name="PY.LINE_COMMENT">
-            <value>
-                <option name="FOREGROUND" value="#917679"/>
             </value>
         </option>
         <option name="PY.METHOD_CALL">
@@ -1579,6 +1587,7 @@
         <option name="RUBY_COMMENT">
             <value>
                 <option name="FOREGROUND" value="#917679"/>
+                <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
         <option name="RUBY_CONSTANT">
