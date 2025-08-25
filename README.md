@@ -30,12 +30,13 @@ You might want to try The Falcon Relaxing-Eyes themes.<br/>
 
 **Falcon Relaxing-Eyes Light themes (for bright environments):**
 
-- Relax Light Celadon
+- Relax Light Celadon (My favorite)
 - Relax Light Green
 - Relax Light Green Contrast
 - Relax Light Grey
 - Relax Light Pink
 - Relax Light Yellow
+- Relax Light Buff
 
 **Falcon Relaxing-Eyes Dark themes (for low-light environments):**
 
@@ -109,6 +110,10 @@ Recommended font:
 6. Relax Light Yellow
 
     <img src="./assets/relax-light-yellow.jpg" alt="Relax Light Yellow" style="border: 1px solid #CED0D6;">
+
+7. Relax Light Buff
+
+    <img src="./assets/relax-light-buff.png" alt="Relax Light Buff" style="border: 1px solid #CED0D6;">
 
 ## Falcon Relax Dark Theme Screenshot
 
