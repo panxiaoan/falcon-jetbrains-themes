@@ -82,6 +82,7 @@ Recommended font:
 - [JetBrains Mono](https://www.jetbrains.com/zh-cn/lp/mono/)
 - Font size: 13
 - Line spacing: 1.2
+- Fallback font: `Microsoft YaHei`、`PingFang SC`, 备用字体建议中文支持更友好的字体
 
 ## Falcon Relax Light Theme Screenshot
 
