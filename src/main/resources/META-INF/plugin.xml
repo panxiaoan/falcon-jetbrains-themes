@@ -23,7 +23,7 @@
         <themeProvider id="falcon-relax-light-green-contrast" path="/themes/light-green/relax-light-green-contrast.theme.json"/>
         <themeProvider id="falcon-relax-light-grey" path="/themes/light-grey/relax-light-grey.theme.json"/>
         <themeProvider id="falcon-relax-light-pink" path="/themes/light-pink/relax-light-pink.theme.json"/>
-        <themeProvider id="falcon-relax-light-sage-green" path="/themes/light-sage-green/relax-light-sage-green.theme.json"/>
+        <themeProvider id="falcon-relax-light-bean-green" path="/themes/light-bean-green/relax-light-bean-green.theme.json"/>
         <themeProvider id="falcon-relax-light-yellow" path="/themes/light-yellow/relax-light-yellow.theme.json"/>
 
         <!-- Dark Theme -->
