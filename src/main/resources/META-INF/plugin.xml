@@ -17,22 +17,22 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <!-- Light Theme -->
+        <themeProvider id="falcon-relax-light-buff" path="/themes/light-buff/relax-light-buff.theme.json"/>
         <themeProvider id="falcon-relax-light-celadon" path="/themes/light-celadon/relax-light-celadon.theme.json"/>
-        <themeProvider id="falcon-relax-light-sage-green" path="/themes/light-sage-green/relax-light-sage-green.theme.json"/>
         <themeProvider id="falcon-relax-light-green" path="/themes/light-green/relax-light-green.theme.json"/>
         <themeProvider id="falcon-relax-light-green-contrast" path="/themes/light-green/relax-light-green-contrast.theme.json"/>
         <themeProvider id="falcon-relax-light-grey" path="/themes/light-grey/relax-light-grey.theme.json"/>
         <themeProvider id="falcon-relax-light-pink" path="/themes/light-pink/relax-light-pink.theme.json"/>
+        <themeProvider id="falcon-relax-light-sage-green" path="/themes/light-sage-green/relax-light-sage-green.theme.json"/>
         <themeProvider id="falcon-relax-light-yellow" path="/themes/light-yellow/relax-light-yellow.theme.json"/>
-        <themeProvider id="falcon-relax-light-buff" path="/themes/light-buff/relax-light-buff.theme.json"/>
 
         <!-- Dark Theme -->
         <themeProvider id="falcon-relax-dark" path="/themes/dark/relax-dark.theme.json"/>
-        <themeProvider id="falcon-relax-dark-darcula" path="/themes/dark-darcula/relax-dark-darcula.theme.json"/>
         <themeProvider id="falcon-relax-dark-blue" path="/themes/dark-blue/relax-dark-blue.theme.json"/>
+        <themeProvider id="falcon-relax-dark-coffee" path="/themes/dark-coffee/relax-dark-coffee.theme.json"/>
+        <themeProvider id="falcon-relax-dark-darcula" path="/themes/dark-darcula/relax-dark-darcula.theme.json"/>
         <themeProvider id="falcon-relax-dark-green" path="/themes/dark-green/relax-dark-green.theme.json"/>
         <themeProvider id="falcon-relax-dark-violet" path="/themes/dark-violet/relax-dark-violet.theme.json"/>
-        <themeProvider id="falcon-relax-dark-coffee" path="/themes/dark-coffee/relax-dark-coffee.theme.json"/>
 
         <!-- Color Scheme: using IDEA default color scheme -->
         <bundledColorScheme id="falcon-relax-light-celadon-scheme" path="/schemes/relax-light-celadon"/>
