@@ -484,8 +484,8 @@
         <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER"/>
         <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="006DCC"/>
-                <option name="EFFECT_COLOR" value="006DCC"/>
+                <option name="FOREGROUND" value="0077C2"/>
+                <option name="EFFECT_COLOR" value="0077C2"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
@@ -650,8 +650,8 @@
         </option>
         <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="006DCC" deuteranopia="3777E6" protanopia="3777E6"/>
-                <option name="EFFECT_COLOR" value="006DCC" deuteranopia="3777E6" protanopia="3777E6"/>
+                <option name="FOREGROUND" value="0077C2" deuteranopia="3777E6" protanopia="3777E6"/>
+                <option name="EFFECT_COLOR" value="0077C2" deuteranopia="3777E6" protanopia="3777E6"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
@@ -941,8 +941,8 @@
         </option>
         <option name="HYPERLINK_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="006DCC" deuteranopia="3777E6" protanopia="3777E6"/>
-                <option name="EFFECT_COLOR" value="006DCC" deuteranopia="3777E6" protanopia="3777E6"/>
+                <option name="FOREGROUND" value="0077C2" deuteranopia="3777E6" protanopia="3777E6"/>
+                <option name="EFFECT_COLOR" value="0077C2" deuteranopia="3777E6" protanopia="3777E6"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
@@ -1223,8 +1223,8 @@
 
         <option name="MARKDOWN_AUTO_LINK">
             <value>
-                <option name="FOREGROUND" value="006DCC"/>
-                <option name="EFFECT_COLOR" value="006DCC"/>
+                <option name="FOREGROUND" value="0077C2"/>
+                <option name="EFFECT_COLOR" value="0077C2"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
@@ -1260,7 +1260,7 @@
         </option>
         <option name="MARKDOWN_LINK_TEXT">
             <value>
-                <option name="FOREGROUND" value="006DCC"/>
+                <option name="FOREGROUND" value="3574F0"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
