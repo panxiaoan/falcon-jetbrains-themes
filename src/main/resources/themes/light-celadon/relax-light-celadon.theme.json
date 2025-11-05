@@ -35,6 +35,7 @@
       "selectionForeground": "primaryForeground",
       "selectionInactiveForeground": "primaryForeground",
       "selectionBackground": "selectionBackground",
+      "lightSelectionBackground": "selectionBackground",
       "selectionInactiveBackground": "selectionInactiveBackground",
       "hoverBackground": "hoverBackground",
       "inactiveBackground": "menuBackground",
@@ -154,12 +155,7 @@
     "Editor": {
       "background": "editorBackground",
       "shortcutForeground": "accentColor",
-      "SearchField.background": "borderColor",
-      "ToolTip": {
-        "foreground": "primaryForeground",
-        "errorBackground": "menuBackground",
-        "errorBorder": "error"
-      }
+      "SearchField.background": "#ECF2F3"
     },
     "EditorPane.splitBorder": "borderColor",
     "EditorTabs": {
