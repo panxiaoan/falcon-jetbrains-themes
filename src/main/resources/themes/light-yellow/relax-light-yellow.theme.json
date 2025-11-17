@@ -316,7 +316,7 @@
       "modifiedItemForeground": "accentColor",
       "selectionBackground": "selectionBackground",
       "selectionInactiveBackground": "hoverBackground",
-      "hash": "hoverBackground",
+      "hash": "borderColor",
       "hoverBackground": "hoverBackground"
     },
     "ValidationTooltip": {
