@@ -32,7 +32,7 @@
         <option name="ANNOTATIONS_COLOR" value="5a5d6b"/>
         <option name="ANNOTATIONS_LAST_COMMIT_COLOR" value="0"/>
         <option name="DIFF_SEPARATORS_BACKGROUND" value="e4e6eb"/>
-        <option name="GUTTER_BACKGROUND" value="fafeff"/>
+        <option name="GUTTER_BACKGROUND" value="e4ecef"/>
         <option name="INFORMATION_HINT" value="fafeff"/>
         <option name="LINE_NUMBERS_COLOR" value="aeb3c2"/>
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="067D17"/>

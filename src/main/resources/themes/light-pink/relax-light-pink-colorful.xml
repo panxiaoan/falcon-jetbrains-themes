@@ -38,7 +38,7 @@
         <option name="DELETED_LINES_COLOR" value="767a8a"/>
         <option name="DIFF_SEPARATORS_BACKGROUND" value="e4e6eb"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="7d5020"/>
-        <option name="GUTTER_BACKGROUND" value="#fafeff"/>
+        <option name="GUTTER_BACKGROUND" value="#FDF5F6"/>
         <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="7fc784"/>
         <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="767a8a"/>
         <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="88adf7"/>
