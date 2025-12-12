@@ -83,7 +83,7 @@
     "RunWidget": {
       "hoverBackground": "#00000022",
       "pressedBackground": "#00000028",
-      "iconColor": "primaryForeground"
+      "iconColor": "#727684"
     },
     "MemoryIndicator": {
       "allocatedBackground": "hoverBackground",
@@ -319,6 +319,16 @@
       "selectionInactiveBackground": "selectionInactiveBackground",
       "hash": "borderColor",
       "hoverBackground": "hoverBackground"
+    },
+    "TrialWidget": {
+      "Active": {
+        "foreground": "#727684",
+        "background": "headerBackground",
+        "borderColor": "borderColor",
+        "hoverForeground": "accentColor",
+        "hoverBackground": "selectionBackground",
+        "hoverBorderColor": "selectionBackground"
+      }
     },
     "ValidationTooltip": {
       "errorBackground": "error",

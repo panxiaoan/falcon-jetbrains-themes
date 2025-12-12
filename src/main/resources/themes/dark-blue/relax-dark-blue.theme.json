@@ -323,6 +323,16 @@
       "hash": "borderColor",
       "hoverBackground": "hoverBackground"
     },
+    "TrialWidget": {
+      "Active": {
+        "foreground": "#727684",
+        "background": "headerBackground",
+        "borderColor": "borderColor",
+        "hoverForeground": "primaryForeground",
+        "hoverBackground": "selectionBackground",
+        "hoverBorderColor": "selectionBackground"
+      }
+    },
     "ValidationTooltip": {
       "errorBackground": "#4c273c",
       "warningBackground": "#3A3A00"
