@@ -1,6 +1,6 @@
 <idea-plugin>
     <id>falcon-jetbrains-themes</id>
-    <version>3.0.0</version>
+    <version>5.0.3</version>
     <name>Falcon Relax Eyes Light Theme</name>
     <vendor email="xiaoan.pan@qq.com" url="https://github.com/panxiaoan">Panxiaoan</vendor>
     <category>UI</category>
