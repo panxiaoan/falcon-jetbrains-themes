@@ -1,6 +1,6 @@
 # Falcon Relaxing-Eyes Themes - JetBrains IDE
 
-<p align="center">
+<p>
    <img src="./logo.png" alt="Logo" width="128"/>
 </p>
 
