@@ -326,8 +326,8 @@
     "TrialWidget": {
       "Active": {
         "foreground": "#727684",
-        "background": "headerBackground",
-        "borderColor": "borderColor",
+        "background": "primaryBackground",
+        "borderColor": "primaryBackground",
         "hoverForeground": "primaryForeground",
         "hoverBackground": "selectionBackground",
         "hoverBorderColor": "selectionBackground"
