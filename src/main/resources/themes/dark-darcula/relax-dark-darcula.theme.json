@@ -8,7 +8,7 @@
     "secondaryAccentColor": "#4c5052",
     "primaryForeground": "#BBBBBB",
     "primaryBackground": "#3C3F41",
-    "secondaryBackground": "#19273D",
+    "secondaryBackground": "#12191F",
     "hoverBackground": "#666a6c",
     "selectionBackground": "#666a6c",
     "selectionInactiveBackground": "#666a6c",
@@ -57,7 +57,7 @@
     },
     "ActionButton": {
       "hoverBackground": "iconHoverBackground",
-      "hoverBorderColor": "iconHoverBackground",
+      "hoverBorderColor": "#00000000",
       "pressedBackground": "iconHoverBackground",
       "pressedBorderColor": "iconHoverBackground"
     },
@@ -117,8 +117,8 @@
       "matchForeground": "accentColor"
     },
     "Component": {
-      "focusColor": "secondaryAccentColor",
-      "borderColor": "selectionBackground",
+      "focusColor": "selectionBackground",
+      "borderColor": "borderColor",
       "focusedBorderColor": "selectionBackground",
       "disabledBorderColor": "selectionBackground",
       "errorFocusColor": "#ff5554",
@@ -132,7 +132,7 @@
     "Editor": {
       "background": "primaryBackground",
       "shortcutForeground": "accentColor",
-      "SearchField.background": "22212C"
+      "SearchField.background": "secondaryBackground"
     },
     "EditorPane.splitBorder": "#666a6c",
     "EditorTabs": {
@@ -399,15 +399,16 @@
       "Objects.Yellow": "#f1fa8c",
       "Objects.YellowDark": "#f1fa8c",
       "Objects.BlackText": "#282a35",
-      "Checkbox.Foreground.Selected.Dark": "#F8F8F2",
-      "Checkbox.Background.Default.Dark": "#9876AA",
-      "Checkbox.Border.Default.Dark": "#9876AA",
-      "Checkbox.Border.Selected.Dark": "#9876AA",
+      "Checkbox.Foreground.Selected.Dark": "#B8BDBF",
+      "Checkbox.Border.Default.Dark": "#B8BDBF",
+      "Checkbox.Border.Selected.Dark": "#B8BDBF",
       "Checkbox.Border.Disabled.Dark": "#F8F8F2",
+      "Checkbox.Background.Default.Dark": "#666a6c",
+      "Checkbox.Background.Selected.Dark": "#666a6c",
       "Checkbox.Background.Disabled.Dark": "#3C3F41",
-      "Checkbox.Focus.Wide.Dark": "#9876AA",
-      "Checkbox.Focus.Thin.Selected.Dark": "#9876AA",
-      "Checkbox.Focus.Thin.Default.Dark": "#9876AA"
+      "Checkbox.Focus.Wide.Dark": "#B8BDBF",
+      "Checkbox.Focus.Thin.Selected.Dark": "#B8BDBF",
+      "Checkbox.Focus.Thin.Default.Dark": "#B8BDBF"
     }
   }
 }

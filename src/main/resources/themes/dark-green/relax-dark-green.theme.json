@@ -57,7 +57,7 @@
     },
     "ActionButton": {
       "hoverBackground": "iconHoverBackground",
-      "hoverBorderColor": "iconHoverBackground",
+      "hoverBorderColor": "#00000000",
       "pressedBackground": "iconHoverBackground",
       "pressedBorderColor": "iconHoverBackground"
     },
@@ -117,8 +117,8 @@
       "matchForeground": "accentColor"
     },
     "Component": {
-      "focusColor": "secondaryAccentColor",
-      "borderColor": "selectionBackground",
+      "focusColor": "selectionBackground",
+      "borderColor": "borderColor",
       "focusedBorderColor": "selectionBackground",
       "disabledBorderColor": "selectionBackground",
       "errorFocusColor": "#ff5554",
@@ -398,13 +398,14 @@
       "Objects.Yellow": "#f1fa8c",
       "Objects.YellowDark": "#f1fa8c",
       "Objects.BlackText": "#282a35",
-      "Checkbox.Foreground.Selected.Dark": "#002F38",
-      "Checkbox.Background.Default.Dark": "#5a9096",
-      "Checkbox.Border.Default.Dark": "#5a9096",
-      "Checkbox.Border.Selected.Dark": "#5a9096",
+      "Checkbox.Foreground.Selected.Dark": "#C3DEDF",
+      "Checkbox.Border.Default.Dark": "#81B3BA",
+      "Checkbox.Border.Selected.Dark": "#81B3BA",
       "Checkbox.Border.Disabled.Dark": "#6399A0",
+      "Checkbox.Background.Default.Dark": "#5a9096",
+      "Checkbox.Background.Selected.Dark": "#5a9096",
       "Checkbox.Background.Disabled.Dark": "#002F38",
-      "Checkbox.Focus.Wide.Dark": "#5a9096",
+      "Checkbox.Focus.Wide.Dark": "#81B3BA",
       "Checkbox.Focus.Thin.Selected.Dark": "#5a9096",
       "Checkbox.Focus.Thin.Default.Dark": "#5a9096"
     }

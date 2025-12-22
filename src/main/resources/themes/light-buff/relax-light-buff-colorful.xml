@@ -55,7 +55,7 @@
         <option name="SELECTION_BACKGROUND" value="#ffe2c1" deuteranopia="5974AB" protanopia="5974AB"/>
         <option name="SELECTION_FOREGROUND" value="" deuteranopia="fafeff" protanopia="fafeff"/>
         <option name="SELECTED_TEARLINE_COLOR" value="#DBD1A9"/>
-        <option name="STICKY_LINES_BACKGROUND" value="#edede8"/>
+        <!--        <option name="STICKY_LINES_BACKGROUND" value="#edede8"/>-->
         <option name="TEARLINE_COLOR" value="#f5f1de"/>
         <option name="VCS_ANNOTATIONS_COLOR_1" value="a1bef7"/>
         <option name="VCS_ANNOTATIONS_COLOR_2" value="c9dafb"/>

@@ -95,7 +95,7 @@
     },
     "ActionButton": {
       "hoverBackground": "hoverBackground",
-      "hoverBorderColor": "hoverBackground",
+      "hoverBorderColor": "#00000000",
       "pressedBackground": "hoverBackground",
       "pressedBorderColor": "hoverBackground"
     },
@@ -138,7 +138,7 @@
       "matchForeground": "accentColor"
     },
     "Component": {
-      "focusColor": "borderColor",
+      "focusColor": "selectionBackground",
       "borderColor": "borderColor",
       "focusedBorderColor": "selectionBackground",
       "disabledBorderColor": "selectionInactiveBackground",

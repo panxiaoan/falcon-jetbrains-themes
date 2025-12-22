@@ -96,7 +96,7 @@
     },
     "ActionButton": {
       "hoverBackground": "hoverBackground",
-      "hoverBorderColor": "hoverBackground",
+      "hoverBorderColor": "#00000000",
       "pressedBackground": "hoverBackground",
       "pressedBorderColor": "hoverBackground"
     },

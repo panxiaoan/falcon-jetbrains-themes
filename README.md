@@ -148,8 +148,16 @@ Recommended font:
 
 [MIT License](./LICENSE)
 
+## JetBrains Islands UI
+
+从 2025.2.3 版本开始，JetBrains IDE 会支持一种全新外观： Islands UI。
+
+Falcon Relaxing-Eyes 主题也推出全新适用于 Islands UI 的主题。
+
+请前往 JetBrains Marketplace [下载体验](https://plugins.jetbrains.com/plugin/29395-falcon-relaxing-eyes-islands-themes)
+
 ## VS Code Theme
 
-另外，使用 VS Code 的用户，也可以体验同款主题。
+使用 VS Code 的用户，也可以体验同款主题。
 
-请前往 VS Code Marketplace [下载](https://marketplace.visualstudio.com/publishers/panxiaoan)
+请前往 VS Code Marketplace [下载体验](https://marketplace.visualstudio.com/publishers/panxiaoan)
