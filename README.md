@@ -16,6 +16,7 @@ You might want to try The Falcon Relaxing-Eyes themes.<br/>
 在明亮的工作环境中，长时间使用 IDE，建议使用浅色主题，减少视觉疲劳。<br/>
 
 <b>所有主题均包含 Islands UI 主题，JetBrains IDE 版本需 2025.2.3+</b> <br/>
+<img src="./assets/islands/main.png" alt="Islands" style="border: 1px solid #CED0D6;"/>
 
 > <a href="https://ux.stackexchange.com/questions/53264/dark-or-white-color-theme-is-better-for-the-eyes">Dark or white color theme is better for the eyes?</a>
 <img src="./assets/about.jpg" alt="Relax Green Light" style="border: 1px solid #CED0D6;"/>
@@ -110,29 +111,29 @@ Recommended font:
 
 ## Falcon Relax Dark Theme Screenshot
 
-1. Relax Dark
+1. Islands Relax Dark
 
-    <img src="./assets/relax-dark.jpg" alt="Relax Dark" style="border: 1px solid #CED0D6;"/>
+    <img src="./assets/islands/dark.png" alt="Relax Dark" style="border: 1px solid #CED0D6;"/>
 
 2. Relax Dark Darcula
 
-    <img src="./assets/relax-dark-darcula.jpg" alt="Relax Dark Darcula" style="border: 1px solid #CED0D6;"/>
+    <img src="./assets/islands/dark-darcula.png" alt="Relax Dark Darcula" style="border: 1px solid #CED0D6;"/>
 
 3. Relax Dark Blue
 
-    <img src="./assets/relax-dark-blue.jpg" alt="Relax Dark Blue" style="border: 1px solid #CED0D6;"/>
+    <img src="./assets/islands/dark-blue.png" alt="Relax Dark Blue" style="border: 1px solid #CED0D6;"/>
 
 4. Relax Dark Green
 
-    <img src="./assets/relax-dark-green.jpg" alt="Relax Dark Green" style="border: 1px solid #CED0D6;"/>
+    <img src="./assets/islands/dark-green.png" alt="Relax Dark Green" style="border: 1px solid #CED0D6;"/>
 
 5. Relax Dark Violet
 
-    <img src="./assets/relax-dark-violet.jpg" alt="Relax Dark Violet" style="border: 1px solid #CED0D6;"/>
+    <img src="./assets/islands/dark-violet.png" alt="Relax Dark Violet" style="border: 1px solid #CED0D6;"/>
 
 6. Relax Dark Coffee
 
-    <img src="./assets/relax-dark-coffee.jpg" alt="Relax Dark Coffee" style="border: 1px solid #CED0D6;"/>
+    <img src="./assets/islands/dark-coffee.png" alt="Relax Dark Coffee" style="border: 1px solid #CED0D6;"/>
 
 ## Issues
 
