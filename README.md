@@ -5,7 +5,7 @@
 </p>
 
 > A gentle, eye-friendly theme to protect your eyesight for
-> [JetBrains IDE](https://plugins.jetbrains.com/plugin/26026-falcon-relax-eyes-light-theme) <br/>
+> [JetBrains IDE](hhttps://plugins.jetbrains.com/plugin/26026) <br/>
 > 一个温和的，对眼睛友好，保护视力的 JetBrains IDE 主题
 
 <img src="./assets/home.png" alt="Relax Green Light" style="border: 1px solid #CED0D6;"/>
@@ -55,7 +55,7 @@ You might want to try The Falcon Relaxing-Eyes themes.<br/>
 Minimum supported IDEA version: 2023.2
 ```
 
-[JetBrains Marketplace](https://plugins.jetbrains.com/plugin/26026-falcon-relax-eyes-light-theme)
+[JetBrains Marketplace](hhttps://plugins.jetbrains.com/plugin/26026)
 
 <img src="./assets/marketplace.jpg" alt="marketplace" style="border: 1px solid #CED0D6;"/>
 
