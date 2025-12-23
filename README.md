@@ -1,4 +1,4 @@
-# Falcon Relaxing-Eyes Themes - JetBrains IDE
+# Falcon Relaxing-Eyes Islands Themes for JetBrains IDE
 
 <p>
    <img src="./logo.png" alt="Logo" width="128"/>
@@ -14,6 +14,8 @@ If you're working in a bright environment for extended periods, a light-colored 
 You might want to try The Falcon Relaxing-Eyes themes.<br/>
 
 在明亮的工作环境中，长时间使用 IDE，建议使用浅色主题，减少视觉疲劳。<br/>
+
+<b>所有主题均包含 Islands UI 主题，JetBrains IDE 版本需 2025.2.3+</b> <br/>
 
 > <a href="https://ux.stackexchange.com/questions/53264/dark-or-white-color-theme-is-better-for-the-eyes">Dark or white color theme is better for the eyes?</a>
 <img src="./assets/about.jpg" alt="Relax Green Light" style="border: 1px solid #CED0D6;"/>
@@ -46,21 +48,13 @@ You might want to try The Falcon Relaxing-Eyes themes.<br/>
 - Relax Dark Violet
 - Relax Dark Coffee
 
-> For light themes, IDEA's default editor color scheme is also available:
-> - Relax Light Celadon (IDEA default)
-> - Relax Light Green (IDEA default)
-> - Relax Light Green Contrast (IDEA default)
-> - Relax Light Grey (IDEA default)
-> - Relax Light Pink (IDEA default)
-> - Relax Light Yellow (IDEA default)
-
 ## Install
 
 ```plain text
 Minimum supported IDEA version: 2023.2
 ```
 
-[Jetbrains Marketplace](https://plugins.jetbrains.com/plugin/26026-falcon-relax-eyes-light-theme)
+[JetBrains Marketplace](https://plugins.jetbrains.com/plugin/26026-falcon-relax-eyes-light-theme)
 
 <img src="./assets/marketplace.jpg" alt="marketplace" style="border: 1px solid #CED0D6;"/>
 
@@ -147,14 +141,6 @@ Recommended font:
 ## License
 
 [MIT License](./LICENSE)
-
-## JetBrains Islands UI
-
-从 2025.2.3 版本开始，JetBrains IDE 会支持一种全新外观： Islands UI。
-
-Falcon Relaxing-Eyes 主题也推出全新适用于 Islands UI 的主题。
-
-请前往 JetBrains Marketplace [下载体验](https://plugins.jetbrains.com/plugin/29395-falcon-relaxing-eyes-islands-themes)
 
 ## VS Code Theme
 

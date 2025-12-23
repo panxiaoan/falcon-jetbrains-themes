@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>falcon-jetbrains-themes</id>
-    <version>5.0.3</version>
-    <name>Falcon Relax Eyes Light Theme</name>
+    <version>6.0.0</version>
+    <name>Falcon Relaxing-Eyes Islands Themes - Light/Dark</name>
     <vendor email="xiaoan.pan@qq.com" url="https://github.com/panxiaoan">Panxiaoan</vendor>
     <category>UI</category>
 
@@ -16,31 +16,41 @@
     </applicationListeners>-->
 
     <extensions defaultExtensionNs="com.intellij">
+        <!-- Islands Light Theme -->
+        <themeProvider id="falcon-relax-islands-light-celadon" path="/themes/islands-light/islands-celadon.theme.json"/>
+        <themeProvider id="falcon-relax-islands-light-green" path="/themes/islands-light/islands-green.theme.json"/>
+        <themeProvider id="falcon-relax-islands-light-green-contrast" path="/themes/islands-light/islands-green-contrast.theme.json"/>
+        <themeProvider id="falcon-relax-islands-light-bean-green" path="/themes/islands-light/islands-bean-green.theme.json"/>
+        <themeProvider id="falcon-relax-islands-light-grey" path="/themes/islands-light/islands-grey.theme.json"/>
+        <themeProvider id="falcon-relax-islands-light-buff" path="/themes/islands-light/islands-buff.theme.json"/>
+        <themeProvider id="falcon-relax-islands-light-pink" path="/themes/islands-light/islands-pink.theme.json"/>
+        <themeProvider id="falcon-relax-islands-light-yellow" path="/themes/islands-light/islands-yellow.theme.json"/>
+
+        <!-- Islands Dark Theme -->
+        <themeProvider id="falcon-relax-islands-dark" path="/themes/islands-dark/islands-dark.theme.json"/>
+        <themeProvider id="falcon-relax-islands-dark-blue" path="/themes/islands-dark/islands-dark-blue.theme.json"/>
+        <themeProvider id="falcon-relax-islands-dark-coffee" path="/themes/islands-dark/islands-dark-coffee.theme.json"/>
+        <themeProvider id="falcon-relax-islands-dark-darcula" path="/themes/islands-dark/islands-dark-darcula.theme.json"/>
+        <themeProvider id="falcon-relax-islands-dark-green" path="/themes/islands-dark/islands-dark-green.theme.json"/>
+        <themeProvider id="falcon-relax-islands-dark-violet" path="/themes/islands-dark/islands-dark-violet.theme.json"/>
+
         <!-- Light Theme -->
-        <themeProvider id="falcon-relax-light-buff" path="/themes/light-buff/relax-light-buff.theme.json"/>
-        <themeProvider id="falcon-relax-light-celadon" path="/themes/light-celadon/relax-light-celadon.theme.json"/>
-        <themeProvider id="falcon-relax-light-green" path="/themes/light-green/relax-light-green.theme.json"/>
-        <themeProvider id="falcon-relax-light-green-contrast" path="/themes/light-green/relax-light-green-contrast.theme.json"/>
-        <themeProvider id="falcon-relax-light-grey" path="/themes/light-grey/relax-light-grey.theme.json"/>
-        <themeProvider id="falcon-relax-light-pink" path="/themes/light-pink/relax-light-pink.theme.json"/>
-        <themeProvider id="falcon-relax-light-bean-green" path="/themes/light-bean-green/relax-light-bean-green.theme.json"/>
-        <themeProvider id="falcon-relax-light-yellow" path="/themes/light-yellow/relax-light-yellow.theme.json"/>
+        <themeProvider id="falcon-relax-light-buff" path="/themes/light/buff.theme.json"/>
+        <themeProvider id="falcon-relax-light-celadon" path="/themes/light/celadon.theme.json"/>
+        <themeProvider id="falcon-relax-light-green" path="/themes/light/green.theme.json"/>
+        <themeProvider id="falcon-relax-light-green-contrast" path="/themes/light/green-contrast.theme.json"/>
+        <themeProvider id="falcon-relax-light-grey" path="/themes/light/grey.theme.json"/>
+        <themeProvider id="falcon-relax-light-pink" path="/themes/light/pink.theme.json"/>
+        <themeProvider id="falcon-relax-light-bean-green" path="/themes/light/bean-green.theme.json"/>
+        <themeProvider id="falcon-relax-light-yellow" path="/themes/light/yellow.theme.json"/>
 
         <!-- Dark Theme -->
-        <themeProvider id="falcon-relax-dark" path="/themes/dark/relax-dark.theme.json"/>
-        <themeProvider id="falcon-relax-dark-blue" path="/themes/dark-blue/relax-dark-blue.theme.json"/>
-        <themeProvider id="falcon-relax-dark-coffee" path="/themes/dark-coffee/relax-dark-coffee.theme.json"/>
-        <themeProvider id="falcon-relax-dark-darcula" path="/themes/dark-darcula/relax-dark-darcula.theme.json"/>
-        <themeProvider id="falcon-relax-dark-green" path="/themes/dark-green/relax-dark-green.theme.json"/>
-        <themeProvider id="falcon-relax-dark-violet" path="/themes/dark-violet/relax-dark-violet.theme.json"/>
-
-        <!-- Color Scheme: using IDEA default color scheme -->
-        <bundledColorScheme id="falcon-relax-light-celadon-scheme" path="/schemes/relax-light-celadon"/>
-        <bundledColorScheme id="falcon-relax-light-green-scheme" path="/schemes/relax-light-green"/>
-        <bundledColorScheme id="falcon-relax-light-green-contrast-scheme" path="/schemes/relax-light-green-contrast"/>
-        <bundledColorScheme id="falcon-relax-light-grey-scheme" path="/schemes/relax-light-grey"/>
-        <bundledColorScheme id="falcon-relax-light-pink-scheme" path="/schemes/relax-light-pink"/>
-        <bundledColorScheme id="falcon-relax-light-yellow-scheme" path="/schemes/relax-light-yellow"/>
+        <themeProvider id="falcon-relax-dark" path="/themes/dark/dark.theme.json"/>
+        <themeProvider id="falcon-relax-dark-blue" path="/themes/dark/dark-blue.theme.json"/>
+        <themeProvider id="falcon-relax-dark-coffee" path="/themes/dark/dark-coffee.theme.json"/>
+        <themeProvider id="falcon-relax-dark-darcula" path="/themes/dark/dark-darcula.theme.json"/>
+        <themeProvider id="falcon-relax-dark-green" path="/themes/dark/dark-green.theme.json"/>
+        <themeProvider id="falcon-relax-dark-violet" path="/themes/dark/dark-violet.theme.json"/>
     </extensions>
 
 </idea-plugin>
