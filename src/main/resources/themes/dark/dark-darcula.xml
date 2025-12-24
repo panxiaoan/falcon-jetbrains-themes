@@ -1,4 +1,4 @@
-<scheme name="Relax Dark Darcula Colorful" version="142" parent_scheme="Darcula">
+<scheme name="Relax Dark Darcula" version="142" parent_scheme="Darcula">
     <colors>
         <option name="BACKGROUND" value="#3C3F41"/>
         <option name="CONSOLE_BACKGROUND_KEY" value="#3C3F41"/>

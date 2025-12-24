@@ -31,7 +31,7 @@
     "Island": {
       "arc": 20,
       "arc.compact": 16,
-      "borderWidth": 5,
+      "borderWidth": 7,
       "borderWidth.compact": 6,
       "borderColor": "borderColor",
       "inactiveAlpha": 0.44,

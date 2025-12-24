@@ -1,4 +1,4 @@
-<scheme name="Relax Light Grey Colorful" version="142" parent_scheme="Default">
+<scheme name="Relax Light Grey" version="142" parent_scheme="Default">
     <colors>
         <option name="BACKGROUND" value="#f0f4f4"/>
         <option name="CONSOLE_BACKGROUND_KEY" value="#f0f4f4"/>
