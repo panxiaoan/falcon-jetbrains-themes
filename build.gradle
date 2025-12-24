@@ -1,26 +1,39 @@
 plugins {
     id("java")
-    // gradle-intellij-plugin - 0.7.3 支持 JDK 1.8，更新的版本必须 JDK 11+, read more: https://github.com/JetBrains/gradle-intellij-plugin/
-    id("org.jetbrains.intellij") version "1.17.4"
+    // 插件版本：https://github.com/JetBrains/intellij-platform-gradle-plugin/releases
+    // 插件从 1.x 升级到 2.x：https://plugins.jetbrains.com/docs/intellij/tools-intellij-platform-gradle-plugin-migration.html#minimum-gradle-and-java-versions
+    id("org.jetbrains.intellij.platform") version "2.10.5"
 }
 
 group = pluginGroup
 version = pluginVersion
 
-def javaVersion = JavaVersion.VERSION_17
+def javaVersion = JavaVersion.VERSION_21
 
 java {
     sourceCompatibility = javaVersion
     targetCompatibility = javaVersion
 }
 
-intellij {
-    // 最老支持的 IDEA 版本
-    version = platformVersion
-    type = platformType
-    updateSinceUntilBuild = false
-    downloadSources = true
-    plugins = ["java", "markdown"]
+dependencies {
+    intellijPlatform {
+        def type = providers.gradleProperty('platformType')
+        def version = providers.gradleProperty('platformVersion')
+        create(type, version)
+
+        bundledPlugin 'com.intellij.java'
+    }
+}
+
+intellijPlatform {
+    pluginConfiguration {
+        group = pluginGroup
+        name = pluginName
+        version = pluginVersion
+        ideaVersion {
+            sinceBuild = pluginSinceBuild
+        }
+    }
 }
 
 repositories {
@@ -32,6 +45,9 @@ repositories {
     maven { url = "https://plugins.gradle.org/m2/" }
     maven { url = "https://oss.sonatype.org/content/repositories/releases/" }
     mavenCentral()
+    intellijPlatform {
+        defaultRepositories()
+    }
     gradlePluginPortal()
 }
 

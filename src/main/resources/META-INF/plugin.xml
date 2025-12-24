@@ -17,22 +17,22 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <!-- Islands Light Theme -->
-        <themeProvider id="falcon-relax-islands-light-celadon" path="/themes/islands-light/islands-celadon.theme.json"/>
-        <themeProvider id="falcon-relax-islands-light-green" path="/themes/islands-light/islands-green.theme.json"/>
-        <themeProvider id="falcon-relax-islands-light-green-contrast" path="/themes/islands-light/islands-green-contrast.theme.json"/>
-        <themeProvider id="falcon-relax-islands-light-bean-green" path="/themes/islands-light/islands-bean-green.theme.json"/>
-        <themeProvider id="falcon-relax-islands-light-grey" path="/themes/islands-light/islands-grey.theme.json"/>
-        <themeProvider id="falcon-relax-islands-light-buff" path="/themes/islands-light/islands-buff.theme.json"/>
-        <themeProvider id="falcon-relax-islands-light-pink" path="/themes/islands-light/islands-pink.theme.json"/>
-        <themeProvider id="falcon-relax-islands-light-yellow" path="/themes/islands-light/islands-yellow.theme.json"/>
+        <themeProvider id="falcon-relax-islands-light-celadon" path="/themes/islands-light/islands-celadon.theme.json" targetUi="islands"/>
+        <themeProvider id="falcon-relax-islands-light-green" path="/themes/islands-light/islands-green.theme.json" targetUi="islands"/>
+        <themeProvider id="falcon-relax-islands-light-green-contrast" path="/themes/islands-light/islands-green-contrast.theme.json" targetUi="islands"/>
+        <themeProvider id="falcon-relax-islands-light-bean-green" path="/themes/islands-light/islands-bean-green.theme.json" targetUi="islands"/>
+        <themeProvider id="falcon-relax-islands-light-grey" path="/themes/islands-light/islands-grey.theme.json" targetUi="islands"/>
+        <themeProvider id="falcon-relax-islands-light-buff" path="/themes/islands-light/islands-buff.theme.json" targetUi="islands"/>
+        <themeProvider id="falcon-relax-islands-light-pink" path="/themes/islands-light/islands-pink.theme.json" targetUi="islands"/>
+        <themeProvider id="falcon-relax-islands-light-yellow" path="/themes/islands-light/islands-yellow.theme.json" targetUi="islands"/>
 
         <!-- Islands Dark Theme -->
-        <themeProvider id="falcon-relax-islands-dark" path="/themes/islands-dark/islands-dark.theme.json"/>
-        <themeProvider id="falcon-relax-islands-dark-blue" path="/themes/islands-dark/islands-dark-blue.theme.json"/>
-        <themeProvider id="falcon-relax-islands-dark-coffee" path="/themes/islands-dark/islands-dark-coffee.theme.json"/>
-        <themeProvider id="falcon-relax-islands-dark-darcula" path="/themes/islands-dark/islands-dark-darcula.theme.json"/>
-        <themeProvider id="falcon-relax-islands-dark-green" path="/themes/islands-dark/islands-dark-green.theme.json"/>
-        <themeProvider id="falcon-relax-islands-dark-violet" path="/themes/islands-dark/islands-dark-violet.theme.json"/>
+        <themeProvider id="falcon-relax-islands-dark" path="/themes/islands-dark/islands-dark.theme.json" targetUi="islands"/>
+        <themeProvider id="falcon-relax-islands-dark-blue" path="/themes/islands-dark/islands-dark-blue.theme.json" targetUi="islands"/>
+        <themeProvider id="falcon-relax-islands-dark-coffee" path="/themes/islands-dark/islands-dark-coffee.theme.json" targetUi="islands"/>
+        <themeProvider id="falcon-relax-islands-dark-darcula" path="/themes/islands-dark/islands-dark-darcula.theme.json" targetUi="islands"/>
+        <themeProvider id="falcon-relax-islands-dark-green" path="/themes/islands-dark/islands-dark-green.theme.json" targetUi="islands"/>
+        <themeProvider id="falcon-relax-islands-dark-violet" path="/themes/islands-dark/islands-dark-violet.theme.json" targetUi="islands"/>
 
         <!-- Light Theme -->
         <themeProvider id="falcon-relax-light-buff" path="/themes/light/buff.theme.json"/>

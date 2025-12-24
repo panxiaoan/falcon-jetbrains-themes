@@ -15,7 +15,7 @@ You might want to try The Falcon Relaxing-Eyes themes.<br/>
 
 在明亮的工作环境中，长时间使用 IDE，建议使用浅色主题，减少视觉疲劳。<br/>
 
-<b>所有主题均包含 Islands UI 主题，JetBrains IDE 版本需 2025.2.3+</b> <br/>
+<b>🔥🔥🔥从 6.0.0 版本开始支持 JetBrains Islands UI（2025.2+）</b> <br/>
 <img src="./assets/islands/main.png" alt="Islands" style="border: 1px solid #CED0D6;"/>
 
 > <a href="https://ux.stackexchange.com/questions/53264/dark-or-white-color-theme-is-better-for-the-eyes">Dark or white color theme is better for the eyes?</a>
@@ -27,8 +27,30 @@ You might want to try The Falcon Relaxing-Eyes themes.<br/>
 - Improved syntax highlighting for clarity
 - Consistent and clean theme style
 - Lightweight design with minimal impact on IDE performance
+- Supports JetBrains Islands(2025.2.3+) & New(2023.2+) & Classic UI
 
-## Falcon Relaxing-Eyes Themes
+## Falcon Relaxing-Eyes Themes (Supports Islands UI)
+
+**Islands Light themes (for bright environments):**
+
+- Islands Relax Light Celadon (My favorite)
+- Islands Relax Light Green
+- Islands Relax Light Green Contrast
+- Islands Relax Light Grey
+- Islands Relax Light Pink
+- Islands Relax Light Yellow
+- Islands Relax Light Buff
+
+**Islands Dark themes (for low-light environments):**
+
+- Islands Relax Dark
+- Islands Relax Dark Darcula
+- Islands Relax Dark Blue
+- Islands Relax Dark Green
+- Islands Relax Dark Violet
+- Islands Relax Dark Coffee
+
+## Falcon Relaxing-Eyes Themes (Supports New & Classic UI)
 
 **Light themes (for bright environments):**
 
