@@ -27,7 +27,8 @@ You might want to try The Falcon Relaxing-Eyes themes.<br/>
 - Improved syntax highlighting for clarity
 - Consistent and clean theme style
 - Lightweight design with minimal impact on IDE performance
-- Supports JetBrains Islands(2025.2.3+) & New(2023.2+) & Classic UI
+- Supports JetBrains IDE Islands(2025.2.3+) & New(2023.2+) & Classic UI
+- Supports all JetBrains IDEs(IntelliJ IDEA/PyCharm/WebStorm/Android Studio/RubyMine/GoLand/DataGrip)
 
 ## Falcon Relaxing-Eyes Themes (Supports Islands UI)
 
@@ -101,61 +102,61 @@ Recommended font:
 - Line spacing: 1.2
 - Fallback font: `Microsoft YaHei`、`PingFang SC`, 备用字体建议中文支持更友好的字体
 
-## Falcon Relax Light Theme Screenshot
+## Islands Light themes Screenshot
 
-1. Relax Light Green
+1. Islands Relax Light Green
 
-    <img src="./assets/relax-light-green.jpg" alt="Relax Light Green" style="border: 1px solid #CED0D6;"/>
+    <img src="./assets/islands/light-green.png" alt="Islands Relax Light Green" style="border: 1px solid #CED0D6;"/>
 
-2. Relax Light Green Contrast
+2. Islands Relax Light Green Contrast
 
-    <img src="./assets/relax-light-green-contrast.jpg" alt="Relax Light Green Contrast" style="border: 1px solid #CED0D6;"/>
+    <img src="./assets/islands/light-green-contrast.png" alt="Islands Relax Light Green Contrast" style="border: 1px solid #CED0D6;"/>
 
-3. Relax Light Grey
+3. Islands Relax Light Grey
 
-    <img src="./assets/relax-light-grey.jpg" alt="Relax Light Grey" style="border: 1px solid #CED0D6;"/>
+    <img src="./assets/islands/light-grey.png" alt="Islands Relax Light Grey" style="border: 1px solid #CED0D6;"/>
 
-4. Relax Light Celadon
+4. Islands Relax Light Celadon
 
-    <img src="./assets/relax-light-celadon.jpg" alt="Relax Light Celadon" style="border: 1px solid #CED0D6;"/>
+    <img src="./assets/islands/light-celadon.png" alt="Islands Relax Light Celadon" style="border: 1px solid #CED0D6;"/>
 
-5. Relax Light Pink
+5. Islands Relax Light Pink
 
-    <img src="./assets/relax-light-pink.jpg" alt="Relax Light Pink" style="border: 1px solid #CED0D6;"/>
+    <img src="./assets/islands/light-pink.png" alt="Islands Relax Light Pink" style="border: 1px solid #CED0D6;"/>
 
-6. Relax Light Yellow
+6. Islands Relax Light Yellow
 
-    <img src="./assets/relax-light-yellow.jpg" alt="Relax Light Yellow" style="border: 1px solid #CED0D6;"/>
+    <img src="./assets/islands/light-yellow.png" alt="Islands Relax Light Yellow" style="border: 1px solid #CED0D6;"/>
 
-7. Relax Light Buff
+7. Islands Relax Light Buff
 
-    <img src="./assets/relax-light-buff.png" alt="Relax Light Buff" style="border: 1px solid #CED0D6;">
+    <img src="./assets/islands/light-buff.png" alt="Islands Relax Light Buff" style="border: 1px solid #CED0D6;">
 
-## Falcon Relax Dark Theme Screenshot
+## Islands Dark themes Screenshot
 
 1. Islands Relax Dark
 
-    <img src="./assets/islands/dark.png" alt="Relax Dark" style="border: 1px solid #CED0D6;"/>
+    <img src="./assets/islands/dark.png" alt="Islands Relax Dark" style="border: 1px solid #CED0D6;"/>
 
-2. Relax Dark Darcula
+2. Islands Relax Dark Darcula
 
-    <img src="./assets/islands/dark-darcula.png" alt="Relax Dark Darcula" style="border: 1px solid #CED0D6;"/>
+    <img src="./assets/islands/dark-darcula.png" alt="Islands Relax Dark Darcula" style="border: 1px solid #CED0D6;"/>
 
-3. Relax Dark Blue
+3. Islands Relax Dark Blue
 
-    <img src="./assets/islands/dark-blue.png" alt="Relax Dark Blue" style="border: 1px solid #CED0D6;"/>
+    <img src="./assets/islands/dark-blue.png" alt="Islands Relax Dark Blue" style="border: 1px solid #CED0D6;"/>
 
-4. Relax Dark Green
+4. Islands Relax Dark Green
 
-    <img src="./assets/islands/dark-green.png" alt="Relax Dark Green" style="border: 1px solid #CED0D6;"/>
+    <img src="./assets/islands/dark-green.png" alt="Islands Relax Dark Green" style="border: 1px solid #CED0D6;"/>
 
-5. Relax Dark Violet
+5. Islands Relax Dark Violet
 
-    <img src="./assets/islands/dark-violet.png" alt="Relax Dark Violet" style="border: 1px solid #CED0D6;"/>
+    <img src="./assets/islands/dark-violet.png" alt="Islands Relax Dark Violet" style="border: 1px solid #CED0D6;"/>
 
-6. Relax Dark Coffee
+6. Islands Relax Dark Coffee
 
-    <img src="./assets/islands/dark-coffee.png" alt="Relax Dark Coffee" style="border: 1px solid #CED0D6;"/>
+    <img src="./assets/islands/dark-coffee.png" alt="Islands Relax Dark Coffee" style="border: 1px solid #CED0D6;"/>
 
 ## Issues
 
