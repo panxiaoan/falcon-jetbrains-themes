@@ -24,7 +24,7 @@ body:
   - type: input
     id: idea-version
     attributes:
-      label: "IDE 版本(Jetbrains IDE version)"
+      label: "IDE 版本(JetBrains IDE version)"
       description: "you can check via About dialog in the Help or App menu"
       value: "IntelliJ IDEA 2025.1.3 (Community Edition)"
     validations:
@@ -44,6 +44,18 @@ body:
       description: "Please select the theme you are currently using! If multiple themes have the same problem, please select multiple!"
       multiple: true
       options:
+        - Islands Relax Light Green
+        - Islands Relax Light Green Contrast
+        - Islands Relax Light Celadon
+        - Islands Relax Light Grey
+        - Islands Relax Light Pink
+        - Islands Relax Light Yellow
+        - Islands Relax Dark
+        - Islands Relax Dark Blue
+        - Islands Relax Dark Coffee
+        - Islands Relax Dark Darcula
+        - Islands Relax Dark Green
+        - Islands Relax Dark Violet
         - Relax Light Green
         - Relax Light Green Contrast
         - Relax Light Celadon
