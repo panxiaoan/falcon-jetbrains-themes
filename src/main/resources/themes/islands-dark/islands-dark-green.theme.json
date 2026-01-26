@@ -57,10 +57,12 @@
     "MainWindow.background": "mainBackground",
     "MainToolbar": {
       "borderColor": "borderTransparent",
-      "Button.arc.compact": 8
+      "Button.arc.compact": 8,
+      "background": "mainBackground"
     },
     "StatusBar": {
-      "borderColor": "borderTransparent"
+      "borderColor": "borderTransparent",
+      "background": "mainBackground"
     },
     "Stripe": {
       "background": "mainBackground",
@@ -357,7 +359,8 @@
         "hoverBackground": "tabHoverBackground"
       },
       "Stripe": {
-        "borderColor": "borderTransparent"
+        "borderColor": "borderTransparent",
+        "background": "mainBackground"
       }
     },
     "StripeToolbar.Button": {
