@@ -18,25 +18,23 @@ You might want to try The Falcon Relaxing-Eyes themes.<br/>
 <b>🔥🔥🔥从 6.0.0 版本开始支持 JetBrains Islands UI（2025.2+）</b> <br/>
 <img src="./assets/islands/main.png" alt="Islands" style="border: 1px solid #CED0D6;"/>
 
-> <a href="https://ux.stackexchange.com/questions/53264/dark-or-white-color-theme-is-better-for-the-eyes">Dark or white color theme is better for the eyes?</a>
-<img src="./assets/about.jpg" alt="Relax Green Light" style="border: 1px solid #CED0D6;"/>
-
 ## Features
 
-- Gentle, eye-friendly colors to reduce strain
-- Improved syntax highlighting for clarity
-- Consistent and clean theme style
-- Lightweight design with minimal impact on IDE performance
-- Supports JetBrains IDE Islands(2025.2.3+) & New(2023.2+) & Classic UI
-- Supports all JetBrains IDEs(IntelliJ IDEA/PyCharm/WebStorm/Android Studio/RubyMine/GoLand/DataGrip)
+- 🌿 Gentle, eye-friendly colors to reduce strain
+- ✨ Improved syntax highlighting for clarity
+- 🎨 Consistent and clean theme style
+- ⚡ Lightweight design with minimal impact on JetBrains IDEs - performance
+- 🧠 Supports JetBrains IDE Islands(2025.2.3+) & New(2023.2+) & Classic UI
+- 📦 Supports all JetBrains IDEs(IntelliJ IDEA/PyCharm/WebStorm/Android Studio/RubyMine/GoLand/DataGrip)
 
-## Falcon Relaxing-Eyes Themes (Supports Islands UI)
+## Falcon Themes (Supports Islands UI)
 
 **Islands Light themes (for bright environments):**
 
 - Islands Relax Light Celadon (My favorite)
 - Islands Relax Light Green
 - Islands Relax Light Green Contrast
+- Islands Relax Light Bean Green
 - Islands Relax Light Grey
 - Islands Relax Light Pink
 - Islands Relax Light Yellow
@@ -51,13 +49,14 @@ You might want to try The Falcon Relaxing-Eyes themes.<br/>
 - Islands Relax Dark Violet
 - Islands Relax Dark Coffee
 
-## Falcon Relaxing-Eyes Themes (Supports New & Classic UI)
+## Falcon Themes (Supports New & Classic UI)
 
 **Light themes (for bright environments):**
 
 - Relax Light Celadon (My favorite)
 - Relax Light Green
 - Relax Light Green Contrast
+- Relax Light Bean Green
 - Relax Light Grey
 - Relax Light Pink
 - Relax Light Yellow
@@ -75,23 +74,12 @@ You might want to try The Falcon Relaxing-Eyes themes.<br/>
 ## Install
 
 ```plain text
-Minimum supported IDEA version: 2023.2
+⚠️ Minimum supported IDEA version: 2023.2
 ```
 
-[JetBrains Marketplace](hhttps://plugins.jetbrains.com/plugin/26026)
+👉 [Download from Jetbrains Marketplace](https://plugins.jetbrains.com/plugin/26026)
 
 <img src="./assets/marketplace.jpg" alt="marketplace" style="border: 1px solid #CED0D6;"/>
-
-## Thanks
-
-> 1. [Dracula Theme](https://plugins.jetbrains.com/plugin/12275-dracula-theme)
-> 2. [Everest Theme](https://plugins.jetbrains.com/plugin/22653-everest-theme)
-> 3. [JetBrains Light Theme](https://www.jetbrains.com/idea/)
-
-## Source Code
-
-1. [Gitee](https://gitee.com/panxiaoan/falcon-jetbrains-themes)
-2. [Github](https://github.com/panxiaoan/falcon-jetbrains-themes)
 
 ## Suggestion
 
@@ -101,6 +89,29 @@ Recommended font:
 - Font size: 13
 - Line spacing: 1.2
 - Fallback font: `Microsoft YaHei`、`PingFang SC`, 备用字体建议中文支持更友好的字体
+
+## Source Code
+
+- [Gitee](https://gitee.com/panxiaoan/falcon-jetbrains-themes)
+- [Github](https://github.com/panxiaoan/falcon-jetbrains-themes)
+
+## Issues
+
+Found a bug or have a suggestion? <a href="https://github.com/panxiaoan/falcon-jetbrains-themes/issues">Report an issue</a>
+
+## License
+
+See [MIT License](./LICENSE) for detailed instructions.
+
+## Falcon Themes for VS Code, Zed
+
+Using **VS Code?** You can also experience the same theme there.
+
+👉 [Download from VS Code Marketplace](https://marketplace.visualstudio.com/publishers/panxiaoan)
+
+Using **Zed?** You can also experience the same theme there.
+
+👉 [Download from Zed Extensions](https://github.com/panxiaoan/falcon-zed-themes/blob/main/INSTALL.md)
 
 ## Islands Light themes Screenshot
 
@@ -132,6 +143,10 @@ Recommended font:
 
     <img src="./assets/islands/light-buff.png" alt="Islands Relax Light Buff" style="border: 1px solid #CED0D6;">
 
+8. Islands Relax Light Bean Green
+
+    <img src="./assets/islands/relax-light-bean-green.jpg" alt="Islands Relax Light Bean Green" style="border: 1px solid #CED0D6;">
+
 ## Islands Dark themes Screenshot
 
 1. Islands Relax Dark
@@ -157,17 +172,3 @@ Recommended font:
 6. Islands Relax Dark Coffee
 
     <img src="./assets/islands/dark-coffee.png" alt="Islands Relax Dark Coffee" style="border: 1px solid #CED0D6;"/>
-
-## Issues
-
-<a href="https://github.com/panxiaoan/falcon-jetbrains-themes/issues">Report an issue</a>
-
-## License
-
-[MIT License](./LICENSE)
-
-## VS Code Theme
-
-使用 VS Code 的用户，也可以体验同款主题。
-
-请前往 VS Code Marketplace [下载体验](https://marketplace.visualstudio.com/publishers/panxiaoan)
