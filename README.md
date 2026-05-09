@@ -145,7 +145,7 @@ Using **Zed?** You can also experience the same theme there.
 
 8. Islands Relax Light Bean Green
 
-    <img src="./assets/islands/relax-light-bean-green.jpg" alt="Islands Relax Light Bean Green" style="border: 1px solid #CED0D6;">
+    <img src="./assets/islands/light-bean-green.png" alt="Islands Relax Light Bean Green" style="border: 1px solid #CED0D6;">
 
 ## Islands Dark themes Screenshot
 
