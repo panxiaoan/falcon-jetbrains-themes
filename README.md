@@ -112,7 +112,7 @@ Using **VS Code?** You can also experience the same theme there.
 
 Using **Zed?** You can also experience the same theme there.
 
-👉 [Download from Zed Extensions](https://github.com/panxiaoan/falcon-zed-themes/blob/main/INSTALL.md)
+👉 [Download from Zed Extensions](https://zed.dev/extensions/falcon-theme)
 
 ## Islands Light themes Screenshot
 
@@ -121,7 +121,7 @@ Using **Zed?** You can also experience the same theme there.
     <img src="./assets/islands/light-green.png" alt="Falcon Light Green"/>
 </details>
 <details open>
-    <summary>🍃️ Green Contrast</summary>
+    <summary>🌲️ Green Contrast</summary>
     <img src="./assets/islands/light-green-contrast.png" alt="Falcon Light Green Contrast"/>
 </details>
 <details open>
@@ -129,7 +129,7 @@ Using **Zed?** You can also experience the same theme there.
     <img src="./assets/islands/light-celadon.png" alt="Falcon Light Celadon"/>
 </details>
 <details open>
-    <summary>🌲 Bean Green</summary>
+    <summary>🍃 Bean Green</summary>
     <img src="./assets/islands/light-bean-green.png" alt="Falcon Light Bean Green"/>
 </details>
 <details open>
@@ -148,7 +148,7 @@ Using **Zed?** You can also experience the same theme there.
 ## Islands Dark themes Screenshot
 
 <details open>
-    <summary>🧛 Dark</summary>
+    <summary>🐈‍⬛ Dark</summary>
     <img src="./assets/islands/dark.png" alt="Falcon Dark"/>
 </details>
 <details open>
