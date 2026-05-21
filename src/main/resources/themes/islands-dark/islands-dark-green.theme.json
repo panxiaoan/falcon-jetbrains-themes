@@ -28,21 +28,8 @@
   },
   "ui": {
     "Islands": 1,
-    "Island": {
-      "arc": 20,
-      "arc.compact": 16,
-      "borderWidth": 7,
-      "borderWidth.compact": 6,
-      "borderColor": "borderColor",
-      "inactiveAlpha": 0.44,
-      "inactiveAlphaInStatusBar": {
-        "os.mac": 0.2,
-        "os.windows": 0.2,
-        "os.linux": 0.15
-      }
-    },
     "*": {
-      "arc": "7",
+      "arc": 7,
       "background": "primaryBackground",
       "selectionForeground": "primaryForeground",
       "selectionInactiveForeground": "primaryForeground",
@@ -461,16 +448,14 @@
       "Objects.Yellow": "#f1fa8c",
       "Objects.YellowDark": "#f1fa8c",
       "Objects.BlackText": "#282a35",
-      "Checkbox.Foreground.Selected.Dark": "#C3DEDF",
-      "Checkbox.Border.Default.Dark": "#81B3BA",
-      "Checkbox.Border.Selected.Dark": "#81B3BA",
-      "Checkbox.Border.Disabled.Dark": "#6399A0",
-      "Checkbox.Background.Default.Dark": "#5a9096",
-      "Checkbox.Background.Selected.Dark": "#5a9096",
-      "Checkbox.Background.Disabled.Dark": "#002F38",
-      "Checkbox.Focus.Wide.Dark": "#81B3BA",
-      "Checkbox.Focus.Thin.Selected.Dark": "#5a9096",
-      "Checkbox.Focus.Thin.Default.Dark": "#5a9096"
+      "Checkbox.Foreground.Selected": "#C3DEDF",
+      "Checkbox.Border.Default": "#81B3BA",
+      "Checkbox.Border.Selected": "#81B3BA",
+      "Checkbox.Border.Disabled": "#6399A0",
+      "Checkbox.Background.Default": "#5a9096",
+      "Checkbox.Background.Selected": "#5a9096",
+      "Checkbox.Background.Disabled": "#002F38",
+      "Checkbox.Focus.Wide": "#81B3BA"
     }
   }
 }

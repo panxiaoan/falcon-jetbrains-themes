@@ -35,21 +35,8 @@
   },
   "ui": {
     "Islands": 1,
-    "Island": {
-      "arc": 20,
-      "arc.compact": 16,
-      "borderWidth": 7,
-      "borderWidth.compact": 6,
-      "borderColor": "borderColor",
-      "inactiveAlpha": 0.44,
-      "inactiveAlphaInStatusBar": {
-        "os.mac": 0.2,
-        "os.windows": 0.2,
-        "os.linux": 0.15
-      }
-    },
     "*": {
-      "arc": "7",
+      "arc": 7,
       "background": "menuBackground",
       "selectionForeground": "primaryForeground",
       "selectionInactiveForeground": "primaryForeground",
@@ -467,9 +454,7 @@
       "Checkbox.Background.Default": "#91CB9E",
       "Checkbox.Background.Selected": "#64AA7A",
       "Checkbox.Background.Disabled": "#91CB9E",
-      "Checkbox.Focus.Wide": "#64AA7A",
-      "Checkbox.Focus.Thin.Default": "#91CB9E",
-      "Checkbox.Focus.Thin.Selected": "#64AA7A"
+      "Checkbox.Focus.Wide": "#64AA7A"
     }
   }
 }
