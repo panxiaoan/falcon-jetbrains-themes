@@ -5,20 +5,20 @@
   "author": "Panxiaoan",
   "editorScheme": "/themes/dark/dark.xml",
   "colors": {
-    "mainBackground": "#383a46",
+    "mainBackground": "#3b3d49",
     "borderTransparent": "#00000000",
     "underlinedTabBackground": "#153f48",
     "underlinedBorderColor": "#0C5635",
     "accentColor": "#28B366",
-    "secondaryAccentColor": "#383a46",
+    "secondaryAccentColor": "#3b3d49",
     "primaryForeground": "#BBBBBB",
     "primaryBackground": "#282A36",
     "secondaryBackground": "#19273D",
     "hoverBackground": "#515260",
     "selectionBackground": "#515260",
     "selectionInactiveBackground": "#515260",
-    "borderColor": "#383a46",
-    "separatorColor": "#383a46",
+    "borderColor": "#3b3d49",
+    "separatorColor": "#3b3d49",
     "lineColor": "#515260",
     "underlineColor": "#28B366",
     "iconBackground": "#28B366",
@@ -61,16 +61,16 @@
     "NavBar.borderColor": "borderTransparent",
     "MainWindow.Tab": {
       "selectedForeground": "#28B366",
-      "selectedBackground": "borderTransparent",
+      "selectedBackground": "primaryBackground",
       "selectedInactiveBackground": "tabColor",
       "foreground": "primaryForeground",
       "background": "menuBackground",
       "hoverForeground": "primaryForeground",
-      "hoverBackground": "tabHoverBackground",
+      "hoverBackground": "primaryBackground",
       "separatorColor": "borderColor"
     },
     "MemoryIndicator": {
-      "allocatedBackground": "#383a46",
+      "allocatedBackground": "#3b3d49",
       "usedBackground": "#515260"
     },
     "Borders": {
@@ -263,24 +263,24 @@
       }
     },
     "ScrollBar": {
-      "thumbColor": "#383a46",
-      "thumbBorderColor": "#383a46",
+      "thumbColor": "#3b3d49",
+      "thumbBorderColor": "#3b3d49",
       "hoverThumbColor": "#515260",
       "hoverThumbBorderColor": "#515260",
       "Transparent": {
-        "thumbColor": "#383a46",
-        "thumbBorderColor": "#383a46",
+        "thumbColor": "#3b3d49",
+        "thumbBorderColor": "#3b3d49",
         "hoverThumbColor": "#515260",
         "hoverThumbBorderColor": "#515260"
       },
       "Mac": {
-        "thumbColor": "#383a46",
-        "thumbBorderColor": "#383a46",
+        "thumbColor": "#3b3d49",
+        "thumbBorderColor": "#3b3d49",
         "hoverThumbColor": "#515260",
         "hoverThumbBorderColor": "#515260",
         "Transparent": {
-          "thumbColor": "#383a46",
-          "thumbBorderColor": "#383a46",
+          "thumbColor": "#3b3d49",
+          "thumbBorderColor": "#3b3d49",
           "hoverThumbColor": "#515260",
           "hoverThumbBorderColor": "#515260"
         }

@@ -9,28 +9,28 @@
 
         <option name="ScrollBar.background" value="c7edcc"/>
 
-        <option name="ScrollBar.thumbColor" value="bde3c2"/>
-        <option name="ScrollBar.thumbBorderColor" value="bde3c2"/>
+        <option name="ScrollBar.thumbColor" value="b8ddbd"/>
+        <option name="ScrollBar.thumbBorderColor" value="b8ddbd"/>
         <option name="ScrollBar.hoverThumbColor" value="E2F9E1"/>
         <option name="ScrollBar.hoverThumbBorderColor" value="E2F9E1"/>
 
-        <option name="ScrollBar.Transparent.thumbColor" value="bde3c2"/>
-        <option name="ScrollBar.Transparent.thumbBorderColor" value="bde3c2"/>
+        <option name="ScrollBar.Transparent.thumbColor" value="b8ddbd"/>
+        <option name="ScrollBar.Transparent.thumbBorderColor" value="b8ddbd"/>
         <option name="ScrollBar.Transparent.hoverThumbColor" value="E2F9E1"/>
         <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="E2F9E1"/>
 
-        <option name="ScrollBar.Mac.thumbColor" value="bde3c2"/>
-        <option name="ScrollBar.Mac.thumbBorderColor" value="bde3c2"/>
+        <option name="ScrollBar.Mac.thumbColor" value="b8ddbd"/>
+        <option name="ScrollBar.Mac.thumbBorderColor" value="b8ddbd"/>
         <option name="ScrollBar.Mac.hoverThumbColor" value="E2F9E1"/>
         <option name="ScrollBar.Mac.hoverThumbBorderColor" value="E2F9E1"/>
 
-        <option name="ScrollBar.Mac.Transparent.thumbColor" value="bde3c2"/>
-        <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="bde3c2"/>
+        <option name="ScrollBar.Mac.Transparent.thumbColor" value="b8ddbd"/>
+        <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="b8ddbd"/>
         <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="E2F9E1"/>
         <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="E2F9E1"/>
 
-        <option name="Scrollbar.Tabs.ThumbColor" value="bde3c2"/>
-        <option name="Scrollbar.Tabs.TransparentThumbColor" value="bde3c2"/>
+        <option name="Scrollbar.Tabs.ThumbColor" value="b8ddbd"/>
+        <option name="Scrollbar.Tabs.TransparentThumbColor" value="b8ddbd"/>
 
         <option name="ADDED_LINES_COLOR" value="7fc784"/>
         <option name="ANNOTATIONS_COLOR" value="5a5d6b"/>
@@ -42,19 +42,19 @@
         <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="7fc784"/>
         <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="767a8a"/>
         <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="88adf7"/>
-        <option name="INDENT_GUIDE" value="bde3c2"/>
+        <option name="INDENT_GUIDE" value="b8ddbd"/>
         <option name="INFORMATION_HINT" value="ffffff"/>
         <option name="LINE_NUMBERS_COLOR" value="aeb3c2"/>
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="#067D17"/>
         <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="62b3b3"/>
-        <option name="METHOD_SEPARATORS_COLOR" value="bde3c2"/>
+        <option name="METHOD_SEPARATORS_COLOR" value="b8ddbd"/>
         <option name="MODIFIED_LINES_COLOR" value="C2D6FC" deuteranopia="9ca9bf" protanopia="9ca9bf"/>
         <option name="NOTIFICATION_BACKGROUND" value="fff8e3"/>
-        <option name="RIGHT_MARGIN_COLOR" value="bde3c2"/>
+        <option name="RIGHT_MARGIN_COLOR" value="b8ddbd"/>
         <option name="SELECTED_INDENT_GUIDE" value="aeb3c2"/>
         <option name="SELECTION_BACKGROUND" value="#AFDBB8" deuteranopia="5974AB" protanopia="5974AB"/>
         <option name="SELECTION_FOREGROUND" value="" deuteranopia="ffffff" protanopia="ffffff"/>
-        <!--        <option name="STICKY_LINES_BACKGROUND" value="bde3c2"/>-->
+        <!--        <option name="STICKY_LINES_BACKGROUND" value="b8ddbd"/>-->
         <option name="TEARLINE_COLOR" value="d4d4d4"/>
         <option name="VCS_ANNOTATIONS_COLOR_1" value="a1bef7"/>
         <option name="VCS_ANNOTATIONS_COLOR_2" value="c9dafb"/>

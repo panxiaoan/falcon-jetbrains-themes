@@ -4,8 +4,8 @@
   "author": "Xiaoan Pan",
   "editorScheme": "/themes/light/yellow.xml",
   "colors": {
-    "borderColor": "#f5f1de",
-    "separatorColor": "#f5f1de",
+    "borderColor": "#efebd8",
+    "separatorColor": "#efebd8",
     "editorBackground": "#FFFBE8",
     "menuBackground": "#FFFBE8",
     "sidePanelBackground": "#FFFBE8",
@@ -13,7 +13,7 @@
     "inputBackground": "#FFFBE8",
     "selectionBackground": "#ccc8b6",
     "selectionInactiveBackground": "#ccc8b6",
-    "tabColor": "#f5f1de",
+    "tabColor": "#efebd8",
     "lineColor": "#BE9B00",
     "iconBackground": "#ddb900",
     "tabHoverBackground": "#ccc8b6",
@@ -42,29 +42,29 @@
       "separatorColor": "separatorColor"
     },
     "FileColor": {
-      "Yellow": "#f5f1de",
+      "Yellow": "#efebd8",
       "Green": "#E7FBDE"
     },
     "ScrollBar": {
-      "thumbColor": "#f5f1de",
+      "thumbColor": "#efebd8",
       "hoverThumbColor": "#ccc8b6",
-      "thumbBorderColor": "#f5f1de",
+      "thumbBorderColor": "#efebd8",
       "hoverThumbBorderColor": "#ccc8b6",
       "Transparent": {
-        "thumbColor": "#f5f1de",
+        "thumbColor": "#efebd8",
         "hoverThumbColor": "#ccc8b6",
-        "thumbBorderColor": "#f5f1de",
+        "thumbBorderColor": "#efebd8",
         "hoverThumbBorderColor": "#ccc8b6"
       },
       "Mac": {
-        "thumbColor": "#f5f1de",
+        "thumbColor": "#efebd8",
         "hoverThumbColor": "#ccc8b6",
-        "thumbBorderColor": "#f5f1de",
+        "thumbBorderColor": "#efebd8",
         "hoverThumbBorderColor": "#ccc8b6",
         "Transparent": {
-          "thumbColor": "#f5f1de",
+          "thumbColor": "#efebd8",
           "hoverThumbColor": "#ccc8b6",
-          "thumbBorderColor": "#f5f1de",
+          "thumbBorderColor": "#efebd8",
           "hoverThumbBorderColor": "#ccc8b6"
         }
       }

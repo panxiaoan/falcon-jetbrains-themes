@@ -60,12 +60,12 @@
     "NavBar.borderColor": "borderTransparent",
     "MainWindow.Tab": {
       "selectedForeground": "#28B366",
-      "selectedBackground": "borderTransparent",
+      "selectedBackground": "primaryBackground",
       "selectedInactiveBackground": "tabColor",
       "foreground": "primaryForeground",
       "background": "menuBackground",
       "hoverForeground": "primaryForeground",
-      "hoverBackground": "tabHoverBackground",
+      "hoverBackground": "primaryBackground",
       "separatorColor": "borderColor"
     },
     "MemoryIndicator": {
@@ -164,7 +164,7 @@
       "underlineHeight": 2,
       "underTabsBorderColor": "primaryBackground",
       "underlinedTabBackground": "underlinedTabBackground",
-      "underlinedBorderColor": "underlinedBorderColor",
+      "underlinedBorderColor": "lineColor",
       "inactiveUnderlinedTabBorderColor": "lineColor",
       "inactiveUnderlinedTabBackground": "menuBackground",
       "tabInsets": "-6,8,-6,8",

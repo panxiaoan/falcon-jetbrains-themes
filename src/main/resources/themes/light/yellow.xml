@@ -9,28 +9,28 @@
 
         <option name="ScrollBar.background" value="#FFFBE8"/>
 
-        <option name="ScrollBar.thumbColor" value="#f5f1de"/>
+        <option name="ScrollBar.thumbColor" value="#efebd8"/>
         <option name="ScrollBar.hoverThumbColor" value="#ccc8b6"/>
-        <option name="ScrollBar.thumbBorderColor" value="#f5f1de"/>
+        <option name="ScrollBar.thumbBorderColor" value="#efebd8"/>
         <option name="ScrollBar.hoverThumbBorderColor" value="#ccc8b6"/>
 
-        <option name="ScrollBar.Transparent.thumbColor" value="#f5f1de"/>
+        <option name="ScrollBar.Transparent.thumbColor" value="#efebd8"/>
         <option name="ScrollBar.Transparent.hoverThumbColor" value="#ccc8b6"/>
-        <option name="ScrollBar.Transparent.thumbBorderColor" value="#f5f1de"/>
+        <option name="ScrollBar.Transparent.thumbBorderColor" value="#efebd8"/>
         <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="#ccc8b6"/>
 
-        <option name="ScrollBar.Mac.thumbColor" value="#f5f1de"/>
+        <option name="ScrollBar.Mac.thumbColor" value="#efebd8"/>
         <option name="ScrollBar.Mac.hoverThumbColor" value="#ccc8b6"/>
-        <option name="ScrollBar.Mac.thumbBorderColor" value="#f5f1de"/>
+        <option name="ScrollBar.Mac.thumbBorderColor" value="#efebd8"/>
         <option name="ScrollBar.Mac.hoverThumbBorderColor" value="#ccc8b6"/>
 
-        <option name="ScrollBar.Mac.Transparent.thumbColor" value="#f5f1de"/>
+        <option name="ScrollBar.Mac.Transparent.thumbColor" value="#efebd8"/>
         <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="#ccc8b6"/>
-        <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="#f5f1de"/>
+        <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="#efebd8"/>
         <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="#ccc8b6"/>
 
-        <option name="Scrollbar.Tabs.ThumbColor" value="#f5f1de"/>
-        <option name="Scrollbar.Tabs.TransparentThumbColor" value="#f5f1de"/>
+        <option name="Scrollbar.Tabs.ThumbColor" value="#efebd8"/>
+        <option name="Scrollbar.Tabs.TransparentThumbColor" value="#efebd8"/>
 
         <option name="ADDED_LINES_COLOR" value="7fc784"/>
         <option name="ANNOTATIONS_COLOR" value="5a5d6b"/>
@@ -42,21 +42,21 @@
         <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="7fc784"/>
         <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="767a8a"/>
         <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="88adf7"/>
-        <option name="INDENT_GUIDE" value="#f5f1de"/>
+        <option name="INDENT_GUIDE" value="#efebd8"/>
         <option name="INFORMATION_HINT" value="fafeff"/>
         <option name="LINE_NUMBERS_COLOR" value="aeb3c2"/>
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="BE9B00"/>
         <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="62b3b3"/>
-        <option name="METHOD_SEPARATORS_COLOR" value="#f5f1de"/>
+        <option name="METHOD_SEPARATORS_COLOR" value="#efebd8"/>
         <option name="MODIFIED_LINES_COLOR" value="C2D6FC" deuteranopia="9ca9bf" protanopia="9ca9bf"/>
         <option name="NOTIFICATION_BACKGROUND" value="fff8e3"/>
-        <option name="RIGHT_MARGIN_COLOR" value="#f5f1de"/>
-        <option name="SELECTED_INDENT_GUIDE" value="#f5f1de"/>
+        <option name="RIGHT_MARGIN_COLOR" value="#efebd8"/>
+        <option name="SELECTED_INDENT_GUIDE" value="#efebd8"/>
         <option name="SELECTION_BACKGROUND" value="#F5D7E5" deuteranopia="5974AB" protanopia="5974AB"/>
         <option name="SELECTION_FOREGROUND" value="" deuteranopia="fafeff" protanopia="fafeff"/>
         <option name="SELECTED_TEARLINE_COLOR" value="#DBD1A9"/>
-        <!--        <option name="STICKY_LINES_BACKGROUND" value="#f5f1de"/>-->
-        <option name="TEARLINE_COLOR" value="#f5f1de"/>
+        <!--        <option name="STICKY_LINES_BACKGROUND" value="#efebd8"/>-->
+        <option name="TEARLINE_COLOR" value="#efebd8"/>
         <option name="VCS_ANNOTATIONS_COLOR_1" value="a1bef7"/>
         <option name="VCS_ANNOTATIONS_COLOR_2" value="c9dafb"/>
         <option name="VCS_ANNOTATIONS_COLOR_3" value="dee8fc"/>
@@ -655,7 +655,7 @@
         <option name="FOLDED_TEXT_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="414d41" deuteranopia="4d4d4d" protanopia="4d4d4d"/>
-                <option name="BACKGROUND" value="#f5f1de" deuteranopia="ebebeb" protanopia="ebebeb"/>
+                <option name="BACKGROUND" value="#efebd8" deuteranopia="ebebeb" protanopia="ebebeb"/>
             </value>
         </option>
         <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">

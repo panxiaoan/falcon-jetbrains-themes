@@ -7,13 +7,13 @@
   "colors": {
     "mainBackground": "#DFE1E5",
     "borderTransparent": "#00000000",
-    "borderColor": "#e6eaea",
-    "separatorColor": "#e6eaea",
+    "borderColor": "#e0e4e4",
+    "separatorColor": "#e0e4e4",
     "editorBackground": "#f0f4f4",
     "menuBackground": "#f0f4f4",
     "sidePanelBackground": "#f0f4f4",
     "headerBackground": "#f0f4f4",
-    "inputBackground": "#e6eaea",
+    "inputBackground": "#e0e4e4",
     "selectionBackground": "#DFE1E5",
     "selectionInactiveBackground": "#DFE1E5",
     "tabColor": "#DFE1E5",
@@ -91,12 +91,12 @@
     "NavBar.borderColor": "borderTransparent",
     "MainWindow.Tab": {
       "selectedForeground": "#0B843E",
-      "selectedBackground": "borderTransparent",
+      "selectedBackground": "editorBackground",
       "selectedInactiveBackground": "tabColor",
       "foreground": "primaryForeground",
       "background": "menuBackground",
       "hoverForeground": "primaryForeground",
-      "hoverBackground": "tabHoverBackground",
+      "hoverBackground": "editorBackground",
       "separatorColor": "borderColor"
     },
     "RunWidget": {

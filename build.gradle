@@ -33,6 +33,7 @@ intellijPlatform {
         ideaVersion {
             sinceBuild = pluginSinceBuild
         }
+        buildSearchableOptions = false
     }
 }
 

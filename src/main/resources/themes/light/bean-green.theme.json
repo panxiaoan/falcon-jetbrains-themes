@@ -4,8 +4,8 @@
   "author": "Xiaoan Pan",
   "editorScheme": "/themes/light/bean-green.xml",
   "colors": {
-    "borderColor": "#bde3c2",
-    "separatorColor": "#bde3c2",
+    "borderColor": "#b8ddbd",
+    "separatorColor": "#b8ddbd",
     "editorBackground": "#c7edcc",
     "menuBackground": "#c7edcc",
     "sidePanelBackground": "#c7edcc",
@@ -13,7 +13,7 @@
     "inputBackground": "#E2F9E1",
     "selectionBackground": "#E2F9E1",
     "selectionInactiveBackground": "#E2F9E1",
-    "tabColor": "#bde3c2",
+    "tabColor": "#b8ddbd",
     "lineColor": "#91CB9E",
     "iconBackground": "#91CB9E",
     "tabHoverBackground": "#a9cba3",
@@ -43,8 +43,8 @@
       "separatorColor": "separatorColor"
     },
     "FileColor": {
-      "Yellow": "#bde3c2",
-      "Green": "#bde3c2"
+      "Yellow": "#b8ddbd",
+      "Green": "#b8ddbd"
     },
     "ScrollBar": {
       "thumbColor": "borderColor",
@@ -154,7 +154,7 @@
     "Editor": {
       "background": "editorBackground",
       "shortcutForeground": "accentColor",
-      "SearchField.background": "#bde3c2",
+      "SearchField.background": "#b8ddbd",
       "ToolTip": {
         "foreground": "primaryForeground",
         "errorBackground": "menuBackground",

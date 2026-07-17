@@ -5,18 +5,18 @@
   "author": "Panxiaoan",
   "editorScheme": "/themes/dark/dark-violet.xml",
   "colors": {
-    "mainBackground": "#3b3551",
+    "mainBackground": "#433d5c",
     "borderTransparent": "#00000000",
     "accentColor": "#9876AA",
-    "secondaryAccentColor": "#3b3551",
+    "secondaryAccentColor": "#433d5c",
     "primaryForeground": "#BBBBBB",
     "primaryBackground": "#2B2640",
     "secondaryBackground": "#0F0B1F",
     "hoverBackground": "#544e6b",
     "selectionBackground": "#544e6b",
     "selectionInactiveBackground": "#544e6b",
-    "borderColor": "#3b3551",
-    "separatorColor": "#3b3551",
+    "borderColor": "#433d5c",
+    "separatorColor": "#433d5c",
     "lineColor": "#9876AA",
     "underlineColor": "#9876AA",
     "iconBackground": "#9876AA",
@@ -58,16 +58,16 @@
     "NavBar.borderColor": "borderTransparent",
     "MainWindow.Tab": {
       "selectedForeground": "underlineColor",
-      "selectedBackground": "borderTransparent",
+      "selectedBackground": "primaryBackground",
       "selectedInactiveBackground": "tabColor",
       "foreground": "primaryForeground",
       "background": "menuBackground",
       "hoverForeground": "primaryForeground",
-      "hoverBackground": "tabHoverBackground",
+      "hoverBackground": "primaryBackground",
       "separatorColor": "borderColor"
     },
     "MemoryIndicator": {
-      "allocatedBackground": "#3b3551",
+      "allocatedBackground": "#433d5c",
       "usedBackground": "#544e6b"
     },
     "Borders": {
@@ -160,9 +160,9 @@
       "inactiveUnderlineColor": "lineColor",
       "underlineColor": "lineColor",
       "underlineHeight": 2,
-      "underTabsBorderColor": "primaryBackground",
-      "underlinedTabBackground": "tabColor",
-      "underlinedBorderColor": "#8B82AC",
+      "underTabsBorderColor": "mainBackground",
+      "underlinedTabBackground": "primaryBackground",
+      "underlinedBorderColor": "lineColor",
       "inactiveUnderlinedTabBorderColor": "selectionBackground",
       "inactiveUnderlinedTabBackground": "menuBackground",
       "tabInsets": "-6,8,-6,8",
@@ -260,24 +260,24 @@
       }
     },
     "ScrollBar": {
-      "thumbColor": "#3b3551",
-      "thumbBorderColor": "#3b3551",
+      "thumbColor": "#433d5c",
+      "thumbBorderColor": "#433d5c",
       "hoverThumbColor": "#544e6b",
       "hoverThumbBorderColor": "#544e6b",
       "Transparent": {
-        "thumbColor": "#3b3551",
-        "thumbBorderColor": "#3b3551",
+        "thumbColor": "#433d5c",
+        "thumbBorderColor": "#433d5c",
         "hoverThumbColor": "#544e6b",
         "hoverThumbBorderColor": "#544e6b"
       },
       "Mac": {
-        "thumbColor": "#3b3551",
-        "thumbBorderColor": "#3b3551",
+        "thumbColor": "#433d5c",
+        "thumbBorderColor": "#433d5c",
         "hoverThumbColor": "#544e6b",
         "hoverThumbBorderColor": "#544e6b",
         "Transparent": {
-          "thumbColor": "#3b3551",
-          "thumbBorderColor": "#3b3551",
+          "thumbColor": "#433d5c",
+          "thumbBorderColor": "#433d5c",
           "hoverThumbColor": "#544e6b",
           "hoverThumbBorderColor": "#544e6b"
         }

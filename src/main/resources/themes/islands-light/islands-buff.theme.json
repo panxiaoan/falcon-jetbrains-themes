@@ -7,8 +7,8 @@
   "colors": {
     "mainBackground": "#DFE1E5",
     "borderTransparent": "#00000000",
-    "borderColor": "#edede8",
-    "separatorColor": "#edede8",
+    "borderColor": "#e3e3de",
+    "separatorColor": "#e3e3de",
     "editorBackground": "#F7F7F2",
     "menuBackground": "#F7F7F2",
     "sidePanelBackground": "#F7F7F2",
@@ -16,7 +16,7 @@
     "inputBackground": "#F7F7F2",
     "selectionBackground": "#DFE1E5",
     "selectionInactiveBackground": "#DFE1E5",
-    "tabColor": "#edede8",
+    "tabColor": "#e3e3de",
     "lineColor": "#BE9B00",
     "iconBackground": "#ddb900",
     "tabHoverBackground": "#DFE1E5",
@@ -47,29 +47,29 @@
       "separatorColor": "separatorColor"
     },
     "FileColor": {
-      "Yellow": "#edede8",
+      "Yellow": "#e3e3de",
       "Green": "#E7FBDE"
     },
     "ScrollBar": {
-      "thumbColor": "#edede8",
+      "thumbColor": "#e3e3de",
       "hoverThumbColor": "#c4c3bf",
-      "thumbBorderColor": "#edede8",
+      "thumbBorderColor": "#e3e3de",
       "hoverThumbBorderColor": "#c4c3bf",
       "Transparent": {
-        "thumbColor": "#edede8",
+        "thumbColor": "#e3e3de",
         "hoverThumbColor": "#c4c3bf",
-        "thumbBorderColor": "#edede8",
+        "thumbBorderColor": "#e3e3de",
         "hoverThumbBorderColor": "#c4c3bf"
       },
       "Mac": {
-        "thumbColor": "#edede8",
+        "thumbColor": "#e3e3de",
         "hoverThumbColor": "#c4c3bf",
-        "thumbBorderColor": "#edede8",
+        "thumbBorderColor": "#e3e3de",
         "hoverThumbBorderColor": "#c4c3bf",
         "Transparent": {
-          "thumbColor": "#edede8",
+          "thumbColor": "#e3e3de",
           "hoverThumbColor": "#c4c3bf",
-          "thumbBorderColor": "#edede8",
+          "thumbBorderColor": "#e3e3de",
           "hoverThumbBorderColor": "#c4c3bf"
         }
       }
@@ -91,19 +91,19 @@
     "NavBar.borderColor": "borderTransparent",
     "MainWindow.Tab": {
       "selectedForeground": "accentColor",
-      "selectedBackground": "borderTransparent",
+      "selectedBackground": "editorBackground",
       "selectedInactiveBackground": "tabColor",
       "foreground": "#5A5D6B",
       "background": "menuBackground",
       "hoverForeground": "#5A5D6B",
-      "hoverBackground": "tabHoverBackground",
+      "hoverBackground": "editorBackground",
       "separatorColor": "borderColor"
     },
     "RunWidget": {
       "iconColor": "#727684"
     },
     "MemoryIndicator": {
-      "allocatedBackground": "#edede8",
+      "allocatedBackground": "#e3e3de",
       "usedBackground": "#FFFBE8"
     },
     "Borders": {

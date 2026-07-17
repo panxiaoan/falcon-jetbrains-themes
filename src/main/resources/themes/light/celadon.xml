@@ -8,26 +8,26 @@
         <option name="LOOKUP_COLOR" value="e4ecef"/>
 
         <option name="ScrollBar.background" value="e4ecef"/>
-        <option name="ScrollBar.thumbColor" value="dae2e5"/>
+        <option name="ScrollBar.thumbColor" value="d3dcdf"/>
         <option name="ScrollBar.hoverThumbColor" value="c3dbe5bf"/>
-        <option name="ScrollBar.thumbBorderColor" value="dae2e5"/>
+        <option name="ScrollBar.thumbBorderColor" value="d3dcdf"/>
         <option name="ScrollBar.hoverThumbBorderColor" value="c3dbe5bf"/>
-        <option name="ScrollBar.Transparent.thumbColor" value="dae2e5"/>
+        <option name="ScrollBar.Transparent.thumbColor" value="d3dcdf"/>
         <option name="ScrollBar.Transparent.hoverThumbColor" value="c3dbe5bf"/>
-        <option name="ScrollBar.Transparent.thumbBorderColor" value="dae2e5"/>
+        <option name="ScrollBar.Transparent.thumbBorderColor" value="d3dcdf"/>
         <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="c3dbe5bf"/>
 
-        <option name="ScrollBar.Mac.thumbColor" value="dae2e5"/>
+        <option name="ScrollBar.Mac.thumbColor" value="d3dcdf"/>
         <option name="ScrollBar.Mac.hoverThumbColor" value="c3dbe5bf"/>
-        <option name="ScrollBar.Mac.thumbBorderColor" value="dae2e5"/>
+        <option name="ScrollBar.Mac.thumbBorderColor" value="d3dcdf"/>
         <option name="ScrollBar.Mac.hoverThumbBorderColor" value="c3dbe5bf"/>
-        <option name="ScrollBar.Mac.Transparent.thumbColor" value="dae2e5"/>
+        <option name="ScrollBar.Mac.Transparent.thumbColor" value="d3dcdf"/>
         <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="c3dbe5bf"/>
-        <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="dae2e5"/>
+        <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="d3dcdf"/>
         <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="c3dbe5bf"/>
 
-        <option name="Scrollbar.Tabs.ThumbColor" value="dae2e5"/>
-        <option name="Scrollbar.Tabs.TransparentThumbColor" value="dae2e5"/>
+        <option name="Scrollbar.Tabs.ThumbColor" value="d3dcdf"/>
+        <option name="Scrollbar.Tabs.TransparentThumbColor" value="d3dcdf"/>
 
         <option name="ANNOTATIONS_COLOR" value="5a5d6b"/>
         <option name="ANNOTATIONS_LAST_COMMIT_COLOR" value="0"/>
@@ -36,12 +36,12 @@
         <option name="INFORMATION_HINT" value="fafeff"/>
         <option name="LINE_NUMBERS_COLOR" value="aeb3c2"/>
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="067D17"/>
-        <option name="INDENT_GUIDE" value="dae2e5"/>
+        <option name="INDENT_GUIDE" value="d3dcdf"/>
         <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="62b3b3"/>
         <option name="VISUAL_INDENT_GUIDE" value="dae6fd"/>
-        <option name="METHOD_SEPARATORS_COLOR" value="dae2e5"/>
+        <option name="METHOD_SEPARATORS_COLOR" value="d3dcdf"/>
         <option name="NOTIFICATION_BACKGROUND" value="fff8e3"/>
-        <option name="RIGHT_MARGIN_COLOR" value="dae2e5"/>
+        <option name="RIGHT_MARGIN_COLOR" value="d3dcdf"/>
         <option name="SELECTED_INDENT_GUIDE" value="aeb3c2"/>
         <option name="SELECTION_BACKGROUND" value="#AFDBB8" deuteranopia="5974AB" protanopia="5974AB"/>
         <option name="SELECTION_FOREGROUND" value="" deuteranopia="fafeff" protanopia="fafeff"/>

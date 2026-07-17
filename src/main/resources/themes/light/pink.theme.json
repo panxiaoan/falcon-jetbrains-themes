@@ -4,8 +4,8 @@
   "author": "Xiaoan Pan",
   "editorScheme": "/themes/light/pink.xml",
   "colors": {
-    "borderColor": "#f3ebec",
-    "separatorColor": "#f3ebec",
+    "borderColor": "#ede5e6",
+    "separatorColor": "#ede5e6",
     "editorBackground": "#FDF5F6",
     "menuBackground": "#FDF5F6",
     "sidePanelBackground": "#FDF5F6",
@@ -43,7 +43,7 @@
       "separatorColor": "separatorColor"
     },
     "FileColor": {
-      "Yellow": "#f3ebec",
+      "Yellow": "#ede5e6",
       "Green": "#FFE6E7"
     },
     "ScrollBar": {

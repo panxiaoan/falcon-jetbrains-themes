@@ -33,14 +33,14 @@
         <option name="FILESTATUS_changelistConflict" value="ff5555"/>
         <option name="FILESTATUS_modifiedOutside" value="65BCD9"/>
         <option name="GUTTER_BACKGROUND" value="002F38"/>
-        <option name="INDENT_GUIDE" value="#153648"/>
+        <option name="INDENT_GUIDE" value="#1d4155"/>
         <option name="INFORMATION_HINT" value="3a3d4c"/>
         <option name="LINE_NUMBERS_COLOR" value="a3a5ba"/>
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="#1D9A62"/>
         <option name="LOOKUP_COLOR" value="3a3d4c"/>
         <option name="MODIFIED_LINES_COLOR" value="74b4c1"/>
-        <option name="RIGHT_MARGIN_COLOR" value="#153648"/>
-        <option name="METHOD_SEPARATORS_COLOR" value="#153648"/>
+        <option name="RIGHT_MARGIN_COLOR" value="#1d4155"/>
+        <option name="METHOD_SEPARATORS_COLOR" value="#1d4155"/>
         <option name="SELECTED_INDENT_GUIDE" value="a8b0e2"/>
         <option name="SELECTED_TEARLINE_COLOR" value="a8b0e2"/>
         <option name="SELECTION_BACKGROUND" value="305862"/>

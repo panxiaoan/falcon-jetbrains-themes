@@ -5,20 +5,20 @@
   "editorScheme": "/themes/dark/dark-violet.xml",
   "colors": {
     "accentColor": "#9876AA",
-    "secondaryAccentColor": "#3b3551",
+    "secondaryAccentColor": "#433d5c",
     "primaryForeground": "#BBBBBB",
     "primaryBackground": "#2B2640",
     "secondaryBackground": "#0F0B1F",
     "hoverBackground": "#544e6b",
     "selectionBackground": "#544e6b",
     "selectionInactiveBackground": "#544e6b",
-    "borderColor": "#3b3551",
-    "separatorColor": "#3b3551",
+    "borderColor": "#433d5c",
+    "separatorColor": "#433d5c",
     "lineColor": "#9876AA",
     "underlineColor": "#9876AA",
     "iconBackground": "#9876AA",
     "iconHoverBackground": "#544e6b",
-    "tabColor": "#3b3551",
+    "tabColor": "#433d5c",
     "tabHoverBackground": "#544e6b",
     "headerBackground": "#2B2640",
     "menuBackground": "#2B2640"
@@ -48,7 +48,7 @@
       "separatorColor": "borderColor"
     },
     "MemoryIndicator": {
-      "allocatedBackground": "#3b3551",
+      "allocatedBackground": "#433d5c",
       "usedBackground": "#544e6b"
     },
     "Borders": {
@@ -232,24 +232,24 @@
       }
     },
     "ScrollBar": {
-      "thumbColor": "#3b3551",
-      "thumbBorderColor": "#3b3551",
+      "thumbColor": "#433d5c",
+      "thumbBorderColor": "#433d5c",
       "hoverThumbColor": "#544e6b",
       "hoverThumbBorderColor": "#544e6b",
       "Transparent": {
-        "thumbColor": "#3b3551",
-        "thumbBorderColor": "#3b3551",
+        "thumbColor": "#433d5c",
+        "thumbBorderColor": "#433d5c",
         "hoverThumbColor": "#544e6b",
         "hoverThumbBorderColor": "#544e6b"
       },
       "Mac": {
-        "thumbColor": "#3b3551",
-        "thumbBorderColor": "#3b3551",
+        "thumbColor": "#433d5c",
+        "thumbBorderColor": "#433d5c",
         "hoverThumbColor": "#544e6b",
         "hoverThumbBorderColor": "#544e6b",
         "Transparent": {
-          "thumbColor": "#3b3551",
-          "thumbBorderColor": "#3b3551",
+          "thumbColor": "#433d5c",
+          "thumbBorderColor": "#433d5c",
           "hoverThumbColor": "#544e6b",
           "hoverThumbBorderColor": "#544e6b"
         }
@@ -407,8 +407,8 @@
       "Checkbox.Background.Selected.Dark": "#544e6b",
       "Checkbox.Background.Disabled.Dark": "#2B2640",
       "Checkbox.Focus.Wide.Dark": "#A69FBE",
-      "Checkbox.Focus.Thin.Selected.Dark": "#3b3551",
-      "Checkbox.Focus.Thin.Default.Dark": "#3b3551"
+      "Checkbox.Focus.Thin.Selected.Dark": "#433d5c",
+      "Checkbox.Focus.Thin.Default.Dark": "#433d5c"
     }
   }
 }

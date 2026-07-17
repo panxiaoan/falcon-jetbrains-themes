@@ -5,15 +5,15 @@
   "author": "Panxiaoan",
   "editorScheme": "/themes/light/celadon.xml",
   "colors": {
-    "mainBackground": "#E4F3F6",
+    "mainBackground": "#C4DEE4",
     "borderTransparent": "#00000000",
-    "borderColor": "#dae2e5",
-    "separatorColor": "#dae2e5",
+    "borderColor": "#d3dcdf",
+    "separatorColor": "#d3dcdf",
     "editorBackground": "#e4ecef",
     "menuBackground": "#e4ecef",
     "sidePanelBackground": "#e4ecef",
     "headerBackground": "#e4ecef",
-    "inputBackground": "#dae2e5",
+    "inputBackground": "#d3dcdf",
     "selectionBackground": "#c7dae1",
     "selectionInactiveBackground": "#c7dae1",
     "tabColor": "#cedee2",
@@ -48,28 +48,28 @@
       "separatorColor": "separatorColor"
     },
     "FileColor": {
-      "Yellow": "#dae2e5",
+      "Yellow": "#d3dcdf",
       "Green": "#d6e8e7"
     },
     "ScrollBar": {
-      "thumbColor": "#dae2e5",
-      "thumbBorderColor": "#dae2e5",
+      "thumbColor": "#d3dcdf",
+      "thumbBorderColor": "#d3dcdf",
       "hoverThumbColor": "#c3dbe5bf",
       "hoverThumbBorderColor": "#c3dbe5bf",
       "Transparent": {
-        "thumbColor": "#dae2e5",
-        "thumbBorderColor": "#dae2e5",
+        "thumbColor": "#d3dcdf",
+        "thumbBorderColor": "#d3dcdf",
         "hoverThumbColor": "#c3dbe5bf",
         "hoverThumbBorderColor": "#c3dbe5bf"
       },
       "Mac": {
-        "thumbColor": "#dae2e5",
-        "thumbBorderColor": "#dae2e5",
+        "thumbColor": "#d3dcdf",
+        "thumbBorderColor": "#d3dcdf",
         "hoverThumbColor": "#c3dbe5bf",
         "hoverThumbBorderColor": "#c3dbe5bf",
         "Transparent": {
-          "thumbColor": "#dae2e5",
-          "thumbBorderColor": "#dae2e5",
+          "thumbColor": "#d3dcdf",
+          "thumbBorderColor": "#d3dcdf",
           "hoverThumbColor": "#c3dbe5bf",
           "hoverThumbBorderColor": "#c3dbe5bf"
         }
@@ -92,12 +92,12 @@
     "NavBar.borderColor": "borderTransparent",
     "MainWindow.Tab": {
       "selectedForeground": "#0B843E",
-      "selectedBackground": "borderTransparent",
+      "selectedBackground": "menuBackground",
       "selectedInactiveBackground": "borderTransparent",
       "foreground": "primaryForeground",
       "background": "menuBackground",
       "hoverForeground": "primaryForeground",
-      "hoverBackground": "tabHoverBackground",
+      "hoverBackground": "menuBackground",
       "separatorColor": "borderColor"
     },
     "RunWidget": {

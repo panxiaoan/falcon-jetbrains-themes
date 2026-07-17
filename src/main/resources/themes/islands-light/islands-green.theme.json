@@ -5,10 +5,10 @@
   "author": "Panxiaoan",
   "editorScheme": "/themes/light/green.xml",
   "colors": {
-    "mainBackground": "#D0EBEA",
+    "mainBackground": "#C5DEDD",
     "borderTransparent": "#00000000",
-    "borderColor": "#d6e8e7",
-    "separatorColor": "#d6e8e7",
+    "borderColor": "#ccdedd",
+    "separatorColor": "#ccdedd",
     "editorBackground": "#E0F2F1",
     "menuBackground": "#E0F2F1",
     "sidePanelBackground": "#E0F2F1",
@@ -48,7 +48,7 @@
     },
     "FileColor": {
       "Yellow": "#F2FCF3",
-      "Green": "#d6e8e7"
+      "Green": "#ccdedd"
     },
     "ScrollBar": {
       "thumbColor": "borderColor",
@@ -91,7 +91,7 @@
     "NavBar.borderColor": "borderTransparent",
     "MainWindow.Tab": {
       "selectedForeground": "#0B843E",
-      "selectedBackground": "borderTransparent",
+      "selectedBackground": "tabHoverBackground",
       "selectedInactiveBackground": "tabColor",
       "foreground": "primaryForeground",
       "background": "menuBackground",
