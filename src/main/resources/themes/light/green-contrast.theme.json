@@ -43,7 +43,7 @@
       "separatorColor": "separatorColor"
     },
     "FileColor": {
-      "Yellow": "borderColor",
+      "Yellow": "#c6e1e0",
       "Green": "#d6e8e7"
     },
     "ScrollBar": {
