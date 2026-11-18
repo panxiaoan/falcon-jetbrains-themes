@@ -28,6 +28,7 @@
   },
   "ui": {
     "Islands": 1,
+    "Island.borderColor": "primaryBackground",
     "*": {
       "arc": 7,
       "background": "primaryBackground",

@@ -33,6 +33,7 @@
   },
   "ui": {
     "Islands": 1,
+    "Island.borderColor": "menuBackground",
     "*": {
       "arc": 7,
       "background": "menuBackground",
@@ -138,7 +139,7 @@
       }
     },
     "Counter": {
-      "foreground": "primaryBackground",
+      "foreground": "primaryForeground",
       "background": "#2fc864"
     },
     "ComboBox": {

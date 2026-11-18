@@ -25,7 +25,7 @@
   },
   "ui": {
     "*": {
-      "arc": "7",
+      "arc": 7,
       "background": "primaryBackground",
       "selectionForeground": "primaryForeground",
       "selectionInactiveForeground": "primaryForeground",

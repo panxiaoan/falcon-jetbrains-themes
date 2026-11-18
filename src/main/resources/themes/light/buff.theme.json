@@ -30,7 +30,7 @@
   },
   "ui": {
     "*": {
-      "arc": "7",
+      "arc": 7,
       "background": "menuBackground",
       "selectionForeground": "primaryForeground",
       "selectionInactiveForeground": "primaryForeground",
@@ -116,7 +116,7 @@
       }
     },
     "Counter": {
-      "foreground": "primaryBackground",
+      "foreground": "primaryForeground",
       "background": "#0B843E"
     },
     "ComboBox": {
