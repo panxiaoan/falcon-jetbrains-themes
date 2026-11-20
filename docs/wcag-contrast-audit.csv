@@ -1,0 +1,528 @@
+﻿来源,文件,前景token,前景色,背景token,背景色,原对比度,目标,建议前景值,建议前景对比度,建议背景值,建议背景对比度,可行性,用途
+theme.json,light/bean-green.theme.json,primaryForeground,#1A536E,#2fc864,#2FC864,3.82,4.5,#1C475B,4.55,#52D680,4.5,前景可行,UI 配对 Counter.foreground↔background
+theme.json,light/bean-green.theme.json,#0B843E,#0B843E,tabColor,#B8DDBD,3.22,4.5,#1F683E,4.54,#F5FAF6,4.54,前景可行,UI 配对 MainWindow.Tab.selectedForeground↔selectedBackground
+theme.json,light/bean-green.theme.json,hoverBackground,#A9CBA3,#50fa7b,#50FA7B,1.3,4.5,#466A3F,4.51,#1C5B2C,4.55,前景可行,UI 配对 ToggleButton.onForeground↔onBackground
+theme.json,light/bean-green.theme.json,hoverBackground,#A9CBA3,selectionBackground,#E2F9E1,1.6,4.5,#466A3F,5.56,#1F5C1C,4.51,前景可行,UI 配对 ToggleButton.offForeground↔offBackground
+theme.json,light/bean-green.theme.json,#727684,#727684,editorBackground,#C7EDCC,3.54,4.5,#626571,4.54,#FFFFFF,4.53,前景可行,UI 配对 TrialWidget.Active.foreground↔background
+theme.json,light/buff.theme.json,primaryForeground,#333333,#0B843E,#0B843E,2.64,4.5,#F8F8F8,4.51,#2CB064,4.51,前景可行,UI 配对 Counter.foreground↔background
+theme.json,light/buff.theme.json,#BE9B00,#BE9B00,tabColor,#E3E3DE,2.07,4.5,#736422,4.56,#363630,4.56,前景可行,UI 配对 MainWindow.Tab.selectedForeground↔selectedBackground
+theme.json,light/buff.theme.json,accentColor,#BE9B00,selectionBackground,#DFE1E5,2.04,4.5,#726421,4.5,#33363D,4.54,前景可行,UI 配对 TrialWidget.Active.hoverForeground↔hoverBackground
+theme.json,light/buff.theme.json,accentColor,#BE9B00,menuBackground,#F7F7F2,2.48,4.5,#726421,5.49,#373725,4.54,前景可行,UI 配对 Plugins.Button.installForeground↔installBackground
+theme.json,light/buff.theme.json,hoverBackground,#DFE1E5,selectionBackground,#DFE1E5,1.0,4.5,#4C515B,6.09,#5D6471,4.55,前景可行,UI 配对 ToggleButton.offForeground↔offBackground
+theme.json,light/buff.theme.json,hoverBackground,#DFE1E5,#c4c3bf,#C4C3BF,1.35,4.5,#4C515B,4.52,#66645E,4.52,前景可行,UI 配对 ToggleButton.onForeground↔onBackground
+theme.json,light/buff.theme.json,#727684,#727684,editorBackground,#F7F7F2,4.21,4.5,#6D717E,4.53,#FFFFFF,4.53,前景可行,UI 配对 TrialWidget.Active.foreground↔background
+theme.json,light/celadon.theme.json,primaryForeground,#1A536E,#2fc864,#2FC864,3.82,4.5,#1C475B,4.55,#52D680,4.5,前景可行,UI 配对 Counter.foreground↔background
+theme.json,light/celadon.theme.json,#0B843E,#0B843E,tabColor,#CEDEE2,3.46,4.5,#206D41,4.56,#F8F8F8,4.51,前景可行,UI 配对 MainWindow.Tab.selectedForeground↔selectedBackground
+theme.json,light/celadon.theme.json,hoverBackground,#C7DAE1,selectionBackground,#C7DAE1,1.0,4.5,#3F626F,4.56,#3F626F,4.56,前景可行,UI 配对 ToggleButton.offForeground↔offBackground
+theme.json,light/celadon.theme.json,hoverBackground,#C7DAE1,#50fa7b,#50FA7B,1.05,4.5,#3F626F,4.8,#206B33,4.53,前景可行,UI 配对 ToggleButton.onForeground↔onBackground
+theme.json,light/celadon.theme.json,#727684,#727684,editorBackground,#E4ECEF,3.78,4.5,#666975,4.57,#FFFFFF,4.53,前景可行,UI 配对 TrialWidget.Active.foreground↔background
+theme.json,light/green-contrast.theme.json,primaryForeground,#1A536E,#2fc864,#2FC864,3.82,4.5,#1C475B,4.55,#52D680,4.5,前景可行,UI 配对 Counter.foreground↔background
+theme.json,light/green-contrast.theme.json,#0B843E,#0B843E,tabColor,#E4F3F6,4.21,4.5,#216E41,5.47,#F3F9FA,4.5,前景可行,UI 配对 MainWindow.Tab.selectedForeground↔selectedBackground
+theme.json,light/green-contrast.theme.json,hoverBackground,#A3CED0,selectionBackground,#A3CED0,1.0,4.5,#22393A,7.17,#33595B,4.52,前景可行,UI 配对 ToggleButton.offForeground↔offBackground
+theme.json,light/green-contrast.theme.json,hoverBackground,#A3CED0,lineColor,#70A6AE,1.59,4.5,#22393A,4.52,#38585D,4.52,前景可行,UI 配对 ToggleButton.onForeground↔onBackground
+theme.json,light/green-contrast.theme.json,#727684,#727684,menuBackground,#D0EBEA,3.61,4.5,#636672,4.56,#FFFFFF,4.53,前景可行,UI 配对 TrialWidget.Active.foreground↔background
+theme.json,light/green.theme.json,primaryForeground,#1A536E,#2fc864,#2FC864,3.82,4.5,#1C475B,4.55,#52D680,4.5,前景可行,UI 配对 Counter.foreground↔background
+theme.json,light/green.theme.json,hoverBackground,#C6E1E0,#50fa7b,#50FA7B,1.0,4.5,#3B6867,4.55,#216E34,4.56,前景可行,UI 配对 ToggleButton.onForeground↔onBackground
+theme.json,light/green.theme.json,hoverBackground,#C6E1E0,selectionBackground,#C6E1E0,1.0,4.5,#3B6867,4.54,#3B6867,4.54,前景可行,UI 配对 ToggleButton.offForeground↔offBackground
+theme.json,light/green.theme.json,#727684,#727684,editorBackground,#E0F2F1,3.91,4.5,#696C79,4.51,#FFFFFF,4.53,前景可行,UI 配对 TrialWidget.Active.foreground↔background
+theme.json,light/grey.theme.json,primaryForeground,#1A536E,#2fc864,#2FC864,3.82,4.5,#1C475B,4.55,#52D680,4.5,前景可行,UI 配对 Counter.foreground↔background
+theme.json,light/grey.theme.json,#0B843E,#0B843E,tabColor,#DFE1E5,3.66,4.5,#216E41,4.76,#F8F8F8,4.51,前景可行,UI 配对 MainWindow.Tab.selectedForeground↔selectedBackground
+theme.json,light/grey.theme.json,hoverBackground,#DFE1E5,selectionBackground,#DFE1E5,1.0,4.5,#2E3137,9.96,#5D6471,4.55,前景可行,UI 配对 ToggleButton.offForeground↔offBackground
+theme.json,light/grey.theme.json,hoverBackground,#DFE1E5,lineColor,#739FA8,2.21,4.5,#2E3137,4.5,#486970,4.54,前景可行,UI 配对 ToggleButton.onForeground↔onBackground
+theme.json,light/grey.theme.json,#727684,#727684,editorBackground,#F0F4F4,4.08,4.5,#6C6F7C,4.51,#FFFFFF,4.53,前景可行,UI 配对 TrialWidget.Active.foreground↔background
+theme.json,light/pink.theme.json,#DB58B0,#DB58B0,tabColor,#FFF2F0,3.18,4.5,#C52F94,4.57,#3B1914,4.52,前景可行,UI 配对 MainWindow.Tab.selectedForeground↔selectedBackground
+theme.json,light/pink.theme.json,hoverBackground,#FFD6E0,selectionBackground,#FFD6E0,1.0,4.5,#A32A48,5.35,#B82E4F,4.5,前景可行,UI 配对 ToggleButton.offForeground↔offBackground
+theme.json,light/pink.theme.json,hoverBackground,#FFD6E0,#ffbdd2,#FFBDD2,1.18,4.5,#A32A48,4.51,#B72D59,4.51,前景可行,UI 配对 ToggleButton.onForeground↔onBackground
+theme.json,light/pink.theme.json,#727684,#727684,editorBackground,#FDF5F6,4.22,4.5,#6D717E,4.54,#FFFFFF,4.53,前景可行,UI 配对 TrialWidget.Active.foreground↔background
+theme.json,light/yellow.theme.json,primaryForeground,#333333,#0B843E,#0B843E,2.64,4.5,#F8F8F8,4.51,#2CB064,4.51,前景可行,UI 配对 Counter.foreground↔background
+theme.json,light/yellow.theme.json,#BE9B00,#BE9B00,tabColor,#EFEBD8,2.23,4.5,#796923,4.55,#3B361D,4.55,前景可行,UI 配对 MainWindow.Tab.selectedForeground↔selectedBackground
+theme.json,light/yellow.theme.json,accentColor,#BE9B00,selectionBackground,#CCC8B6,1.59,4.5,#60531D,4.54,#39362A,4.54,前景可行,UI 配对 TrialWidget.Active.hoverForeground↔hoverBackground
+theme.json,light/yellow.theme.json,accentColor,#BE9B00,menuBackground,#FFFBE8,2.57,4.5,#60531D,7.34,#3D3614,4.54,前景可行,UI 配对 Plugins.Button.installForeground↔installBackground
+theme.json,light/yellow.theme.json,hoverBackground,#CCC8B6,#ccc8b6,#CCC8B6,1.0,4.5,#595440,4.52,#595440,4.52,前景可行,UI 配对 ToggleButton.onForeground↔onBackground
+theme.json,light/yellow.theme.json,hoverBackground,#CCC8B6,selectionBackground,#CCC8B6,1.0,4.5,#595440,4.52,#595440,4.52,前景可行,UI 配对 ToggleButton.offForeground↔offBackground
+theme.json,light/yellow.theme.json,#727684,#727684,editorBackground,#FFFBE8,4.36,4.5,#6F7380,4.55,#FFFFFF,4.53,前景可行,UI 配对 TrialWidget.Active.foreground↔background
+theme.json,dark/dark-blue.theme.json,primaryForeground,#BBBBBB,#5da3f4,#5DA3F4,1.37,4.5,#373737,4.54,#234C7C,4.56,前景可行,UI 配对 Plugins.Button.updateForeground↔updateBackground
+theme.json,dark/dark-blue.theme.json,primaryForeground,#BBBBBB,underlineColor,#28B366,1.42,4.5,#353535,4.52,#1B5535,4.56,前景可行,UI 配对 SearchEverywhere.Tab.selectedForeground↔selectedBackground
+theme.json,dark/dark-blue.theme.json,primaryForeground,#BBBBBB,#8d6b81,#8D6B81,2.4,4.5,#FDFDFD,4.53,#594653,4.51,前景可行,UI 配对 Bookmark.MnemonicCurrent.foreground↔background
+theme.json,dark/dark-blue.theme.json,primaryForeground,#BBBBBB,#786299,#786299,2.73,4.5,#EEEEEE,4.52,#534568,4.52,前景可行,UI 配对 Bookmark.MnemonicAssigned.foreground↔background
+theme.json,dark/dark-blue.theme.json,primaryForeground,#BBBBBB,selectionBackground,#4D5C74,3.53,4.5,#D3D3D3,4.53,#414C5E,4.52,前景可行,正文 primaryForeground × selectionBackground
+theme.json,dark/dark-blue.theme.json,primaryForeground,#BBBBBB,selectionInactiveBackground,#4D5C74,3.53,4.5,#D3D3D3,4.53,#414C5E,4.52,前景可行,正文 primaryForeground × selectionInactiveBackground
+theme.json,dark/dark-blue.theme.json,primaryForeground,#BBBBBB,tabHoverBackground,#4D5C74,3.53,4.5,#D3D3D3,4.53,#414C5E,4.52,前景可行,UI 配对 MainWindow.Tab.hoverForeground↔hoverBackground
+theme.json,dark/dark-blue.theme.json,underlineColor,#28B366,tabColor,#344359,3.69,4.5,#30C773,4.56,#2B3544,4.56,前景可行,UI 配对 MainWindow.Tab.selectedForeground↔selectedBackground
+theme.json,dark/dark-blue.theme.json,secondaryBackground,#19273D,iconHoverBackground,#0B843E,3.13,4.5,#F8F8F8,4.51,#2AA15C,4.54,前景可行,UI 配对 Plugins.Button.installForeground↔installBackground
+theme.json,dark/dark-blue.theme.json,hoverBackground,#4D5C74,selectionBackground,#4D5C74,1.0,4.5,#CDD3DD,4.5,#CDD3DD,4.5,前景可行,UI 配对 ToggleButton.offForeground↔offBackground
+theme.json,dark/dark-blue.theme.json,hoverBackground,#4D5C74,underlineColor,#28B366,2.49,4.5,#2E3541,4.54,#90E5B6,4.54,前景可行,UI 配对 ToggleButton.onForeground↔onBackground
+theme.json,dark/dark-blue.theme.json,#727684,#727684,primaryBackground,#233348,2.83,4.5,#9699A4,4.51,#050505,4.5,前景可行,UI 配对 TrialWidget.Active.foreground↔background
+theme.json,dark/dark-coffee.theme.json,primaryForeground,#BBBBBB,underlineColor,#A96F79,2.09,4.5,#161616,4.51,#674148,4.51,前景可行,UI 配对 SearchEverywhere.Tab.selectedForeground↔selectedBackground
+theme.json,dark/dark-coffee.theme.json,primaryForeground,#BBBBBB,#917800,#917800,2.24,4.5,#0D0D0D,4.53,#554B1B,4.54,前景可行,UI 配对 Plugins.Button.updateForeground↔updateBackground
+theme.json,dark/dark-coffee.theme.json,primaryForeground,#BBBBBB,#8d6b81,#8D6B81,2.4,4.5,#FDFDFD,4.53,#594653,4.51,前景可行,UI 配对 Bookmark.MnemonicCurrent.foreground↔background
+theme.json,dark/dark-coffee.theme.json,primaryForeground,#BBBBBB,#786299,#786299,2.73,4.5,#EEEEEE,4.52,#534568,4.52,前景可行,UI 配对 Bookmark.MnemonicAssigned.foreground↔background
+theme.json,dark/dark-coffee.theme.json,primaryForeground,#BBBBBB,selectionBackground,#6E4552,4.15,4.5,#C3C3C3,4.52,#64424D,4.5,前景可行,正文 primaryForeground × selectionBackground
+theme.json,dark/dark-coffee.theme.json,primaryForeground,#BBBBBB,selectionInactiveBackground,#6E4552,4.15,4.5,#C3C3C3,4.52,#64424D,4.5,前景可行,正文 primaryForeground × selectionInactiveBackground
+theme.json,dark/dark-coffee.theme.json,primaryForeground,#BBBBBB,tabHoverBackground,#6E4552,4.15,4.5,#C3C3C3,4.52,#64424D,4.5,前景可行,UI 配对 MainWindow.Tab.hoverForeground↔hoverBackground
+theme.json,dark/dark-coffee.theme.json,underlineColor,#A96F79,tabColor,#413334,3.0,4.5,#BF949B,4.53,#1A1516,4.5,前景可行,UI 配对 MainWindow.Tab.selectedForeground↔selectedBackground
+theme.json,dark/dark-coffee.theme.json,primaryBackground,#2C2122,underlineColor,#A96F79,3.89,4.5,#1A1515,4.51,#B17C85,4.52,前景可行,UI 配对 Counter.foreground↔background
+theme.json,dark/dark-coffee.theme.json,secondaryBackground,#201315,iconHoverBackground,#6E4552,2.26,4.5,#D6BDC1,4.52,#A67081,4.51,前景可行,UI 配对 Plugins.Button.installForeground↔installBackground
+theme.json,dark/dark-coffee.theme.json,hoverBackground,#6E4552,selectionBackground,#6E4552,1.0,4.5,#D5BDC5,4.52,#D5BDC5,4.52,前景可行,UI 配对 ToggleButton.offForeground↔offBackground
+theme.json,dark/dark-coffee.theme.json,hoverBackground,#6E4552,underlineColor,#A96F79,1.99,4.5,#1C1316,4.54,#D6BDC1,4.52,前景可行,UI 配对 ToggleButton.onForeground↔onBackground
+theme.json,dark/dark-coffee.theme.json,#727684,#727684,primaryBackground,#2C2122,3.44,4.5,#868A96,4.52,#050505,4.5,前景可行,UI 配对 TrialWidget.Active.foreground↔background
+theme.json,dark/dark-darcula.theme.json,primaryForeground,#BBBBBB,underlineColor,#9876AA,1.99,4.5,#1B1B1B,4.52,#5A4266,4.55,前景可行,UI 配对 SearchEverywhere.Tab.selectedForeground↔selectedBackground
+theme.json,dark/dark-darcula.theme.json,primaryForeground,#BBBBBB,#8d6b81,#8D6B81,2.4,4.5,#FDFDFD,4.53,#594653,4.51,前景可行,UI 配对 Bookmark.MnemonicCurrent.foreground↔background
+theme.json,dark/dark-darcula.theme.json,primaryForeground,#BBBBBB,#786299,#786299,2.73,4.5,#EEEEEE,4.52,#534568,4.52,前景可行,UI 配对 Bookmark.MnemonicAssigned.foreground↔background
+theme.json,dark/dark-darcula.theme.json,primaryForeground,#BBBBBB,selectionBackground,#666A6C,2.85,4.5,#E9E9E9,4.5,#494C4D,4.51,前景可行,正文 primaryForeground × selectionBackground
+theme.json,dark/dark-darcula.theme.json,primaryForeground,#BBBBBB,selectionInactiveBackground,#666A6C,2.85,4.5,#E9E9E9,4.5,#494C4D,4.51,前景可行,正文 primaryForeground × selectionInactiveBackground
+theme.json,dark/dark-darcula.theme.json,primaryForeground,#BBBBBB,tabHoverBackground,#666A6C,2.85,4.5,#E9E9E9,4.5,#494C4D,4.51,前景可行,UI 配对 MainWindow.Tab.hoverForeground↔hoverBackground
+theme.json,dark/dark-darcula.theme.json,primaryForeground,#BBBBBB,#666a6c,#666A6C,2.85,4.5,#E9E9E9,4.5,#494C4D,4.51,前景可行,UI 配对 Plugins.Button.updateForeground↔updateBackground
+theme.json,dark/dark-darcula.theme.json,primaryForeground,#BBBBBB,hoverBackground,#666A6C,2.85,4.5,#E9E9E9,4.5,#494C4D,4.51,前景可行,UI 配对 Plugins.Tab.selectedForeground↔selectedBackground
+theme.json,dark/dark-darcula.theme.json,primaryBackground,#3C3F41,underlineColor,#9876AA,2.78,4.5,#1A1B1C,4.52,#B8A1C4,4.51,前景可行,UI 配对 Counter.foreground↔background
+theme.json,dark/dark-darcula.theme.json,secondaryBackground,#12191F,iconHoverBackground,#666A6C,3.24,4.5,#E4EAEE,4.5,#7D8184,4.51,前景可行,UI 配对 Plugins.Button.installForeground↔installBackground
+theme.json,dark/dark-darcula.theme.json,hoverBackground,#666A6C,selectionBackground,#666A6C,1.0,4.5,#E9E9EA,4.5,#E9E9EA,4.5,前景可行,UI 配对 ToggleButton.offForeground↔offBackground
+theme.json,dark/dark-darcula.theme.json,hoverBackground,#666A6C,underlineColor,#9876AA,1.43,4.5,#1A1B1B,4.53,#EDE8F0,4.53,前景可行,UI 配对 ToggleButton.onForeground↔onBackground
+theme.json,dark/dark-darcula.theme.json,#727684,#727684,primaryBackground,#3C3F41,2.34,4.5,#A6A9B2,4.52,#050505,4.5,前景可行,UI 配对 TrialWidget.Active.foreground↔background
+theme.json,dark/dark-green.theme.json,primaryForeground,#BBBBBB,underlineColor,#28B366,1.42,4.5,#353535,4.52,#1B5535,4.56,前景可行,UI 配对 SearchEverywhere.Tab.selectedForeground↔selectedBackground
+theme.json,dark/dark-green.theme.json,primaryForeground,#BBBBBB,#00A6A6,#00A6A6,1.56,4.5,#2E2E2E,4.53,#1A5353,4.55,前景可行,UI 配对 Plugins.Button.updateForeground↔updateBackground
+theme.json,dark/dark-green.theme.json,primaryForeground,#BBBBBB,#8d6b81,#8D6B81,2.4,4.5,#FDFDFD,4.53,#594653,4.51,前景可行,UI 配对 Bookmark.MnemonicCurrent.foreground↔background
+theme.json,dark/dark-green.theme.json,primaryForeground,#BBBBBB,#786299,#786299,2.73,4.5,#EEEEEE,4.52,#534568,4.52,前景可行,UI 配对 Bookmark.MnemonicAssigned.foreground↔background
+theme.json,dark/dark-green.theme.json,primaryForeground,#BBBBBB,selectionBackground,#305862,4.05,4.5,#C5C5C5,4.51,#305059,4.52,前景可行,正文 primaryForeground × selectionBackground
+theme.json,dark/dark-green.theme.json,primaryForeground,#BBBBBB,selectionInactiveBackground,#305862,4.05,4.5,#C5C5C5,4.51,#305059,4.52,前景可行,正文 primaryForeground × selectionInactiveBackground
+theme.json,dark/dark-green.theme.json,primaryForeground,#BBBBBB,tabHoverBackground,#305862,4.05,4.5,#C5C5C5,4.51,#305059,4.52,前景可行,UI 配对 MainWindow.Tab.hoverForeground↔hoverBackground
+theme.json,dark/dark-green.theme.json,primaryForeground,#BBBBBB,hoverBackground,#305862,4.05,4.5,#C5C5C5,4.51,#305059,4.52,前景可行,UI 配对 Plugins.Tab.selectedForeground↔selectedBackground
+theme.json,dark/dark-green.theme.json,underlineColor,#28B366,tabColor,#153F48,4.21,4.5,#2EB96C,4.5,#183940,4.55,前景可行,UI 配对 MainWindow.Tab.selectedForeground↔selectedBackground
+theme.json,dark/dark-green.theme.json,secondaryBackground,#19273D,iconHoverBackground,#0B843E,3.13,4.5,#F8F8F8,4.51,#2AA15C,4.54,前景可行,UI 配对 Plugins.Button.installForeground↔installBackground
+theme.json,dark/dark-green.theme.json,hoverBackground,#305862,selectionBackground,#305862,1.0,4.5,#A8CBD4,4.51,#A8CBD4,4.51,前景可行,UI 配对 ToggleButton.offForeground↔offBackground
+theme.json,dark/dark-green.theme.json,hoverBackground,#305862,underlineColor,#28B366,2.87,4.5,#22383D,4.54,#65DB9A,4.5,前景可行,UI 配对 ToggleButton.onForeground↔onBackground
+theme.json,dark/dark-green.theme.json,#727684,#727684,primaryBackground,#002F38,3.17,4.5,#8D909C,4.51,#050505,4.5,前景可行,UI 配对 TrialWidget.Active.foreground↔background
+theme.json,dark/dark-violet.theme.json,primaryForeground,#BBBBBB,underlineColor,#9876AA,1.99,4.5,#1B1B1B,4.52,#5A4266,4.55,前景可行,UI 配对 SearchEverywhere.Tab.selectedForeground↔selectedBackground
+theme.json,dark/dark-violet.theme.json,primaryForeground,#BBBBBB,#8d6b81,#8D6B81,2.4,4.5,#FDFDFD,4.53,#594653,4.51,前景可行,UI 配对 Bookmark.MnemonicCurrent.foreground↔background
+theme.json,dark/dark-violet.theme.json,primaryForeground,#BBBBBB,#786299,#786299,2.73,4.5,#EEEEEE,4.52,#534568,4.52,前景可行,UI 配对 Bookmark.MnemonicAssigned.foreground↔background
+theme.json,dark/dark-violet.theme.json,primaryForeground,#BBBBBB,selectionBackground,#544E6B,4.08,4.5,#C5C5C5,4.54,#4D4860,4.54,前景可行,正文 primaryForeground × selectionBackground
+theme.json,dark/dark-violet.theme.json,primaryForeground,#BBBBBB,selectionInactiveBackground,#544E6B,4.08,4.5,#C5C5C5,4.54,#4D4860,4.54,前景可行,正文 primaryForeground × selectionInactiveBackground
+theme.json,dark/dark-violet.theme.json,primaryForeground,#BBBBBB,tabHoverBackground,#544E6B,4.08,4.5,#C5C5C5,4.54,#4D4860,4.54,前景可行,UI 配对 MainWindow.Tab.hoverForeground↔hoverBackground
+theme.json,dark/dark-violet.theme.json,primaryForeground,#BBBBBB,#544e6b,#544E6B,4.08,4.5,#C5C5C5,4.54,#4D4860,4.54,前景可行,UI 配对 Plugins.Button.updateForeground↔updateBackground
+theme.json,dark/dark-violet.theme.json,primaryForeground,#BBBBBB,hoverBackground,#544E6B,4.08,4.5,#C5C5C5,4.54,#4D4860,4.54,前景可行,UI 配对 Plugins.Tab.selectedForeground↔selectedBackground
+theme.json,dark/dark-violet.theme.json,underlineColor,#9876AA,tabColor,#433D5C,2.67,4.5,#BBA5C7,4.52,#1C1A24,4.5,前景可行,UI 配对 MainWindow.Tab.selectedForeground↔selectedBackground
+theme.json,dark/dark-violet.theme.json,primaryBackground,#2B2640,underlineColor,#9876AA,3.79,4.5,#1C1926,4.53,#A385B3,4.51,前景可行,UI 配对 Counter.foreground↔background
+theme.json,dark/dark-violet.theme.json,secondaryBackground,#0F0B1F,iconHoverBackground,#544E6B,2.46,4.5,#C8C0E6,4.53,#7E769B,4.55,前景可行,UI 配对 Plugins.Button.installForeground↔installBackground
+theme.json,dark/dark-violet.theme.json,hoverBackground,#544E6B,selectionBackground,#544E6B,1.0,4.5,#C6C3D2,4.53,#C6C3D2,4.53,前景可行,UI 配对 ToggleButton.offForeground↔offBackground
+theme.json,dark/dark-violet.theme.json,hoverBackground,#544E6B,underlineColor,#9876AA,2.06,4.5,#1C1A22,4.51,#CFC0D7,4.54,前景可行,UI 配对 ToggleButton.onForeground↔onBackground
+theme.json,dark/dark-violet.theme.json,#727684,#727684,primaryBackground,#2B2640,3.19,4.5,#8C909C,4.53,#050505,4.5,前景可行,UI 配对 TrialWidget.Active.foreground↔background
+theme.json,dark/dark.theme.json,primaryForeground,#BBBBBB,underlineColor,#9876AA,1.99,4.5,#1B1B1B,4.52,#5A4266,4.55,前景可行,UI 配对 SearchEverywhere.Tab.selectedForeground↔selectedBackground
+theme.json,dark/dark.theme.json,primaryForeground,#BBBBBB,#8d6b81,#8D6B81,2.4,4.5,#FDFDFD,4.53,#594653,4.51,前景可行,UI 配对 Bookmark.MnemonicCurrent.foreground↔background
+theme.json,dark/dark.theme.json,primaryForeground,#BBBBBB,#786299,#786299,2.73,4.5,#EEEEEE,4.52,#534568,4.52,前景可行,UI 配对 Bookmark.MnemonicAssigned.foreground↔background
+theme.json,dark/dark.theme.json,primaryForeground,#BBBBBB,selectionBackground,#515260,4.01,4.5,#C6C6C6,4.51,#4A4A56,4.55,前景可行,正文 primaryForeground × selectionBackground
+theme.json,dark/dark.theme.json,primaryForeground,#BBBBBB,selectionInactiveBackground,#515260,4.01,4.5,#C6C6C6,4.51,#4A4A56,4.55,前景可行,正文 primaryForeground × selectionInactiveBackground
+theme.json,dark/dark.theme.json,primaryForeground,#BBBBBB,tabHoverBackground,#515260,4.01,4.5,#C6C6C6,4.51,#4A4A56,4.55,前景可行,UI 配对 MainWindow.Tab.hoverForeground↔hoverBackground
+theme.json,dark/dark.theme.json,primaryForeground,#BBBBBB,#515260,#515260,4.01,4.5,#C6C6C6,4.51,#4A4A56,4.55,前景可行,UI 配对 Plugins.Button.updateForeground↔updateBackground
+theme.json,dark/dark.theme.json,primaryForeground,#BBBBBB,hoverBackground,#515260,4.01,4.5,#C6C6C6,4.51,#4A4A56,4.55,前景可行,UI 配对 Plugins.Tab.selectedForeground↔selectedBackground
+theme.json,dark/dark.theme.json,primaryBackground,#282A36,underlineColor,#9876AA,3.73,4.5,#1A1B21,4.5,#A486B4,4.51,前景可行,UI 配对 Counter.foreground↔background
+theme.json,dark/dark.theme.json,secondaryBackground,#19273D,iconHoverBackground,#515260,1.95,4.5,#B8C8E0,4.54,#8B8C9D,4.53,前景可行,UI 配对 Plugins.Button.installForeground↔installBackground
+theme.json,dark/dark.theme.json,hoverBackground,#515260,selectionBackground,#515260,1.0,4.5,#C5C6CE,4.53,#C5C6CE,4.53,前景可行,UI 配对 ToggleButton.offForeground↔offBackground
+theme.json,dark/dark.theme.json,hoverBackground,#515260,underlineColor,#9876AA,2.02,4.5,#1B1B1F,4.5,#D0C2D8,4.55,前景可行,UI 配对 ToggleButton.onForeground↔onBackground
+theme.json,dark/dark.theme.json,#727684,#727684,primaryBackground,#282A36,3.15,4.5,#8D919D,4.52,#050505,4.5,前景可行,UI 配对 TrialWidget.Active.foreground↔background
+theme.json,islands-light/islands-bean-green.theme.json,error,#CE5E5E,mainBackground,#E3F7E7,3.48,4.5,#C53F3F,4.5,#0B1C0F,4.54,前景可行,语义文本 error
+theme.json,islands-light/islands-bean-green.theme.json,errorFocused,#CB4848,mainBackground,#E3F7E7,4.11,4.5,#C73B3B,4.55,#FDFDFD,4.53,前景可行,语义文本 errorFocused
+theme.json,islands-light/islands-bean-green.theme.json,warning,#CC9D57,mainBackground,#E3F7E7,2.2,4.5,#8D6830,4.51,#194422,4.51,前景可行,语义文本 warning
+theme.json,islands-light/islands-bean-green.theme.json,warningFocused,#D09136,mainBackground,#E3F7E7,2.41,4.5,#916628,4.53,#173D1F,4.52,前景可行,语义文本 warningFocused
+theme.json,islands-light/islands-bean-green.theme.json,info,#397FB7,mainBackground,#E3F7E7,3.83,4.5,#3673A4,4.52,#071009,4.5,前景可行,语义文本 info
+theme.json,islands-light/islands-bean-green.theme.json,success,#30A25E,mainBackground,#E3F7E7,2.9,4.5,#2B7D4C,4.52,#122E17,4.52,前景可行,语义文本 success
+theme.json,islands-light/islands-bean-green.theme.json,iconBackground,#26A69A,mainBackground,#E3F7E7,2.67,3.0,#299B90,3.03,#1E5329,3.01,前景可行,UI图标 iconBackground
+theme.json,islands-light/islands-bean-green.theme.json,lineColor,#91CB9E,mainBackground,#E3F7E7,1.67,3.0,#4B9C5D,3.01,#287638,3.01,前景可行,UI线条 lineColor
+theme.json,islands-light/islands-bean-green.theme.json,borderColor,#B8DDBD,mainBackground,#E3F7E7,1.33,3.0,#4C9C57,3.02,#2C883E,3.0,前景可行,UI边框 borderColor
+theme.json,islands-light/islands-bean-green.theme.json,primaryForeground,#1A536E,#2fc864,#2FC864,3.82,4.5,#1C475B,4.55,#52D680,4.5,前景可行,UI 配对 Counter.foreground↔background
+theme.json,islands-light/islands-bean-green.theme.json,#0B843E,#0B843E,editorBackground,#C7EDCC,3.74,4.5,#216E41,4.87,#F2FAF3,4.5,前景可行,UI 配对 MainWindow.Tab.selectedForeground↔selectedBackground
+theme.json,islands-light/islands-bean-green.theme.json,hoverBackground,#A9CBA3,#50fa7b,#50FA7B,1.3,4.5,#466A3F,4.51,#1C5B2C,4.55,前景可行,UI 配对 ToggleButton.onForeground↔onBackground
+theme.json,islands-light/islands-bean-green.theme.json,hoverBackground,#A9CBA3,selectionBackground,#E2F9E1,1.6,4.5,#466A3F,5.56,#1F5C1C,4.51,前景可行,UI 配对 ToggleButton.offForeground↔offBackground
+theme.json,islands-light/islands-bean-green.theme.json,#818594,#818594,mainBackground,#E3F7E7,3.28,4.5,#6A6E7D,4.52,#0E2312,4.51,前景可行,UI 配对 TrialWidget.Active.foreground↔background
+theme.json,islands-light/islands-buff.theme.json,error,#CE5E5E,mainBackground,#DFE1E5,2.98,4.5,#B43838,4.5,#18191C,4.51,前景可行,语义文本 error
+theme.json,islands-light/islands-buff.theme.json,errorFocused,#CB4848,mainBackground,#DFE1E5,3.52,4.5,#B53535,4.55,#FDFDFD,4.53,前景可行,语义文本 errorFocused
+theme.json,islands-light/islands-buff.theme.json,warning,#FFAC4F,mainBackground,#DFE1E5,1.42,4.5,#895A26,4.51,#484D57,4.55,前景可行,语义文本 warning
+theme.json,islands-light/islands-buff.theme.json,warningFocused,#D09136,mainBackground,#DFE1E5,2.06,4.5,#835D25,4.51,#32353C,4.55,前景可行,语义文本 warningFocused
+theme.json,islands-light/islands-buff.theme.json,info,#397FB7,mainBackground,#DFE1E5,3.28,4.5,#326893,4.53,#0D0E0F,4.5,前景可行,语义文本 info
+theme.json,islands-light/islands-buff.theme.json,success,#30A25E,mainBackground,#DFE1E5,2.48,4.5,#287145,4.53,#26282D,4.53,前景可行,语义文本 success
+theme.json,islands-light/islands-buff.theme.json,accentColor,#BE9B00,mainBackground,#DFE1E5,2.04,3.0,#726421,4.5,#4B505B,3.03,前景可行,UI强调 accentColor
+theme.json,islands-light/islands-buff.theme.json,accentColor,#BE9B00,selectionBackground,#DFE1E5,2.04,4.5,#726421,4.5,#33363D,4.54,前景可行,UI 配对 TrialWidget.Active.hoverForeground↔hoverBackground
+theme.json,islands-light/islands-buff.theme.json,accentColor,#BE9B00,editorBackground,#F7F7F2,2.48,4.5,#726421,5.49,#373725,4.54,前景可行,UI 配对 MainWindow.Tab.selectedForeground↔selectedBackground
+theme.json,islands-light/islands-buff.theme.json,accentColor,#BE9B00,menuBackground,#F7F7F2,2.48,4.5,#726421,5.49,#373725,4.54,前景可行,UI 配对 Plugins.Button.installForeground↔installBackground
+theme.json,islands-light/islands-buff.theme.json,iconBackground,#DDB900,mainBackground,#DFE1E5,1.46,3.0,#918028,3.01,#5F6674,3.03,前景可行,UI图标 iconBackground
+theme.json,islands-light/islands-buff.theme.json,lineColor,#BE9B00,mainBackground,#DFE1E5,2.04,3.0,#927F28,3.03,#4B505B,3.03,前景可行,UI线条 lineColor
+theme.json,islands-light/islands-buff.theme.json,borderColor,#E3E3DE,mainBackground,#DFE1E5,1.02,3.0,#81816E,3.03,#798292,3.01,前景可行,UI边框 borderColor
+theme.json,islands-light/islands-buff.theme.json,primaryForeground,#333333,#0B843E,#0B843E,2.64,4.5,#F8F8F8,4.51,#2CB064,4.51,前景可行,UI 配对 Counter.foreground↔background
+theme.json,islands-light/islands-buff.theme.json,hoverBackground,#DFE1E5,selectionBackground,#DFE1E5,1.0,4.5,#4C515B,6.09,#5D6471,4.55,前景可行,UI 配对 ToggleButton.offForeground↔offBackground
+theme.json,islands-light/islands-buff.theme.json,hoverBackground,#DFE1E5,#c4c3bf,#C4C3BF,1.35,4.5,#4C515B,4.52,#66645E,4.52,前景可行,UI 配对 ToggleButton.onForeground↔onBackground
+theme.json,islands-light/islands-buff.theme.json,#818594,#818594,mainBackground,#DFE1E5,2.81,4.5,#606471,4.51,#1D1E22,4.53,前景可行,UI 配对 TrialWidget.Active.foreground↔background
+theme.json,islands-light/islands-celadon.theme.json,error,#CE5E5E,mainBackground,#C4DEE4,2.77,4.5,#AA3636,4.53,#101A1D,4.54,前景可行,语义文本 error
+theme.json,islands-light/islands-celadon.theme.json,errorFocused,#CB4848,mainBackground,#C4DEE4,3.27,4.5,#AC3434,4.53,#FDFDFD,4.53,前景可行,语义文本 errorFocused
+theme.json,islands-light/islands-celadon.theme.json,warning,#CC9D57,mainBackground,#C4DEE4,1.75,4.5,#79592A,4.55,#243F45,4.56,前景可行,语义文本 warning
+theme.json,islands-light/islands-celadon.theme.json,warningFocused,#D09136,mainBackground,#C4DEE4,1.92,4.5,#7D5824,4.53,#21393E,4.53,前景可行,语义文本 warningFocused
+theme.json,islands-light/islands-celadon.theme.json,info,#397FB7,mainBackground,#C4DEE4,3.05,4.5,#30638C,4.53,#090F10,4.5,前景可行,语义文本 info
+theme.json,islands-light/islands-celadon.theme.json,success,#30A25E,mainBackground,#C4DEE4,2.31,4.5,#266C43,4.51,#1A2B2F,4.51,前景可行,语义文本 success
+theme.json,islands-light/islands-celadon.theme.json,iconBackground,#26A69A,mainBackground,#C4DEE4,2.13,3.0,#26897F,3.0,#2C4E56,3.0,前景可行,UI图标 iconBackground
+theme.json,islands-light/islands-celadon.theme.json,lineColor,#70A6AE,mainBackground,#C4DEE4,1.92,3.0,#50838B,3.01,#2F545D,3.04,前景可行,UI线条 lineColor
+theme.json,islands-light/islands-celadon.theme.json,borderColor,#D3DCDF,mainBackground,#C4DEE4,1.01,3.0,#647F88,3.02,#458492,3.03,前景可行,UI边框 borderColor
+theme.json,islands-light/islands-celadon.theme.json,primaryForeground,#1A536E,#2fc864,#2FC864,3.82,4.5,#1C475B,4.55,#52D680,4.5,前景可行,UI 配对 Counter.foreground↔background
+theme.json,islands-light/islands-celadon.theme.json,#0B843E,#0B843E,menuBackground,#E4ECEF,4.0,4.5,#216E41,5.2,#F8F8F8,4.51,前景可行,UI 配对 MainWindow.Tab.selectedForeground↔selectedBackground
+theme.json,islands-light/islands-celadon.theme.json,hoverBackground,#C7DAE1,selectionBackground,#C7DAE1,1.0,4.5,#3F626F,4.56,#3F626F,4.56,前景可行,UI 配对 ToggleButton.offForeground↔offBackground
+theme.json,islands-light/islands-celadon.theme.json,hoverBackground,#C7DAE1,#50fa7b,#50FA7B,1.05,4.5,#3F626F,4.8,#206B33,4.53,前景可行,UI 配对 ToggleButton.onForeground↔onBackground
+theme.json,islands-light/islands-celadon.theme.json,#818594,#818594,mainBackground,#C4DEE4,2.61,4.5,#5C5F6B,4.51,#132023,4.54,前景可行,UI 配对 TrialWidget.Active.foreground↔background
+theme.json,islands-light/islands-green-contrast.theme.json,error,#CE5E5E,mainBackground,#E4F3F6,3.42,4.5,#C43D3D,4.52,#0D1B1E,4.52,前景可行,语义文本 error
+theme.json,islands-light/islands-green-contrast.theme.json,errorFocused,#CB4848,mainBackground,#E4F3F6,4.05,4.5,#C73A3A,4.51,#FDFDFD,4.53,前景可行,语义文本 errorFocused
+theme.json,islands-light/islands-green-contrast.theme.json,warning,#CC9D57,mainBackground,#E4F3F6,2.16,4.5,#8C672F,4.5,#1D4047,4.54,前景可行,语义文本 warning
+theme.json,islands-light/islands-green-contrast.theme.json,warningFocused,#D09136,mainBackground,#E4F3F6,2.37,4.5,#906527,4.53,#1B3A41,4.51,前景可行,语义文本 warningFocused
+theme.json,islands-light/islands-green-contrast.theme.json,info,#397FB7,mainBackground,#E4F3F6,3.77,4.5,#3672A3,4.51,#080F11,4.5,前景可行,语义文本 info
+theme.json,islands-light/islands-green-contrast.theme.json,success,#30A25E,mainBackground,#E4F3F6,2.86,4.5,#2B7C4C,4.51,#142B2F,4.56,前景可行,语义文本 success
+theme.json,islands-light/islands-green-contrast.theme.json,iconBackground,#70A6AE,mainBackground,#E4F3F6,2.38,3.0,#59949D,3.0,#265660,3.0,前景可行,UI图标 iconBackground
+theme.json,islands-light/islands-green-contrast.theme.json,lineColor,#A1D6D7,mainBackground,#E4F3F6,1.41,3.0,#449799,3.01,#327B89,3.03,前景可行,UI线条 lineColor
+theme.json,islands-light/islands-green-contrast.theme.json,borderColor,#C1DCDC,mainBackground,#E4F3F6,1.27,3.0,#559595,3.02,#358393,3.02,前景可行,UI边框 borderColor
+theme.json,islands-light/islands-green-contrast.theme.json,primaryForeground,#1A536E,#2fc864,#2FC864,3.82,4.5,#1C475B,4.55,#52D680,4.5,前景可行,UI 配对 Counter.foreground↔background
+theme.json,islands-light/islands-green-contrast.theme.json,#0B843E,#0B843E,tabHoverBackground,#A3CED0,2.8,4.5,#1D5E38,4.54,#F5F9F9,4.52,前景可行,UI 配对 MainWindow.Tab.selectedForeground↔selectedBackground
+theme.json,islands-light/islands-green-contrast.theme.json,hoverBackground,#A3CED0,selectionBackground,#A3CED0,1.0,4.5,#33595B,4.52,#33595B,4.52,前景可行,UI 配对 ToggleButton.offForeground↔offBackground
+theme.json,islands-light/islands-green-contrast.theme.json,hoverBackground,#A3CED0,lineColor,#A1D6D7,1.07,4.5,#33595B,4.82,#2C5A5B,4.52,前景可行,UI 配对 ToggleButton.onForeground↔onBackground
+theme.json,islands-light/islands-green-contrast.theme.json,#818594,#818594,mainBackground,#E4F3F6,3.23,4.5,#6A6D7C,4.51,#102124,4.52,前景可行,UI 配对 TrialWidget.Active.foreground↔background
+theme.json,islands-light/islands-green.theme.json,error,#CE5E5E,mainBackground,#C5DEDD,2.76,4.5,#AA3636,4.52,#111A1A,4.54,前景可行,语义文本 error
+theme.json,islands-light/islands-green.theme.json,errorFocused,#CB4848,mainBackground,#C5DEDD,3.26,4.5,#AC3434,4.51,#FDFDFD,4.53,前景可行,语义文本 errorFocused
+theme.json,islands-light/islands-green.theme.json,warning,#CC9D57,mainBackground,#C5DEDD,1.74,4.5,#79592A,4.54,#283F3F,4.55,前景可行,语义文本 warning
+theme.json,islands-light/islands-green.theme.json,warningFocused,#D09136,mainBackground,#C5DEDD,1.91,4.5,#7D5824,4.51,#243938,4.53,前景可行,语义文本 warningFocused
+theme.json,islands-light/islands-green.theme.json,info,#397FB7,mainBackground,#C5DEDD,3.04,4.5,#30638C,4.52,#090E0E,4.53,前景可行,语义文本 info
+theme.json,islands-light/islands-green.theme.json,success,#30A25E,mainBackground,#C5DEDD,2.3,4.5,#266B42,4.55,#1B2B2A,4.53,前景可行,语义文本 success
+theme.json,islands-light/islands-green.theme.json,iconBackground,#70A6AE,mainBackground,#C5DEDD,1.92,3.0,#50828A,3.03,#345554,3.01,前景可行,UI图标 iconBackground
+theme.json,islands-light/islands-green.theme.json,lineColor,#A1D6D7,mainBackground,#C5DEDD,1.13,3.0,#3D8586,3.04,#487A78,3.03,前景可行,UI线条 lineColor
+theme.json,islands-light/islands-green.theme.json,borderColor,#CCDEDD,mainBackground,#C5DEDD,1.01,3.0,#568380,3.0,#4E8582,3.01,前景可行,UI边框 borderColor
+theme.json,islands-light/islands-green.theme.json,primaryForeground,#1A536E,#2fc864,#2FC864,3.82,4.5,#1C475B,4.55,#52D680,4.5,前景可行,UI 配对 Counter.foreground↔background
+theme.json,islands-light/islands-green.theme.json,#0B843E,#0B843E,tabHoverBackground,#A1D6D7,2.99,4.5,#1E633B,4.52,#F4F9F9,4.51,前景可行,UI 配对 MainWindow.Tab.selectedForeground↔selectedBackground
+theme.json,islands-light/islands-green.theme.json,hoverBackground,#A1D6D7,selectionBackground,#C6E1E0,1.16,4.5,#32696A,4.53,#355D5C,4.57,前景可行,UI 配对 ToggleButton.offForeground↔offBackground
+theme.json,islands-light/islands-green.theme.json,hoverBackground,#A1D6D7,#50fa7b,#50FA7B,1.17,4.5,#32696A,4.55,#1E632F,4.55,前景可行,UI 配对 ToggleButton.onForeground↔onBackground
+theme.json,islands-light/islands-green.theme.json,#818594,#818594,mainBackground,#C5DEDD,2.6,4.5,#5B5E6A,4.57,#15201F,4.54,前景可行,UI 配对 TrialWidget.Active.foreground↔background
+theme.json,islands-light/islands-grey.theme.json,error,#CE5E5E,mainBackground,#DFE1E5,2.98,4.5,#B43838,4.5,#18191C,4.51,前景可行,语义文本 error
+theme.json,islands-light/islands-grey.theme.json,errorFocused,#CB4848,mainBackground,#DFE1E5,3.52,4.5,#B53535,4.55,#FDFDFD,4.53,前景可行,语义文本 errorFocused
+theme.json,islands-light/islands-grey.theme.json,warning,#CC9D57,mainBackground,#DFE1E5,1.88,4.5,#805E2C,4.51,#383B43,4.55,前景可行,语义文本 warning
+theme.json,islands-light/islands-grey.theme.json,warningFocused,#D09136,mainBackground,#DFE1E5,2.06,4.5,#835D25,4.51,#32353C,4.55,前景可行,语义文本 warningFocused
+theme.json,islands-light/islands-grey.theme.json,info,#397FB7,mainBackground,#DFE1E5,3.28,4.5,#326893,4.53,#0D0E0F,4.5,前景可行,语义文本 info
+theme.json,islands-light/islands-grey.theme.json,success,#30A25E,mainBackground,#DFE1E5,2.48,4.5,#287145,4.53,#26282D,4.53,前景可行,语义文本 success
+theme.json,islands-light/islands-grey.theme.json,iconBackground,#739FA8,mainBackground,#DFE1E5,2.21,3.0,#5B8790,3.02,#474B55,3.02,前景可行,UI图标 iconBackground
+theme.json,islands-light/islands-grey.theme.json,lineColor,#A8ADBD,mainBackground,#DFE1E5,1.71,3.0,#788099,3.0,#555B67,3.05,前景可行,UI线条 lineColor
+theme.json,islands-light/islands-grey.theme.json,borderColor,#E0E4E4,mainBackground,#DFE1E5,1.02,3.0,#738383,3.02,#7A8293,3.01,前景可行,UI边框 borderColor
+theme.json,islands-light/islands-grey.theme.json,primaryForeground,#1A536E,#2fc864,#2FC864,3.82,4.5,#1C475B,4.55,#52D680,4.5,前景可行,UI 配对 Counter.foreground↔background
+theme.json,islands-light/islands-grey.theme.json,#0B843E,#0B843E,editorBackground,#F0F4F4,4.32,4.5,#216E41,5.62,#F8F8F8,4.51,前景可行,UI 配对 MainWindow.Tab.selectedForeground↔selectedBackground
+theme.json,islands-light/islands-grey.theme.json,hoverBackground,#C9CCD6,selectionBackground,#DFE1E5,1.23,4.5,#3D414E,7.77,#515762,4.53,前景可行,UI 配对 ToggleButton.offForeground↔offBackground
+theme.json,islands-light/islands-grey.theme.json,hoverBackground,#C9CCD6,lineColor,#A8ADBD,1.4,4.5,#3D414E,4.54,#515668,4.54,前景可行,UI 配对 ToggleButton.onForeground↔onBackground
+theme.json,islands-light/islands-grey.theme.json,#818594,#818594,mainBackground,#DFE1E5,2.81,4.5,#606471,4.51,#1D1E22,4.53,前景可行,UI 配对 TrialWidget.Active.foreground↔background
+theme.json,islands-light/islands-pink.theme.json,error,#CE5E5E,mainBackground,#FFE9EA,3.36,4.5,#C23B3B,4.54,#2D0F11,4.53,前景可行,语义文本 error
+theme.json,islands-light/islands-pink.theme.json,errorFocused,#CB4848,mainBackground,#FFE9EA,3.97,4.5,#C53838,4.53,#FDFDFD,4.53,前景可行,语义文本 errorFocused
+theme.json,islands-light/islands-pink.theme.json,warning,#FFAC4F,mainBackground,#FFE9EA,1.61,4.5,#956128,4.5,#8F272C,4.52,前景可行,语义文本 warning
+theme.json,islands-light/islands-pink.theme.json,warningFocused,#D09136,mainBackground,#FFE9EA,2.32,4.5,#8E6427,4.52,#621E21,4.51,前景可行,语义文本 warningFocused
+theme.json,islands-light/islands-pink.theme.json,info,#397FB7,mainBackground,#FFE9EA,3.7,4.5,#3570A0,4.55,#1A090A,4.5,前景可行,语义文本 info
+theme.json,islands-light/islands-pink.theme.json,success,#30A25E,mainBackground,#FFE9EA,2.8,4.5,#2A7A4A,4.55,#49181A,4.52,前景可行,语义文本 success
+theme.json,islands-light/islands-pink.theme.json,iconBackground,#FF79C6,mainBackground,#FFE9EA,2.06,3.0,#D95CA4,3.01,#A32A30,3.0,前景可行,UI图标 iconBackground
+theme.json,islands-light/islands-pink.theme.json,lineColor,#F7B9C4,mainBackground,#FFE9EA,1.43,3.0,#DA6277,3.02,#CF343B,3.02,前景可行,UI线条 lineColor
+theme.json,islands-light/islands-pink.theme.json,borderColor,#EDE5E6,mainBackground,#FFE9EA,1.07,3.0,#A67F84,3.02,#D85B61,3.03,前景可行,UI边框 borderColor
+theme.json,islands-light/islands-pink.theme.json,#DB58B0,#DB58B0,editorBackground,#FDF5F6,3.24,4.5,#C83096,4.53,#3F151A,4.53,前景可行,UI 配对 MainWindow.Tab.selectedForeground↔selectedBackground
+theme.json,islands-light/islands-pink.theme.json,hoverBackground,#FFD6E0,selectionBackground,#FFD6E0,1.0,4.5,#A32A48,5.35,#B82E4F,4.5,前景可行,UI 配对 ToggleButton.offForeground↔offBackground
+theme.json,islands-light/islands-pink.theme.json,hoverBackground,#FFD6E0,#ffbdd2,#FFBDD2,1.18,4.5,#A32A48,4.51,#B72D59,4.51,前景可行,UI 配对 ToggleButton.onForeground↔onBackground
+theme.json,islands-light/islands-pink.theme.json,#818594,#818594,mainBackground,#FFE9EA,3.17,4.5,#686C7A,4.51,#371314,4.52,前景可行,UI 配对 TrialWidget.Active.foreground↔background
+theme.json,islands-light/islands-yellow.theme.json,error,#CE5E5E,mainBackground,#FFF1D1,3.48,4.5,#C53F3F,4.51,#1E180B,4.52,前景可行,语义文本 error
+theme.json,islands-light/islands-yellow.theme.json,errorFocused,#CB4848,mainBackground,#FFF1D1,4.11,4.5,#C83C3C,4.5,#FDFDFD,4.53,前景可行,语义文本 errorFocused
+theme.json,islands-light/islands-yellow.theme.json,warning,#FFAC4F,mainBackground,#FFF1D1,1.66,4.5,#986329,4.52,#5E4A1D,4.56,前景可行,语义文本 warning
+theme.json,islands-light/islands-yellow.theme.json,warningFocused,#D09136,mainBackground,#FFF1D1,2.41,4.5,#916628,4.54,#413415,4.51,前景可行,语义文本 warningFocused
+theme.json,islands-light/islands-yellow.theme.json,info,#397FB7,mainBackground,#FFF1D1,3.83,4.5,#3673A4,4.52,#100D06,4.52,前景可行,语义文本 info
+theme.json,islands-light/islands-yellow.theme.json,success,#30A25E,mainBackground,#FFF1D1,2.91,4.5,#2B7D4C,4.53,#302711,4.53,前景可行,语义文本 success
+theme.json,islands-light/islands-yellow.theme.json,accentColor,#BE9B00,selectionBackground,#CCC8B6,1.59,4.5,#60531D,4.54,#39362A,4.54,前景可行,UI 配对 TrialWidget.Active.hoverForeground↔hoverBackground
+theme.json,islands-light/islands-yellow.theme.json,accentColor,#BE9B00,mainBackground,#FFF1D1,2.38,3.0,#60531D,6.81,#624D1E,3.03,前景可行,UI强调 accentColor
+theme.json,islands-light/islands-yellow.theme.json,accentColor,#BE9B00,menuBackground,#FFFBE8,2.57,4.5,#60531D,7.34,#3D3614,4.54,前景可行,UI 配对 Plugins.Button.installForeground↔installBackground
+theme.json,islands-light/islands-yellow.theme.json,iconBackground,#DDB900,mainBackground,#FFF1D1,1.7,3.0,#9E8B2A,3.03,#7D6224,3.02,前景可行,UI图标 iconBackground
+theme.json,islands-light/islands-yellow.theme.json,lineColor,#BE9B00,mainBackground,#FFF1D1,2.38,3.0,#968228,3.4,#624D1E,3.03,前景可行,UI线条 lineColor
+theme.json,islands-light/islands-yellow.theme.json,borderColor,#EFEBD8,mainBackground,#FFF1D1,1.07,3.0,#9C8C42,3.0,#A7812B,3.02,前景可行,UI边框 borderColor
+theme.json,islands-light/islands-yellow.theme.json,primaryForeground,#333333,#0B843E,#0B843E,2.64,4.5,#F8F8F8,4.51,#2CB064,4.51,前景可行,UI 配对 Counter.foreground↔background
+theme.json,islands-light/islands-yellow.theme.json,#A46704,#A46704,editorBackground,#FFFBE8,4.47,4.5,#825F25,5.6,#FCFCFC,4.53,前景可行,UI 配对 MainWindow.Tab.selectedForeground↔selectedBackground
+theme.json,islands-light/islands-yellow.theme.json,hoverBackground,#CCC8B6,#ccc8b6,#CCC8B6,1.0,4.5,#595440,4.52,#595440,4.52,前景可行,UI 配对 ToggleButton.onForeground↔onBackground
+theme.json,islands-light/islands-yellow.theme.json,hoverBackground,#CCC8B6,selectionBackground,#CCC8B6,1.0,4.5,#595440,4.52,#595440,4.52,前景可行,UI 配对 ToggleButton.offForeground↔offBackground
+theme.json,islands-light/islands-yellow.theme.json,#818594,#818594,mainBackground,#FFF1D1,3.28,4.5,#6A6E7D,4.53,#251E0D,4.5,前景可行,UI 配对 TrialWidget.Active.foreground↔background
+theme.json,islands-dark/islands-dark-blue.theme.json,accentColor,#9876AA,mainBackground,#344359,2.63,3.0,#A182B1,3.03,#2F3A4A,3.02,前景可行,UI强调 accentColor
+theme.json,islands-dark/islands-dark-blue.theme.json,lineColor,#5F6E86,mainBackground,#344359,1.94,3.0,#7F8EA5,3.02,#1E242E,3.01,前景可行,UI线条 lineColor
+theme.json,islands-dark/islands-dark-blue.theme.json,borderColor,#344359,mainBackground,#344359,1.0,3.0,#778EB0,3.0,#778EB0,3.0,前景可行,UI边框 borderColor
+theme.json,islands-dark/islands-dark-blue.theme.json,primaryForeground,#BBBBBB,#5da3f4,#5DA3F4,1.37,4.5,#373737,4.54,#234C7C,4.56,前景可行,UI 配对 Plugins.Button.updateForeground↔updateBackground
+theme.json,islands-dark/islands-dark-blue.theme.json,primaryForeground,#BBBBBB,underlineColor,#28B366,1.42,4.5,#353535,4.52,#1B5535,4.56,前景可行,UI 配对 SearchEverywhere.Tab.selectedForeground↔selectedBackground
+theme.json,islands-dark/islands-dark-blue.theme.json,primaryForeground,#BBBBBB,#8d6b81,#8D6B81,2.4,4.5,#FDFDFD,4.53,#594653,4.51,前景可行,UI 配对 Bookmark.MnemonicCurrent.foreground↔background
+theme.json,islands-dark/islands-dark-blue.theme.json,primaryForeground,#BBBBBB,#786299,#786299,2.73,4.5,#EEEEEE,4.52,#534568,4.52,前景可行,UI 配对 Bookmark.MnemonicAssigned.foreground↔background
+theme.json,islands-dark/islands-dark-blue.theme.json,primaryForeground,#BBBBBB,selectionBackground,#4D5C74,3.53,4.5,#D3D3D3,4.53,#414C5E,4.52,前景可行,正文 primaryForeground × selectionBackground
+theme.json,islands-dark/islands-dark-blue.theme.json,primaryForeground,#BBBBBB,selectionInactiveBackground,#4D5C74,3.53,4.5,#D3D3D3,4.53,#414C5E,4.52,前景可行,正文 primaryForeground × selectionInactiveBackground
+theme.json,islands-dark/islands-dark-blue.theme.json,primaryForeground,#BBBBBB,tabColor,#4D5C74,3.53,4.5,#D3D3D3,4.53,#414C5E,4.52,前景可行,UI 配对 Plugins.Tab.selectedForeground↔selectedBackground
+theme.json,islands-dark/islands-dark-blue.theme.json,secondaryBackground,#19273D,iconHoverBackground,#0B843E,3.13,4.5,#F8F8F8,4.51,#2AA15C,4.54,前景可行,UI 配对 Plugins.Button.installForeground↔installBackground
+theme.json,islands-dark/islands-dark-blue.theme.json,hoverBackground,#4D5C74,selectionBackground,#4D5C74,1.0,4.5,#CDD3DD,4.5,#CDD3DD,4.5,前景可行,UI 配对 ToggleButton.offForeground↔offBackground
+theme.json,islands-dark/islands-dark-blue.theme.json,hoverBackground,#4D5C74,underlineColor,#28B366,2.49,4.5,#2E3541,4.54,#90E5B6,4.54,前景可行,UI 配对 ToggleButton.onForeground↔onBackground
+theme.json,islands-dark/islands-dark-coffee.theme.json,underlineColor,#A96F79,mainBackground,#413334,3.0,3.0,#B17C85,3.48,#3F3334,3.02,前景可行,UI强调 underlineColor
+theme.json,islands-dark/islands-dark-coffee.theme.json,underlineColor,#A96F79,primaryBackground,#2C2122,3.89,4.5,#B17C85,4.52,#1A1515,4.51,前景可行,UI 配对 MainWindow.Tab.selectedForeground↔selectedBackground
+theme.json,islands-dark/islands-dark-coffee.theme.json,iconBackground,#A96F79,mainBackground,#413334,3.0,3.0,#AA707A,3.04,#3F3334,3.02,前景可行,UI图标 iconBackground
+theme.json,islands-dark/islands-dark-coffee.theme.json,lineColor,#6E4552,mainBackground,#413334,1.51,3.0,#A67081,3.01,#AF9A9B,3.0,前景可行,UI线条 lineColor
+theme.json,islands-dark/islands-dark-coffee.theme.json,borderColor,#413334,mainBackground,#413334,1.0,3.0,#95787A,3.0,#95787A,3.0,前景可行,UI边框 borderColor
+theme.json,islands-dark/islands-dark-coffee.theme.json,primaryForeground,#BBBBBB,underlineColor,#A96F79,2.09,4.5,#161616,4.51,#674148,4.51,前景可行,UI 配对 SearchEverywhere.Tab.selectedForeground↔selectedBackground
+theme.json,islands-dark/islands-dark-coffee.theme.json,primaryForeground,#BBBBBB,#917800,#917800,2.24,4.5,#0D0D0D,4.53,#554B1B,4.54,前景可行,UI 配对 Plugins.Button.updateForeground↔updateBackground
+theme.json,islands-dark/islands-dark-coffee.theme.json,primaryForeground,#BBBBBB,#8d6b81,#8D6B81,2.4,4.5,#FDFDFD,4.53,#594653,4.51,前景可行,UI 配对 Bookmark.MnemonicCurrent.foreground↔background
+theme.json,islands-dark/islands-dark-coffee.theme.json,primaryForeground,#BBBBBB,#786299,#786299,2.73,4.5,#EEEEEE,4.52,#534568,4.52,前景可行,UI 配对 Bookmark.MnemonicAssigned.foreground↔background
+theme.json,islands-dark/islands-dark-coffee.theme.json,primaryForeground,#BBBBBB,selectionBackground,#6E4552,4.15,4.5,#C3C3C3,4.52,#64424D,4.5,前景可行,正文 primaryForeground × selectionBackground
+theme.json,islands-dark/islands-dark-coffee.theme.json,primaryForeground,#BBBBBB,selectionInactiveBackground,#6E4552,4.15,4.5,#C3C3C3,4.52,#64424D,4.5,前景可行,正文 primaryForeground × selectionInactiveBackground
+theme.json,islands-dark/islands-dark-coffee.theme.json,primaryForeground,#BBBBBB,tabColor,#6E4552,4.15,4.5,#C3C3C3,4.52,#64424D,4.5,前景可行,UI 配对 Plugins.Tab.selectedForeground↔selectedBackground
+theme.json,islands-dark/islands-dark-coffee.theme.json,primaryBackground,#2C2122,underlineColor,#A96F79,3.89,4.5,#1A1515,4.51,#B17C85,4.52,前景可行,UI 配对 Counter.foreground↔background
+theme.json,islands-dark/islands-dark-coffee.theme.json,secondaryBackground,#201315,iconHoverBackground,#6E4552,2.26,4.5,#D6BDC1,4.52,#A67081,4.51,前景可行,UI 配对 Plugins.Button.installForeground↔installBackground
+theme.json,islands-dark/islands-dark-coffee.theme.json,hoverBackground,#6E4552,selectionBackground,#6E4552,1.0,4.5,#D5BDC5,4.52,#D5BDC5,4.52,前景可行,UI 配对 ToggleButton.offForeground↔offBackground
+theme.json,islands-dark/islands-dark-coffee.theme.json,hoverBackground,#6E4552,underlineColor,#A96F79,1.99,4.5,#1C1316,4.54,#D6BDC1,4.52,前景可行,UI 配对 ToggleButton.onForeground↔onBackground
+theme.json,islands-dark/islands-dark-darcula.theme.json,accentColor,#9876AA,mainBackground,#4C5052,2.14,3.0,#AF94BD,3.02,#37393B,3.04,前景可行,UI强调 accentColor
+theme.json,islands-dark/islands-dark-darcula.theme.json,underlineColor,#9876AA,mainBackground,#4C5052,2.14,3.0,#AF94BD,3.02,#37393B,3.04,前景可行,UI强调 underlineColor
+theme.json,islands-dark/islands-dark-darcula.theme.json,iconBackground,#9876AA,mainBackground,#4C5052,2.14,3.0,#AF94BD,3.02,#37393B,3.04,前景可行,UI图标 iconBackground
+theme.json,islands-dark/islands-dark-darcula.theme.json,lineColor,#666A6C,mainBackground,#4C5052,1.49,3.0,#9A9EA0,3.02,#1E1F20,3.02,前景可行,UI线条 lineColor
+theme.json,islands-dark/islands-dark-darcula.theme.json,borderColor,#4C5052,mainBackground,#4C5052,1.0,3.0,#999EA1,3.01,#999EA1,3.01,前景可行,UI边框 borderColor
+theme.json,islands-dark/islands-dark-darcula.theme.json,primaryForeground,#BBBBBB,underlineColor,#9876AA,1.99,4.5,#1B1B1B,4.52,#5A4266,4.55,前景可行,UI 配对 SearchEverywhere.Tab.selectedForeground↔selectedBackground
+theme.json,islands-dark/islands-dark-darcula.theme.json,primaryForeground,#BBBBBB,#8d6b81,#8D6B81,2.4,4.5,#FDFDFD,4.53,#594653,4.51,前景可行,UI 配对 Bookmark.MnemonicCurrent.foreground↔background
+theme.json,islands-dark/islands-dark-darcula.theme.json,primaryForeground,#BBBBBB,#786299,#786299,2.73,4.5,#EEEEEE,4.52,#534568,4.52,前景可行,UI 配对 Bookmark.MnemonicAssigned.foreground↔background
+theme.json,islands-dark/islands-dark-darcula.theme.json,primaryForeground,#BBBBBB,selectionBackground,#666A6C,2.85,4.5,#E9E9E9,4.5,#494C4D,4.51,前景可行,正文 primaryForeground × selectionBackground
+theme.json,islands-dark/islands-dark-darcula.theme.json,primaryForeground,#BBBBBB,selectionInactiveBackground,#666A6C,2.85,4.5,#E9E9E9,4.5,#494C4D,4.51,前景可行,正文 primaryForeground × selectionInactiveBackground
+theme.json,islands-dark/islands-dark-darcula.theme.json,primaryForeground,#BBBBBB,#666a6c,#666A6C,2.85,4.5,#E9E9E9,4.5,#494C4D,4.51,前景可行,UI 配对 Plugins.Button.updateForeground↔updateBackground
+theme.json,islands-dark/islands-dark-darcula.theme.json,primaryForeground,#BBBBBB,hoverBackground,#666A6C,2.85,4.5,#E9E9E9,4.5,#494C4D,4.51,前景可行,UI 配对 Plugins.Tab.selectedForeground↔selectedBackground
+theme.json,islands-dark/islands-dark-darcula.theme.json,primaryForeground,#BBBBBB,mainBackground,#4C5052,4.25,4.5,#C1C1C1,4.53,#494C4E,4.51,前景可行,正文 primaryForeground × mainBackground
+theme.json,islands-dark/islands-dark-darcula.theme.json,#28B366,#28B366,primaryBackground,#3C3F41,3.91,4.5,#2FC170,4.54,#333537,4.53,前景可行,UI 配对 MainWindow.Tab.selectedForeground↔selectedBackground
+theme.json,islands-dark/islands-dark-darcula.theme.json,primaryBackground,#3C3F41,underlineColor,#9876AA,2.78,4.5,#1A1B1C,4.52,#B8A1C4,4.51,前景可行,UI 配对 Counter.foreground↔background
+theme.json,islands-dark/islands-dark-darcula.theme.json,secondaryBackground,#12191F,iconHoverBackground,#666A6C,3.24,4.5,#E4EAEE,4.5,#7D8184,4.51,前景可行,UI 配对 Plugins.Button.installForeground↔installBackground
+theme.json,islands-dark/islands-dark-darcula.theme.json,hoverBackground,#666A6C,selectionBackground,#666A6C,1.0,4.5,#E9E9EA,4.5,#E9E9EA,4.5,前景可行,UI 配对 ToggleButton.offForeground↔offBackground
+theme.json,islands-dark/islands-dark-darcula.theme.json,hoverBackground,#666A6C,underlineColor,#9876AA,1.43,4.5,#1A1B1B,4.53,#EDE8F0,4.53,前景可行,UI 配对 ToggleButton.onForeground↔onBackground
+theme.json,islands-dark/islands-dark-darcula.theme.json,#B4B8BF,#B4B8BF,mainBackground,#4C5052,4.09,4.5,#BDC1C6,4.5,#46494B,4.56,前景可行,UI 配对 TrialWidget.Active.foreground↔background
+theme.json,islands-dark/islands-dark-green.theme.json,accentColor,#9876AA,mainBackground,#1D4155,2.84,3.0,#9C7BAD,3.02,#203C4C,3.04,前景可行,UI强调 accentColor
+theme.json,islands-dark/islands-dark-green.theme.json,lineColor,#426A74,mainBackground,#1D4155,1.83,3.0,#5A8F9D,3.02,#0E1920,3.01,前景可行,UI线条 lineColor
+theme.json,islands-dark/islands-dark-green.theme.json,borderColor,#1D4155,mainBackground,#1D4155,1.0,3.0,#408FBB,3.02,#408FBB,3.02,前景可行,UI边框 borderColor
+theme.json,islands-dark/islands-dark-green.theme.json,primaryForeground,#BBBBBB,underlineColor,#28B366,1.42,4.5,#353535,4.52,#1B5535,4.56,前景可行,UI 配对 SearchEverywhere.Tab.selectedForeground↔selectedBackground
+theme.json,islands-dark/islands-dark-green.theme.json,primaryForeground,#BBBBBB,#00A6A6,#00A6A6,1.56,4.5,#2E2E2E,4.53,#1A5353,4.55,前景可行,UI 配对 Plugins.Button.updateForeground↔updateBackground
+theme.json,islands-dark/islands-dark-green.theme.json,primaryForeground,#BBBBBB,#8d6b81,#8D6B81,2.4,4.5,#FDFDFD,4.53,#594653,4.51,前景可行,UI 配对 Bookmark.MnemonicCurrent.foreground↔background
+theme.json,islands-dark/islands-dark-green.theme.json,primaryForeground,#BBBBBB,#786299,#786299,2.73,4.5,#EEEEEE,4.52,#534568,4.52,前景可行,UI 配对 Bookmark.MnemonicAssigned.foreground↔background
+theme.json,islands-dark/islands-dark-green.theme.json,primaryForeground,#BBBBBB,selectionBackground,#305862,4.05,4.5,#C5C5C5,4.51,#305059,4.52,前景可行,正文 primaryForeground × selectionBackground
+theme.json,islands-dark/islands-dark-green.theme.json,primaryForeground,#BBBBBB,selectionInactiveBackground,#305862,4.05,4.5,#C5C5C5,4.51,#305059,4.52,前景可行,正文 primaryForeground × selectionInactiveBackground
+theme.json,islands-dark/islands-dark-green.theme.json,primaryForeground,#BBBBBB,hoverBackground,#305862,4.05,4.5,#C5C5C5,4.51,#305059,4.52,前景可行,UI 配对 Plugins.Tab.selectedForeground↔selectedBackground
+theme.json,islands-dark/islands-dark-green.theme.json,secondaryBackground,#19273D,iconHoverBackground,#0B843E,3.13,4.5,#F8F8F8,4.51,#2AA15C,4.54,前景可行,UI 配对 Plugins.Button.installForeground↔installBackground
+theme.json,islands-dark/islands-dark-green.theme.json,hoverBackground,#305862,selectionBackground,#305862,1.0,4.5,#A8CBD4,4.51,#A8CBD4,4.51,前景可行,UI 配对 ToggleButton.offForeground↔offBackground
+theme.json,islands-dark/islands-dark-green.theme.json,hoverBackground,#305862,underlineColor,#28B366,2.87,4.5,#22383D,4.54,#65DB9A,4.5,前景可行,UI 配对 ToggleButton.onForeground↔onBackground
+theme.json,islands-dark/islands-dark-violet.theme.json,accentColor,#9876AA,mainBackground,#433D5C,2.67,3.0,#9F80B0,3.0,#3B364D,3.02,前景可行,UI强调 accentColor
+theme.json,islands-dark/islands-dark-violet.theme.json,underlineColor,#9876AA,mainBackground,#433D5C,2.67,3.0,#A385B3,3.18,#3B364D,3.02,前景可行,UI强调 underlineColor
+theme.json,islands-dark/islands-dark-violet.theme.json,underlineColor,#9876AA,primaryBackground,#2B2640,3.79,4.5,#A385B3,4.51,#1C1926,4.53,前景可行,UI 配对 MainWindow.Tab.selectedForeground↔selectedBackground
+theme.json,islands-dark/islands-dark-violet.theme.json,iconBackground,#9876AA,mainBackground,#433D5C,2.67,3.0,#9F80B0,3.0,#3B364D,3.02,前景可行,UI图标 iconBackground
+theme.json,islands-dark/islands-dark-violet.theme.json,lineColor,#9876AA,mainBackground,#433D5C,2.67,3.0,#9F80B0,3.0,#3B364D,3.02,前景可行,UI线条 lineColor
+theme.json,islands-dark/islands-dark-violet.theme.json,borderColor,#433D5C,mainBackground,#433D5C,1.0,3.0,#8E87AF,3.03,#8E87AF,3.03,前景可行,UI边框 borderColor
+theme.json,islands-dark/islands-dark-violet.theme.json,primaryForeground,#BBBBBB,underlineColor,#9876AA,1.99,4.5,#1B1B1B,4.52,#5A4266,4.55,前景可行,UI 配对 SearchEverywhere.Tab.selectedForeground↔selectedBackground
+theme.json,islands-dark/islands-dark-violet.theme.json,primaryForeground,#BBBBBB,#8d6b81,#8D6B81,2.4,4.5,#FDFDFD,4.53,#594653,4.51,前景可行,UI 配对 Bookmark.MnemonicCurrent.foreground↔background
+theme.json,islands-dark/islands-dark-violet.theme.json,primaryForeground,#BBBBBB,#786299,#786299,2.73,4.5,#EEEEEE,4.52,#534568,4.52,前景可行,UI 配对 Bookmark.MnemonicAssigned.foreground↔background
+theme.json,islands-dark/islands-dark-violet.theme.json,primaryForeground,#BBBBBB,selectionBackground,#544E6B,4.08,4.5,#C5C5C5,4.54,#4D4860,4.54,前景可行,正文 primaryForeground × selectionBackground
+theme.json,islands-dark/islands-dark-violet.theme.json,primaryForeground,#BBBBBB,selectionInactiveBackground,#544E6B,4.08,4.5,#C5C5C5,4.54,#4D4860,4.54,前景可行,正文 primaryForeground × selectionInactiveBackground
+theme.json,islands-dark/islands-dark-violet.theme.json,primaryForeground,#BBBBBB,#544e6b,#544E6B,4.08,4.5,#C5C5C5,4.54,#4D4860,4.54,前景可行,UI 配对 Plugins.Button.updateForeground↔updateBackground
+theme.json,islands-dark/islands-dark-violet.theme.json,primaryForeground,#BBBBBB,hoverBackground,#544E6B,4.08,4.5,#C5C5C5,4.54,#4D4860,4.54,前景可行,UI 配对 Plugins.Tab.selectedForeground↔selectedBackground
+theme.json,islands-dark/islands-dark-violet.theme.json,primaryBackground,#2B2640,underlineColor,#9876AA,3.79,4.5,#1C1926,4.53,#A385B3,4.51,前景可行,UI 配对 Counter.foreground↔background
+theme.json,islands-dark/islands-dark-violet.theme.json,secondaryBackground,#0F0B1F,iconHoverBackground,#544E6B,2.46,4.5,#C8C0E6,4.53,#7E769B,4.55,前景可行,UI 配对 Plugins.Button.installForeground↔installBackground
+theme.json,islands-dark/islands-dark-violet.theme.json,hoverBackground,#544E6B,selectionBackground,#544E6B,1.0,4.5,#C6C3D2,4.53,#C6C3D2,4.53,前景可行,UI 配对 ToggleButton.offForeground↔offBackground
+theme.json,islands-dark/islands-dark-violet.theme.json,hoverBackground,#544E6B,underlineColor,#9876AA,2.06,4.5,#1C1A22,4.51,#CFC0D7,4.54,前景可行,UI 配对 ToggleButton.onForeground↔onBackground
+theme.json,islands-dark/islands-dark.theme.json,lineColor,#515260,mainBackground,#3B3D49,1.4,3.0,#858698,3.01,#9EA1B1,3.0,前景可行,UI线条 lineColor
+theme.json,islands-dark/islands-dark.theme.json,borderColor,#3B3D49,mainBackground,#3B3D49,1.0,3.0,#84879B,3.04,#84879B,3.04,前景可行,UI边框 borderColor
+theme.json,islands-dark/islands-dark.theme.json,primaryForeground,#BBBBBB,underlineColor,#28B366,1.42,4.5,#353535,4.52,#1B5535,4.56,前景可行,UI 配对 SearchEverywhere.Tab.selectedForeground↔selectedBackground
+theme.json,islands-dark/islands-dark.theme.json,primaryForeground,#BBBBBB,#8d6b81,#8D6B81,2.4,4.5,#FDFDFD,4.53,#594653,4.51,前景可行,UI 配对 Bookmark.MnemonicCurrent.foreground↔background
+theme.json,islands-dark/islands-dark.theme.json,primaryForeground,#BBBBBB,#786299,#786299,2.73,4.5,#EEEEEE,4.52,#534568,4.52,前景可行,UI 配对 Bookmark.MnemonicAssigned.foreground↔background
+theme.json,islands-dark/islands-dark.theme.json,primaryForeground,#BBBBBB,selectionBackground,#515260,4.01,4.5,#C6C6C6,4.51,#4A4A56,4.55,前景可行,正文 primaryForeground × selectionBackground
+theme.json,islands-dark/islands-dark.theme.json,primaryForeground,#BBBBBB,selectionInactiveBackground,#515260,4.01,4.5,#C6C6C6,4.51,#4A4A56,4.55,前景可行,正文 primaryForeground × selectionInactiveBackground
+theme.json,islands-dark/islands-dark.theme.json,primaryForeground,#BBBBBB,#515260,#515260,4.01,4.5,#C6C6C6,4.51,#4A4A56,4.55,前景可行,UI 配对 Plugins.Button.updateForeground↔updateBackground
+theme.json,islands-dark/islands-dark.theme.json,primaryForeground,#BBBBBB,hoverBackground,#515260,4.01,4.5,#C6C6C6,4.51,#4A4A56,4.55,前景可行,UI 配对 Plugins.Tab.selectedForeground↔selectedBackground
+theme.json,islands-dark/islands-dark.theme.json,secondaryBackground,#19273D,iconHoverBackground,#515260,1.95,4.5,#B8C8E0,4.54,#8B8C9D,4.53,前景可行,UI 配对 Plugins.Button.installForeground↔installBackground
+theme.json,islands-dark/islands-dark.theme.json,hoverBackground,#515260,selectionBackground,#515260,1.0,4.5,#C5C6CE,4.53,#C5C6CE,4.53,前景可行,UI 配对 ToggleButton.offForeground↔offBackground
+theme.json,islands-dark/islands-dark.theme.json,hoverBackground,#515260,underlineColor,#28B366,2.84,4.5,#34343B,4.55,#68DC9C,4.51,前景可行,UI 配对 ToggleButton.onForeground↔onBackground
+scheme.xml,light/bean-green.xml,(属性值),#067D17,(方案背景),#C7EDCC,4.15,4.5,#1E6428,5.64,#DDF2E0,4.52,前景可行,"DEFAULT_OPERATION_SIGN, DEFAULT_DOT, DEFAULT_SEMICOLON, DEFAULT_COMMA, BREADCRUMBS_HOVERED"
+scheme.xml,light/bean-green.xml,(属性值),#007297,(方案背景),#C7EDCC,4.26,4.5,#226075,5.47,#D7F0DB,4.51,前景可行,"ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES, ANONYMOUS_CLASS_NAME_ATTRIBUTES, Abstract class name, BASH.EXTERNAL_COMMAND, BASH.INTERNAL_COMMAND"
+scheme.xml,light/bean-green.xml,(属性值),#FFB86C,(方案背景),#C7EDCC,1.33,4.5,#8C5B27,4.51,#245E2C,4.54,前景可行,"CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES, GO_BUILTIN_FUNCTION, GO_STRUCT_EXPORTED_MEMBER, GO_STRUCT_LOCAL_MEMBER, GO_VALID_STRING_ESCAPE"
+scheme.xml,light/bean-green.xml,(属性值),#8C8C8C,(方案背景),#C7EDCC,2.63,3.0,#828282,3.0,#E8F6EA,3.01,前景可行,"DEFAULT_LINE_COMMENT, DEFAULT_BLOCK_COMMENT, DEFAULT_DOC_COMMENT, GO_BLOCK_COMMENT, PY.DOC_COMMENT"
+scheme.xml,light/bean-green.xml,(属性值),#4E8052,(方案背景),#C7EDCC,3.62,4.5,#466F4A,4.52,#FCFCFC,4.52,前景可行,"DEFAULT_DOC_COMMENT_TAG_VALUE, DEFAULT_DOC_MARKUP"
+scheme.xml,light/bean-green.xml,(属性值),#FF5555,(方案背景),#C7EDCC,2.46,4.5,#BF2E2E,4.5,#153118,4.5,前景可行,"DEFAULT_INVALID_STRING_ESCAPE, WRONG_REFERENCES_ATTRIBUTES, JUPYTER_INLINE_VALUES, LOGCAT_ERROR_OUTPUT, LOG_ERROR_OUTPUT"
+scheme.xml,light/bean-green.xml,(属性值),#9E880D,(方案背景),#C7EDCC,2.74,4.5,#726621,4.51,#112714,4.52,前景可行,DEFAULT_METADATA
+scheme.xml,light/bean-green.xml,(属性值),#643CB8,(自带背景),#933232,1.05,4.5,#CEC1E8,4.53,#E8C3C3,4.52,前景可行,DELETED_TEXT_ATTRIBUTES
+scheme.xml,light/bean-green.xml,(属性值),#0077C2,(方案背景),#C7EDCC,3.72,4.5,#286B96,4.52,#F4FBF5,4.52,前景可行,"INACTIVE_HYPERLINK_ATTRIBUTES, FOLLOWED_HYPERLINK_ATTRIBUTES, HYPERLINK_ATTRIBUTES, MARKDOWN_AUTO_LINK"
+scheme.xml,light/bean-green.xml,(属性值),#CD4848,(方案背景),#C7EDCC,3.56,4.5,#BA3434,4.52,#FEFEFE,4.51,前景可行,UNMATCHED_BRACE_ATTRIBUTES
+scheme.xml,light/bean-green.xml,(属性值),#A35CF0,(方案背景),#C7EDCC,3.07,4.5,#853FD2,4.51,#0C1C0E,4.5,前景可行,TODO_DEFAULT_ATTRIBUTES
+scheme.xml,light/bean-green.xml,(属性值),#414D41,(自带背景),#96BB9B,4.18,4.5,#3D473D,4.56,#9FC1A4,4.5,前景可行,FOLDED_TEXT_ATTRIBUTES
+scheme.xml,light/bean-green.xml,(属性值),#643CB8,(自带背景),#282A36,1.95,4.5,#9E83D7,4.53,#C9CBD6,4.51,前景可行,HAML_TAG
+scheme.xml,light/bean-green.xml,(属性值),#9C411A,(自带背景),#282A36,2.16,4.5,#D6784F,4.52,#D4D5DE,4.51,前景可行,RUBY_HEREDOC_CONTENT
+scheme.xml,light/bean-green.xml,(属性值),#AFDBB8,(方案背景),#C7EDCC,1.2,3.0,#449154,3.03,,,前景可行,<colors>SELECTION_BACKGROUND
+scheme.xml,light/bean-green.xml,(属性值),#E2F9E1,(方案背景),#C7EDCC,1.15,3.0,#2D9528,3.02,,,前景可行,<colors>CARET_ROW_COLOR
+scheme.xml,light/bean-green.xml,(属性值),#7FC784,(方案背景),#C7EDCC,1.58,3.0,#439248,3.02,,,前景可行,<colors>ADDED_LINES_COLOR
+scheme.xml,light/buff.xml,(属性值),#FFB86C,(方案背景),#F7F7F2,1.59,4.5,#9D652A,4.51,#545437,4.56,前景可行,"CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES, GO_BUILTIN_FUNCTION, GO_STRUCT_EXPORTED_MEMBER, GO_STRUCT_LOCAL_MEMBER, GO_VALID_STRING_ESCAPE"
+scheme.xml,light/buff.xml,(属性值),#B7A974,(方案背景),#F7F7F2,2.19,4.5,#7D7144,4.53,#40402B,4.5,前景可行,"DEFAULT_BRACES, DEFAULT_PARENTHS, DEFAULT_BRACKETS"
+scheme.xml,light/buff.xml,(属性值),#4E8052,(方案背景),#F7F7F2,4.31,4.5,#4E7C51,4.52,#FCFCFC,4.52,前景可行,"DEFAULT_DOC_COMMENT_TAG_VALUE, DEFAULT_DOC_MARKUP"
+scheme.xml,light/buff.xml,(属性值),#FF5555,(方案背景),#F7F7F2,2.92,4.5,#D03939,4.52,#2B2B1D,4.56,前景可行,"DEFAULT_INVALID_STRING_ESCAPE, WRONG_REFERENCES_ATTRIBUTES, JUPYTER_INLINE_VALUES, LOGCAT_ERROR_OUTPUT, LOG_ERROR_OUTPUT"
+scheme.xml,light/buff.xml,(属性值),#9E880D,(方案背景),#F7F7F2,3.27,4.5,#7F7124,4.56,#232318,4.51,前景可行,DEFAULT_METADATA
+scheme.xml,light/buff.xml,(属性值),#643CB8,(自带背景),#933232,1.05,4.5,#CEC1E8,4.53,#E8C3C3,4.52,前景可行,DELETED_TEXT_ATTRIBUTES
+scheme.xml,light/buff.xml,(属性值),#0077C2,(方案背景),#F7F7F2,4.42,4.5,#296E99,5.16,#F9F9F6,4.51,前景可行,"INACTIVE_HYPERLINK_ATTRIBUTES, FOLLOWED_HYPERLINK_ATTRIBUTES, HYPERLINK_ATTRIBUTES, MARKDOWN_AUTO_LINK"
+scheme.xml,light/buff.xml,(属性值),#A35CF0,(方案背景),#F7F7F2,3.66,4.5,#9150D6,4.52,#181811,4.54,前景可行,TODO_DEFAULT_ATTRIBUTES
+scheme.xml,light/buff.xml,(属性值),#643CB8,(自带背景),#282A36,1.95,4.5,#9E83D7,4.53,#C9CBD6,4.51,前景可行,HAML_TAG
+scheme.xml,light/buff.xml,(属性值),#9C411A,(自带背景),#282A36,2.16,4.5,#D6784F,4.52,#D4D5DE,4.51,前景可行,RUBY_HEREDOC_CONTENT
+scheme.xml,light/buff.xml,(属性值),#FFE2C1,(方案背景),#F7F7F2,1.16,3.0,#C57F2F,3.03,,,前景可行,<colors>SELECTION_BACKGROUND
+scheme.xml,light/buff.xml,(属性值),#DFE1E5,(方案背景),#F7F7F2,1.22,3.0,#878F9E,3.03,,,前景可行,<colors>CARET_ROW_COLOR
+scheme.xml,light/buff.xml,(属性值),#7FC784,(方案背景),#F7F7F2,1.88,3.0,#48A14E,3.01,,,前景可行,<colors>ADDED_LINES_COLOR
+scheme.xml,light/celadon.xml,(属性值),#067D17,(方案背景),#E4ECEF,4.44,4.5,#1E6428,6.03,#E8EEF0,4.53,前景可行,"DEFAULT_OPERATION_SIGN, DEFAULT_DOT, DEFAULT_SEMICOLON, DEFAULT_COMMA, BREADCRUMBS_HOVERED"
+scheme.xml,light/celadon.xml,(属性值),#FFB86C,(方案背景),#E4ECEF,1.42,4.5,#925F28,4.51,#3D5761,4.51,前景可行,"CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES, GO_BUILTIN_FUNCTION, GO_STRUCT_EXPORTED_MEMBER, GO_STRUCT_LOCAL_MEMBER, GO_VALID_STRING_ESCAPE"
+scheme.xml,light/celadon.xml,(属性值),#8C8C8C,(方案背景),#E4ECEF,2.81,3.0,#878787,3.0,#EFF3F4,3.01,前景可行,"DEFAULT_LINE_COMMENT, DEFAULT_BLOCK_COMMENT, DEFAULT_DOC_COMMENT, GO_BLOCK_COMMENT, PY.DOC_COMMENT"
+scheme.xml,light/celadon.xml,(属性值),#4E8052,(方案背景),#E4ECEF,3.87,4.5,#4A744D,4.5,#FCFCFC,4.52,前景可行,"DEFAULT_DOC_COMMENT_TAG_VALUE, DEFAULT_DOC_MARKUP"
+scheme.xml,light/celadon.xml,(属性值),#FF5555,(方案背景),#E4ECEF,2.63,4.5,#C73030,4.51,#202D31,4.51,前景可行,"DEFAULT_INVALID_STRING_ESCAPE, WRONG_REFERENCES_ATTRIBUTES, JUPYTER_INLINE_VALUES, LOGCAT_ERROR_OUTPUT, LOG_ERROR_OUTPUT"
+scheme.xml,light/celadon.xml,(属性值),#9E880D,(方案背景),#E4ECEF,2.93,4.5,#776A22,4.53,#1A2428,4.51,前景可行,DEFAULT_METADATA
+scheme.xml,light/celadon.xml,(属性值),#643CB8,(自带背景),#933232,1.05,4.5,#CEC1E8,4.53,#E8C3C3,4.52,前景可行,DELETED_TEXT_ATTRIBUTES
+scheme.xml,light/celadon.xml,(属性值),#0077C2,(方案背景),#E4ECEF,3.97,4.5,#296E99,4.64,#F9F9F9,4.52,前景可行,"INACTIVE_HYPERLINK_ATTRIBUTES, FOLLOWED_HYPERLINK_ATTRIBUTES, HYPERLINK_ATTRIBUTES, MARKDOWN_AUTO_LINK"
+scheme.xml,light/celadon.xml,(属性值),#CD4848,(方案背景),#E4ECEF,3.8,4.5,#C23636,4.53,#FEFEFE,4.51,前景可行,UNMATCHED_BRACE_ATTRIBUTES
+scheme.xml,light/celadon.xml,(属性值),#A35CF0,(方案背景),#E4ECEF,3.28,4.5,#8945D3,4.55,#12191B,4.53,前景可行,TODO_DEFAULT_ATTRIBUTES
+scheme.xml,light/celadon.xml,(属性值),#643CB8,(自带背景),#282A36,1.95,4.5,#9E83D7,4.53,#C9CBD6,4.51,前景可行,HAML_TAG
+scheme.xml,light/celadon.xml,(属性值),#9C411A,(自带背景),#282A36,2.16,4.5,#D6784F,4.52,#D4D5DE,4.51,前景可行,RUBY_HEREDOC_CONTENT
+scheme.xml,light/celadon.xml,(属性值),#AFDBB8,(方案背景),#E4ECEF,1.29,3.0,#469757,3.01,,,前景可行,<colors>SELECTION_BACKGROUND
+scheme.xml,light/celadon.xml,(属性值),#F7F8FA,(方案背景),#E4ECEF,1.13,3.0,#7687A9,3.02,,,前景可行,<colors>CARET_ROW_COLOR
+scheme.xml,light/celadon.xml,(属性值),#7FC784,(方案背景),#E4ECEF,1.69,3.0,#45984B,3.0,,,前景可行,<colors>ADDED_LINES_COLOR
+scheme.xml,light/green-contrast.xml,(属性值),#FFB86C,(方案背景),#E0F2F1,1.47,4.5,#956028,4.56,#2B5A57,4.56,前景可行,"CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES, GO_BUILTIN_FUNCTION, GO_STRUCT_EXPORTED_MEMBER, GO_STRUCT_LOCAL_MEMBER, GO_VALID_STRING_ESCAPE"
+scheme.xml,light/green-contrast.xml,(属性值),#8C8C8C,(方案背景),#E0F2F1,2.9,3.0,#898989,3.02,#EAF4F4,3.0,前景可行,"DEFAULT_LINE_COMMENT, DEFAULT_BLOCK_COMMENT, DEFAULT_DOC_COMMENT, GO_BLOCK_COMMENT, PY.DOC_COMMENT"
+scheme.xml,light/green-contrast.xml,(属性值),#4E8052,(方案背景),#E0F2F1,4.0,4.5,#4B764E,4.53,#FCFCFC,4.52,前景可行,"DEFAULT_DOC_COMMENT_TAG_VALUE, DEFAULT_DOC_MARKUP"
+scheme.xml,light/green-contrast.xml,(属性值),#FF5555,(方案背景),#E0F2F1,2.71,4.5,#CB3030,4.53,#182F2E,4.5,前景可行,"DEFAULT_INVALID_STRING_ESCAPE, WRONG_REFERENCES_ATTRIBUTES, JUPYTER_INLINE_VALUES, LOGCAT_ERROR_OUTPUT, LOG_ERROR_OUTPUT"
+scheme.xml,light/green-contrast.xml,(属性值),#9E880D,(方案背景),#E0F2F1,3.03,4.5,#796C23,4.56,#132524,4.54,前景可行,DEFAULT_METADATA
+scheme.xml,light/green-contrast.xml,(属性值),#643CB8,(自带背景),#933232,1.05,4.5,#CEC1E8,4.53,#E8C3C3,4.52,前景可行,DELETED_TEXT_ATTRIBUTES
+scheme.xml,light/green-contrast.xml,(属性值),#0077C2,(方案背景),#E0F2F1,4.11,4.5,#296E99,4.79,#F5FAFA,4.51,前景可行,"INACTIVE_HYPERLINK_ATTRIBUTES, FOLLOWED_HYPERLINK_ATTRIBUTES, HYPERLINK_ATTRIBUTES, MARKDOWN_AUTO_LINK"
+scheme.xml,light/green-contrast.xml,(属性值),#CD4848,(方案背景),#E0F2F1,3.93,4.5,#C73737,4.5,#FEFEFE,4.51,前景可行,UNMATCHED_BRACE_ATTRIBUTES
+scheme.xml,light/green-contrast.xml,(属性值),#A35CF0,(方案背景),#E0F2F1,3.39,4.5,#8C49D4,4.51,#0E1A19,4.53,前景可行,TODO_DEFAULT_ATTRIBUTES
+scheme.xml,light/green-contrast.xml,(属性值),#643CB8,(自带背景),#282A36,1.95,4.5,#9E83D7,4.53,#C9CBD6,4.51,前景可行,HAML_TAG
+scheme.xml,light/green-contrast.xml,(属性值),#9C411A,(自带背景),#282A36,2.16,4.5,#D6784F,4.52,#D4D5DE,4.51,前景可行,RUBY_HEREDOC_CONTENT
+scheme.xml,light/green-contrast.xml,(属性值),#AFDBB8,(方案背景),#E0F2F1,1.33,3.0,#479A58,3.01,,,前景可行,<colors>SELECTION_BACKGROUND
+scheme.xml,light/green-contrast.xml,(属性值),#F0FFFF,(方案背景),#E0F2F1,1.13,3.0,#299898,3.0,,,前景可行,<colors>CARET_ROW_COLOR
+scheme.xml,light/green-contrast.xml,(属性值),#7FC784,(方案背景),#E0F2F1,1.74,3.0,#459A4B,3.04,,,前景可行,<colors>ADDED_LINES_COLOR
+scheme.xml,light/green.xml,(属性值),#FFB86C,(方案背景),#E0F2F1,1.47,4.5,#956028,4.56,#2B5A57,4.56,前景可行,"CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES, GO_BUILTIN_FUNCTION, GO_STRUCT_EXPORTED_MEMBER, GO_STRUCT_LOCAL_MEMBER, GO_VALID_STRING_ESCAPE"
+scheme.xml,light/green.xml,(属性值),#8C8C8C,(方案背景),#E0F2F1,2.9,3.0,#898989,3.02,#EAF4F4,3.0,前景可行,"DEFAULT_LINE_COMMENT, DEFAULT_BLOCK_COMMENT, DEFAULT_DOC_COMMENT, GO_BLOCK_COMMENT, PY.DOC_COMMENT"
+scheme.xml,light/green.xml,(属性值),#4E8052,(方案背景),#E0F2F1,4.0,4.5,#4B764E,4.53,#FCFCFC,4.52,前景可行,"DEFAULT_DOC_COMMENT_TAG_VALUE, DEFAULT_DOC_MARKUP"
+scheme.xml,light/green.xml,(属性值),#FF5555,(方案背景),#E0F2F1,2.71,4.5,#CB3030,4.53,#182F2E,4.5,前景可行,"DEFAULT_INVALID_STRING_ESCAPE, WRONG_REFERENCES_ATTRIBUTES, JUPYTER_INLINE_VALUES, LOGCAT_ERROR_OUTPUT, LOG_ERROR_OUTPUT"
+scheme.xml,light/green.xml,(属性值),#9E880D,(方案背景),#E0F2F1,3.03,4.5,#796C23,4.56,#132524,4.54,前景可行,DEFAULT_METADATA
+scheme.xml,light/green.xml,(属性值),#643CB8,(自带背景),#933232,1.05,4.5,#CEC1E8,4.53,#E8C3C3,4.52,前景可行,DELETED_TEXT_ATTRIBUTES
+scheme.xml,light/green.xml,(属性值),#0077C2,(方案背景),#E0F2F1,4.11,4.5,#296E99,4.79,#F5FAFA,4.51,前景可行,"INACTIVE_HYPERLINK_ATTRIBUTES, FOLLOWED_HYPERLINK_ATTRIBUTES, HYPERLINK_ATTRIBUTES, MARKDOWN_AUTO_LINK"
+scheme.xml,light/green.xml,(属性值),#CD4848,(方案背景),#E0F2F1,3.93,4.5,#C73737,4.5,#FEFEFE,4.51,前景可行,UNMATCHED_BRACE_ATTRIBUTES
+scheme.xml,light/green.xml,(属性值),#A35CF0,(方案背景),#E0F2F1,3.39,4.5,#8C49D4,4.51,#0E1A19,4.53,前景可行,TODO_DEFAULT_ATTRIBUTES
+scheme.xml,light/green.xml,(属性值),#643CB8,(自带背景),#282A36,1.95,4.5,#9E83D7,4.53,#C9CBD6,4.51,前景可行,HAML_TAG
+scheme.xml,light/green.xml,(属性值),#9C411A,(自带背景),#282A36,2.16,4.5,#D6784F,4.52,#D4D5DE,4.51,前景可行,RUBY_HEREDOC_CONTENT
+scheme.xml,light/green.xml,(属性值),#AFDBB8,(方案背景),#E0F2F1,1.33,3.0,#479A58,3.01,,,前景可行,<colors>SELECTION_BACKGROUND
+scheme.xml,light/green.xml,(属性值),#F0FFFF,(方案背景),#E0F2F1,1.13,3.0,#299898,3.0,,,前景可行,<colors>CARET_ROW_COLOR
+scheme.xml,light/green.xml,(属性值),#7FC784,(方案背景),#E0F2F1,1.74,3.0,#459A4B,3.04,,,前景可行,<colors>ADDED_LINES_COLOR
+scheme.xml,light/grey.xml,(属性值),#FFB86C,(方案背景),#F0F4F4,1.54,4.5,#9A6329,4.52,#425757,4.51,前景可行,"CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES, GO_BUILTIN_FUNCTION, GO_STRUCT_EXPORTED_MEMBER, GO_STRUCT_LOCAL_MEMBER, GO_VALID_STRING_ESCAPE"
+scheme.xml,light/grey.xml,(属性值),#4E8052,(方案背景),#F0F4F4,4.18,4.5,#4C7950,4.56,#FCFCFC,4.52,前景可行,"DEFAULT_DOC_COMMENT_TAG_VALUE, DEFAULT_DOC_MARKUP"
+scheme.xml,light/grey.xml,(属性值),#FF5555,(方案背景),#F0F4F4,2.84,4.5,#CF3434,4.52,#232D2D,4.5,前景可行,"DEFAULT_INVALID_STRING_ESCAPE, WRONG_REFERENCES_ATTRIBUTES, JUPYTER_INLINE_VALUES, LOGCAT_ERROR_OUTPUT, LOG_ERROR_OUTPUT"
+scheme.xml,light/grey.xml,(属性值),#9E880D,(方案背景),#F0F4F4,3.17,4.5,#7D6F24,4.54,#1C2424,4.51,前景可行,DEFAULT_METADATA
+scheme.xml,light/grey.xml,(属性值),#643CB8,(自带背景),#933232,1.05,4.5,#CEC1E8,4.53,#E8C3C3,4.52,前景可行,DELETED_TEXT_ATTRIBUTES
+scheme.xml,light/grey.xml,(属性值),#0077C2,(方案背景),#F0F4F4,4.29,4.5,#296E99,5.01,#F9F9F9,4.52,前景可行,"INACTIVE_HYPERLINK_ATTRIBUTES, FOLLOWED_HYPERLINK_ATTRIBUTES, HYPERLINK_ATTRIBUTES, MARKDOWN_AUTO_LINK"
+scheme.xml,light/grey.xml,(属性值),#CD4848,(方案背景),#F0F4F4,4.11,4.5,#C93B3B,4.54,#FEFEFE,4.51,前景可行,UNMATCHED_BRACE_ATTRIBUTES
+scheme.xml,light/grey.xml,(属性值),#A35CF0,(方案背景),#F0F4F4,3.54,4.5,#8F4DD5,4.52,#141919,4.52,前景可行,TODO_DEFAULT_ATTRIBUTES
+scheme.xml,light/grey.xml,(属性值),#643CB8,(自带背景),#282A36,1.95,4.5,#9E83D7,4.53,#C9CBD6,4.51,前景可行,HAML_TAG
+scheme.xml,light/grey.xml,(属性值),#9C411A,(自带背景),#282A36,2.16,4.5,#D6784F,4.52,#D4D5DE,4.51,前景可行,RUBY_HEREDOC_CONTENT
+scheme.xml,light/grey.xml,(属性值),#AFDBB8,(方案背景),#F0F4F4,1.39,3.0,#489D5A,3.03,,,前景可行,<colors>SELECTION_BACKGROUND
+scheme.xml,light/grey.xml,(属性值),#DFE1E5,(方案背景),#F0F4F4,1.18,3.0,#858D9C,3.01,,,前景可行,<colors>CARET_ROW_COLOR
+scheme.xml,light/grey.xml,(属性值),#7FC784,(方案背景),#F0F4F4,1.82,3.0,#479E4D,3.02,,,前景可行,<colors>ADDED_LINES_COLOR
+scheme.xml,light/pink.xml,(属性值),#FFB86C,(方案背景),#FDF5F6,1.59,4.5,#9D652A,4.52,#992937,4.52,前景可行,"CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES, GO_BUILTIN_FUNCTION, GO_STRUCT_EXPORTED_MEMBER, GO_STRUCT_LOCAL_MEMBER, GO_VALID_STRING_ESCAPE"
+scheme.xml,light/pink.xml,(属性值),#4E8052,(方案背景),#FDF5F6,4.32,4.5,#4E7C51,4.52,#FCFCFC,4.52,前景可行,"DEFAULT_DOC_COMMENT_TAG_VALUE, DEFAULT_DOC_MARKUP"
+scheme.xml,light/pink.xml,(属性值),#FF5555,(方案背景),#FDF5F6,2.93,4.5,#D03939,4.52,#4E1920,4.5,前景可行,"DEFAULT_INVALID_STRING_ESCAPE, WRONG_REFERENCES_ATTRIBUTES, JUPYTER_INLINE_VALUES, LOGCAT_ERROR_OUTPUT, LOG_ERROR_OUTPUT"
+scheme.xml,light/pink.xml,(属性值),#9E880D,(方案背景),#FDF5F6,3.27,4.5,#7F7124,4.56,#3E151A,4.51,前景可行,DEFAULT_METADATA
+scheme.xml,light/pink.xml,(属性值),#643CB8,(自带背景),#933232,1.05,4.5,#CEC1E8,4.53,#E8C3C3,4.52,前景可行,DELETED_TEXT_ATTRIBUTES
+scheme.xml,light/pink.xml,(属性值),#0077C2,(方案背景),#FDF5F6,4.43,4.5,#296E99,5.17,#F9F9F9,4.52,前景可行,"INACTIVE_HYPERLINK_ATTRIBUTES, FOLLOWED_HYPERLINK_ATTRIBUTES, HYPERLINK_ATTRIBUTES, MARKDOWN_AUTO_LINK"
+scheme.xml,light/pink.xml,(属性值),#A35CF0,(方案背景),#FDF5F6,3.66,4.5,#9150D6,4.53,#2C0F13,4.51,前景可行,TODO_DEFAULT_ATTRIBUTES
+scheme.xml,light/pink.xml,(属性值),#643CB8,(自带背景),#282A36,1.95,4.5,#9E83D7,4.53,#C9CBD6,4.51,前景可行,HAML_TAG
+scheme.xml,light/pink.xml,(属性值),#9C411A,(自带背景),#282A36,2.16,4.5,#D6784F,4.52,#D4D5DE,4.51,前景可行,RUBY_HEREDOC_CONTENT
+scheme.xml,light/pink.xml,(属性值),#E7CFDF,(方案背景),#FDF5F6,1.36,3.0,#BD7AA7,3.01,,,前景可行,<colors>SELECTION_BACKGROUND
+scheme.xml,light/pink.xml,(属性值),#FFE6E7,(方案背景),#FDF5F6,1.1,3.0,#DD6D72,3.01,,,前景可行,<colors>CARET_ROW_COLOR
+scheme.xml,light/pink.xml,(属性值),#7FC784,(方案背景),#FDF5F6,1.88,3.0,#48A14E,3.02,,,前景可行,<colors>ADDED_LINES_COLOR
+scheme.xml,light/yellow.xml,(属性值),#FFB86C,(方案背景),#FFFBE8,1.64,4.5,#A1672A,4.5,#5E521D,4.56,前景可行,"CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES, GO_BUILTIN_FUNCTION, GO_STRUCT_EXPORTED_MEMBER, GO_STRUCT_LOCAL_MEMBER, GO_VALID_STRING_ESCAPE"
+scheme.xml,light/yellow.xml,(属性值),#B7A974,(方案背景),#FFFBE8,2.26,4.5,#7F7345,4.55,#463E17,4.56,前景可行,"DEFAULT_BRACES, DEFAULT_PARENTHS, DEFAULT_BRACKETS"
+scheme.xml,light/yellow.xml,(属性值),#4E8052,(方案背景),#FFFBE8,4.46,4.5,#4F7E53,4.55,#FCFCFC,4.52,前景可行,"DEFAULT_DOC_COMMENT_TAG_VALUE, DEFAULT_DOC_MARKUP"
+scheme.xml,light/yellow.xml,(属性值),#FF5555,(方案背景),#FFFBE8,3.03,4.5,#D13D3D,4.55,#302B11,4.52,前景可行,"DEFAULT_INVALID_STRING_ESCAPE, WRONG_REFERENCES_ATTRIBUTES, JUPYTER_INLINE_VALUES, LOGCAT_ERROR_OUTPUT, LOG_ERROR_OUTPUT"
+scheme.xml,light/yellow.xml,(属性值),#9E880D,(方案背景),#FFFBE8,3.38,4.5,#827425,4.52,#27220E,4.53,前景可行,DEFAULT_METADATA
+scheme.xml,light/yellow.xml,(属性值),#643CB8,(自带背景),#933232,1.05,4.5,#CEC1E8,4.53,#E8C3C3,4.52,前景可行,DELETED_TEXT_ATTRIBUTES
+scheme.xml,light/yellow.xml,(属性值),#A35CF0,(方案背景),#FFFBE8,3.78,4.5,#9354D7,4.5,#1B180A,4.52,前景可行,TODO_DEFAULT_ATTRIBUTES
+scheme.xml,light/yellow.xml,(属性值),#643CB8,(自带背景),#282A36,1.95,4.5,#9E83D7,4.53,#C9CBD6,4.51,前景可行,HAML_TAG
+scheme.xml,light/yellow.xml,(属性值),#9C411A,(自带背景),#282A36,2.16,4.5,#D6784F,4.52,#D4D5DE,4.51,前景可行,RUBY_HEREDOC_CONTENT
+scheme.xml,light/yellow.xml,(属性值),#F5D7E5,(方案背景),#FFFBE8,1.28,3.0,#DB6DA0,3.01,,,前景可行,<colors>SELECTION_BACKGROUND
+scheme.xml,light/yellow.xml,(属性值),#FFF6CF,(方案背景),#FFFBE8,1.05,3.0,#A7902B,3.03,,,前景可行,<colors>CARET_ROW_COLOR
+scheme.xml,light/yellow.xml,(属性值),#7FC784,(方案背景),#FFFBE8,1.94,3.0,#49A44F,3.01,,,前景可行,<colors>ADDED_LINES_COLOR
+scheme.xml,dark/dark-blue.xml,(属性值),#A09A1D,(方案背景),#233348,4.35,4.5,#A39D2A,4.52,#243041,4.53,前景可行,Annotation
+scheme.xml,dark/dark-blue.xml,(属性值),#C58564,(方案背景),#233348,4.22,4.5,#C88C6C,4.53,#222E3D,4.53,前景可行,"Anotation attribute name, CSS.URL, CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES, DEFAULT_ENTITY, DEFAULT_GLOBAL_VARIABLE"
+scheme.xml,dark/dark-blue.xml,(属性值),#9876AA,(方案背景),#233348,3.36,4.5,#AC90BA,4.55,#151C24,4.5,前景可行·ANSI混用(3/91),"BREADCRUMBS_CURRENT, BREADCRUMBS_DEFAULT, COFFEESCRIPT.FUNCTION_NAME, CONSOLE_BLUE_OUTPUT, CONSOLE_GREEN_OUTPUT"
+scheme.xml,dark/dark-blue.xml,(属性值),#1D9A62,(自带背景),#282A36,3.97,4.5,#2CAE74,5.03,#1F2027,4.52,前景可行,BREADCRUMBS_HOVERED
+scheme.xml,dark/dark-blue.xml,(属性值),#21222C,(方案背景),#233348,1.23,4.5,#21222C,1.23,#6B8CB7,4.56,ANSI·保持原值,CONSOLE_BLACK_OUTPUT
+scheme.xml,dark/dark-blue.xml,(属性值),#6272A4,(方案背景),#233348,2.72,4.5,#8D99BD,4.53,#FAFAFA,4.51,前景可行·ANSI混用(1/9),"CONSOLE_DARKGRAY_OUTPUT, DEFAULT_LABEL, KOTLIN_LABEL, KOTLIN_NAMED_ARGUMENT, LOGCAT_DEBUG_OUTPUT"
+scheme.xml,dark/dark-blue.xml,(属性值),#FF5555,(方案背景),#233348,4.08,4.5,#E07D7D,4.52,#202C3A,4.51,前景可行·ANSI混用(2/7),"CONSOLE_ERROR_OUTPUT, CONSOLE_RED_OUTPUT, DEFAULT_INVALID_STRING_ESCAPE, JUPYTER_INLINE_VALUES, LOGCAT_ERROR_OUTPUT"
+scheme.xml,dark/dark-blue.xml,(属性值),#1D9A62,(方案背景),#233348,3.57,4.5,#2CAE74,4.52,#19212C,4.52,前景可行·ANSI混用(1/25),"CONSOLE_MAGENTA_OUTPUT, CSS.TAG_NAME, CUSTOM_KEYWORD1_ATTRIBUTES, DEFAULT_DOC_COMMENT_TAG, DEFAULT_DOC_MARKUP"
+scheme.xml,dark/dark-blue.xml,(属性值),#9876AA,(自带背景),#242632,3.94,4.5,#9876AA,3.94,#1A1B21,4.5,ANSI·保持原值,CONSOLE_SELECTED_PARAMETER
+scheme.xml,dark/dark-blue.xml,(属性值),#969696,(自带背景),#4D5C74,2.29,4.5,#D3D3D3,4.53,#292F39,4.55,前景可行,FOLDED_TEXT_ATTRIBUTES
+scheme.xml,dark/dark-blue.xml,(属性值),#969696,(自带背景),#344359,3.39,4.5,#D3D3D3,6.7,#27303D,4.5,前景可行,INLINE_PARAMETER_HINT
+scheme.xml,dark/dark-blue.xml,(属性值),#F8F8F2,(自带背景),#747A9D,3.93,4.5,#11110B,4.52,#697096,4.52,前景可行,MATCHED_BRACE_ATTRIBUTES
+scheme.xml,dark/dark-blue.xml,(属性值),#6F7587,(方案背景),#233348,2.79,4.5,#9499A7,4.5,#020202,4.52,前景可行,REGEXP.REDUNDANT_ESCAPE
+scheme.xml,dark/dark-blue.xml,(属性值),#B2CDE2,(自带背景),#007F5F,3.03,4.5,#EFF4F8,4.51,#1D5F4E,4.55,前景可行,TEXT_SEARCH_RESULT_ATTRIBUTES
+scheme.xml,dark/dark-blue.xml,(属性值),#CD4848,(方案背景),#233348,2.82,4.5,#DC7F7F,4.51,#040404,4.51,前景可行,UNMATCHED_BRACE_ATTRIBUTES
+scheme.xml,dark/dark-blue.xml,(属性值),#005452,(方案背景),#233348,1.46,3.0,#268885,3.02,,,前景可行,<colors>SELECTION_BACKGROUND
+scheme.xml,dark/dark-blue.xml,(属性值),#374357,(方案背景),#233348,1.28,3.0,#677C9F,3.03,,,前景可行,<colors>CARET_ROW_COLOR
+scheme.xml,dark/dark-blue.xml,(属性值),#CD4644,(方案背景),#233348,2.78,3.0,#D0504E,3.01,,,前景可行,<colors>DELETED_LINES_COLOR
+scheme.xml,dark/dark-coffee.xml,(属性值),#9876AA,(方案背景),#2C2122,4.09,4.5,#A182B1,4.71,#20191A,4.53,前景可行·ANSI混用(3/91),"BREADCRUMBS_CURRENT, BREADCRUMBS_DEFAULT, COFFEESCRIPT.FUNCTION_NAME, CONSOLE_BLUE_OUTPUT, CONSOLE_GREEN_OUTPUT"
+scheme.xml,dark/dark-coffee.xml,(属性值),#15845D,(自带背景),#282A36,3.05,4.5,#2BA479,4.54,#FBFBFB,4.52,前景可行,BREADCRUMBS_HOVERED
+scheme.xml,dark/dark-coffee.xml,(属性值),#21222C,(方案背景),#2C2122,1.01,4.5,#21222C,1.01,#A18285,4.55,ANSI·保持原值,CONSOLE_BLACK_OUTPUT
+scheme.xml,dark/dark-coffee.xml,(属性值),#6272A4,(方案背景),#2C2122,3.31,4.5,#7B89B3,4.5,#FAFAFA,4.51,前景可行·ANSI混用(1/9),"CONSOLE_DARKGRAY_OUTPUT, DEFAULT_LABEL, KOTLIN_LABEL, KOTLIN_NAMED_ARGUMENT, LOGCAT_DEBUG_OUTPUT"
+scheme.xml,dark/dark-coffee.xml,(属性值),#15845D,(方案背景),#2C2122,3.33,4.5,#2BA479,4.96,#FBFBFB,4.52,前景可行·ANSI混用(1/23),"CONSOLE_MAGENTA_OUTPUT, CSS.TAG_NAME, CUSTOM_KEYWORD1_ATTRIBUTES, DEFAULT_DOC_COMMENT_TAG, DEFAULT_DOC_MARKUP"
+scheme.xml,dark/dark-coffee.xml,(属性值),#9876AA,(自带背景),#242632,3.94,4.5,#9876AA,3.94,#1A1B21,4.5,ANSI·保持原值,CONSOLE_SELECTED_PARAMETER
+scheme.xml,dark/dark-coffee.xml,(属性值),#969696,(自带背景),#413334,4.06,4.5,#AEAEAE,5.42,#372D2E,4.5,前景可行,FOLDED_TEXT_ATTRIBUTES
+scheme.xml,dark/dark-coffee.xml,(属性值),#969696,(自带背景),#344359,3.39,4.5,#AEAEAE,4.52,#27303D,4.5,前景可行,INLINE_PARAMETER_HINT
+scheme.xml,dark/dark-coffee.xml,(属性值),#6F7587,(方案背景),#2C2122,3.39,4.5,#858A9A,4.53,#020202,4.52,前景可行,REGEXP.REDUNDANT_ESCAPE
+scheme.xml,dark/dark-coffee.xml,(属性值),#BFA5A2,(自带背景),#6E4552,3.46,4.5,#D1BFBD,4.51,#543841,4.52,前景可行,TEXT_SEARCH_RESULT_ATTRIBUTES
+scheme.xml,dark/dark-coffee.xml,(属性值),#CD4848,(方案背景),#2C2122,3.43,4.5,#D66969,4.51,#040404,4.51,前景可行,UNMATCHED_BRACE_ATTRIBUTES
+scheme.xml,dark/dark-coffee.xml,(属性值),#8D4532,(方案背景),#2C2122,2.25,4.5,#C6755F,4.53,#D9CECF,4.52,前景可行,"XML_TAG, XML_TAG_NAME"
+scheme.xml,dark/dark-coffee.xml,(属性值),#554849,(方案背景),#2C2122,1.79,3.0,#7B696A,3.02,,,前景可行,<colors>SELECTION_BACKGROUND
+scheme.xml,dark/dark-coffee.xml,(属性值),#413334,(方案背景),#2C2122,1.3,3.0,#826668,3.0,,,前景可行,<colors>CARET_ROW_COLOR
+scheme.xml,dark/dark-darcula.xml,(属性值),#A09A1D,(方案背景),#3C3F41,3.6,4.5,#B3AD2D,4.51,#2E3031,4.51,前景可行,Annotation
+scheme.xml,dark/dark-darcula.xml,(属性值),#C58564,(方案背景),#3C3F41,3.49,4.5,#D19E84,4.51,#2B2D2E,4.56,前景可行,"Anotation attribute name, CSS.URL, CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES, DEFAULT_ENTITY, DEFAULT_GLOBAL_VARIABLE"
+scheme.xml,dark/dark-darcula.xml,(属性值),#9876AA,(方案背景),#3C3F41,2.78,4.5,#B8A1C4,4.51,#1A1B1C,4.52,前景可行·ANSI混用(3/92),"BREADCRUMBS_CURRENT, BREADCRUMBS_DEFAULT, COFFEESCRIPT.FUNCTION_NAME, CONSOLE_BLUE_OUTPUT, CONSOLE_GREEN_OUTPUT"
+scheme.xml,dark/dark-darcula.xml,(属性值),#1D9A62,(自带背景),#282A36,3.97,4.5,#2FC07F,6.08,#1F2027,4.52,前景可行,BREADCRUMBS_HOVERED
+scheme.xml,dark/dark-darcula.xml,(属性值),#21222C,(方案背景),#3C3F41,1.49,4.5,#21222C,1.49,#848A8E,4.52,ANSI·保持原值,CONSOLE_BLACK_OUTPUT
+scheme.xml,dark/dark-darcula.xml,(属性值),#6272A4,(方案背景),#3C3F41,2.25,4.5,#9FA9C7,4.53,#FAFAFA,4.51,前景可行·ANSI混用(1/9),"CONSOLE_DARKGRAY_OUTPUT, DEFAULT_LABEL, KOTLIN_LABEL, KOTLIN_NAMED_ARGUMENT, LOGCAT_DEBUG_OUTPUT"
+scheme.xml,dark/dark-darcula.xml,(属性值),#FF5555,(方案背景),#3C3F41,3.38,4.5,#E59393,4.51,#292B2C,4.53,前景可行·ANSI混用(2/7),"CONSOLE_ERROR_OUTPUT, CONSOLE_RED_OUTPUT, DEFAULT_INVALID_STRING_ESCAPE, JUPYTER_INLINE_VALUES, LOGCAT_ERROR_OUTPUT"
+scheme.xml,dark/dark-darcula.xml,(属性值),#1D9A62,(方案背景),#3C3F41,2.96,4.5,#2FC07F,4.53,#1F2122,4.5,前景可行·ANSI混用(1/25),"CONSOLE_MAGENTA_OUTPUT, CSS.TAG_NAME, CUSTOM_KEYWORD1_ATTRIBUTES, DEFAULT_DOC_COMMENT_TAG, DEFAULT_DOC_MARKUP"
+scheme.xml,dark/dark-darcula.xml,(属性值),#FF6E6E,(方案背景),#3C3F41,3.89,4.5,#FF6E6E,3.89,#333537,4.52,ANSI·保持原值,CONSOLE_RED_BRIGHT_OUTPUT
+scheme.xml,dark/dark-darcula.xml,(属性值),#9876AA,(自带背景),#242632,3.94,4.5,#9876AA,3.94,#1A1B21,4.5,ANSI·保持原值,CONSOLE_SELECTED_PARAMETER
+scheme.xml,dark/dark-darcula.xml,(属性值),#00B9AF,(方案背景),#3C3F41,4.32,4.5,#2EBCB5,4.53,#3A3C3E,4.51,前景可行,DEFAULT_PARAMETER
+scheme.xml,dark/dark-darcula.xml,(属性值),#85A658,(方案背景),#3C3F41,3.84,4.5,#96B36F,4.53,#323435,4.52,前景可行,"DEFAULT_STATIC_FIELD, DEFAULT_STATIC_METHOD, Static method access, Static property reference ID, STATIC_FINAL_FIELD_ATTRIBUTES"
+scheme.xml,dark/dark-darcula.xml,(属性值),#6AAB73,(方案背景),#3C3F41,3.88,4.5,#7EB686,4.51,#333537,4.51,前景可行,"DEFAULT_STRING, GO_STRING, JS.VALID_STRING_ESCAPE, JSON.STRING, PY.STRING.B"
+scheme.xml,dark/dark-darcula.xml,(属性值),#969696,(自带背景),#4C5052,2.76,4.5,#C1C1C1,4.53,#2D2F30,4.55,前景可行,"FOLDED_TEXT_ATTRIBUTES, INLINE_PARAMETER_HINT"
+scheme.xml,dark/dark-darcula.xml,(属性值),#6F7587,(方案背景),#3C3F41,2.31,4.5,#A5A9B5,4.52,#020202,4.52,前景可行,REGEXP.REDUNDANT_ESCAPE
+scheme.xml,dark/dark-darcula.xml,(属性值),#B2CDE2,(自带背景),#6A618C,3.44,4.5,#DCE7EF,4.52,#575171,4.51,前景可行,TEXT_SEARCH_RESULT_ATTRIBUTES
+scheme.xml,dark/dark-darcula.xml,(属性值),#CD4848,(方案背景),#3C3F41,2.33,4.5,#E29595,4.53,#040404,4.51,前景可行,UNMATCHED_BRACE_ATTRIBUTES
+scheme.xml,dark/dark-darcula.xml,(属性值),#544E6B,(方案背景),#3C3F41,1.35,3.0,#8B84A5,3.0,,,前景可行,<colors>SELECTION_BACKGROUND
+scheme.xml,dark/dark-darcula.xml,(属性值),#4C5052,(方案背景),#3C3F41,1.3,3.0,#848A8D,3.03,,,前景可行,<colors>CARET_ROW_COLOR
+scheme.xml,dark/dark-darcula.xml,(属性值),#CD4644,(方案背景),#3C3F41,2.3,3.0,#D66664,3.0,,,前景可行,<colors>DELETED_LINES_COLOR
+scheme.xml,dark/dark-green.xml,(属性值),#9876AA,(方案背景),#002F38,3.76,4.5,#A486B4,4.54,#0C1E21,4.5,前景可行·ANSI混用(3/91),"BREADCRUMBS_CURRENT, BREADCRUMBS_DEFAULT, COFFEESCRIPT.FUNCTION_NAME, CONSOLE_BLUE_OUTPUT, CONSOLE_GREEN_OUTPUT"
+scheme.xml,dark/dark-green.xml,(属性值),#1D9A62,(自带背景),#282A36,3.97,4.5,#2BA46E,4.5,#1F2027,4.52,前景可行,BREADCRUMBS_HOVERED
+scheme.xml,dark/dark-green.xml,(属性值),#21222C,(方案背景),#002F38,1.1,4.5,#21222C,1.1,#2C96AB,4.56,ANSI·保持原值,CONSOLE_BLACK_OUTPUT
+scheme.xml,dark/dark-green.xml,(属性值),#6272A4,(方案背景),#002F38,3.05,4.5,#8490B7,4.55,#FAFAFA,4.51,前景可行·ANSI混用(1/9),"CONSOLE_DARKGRAY_OUTPUT, DEFAULT_LABEL, KOTLIN_LABEL, KOTLIN_NAMED_ARGUMENT, LOGCAT_DEBUG_OUTPUT"
+scheme.xml,dark/dark-green.xml,(属性值),#1D9A62,(方案背景),#002F38,4.0,4.5,#2BA46E,4.54,#0E2327,4.54,前景可行·ANSI混用(1/25),"CONSOLE_MAGENTA_OUTPUT, CSS.TAG_NAME, CUSTOM_KEYWORD1_ATTRIBUTES, DEFAULT_DOC_COMMENT_TAG, DEFAULT_DOC_MARKUP"
+scheme.xml,dark/dark-green.xml,(属性值),#9876AA,(自带背景),#242632,3.94,4.5,#9876AA,3.94,#1A1B21,4.5,ANSI·保持原值,CONSOLE_SELECTED_PARAMETER
+scheme.xml,dark/dark-green.xml,(属性值),#969696,(自带背景),#305862,2.63,4.5,#C5C5C5,4.51,#1F3237,4.52,前景可行,FOLDED_TEXT_ATTRIBUTES
+scheme.xml,dark/dark-green.xml,(属性值),#969696,(自带背景),#153F48,3.87,4.5,#C5C5C5,6.63,#163339,4.53,前景可行,INLINE_PARAMETER_HINT
+scheme.xml,dark/dark-green.xml,(属性值),#F8F8F2,(自带背景),#00898A,3.98,4.5,#0F0F09,4.53,#20696A,5.99,前景可行,MATCHED_BRACE_ATTRIBUTES
+scheme.xml,dark/dark-green.xml,(属性值),#6F7587,(方案背景),#002F38,3.12,4.5,#8B909F,4.5,#020202,4.52,前景可行,REGEXP.REDUNDANT_ESCAPE
+scheme.xml,dark/dark-green.xml,(属性值),#B2CDE2,(自带背景),#007F5F,3.03,4.5,#EFF4F8,4.51,#1D5F4E,4.55,前景可行,TEXT_SEARCH_RESULT_ATTRIBUTES
+scheme.xml,dark/dark-green.xml,(属性值),#CD4848,(方案背景),#002F38,3.15,4.5,#D97373,4.54,#040404,4.51,前景可行,UNMATCHED_BRACE_ATTRIBUTES
+scheme.xml,dark/dark-green.xml,(属性值),#305862,(方案背景),#002F38,1.84,3.0,#457B88,3.03,,,前景可行,<colors>SELECTION_BACKGROUND
+scheme.xml,dark/dark-green.xml,(属性值),#153F48,(方案背景),#002F38,1.25,3.0,#2E7D8E,3.03,,,前景可行,<colors>CARET_ROW_COLOR
+scheme.xml,dark/dark-violet.xml,(属性值),#9876AA,(方案背景),#2B2640,3.79,4.5,#A385B3,4.51,#1C1926,4.53,前景可行·ANSI混用(3/92),"BREADCRUMBS_CURRENT, BREADCRUMBS_DEFAULT, COFFEESCRIPT.FUNCTION_NAME, CONSOLE_BLUE_OUTPUT, CONSOLE_GREEN_OUTPUT"
+scheme.xml,dark/dark-violet.xml,(属性值),#1D9A62,(自带背景),#282A36,3.97,4.5,#2BA46E,4.5,#1F2027,4.52,前景可行,BREADCRUMBS_HOVERED
+scheme.xml,dark/dark-violet.xml,(属性值),#21222C,(方案背景),#2B2640,1.09,4.5,#21222C,1.09,#8D83B5,4.55,ANSI·保持原值,CONSOLE_BLACK_OUTPUT
+scheme.xml,dark/dark-violet.xml,(属性值),#6272A4,(方案背景),#2B2640,3.07,4.5,#828FB6,4.51,#FAFAFA,4.51,前景可行·ANSI混用(1/9),"CONSOLE_DARKGRAY_OUTPUT, DEFAULT_LABEL, KOTLIN_LABEL, KOTLIN_NAMED_ARGUMENT, LOGCAT_DEBUG_OUTPUT"
+scheme.xml,dark/dark-violet.xml,(属性值),#1D9A62,(方案背景),#2B2640,4.02,4.5,#2BA46E,4.57,#211E2E,4.54,前景可行·ANSI混用(1/25),"CONSOLE_MAGENTA_OUTPUT, CSS.TAG_NAME, CUSTOM_KEYWORD1_ATTRIBUTES, DEFAULT_DOC_COMMENT_TAG, DEFAULT_DOC_MARKUP"
+scheme.xml,dark/dark-violet.xml,(属性值),#9876AA,(自带背景),#242632,3.94,4.5,#9876AA,3.94,#1A1B21,4.5,ANSI·保持原值,CONSOLE_SELECTED_PARAMETER
+scheme.xml,dark/dark-violet.xml,(属性值),#969696,(自带背景),#433D5C,3.45,4.5,#ADADAD,4.54,#302C3F,4.56,前景可行,"FOLDED_TEXT_ATTRIBUTES, INLINE_PARAMETER_HINT"
+scheme.xml,dark/dark-violet.xml,(属性值),#6F7587,(方案背景),#2B2640,3.14,4.5,#8B909F,4.53,#020202,4.52,前景可行,REGEXP.REDUNDANT_ESCAPE
+scheme.xml,dark/dark-violet.xml,(属性值),#B2CDE2,(自带背景),#6A618C,3.44,4.5,#DCE7EF,4.52,#575171,4.51,前景可行,TEXT_SEARCH_RESULT_ATTRIBUTES
+scheme.xml,dark/dark-violet.xml,(属性值),#CD4848,(方案背景),#2B2640,3.17,4.5,#D87272,4.52,#040404,4.51,前景可行,UNMATCHED_BRACE_ATTRIBUTES
+scheme.xml,dark/dark-violet.xml,(属性值),#544E6B,(方案背景),#2B2640,1.84,3.0,#756D95,3.01,,,前景可行,<colors>SELECTION_BACKGROUND
+scheme.xml,dark/dark-violet.xml,(属性值),#433D5C,(方案背景),#2B2640,1.42,3.0,#756C9D,3.02,,,前景可行,<colors>CARET_ROW_COLOR
+scheme.xml,dark/dark.xml,(属性值),#9876AA,(方案背景),#282A36,3.73,4.5,#A486B4,4.51,#1A1B21,4.5,前景可行·ANSI混用(3/92),"BREADCRUMBS_CURRENT, BREADCRUMBS_DEFAULT, COFFEESCRIPT.FUNCTION_NAME, CONSOLE_BLUE_OUTPUT, CONSOLE_GREEN_OUTPUT"
+scheme.xml,dark/dark.xml,(属性值),#1D9A62,(自带背景),#282A36,3.97,4.5,#2BA46E,4.5,#1F2027,4.52,前景可行,BREADCRUMBS_HOVERED
+scheme.xml,dark/dark.xml,(属性值),#21222C,(方案背景),#282A36,1.11,4.5,#21222C,1.11,#8388A3,4.52,ANSI·保持原值,CONSOLE_BLACK_OUTPUT
+scheme.xml,dark/dark.xml,(属性值),#6272A4,(方案背景),#282A36,3.03,4.5,#8490B7,4.51,#FAFAFA,4.51,前景可行·ANSI混用(1/9),"CONSOLE_DARKGRAY_OUTPUT, DEFAULT_LABEL, KOTLIN_LABEL, KOTLIN_NAMED_ARGUMENT, LOGCAT_DEBUG_OUTPUT"
+scheme.xml,dark/dark.xml,(属性值),#1D9A62,(方案背景),#282A36,3.97,4.5,#2BA46E,4.5,#1F2027,4.52,前景可行·ANSI混用(1/25),"CONSOLE_MAGENTA_OUTPUT, CSS.TAG_NAME, CUSTOM_KEYWORD1_ATTRIBUTES, DEFAULT_DOC_COMMENT_TAG, DEFAULT_DOC_MARKUP"
+scheme.xml,dark/dark.xml,(属性值),#9876AA,(自带背景),#242632,3.94,4.5,#9876AA,3.94,#1A1B21,4.5,ANSI·保持原值,CONSOLE_SELECTED_PARAMETER
+scheme.xml,dark/dark.xml,(属性值),#969696,(自带背景),#3B3D49,3.64,4.5,#A8A8A8,4.53,#2D2F36,4.52,前景可行,"FOLDED_TEXT_ATTRIBUTES, INLINE_PARAMETER_HINT"
+scheme.xml,dark/dark.xml,(属性值),#6F7587,(方案背景),#282A36,3.1,4.5,#8C91A0,4.52,#020202,4.52,前景可行,REGEXP.REDUNDANT_ESCAPE
+scheme.xml,dark/dark.xml,(属性值),#B2CDE2,(自带背景),#6A618C,3.44,4.5,#DCE7EF,4.52,#575171,4.51,前景可行,TEXT_SEARCH_RESULT_ATTRIBUTES
+scheme.xml,dark/dark.xml,(属性值),#CD4848,(方案背景),#282A36,3.13,4.5,#D97373,4.51,#040404,4.51,前景可行,UNMATCHED_BRACE_ATTRIBUTES
+scheme.xml,dark/dark.xml,(属性值),#544E6B,(方案背景),#282A36,1.82,3.0,#766E95,3.01,,,前景可行,<colors>SELECTION_BACKGROUND
+scheme.xml,dark/dark.xml,(属性值),#3B3D49,(方案背景),#282A36,1.32,3.0,#6E7288,3.0,,,前景可行,<colors>CARET_ROW_COLOR
