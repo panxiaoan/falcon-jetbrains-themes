@@ -1,14 +1,10 @@
 # Falcon Relaxing-Eyes Islands Themes for JetBrains IDE
 
-<p align="center">
-   <img src="./logo.png" alt="Logo" width="128"/>
-</p>
-
 > A gentle, eye-friendly theme to protect your eyesight for
 > [JetBrains IDE](hhttps://plugins.jetbrains.com/plugin/26026) <br/>
 > 一个温和的，对眼睛友好，保护视力的 JetBrains IDE 主题
 
-<img src="./assets/home.png" alt="Relax Green Light"/>
+<img src="./assets/cover.png" alt="Falcon Relaxing-Eyes Islands Themes Cover"/>
 
 If you're working in a bright environment for extended periods, a light-colored theme is usually better.<br/>
 You might want to try The Falcon Relaxing-Eyes themes.<br/>
